@@ -56,13 +56,6 @@ jobs:
         with:
           path: docs
 
-      - name: Deploy to GitHub Pages
-        if: github.ref == 'refs/heads/main'
-        needs: []
-        uses: actions/deploy-pages@v4
-        with:
-          artifact_name: github-pages
-
       - name: Commit and push data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -70,3 +63,15 @@ jobs:
           git add data/ docs/
           git diff --cached --quiet || git commit -m "📊 Update trending report $(date +%Y-%m-%d)"
           git push
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
