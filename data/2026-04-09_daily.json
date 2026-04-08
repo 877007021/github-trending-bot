@@ -1,0 +1,112 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "total_stars": 8944,
+    "delta_stars": 686,
+    "delta_text": "686 stars today",
+    "forks": 618,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "language": "Python",
+    "total_stars": 4557,
+    "delta_stars": 645,
+    "delta_text": "645 stars today",
+    "forks": 705,
+    "url": "https://github.com/TheCraigHewitt/seomachine"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 19484,
+    "delta_stars": 853,
+    "delta_text": "853 stars today",
+    "forks": 1820,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "NVIDIA/personaplex",
+    "description": "PersonaPlex code.",
+    "language": "Python",
+    "total_stars": 8395,
+    "delta_stars": 589,
+    "delta_text": "589 stars today",
+    "forks": 1204,
+    "url": "https://github.com/NVIDIA/personaplex"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 2972,
+    "delta_stars": 500,
+    "delta_text": "500 stars today",
+    "forks": 278,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "name": "elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just✨ one command ✨",
+    "language": "Python",
+    "total_stars": 10464,
+    "delta_stars": 572,
+    "delta_text": "572 stars today",
+    "forks": 2575,
+    "url": "https://github.com/elebumm/RedditVideoMakerBot"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 141452,
+    "delta_stars": 2170,
+    "delta_text": "2,170 stars today",
+    "forks": 12068,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "newton-physics/newton",
+    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+    "language": "Python",
+    "total_stars": 4079,
+    "delta_stars": 67,
+    "delta_text": "67 stars today",
+    "forks": 422,
+    "url": "https://github.com/newton-physics/newton"
+  },
+  {
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "total_stars": 25273,
+    "delta_stars": 981,
+    "delta_text": "981 stars today",
+    "forks": 2812,
+    "url": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "total_stars": 50661,
+    "delta_stars": 123,
+    "delta_text": "123 stars today",
+    "forks": 8787,
+    "url": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "name": "goharbor/harbor",
+    "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "language": "Go",
+    "total_stars": 28104,
+    "delta_stars": 23,
+    "delta_text": "23 stars today",
+    "forks": 5173,
+    "url": "https://github.com/goharbor/harbor"
+  }
+]

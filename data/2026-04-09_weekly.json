@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "language": "TypeScript",
+    "total_stars": 19062,
+    "delta_stars": 14101,
+    "delta_text": "14,101 stars this week",
+    "forks": 1760,
+    "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 26116,
+    "delta_stars": 15921,
+    "delta_text": "15,921 stars this week",
+    "forks": 1748,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 19485,
+    "delta_stars": 2934,
+    "delta_text": "2,934 stars this week",
+    "forks": 1820,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 15671,
+    "delta_stars": 4137,
+    "delta_text": "4,137 stars this week",
+    "forks": 1401,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 2972,
+    "delta_stars": 1336,
+    "delta_text": "1,336 stars this week",
+    "forks": 278,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "total_stars": 23244,
+    "delta_stars": 10745,
+    "delta_text": "10,745 stars this week",
+    "forks": 2798,
+    "url": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 37266,
+    "delta_stars": 10487,
+    "delta_text": "10,487 stars this week",
+    "forks": 4747,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "language": "Python",
+    "total_stars": 26048,
+    "delta_stars": 5449,
+    "delta_text": "5,449 stars this week",
+    "forks": 3472,
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "language": "TypeScript",
+    "total_stars": 26299,
+    "delta_stars": 7543,
+    "delta_text": "7,543 stars this week",
+    "forks": 2422,
+    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+  },
+  {
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "total_stars": 80571,
+    "delta_stars": 5167,
+    "delta_text": "5,167 stars this week",
+    "forks": 9343,
+    "url": "https://github.com/sherlock-project/sherlock"
+  }
+]

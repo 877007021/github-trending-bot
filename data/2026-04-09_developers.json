@@ -1,0 +1,177 @@
+[
+  {
+    "username": "LalitMaganti",
+    "display_name": "Lalit Maganti",
+    "popular_repo": "syntaqlite",
+    "url": "https://github.com/LalitMaganti",
+    "repo_url": "https://github.com/LalitMaganti/syntaqlite"
+  },
+  {
+    "username": "sonichi",
+    "display_name": "Chi Wang",
+    "popular_repo": "sutando",
+    "url": "https://github.com/sonichi",
+    "repo_url": "https://github.com/sonichi/sutando"
+  },
+  {
+    "username": "njbrake",
+    "display_name": "Nathan Brake",
+    "popular_repo": "agent-of-empires",
+    "url": "https://github.com/njbrake",
+    "repo_url": "https://github.com/njbrake/agent-of-empires"
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "jrouwe",
+    "display_name": "Jorrit Rouwe",
+    "popular_repo": "JoltPhysics",
+    "url": "https://github.com/jrouwe",
+    "repo_url": "https://github.com/jrouwe/JoltPhysics"
+  },
+  {
+    "username": "ericcurtin",
+    "display_name": "Eric Curtin",
+    "popular_repo": "inferrs",
+    "url": "https://github.com/ericcurtin",
+    "repo_url": "https://github.com/ericcurtin/inferrs"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "inbox-zero",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/inbox-zero"
+  },
+  {
+    "username": "jamiepine",
+    "display_name": "Jamie Pine",
+    "popular_repo": "voicebox",
+    "url": "https://github.com/jamiepine",
+    "repo_url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "username": "gtsteffaniak",
+    "display_name": "Graham Steffaniak",
+    "popular_repo": "filebrowser",
+    "url": "https://github.com/gtsteffaniak",
+    "repo_url": "https://github.com/gtsteffaniak/filebrowser"
+  },
+  {
+    "username": "homanp",
+    "display_name": "Ismail Pelaseyed",
+    "popular_repo": "infinite-monitor",
+    "url": "https://github.com/homanp",
+    "repo_url": "https://github.com/homanp/infinite-monitor"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "dalathegreat",
+    "display_name": "Daniel Öster",
+    "popular_repo": "Battery-Emulator",
+    "url": "https://github.com/dalathegreat",
+    "repo_url": "https://github.com/dalathegreat/Battery-Emulator"
+  },
+  {
+    "username": "christian-byrne",
+    "display_name": "Christian Byrne",
+    "popular_repo": "audio-separation-nodes-comfyui",
+    "url": "https://github.com/christian-byrne",
+    "repo_url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui"
+  },
+  {
+    "username": "syssi",
+    "display_name": "Sebastian Muszynski",
+    "popular_repo": "esphome-jk-bms",
+    "url": "https://github.com/syssi",
+    "repo_url": "https://github.com/syssi/esphome-jk-bms"
+  },
+  {
+    "username": "rasbt",
+    "display_name": "Sebastian Raschka",
+    "popular_repo": "LLMs-from-scratch",
+    "url": "https://github.com/rasbt",
+    "repo_url": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "username": "bradfitz",
+    "display_name": "Brad Fitzpatrick",
+    "popular_repo": "flakestress",
+    "url": "https://github.com/bradfitz",
+    "repo_url": "https://github.com/bradfitz/flakestress"
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "SteveSandersonMS",
+    "display_name": "Steve Sanderson",
+    "popular_repo": "DotNetIsolator",
+    "url": "https://github.com/SteveSandersonMS",
+    "repo_url": "https://github.com/SteveSandersonMS/DotNetIsolator"
+  },
+  {
+    "username": "tangly1024",
+    "display_name": "tangly1024",
+    "popular_repo": "NotionNext",
+    "url": "https://github.com/tangly1024",
+    "repo_url": "https://github.com/tangly1024/NotionNext"
+  },
+  {
+    "username": "karpathy",
+    "display_name": "Andrej",
+    "popular_repo": "autoresearch",
+    "url": "https://github.com/karpathy",
+    "repo_url": "https://github.com/karpathy/autoresearch"
+  },
+  {
+    "username": "DevonFulcher",
+    "display_name": "Devon Fulcher",
+    "popular_repo": "",
+    "url": "https://github.com/DevonFulcher",
+    "repo_url": ""
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "ruflo",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "username": "squidfunk",
+    "display_name": "Martin Donath",
+    "popular_repo": "mkdocs-material",
+    "url": "https://github.com/squidfunk",
+    "repo_url": "https://github.com/squidfunk/mkdocs-material"
+  },
+  {
+    "username": "charliermarsh",
+    "display_name": "Charlie Marsh",
+    "popular_repo": "whisper.cpp-cli",
+    "url": "https://github.com/charliermarsh",
+    "repo_url": "https://github.com/charliermarsh/whisper.cpp-cli"
+  },
+  {
+    "username": "tobi",
+    "display_name": "Tobias Lütke",
+    "popular_repo": "qmd",
+    "url": "https://github.com/tobi",
+    "repo_url": "https://github.com/tobi/qmd"
+  }
+]
