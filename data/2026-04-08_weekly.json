@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "language": "TypeScript",
+    "total_stars": 18504,
+    "delta_stars": 14101,
+    "delta_text": "14,101 stars this week",
+    "forks": 1729,
+    "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 25380,
+    "delta_stars": 15921,
+    "delta_text": "15,921 stars this week",
+    "forks": 1686,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 15484,
+    "delta_stars": 4137,
+    "delta_text": "4,137 stars this week",
+    "forks": 1371,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "total_stars": 22619,
+    "delta_stars": 10745,
+    "delta_text": "10,745 stars this week",
+    "forks": 2709,
+    "url": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 19003,
+    "delta_stars": 2934,
+    "delta_text": "2,934 stars this week",
+    "forks": 1771,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "language": "TypeScript",
+    "total_stars": 25888,
+    "delta_stars": 7543,
+    "delta_text": "7,543 stars this week",
+    "forks": 2378,
+    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 33531,
+    "delta_stars": 10487,
+    "delta_text": "10,487 stars this week",
+    "forks": 4295,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "total_stars": 37395,
+    "delta_stars": 5025,
+    "delta_text": "5,025 stars this week",
+    "forks": 4303,
+    "url": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "language": "Python",
+    "total_stars": 25895,
+    "delta_stars": 5449,
+    "delta_text": "5,449 stars this week",
+    "forks": 3452,
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+    "language": "",
+    "total_stars": 37875,
+    "delta_stars": 2543,
+    "delta_text": "2,543 stars this week",
+    "forks": 6237,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "total_stars": 80386,
+    "delta_stars": 5167,
+    "delta_text": "5,167 stars this week",
+    "forks": 9331,
+    "url": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 2688,
+    "delta_stars": 1336,
+    "delta_text": "1,336 stars this week",
+    "forks": 254,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "name": "nvim-treesitter/nvim-treesitter",
+    "description": "Nvim Treesitter configurations and abstraction layer",
+    "language": "Tree-sitter Query",
+    "total_stars": 13603,
+    "delta_stars": 159,
+    "delta_text": "159 stars this week",
+    "forks": 1236,
+    "url": "https://github.com/nvim-treesitter/nvim-treesitter"
+  },
+  {
+    "name": "antinomyhq/forgecode",
+    "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+    "language": "Rust",
+    "total_stars": 6231,
+    "delta_stars": 794,
+    "delta_text": "794 stars this week",
+    "forks": 1309,
+    "url": "https://github.com/antinomyhq/forgecode"
+  },
+  {
+    "name": "telegramdesktop/tdesktop",
+    "description": "Telegram Desktop messaging app",
+    "language": "C++",
+    "total_stars": 31284,
+    "delta_stars": 906,
+    "delta_text": "906 stars this week",
+    "forks": 6561,
+    "url": "https://github.com/telegramdesktop/tdesktop"
+  }
+]
