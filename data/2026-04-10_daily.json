@@ -1,0 +1,102 @@
+[
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 44109,
+    "delta_stars": 6788,
+    "delta_text": "6,788 stars today",
+    "forks": 5661,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 10388,
+    "delta_stars": 1371,
+    "delta_text": "1,371 stars today",
+    "forks": 696,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 14791,
+    "delta_stars": 1300,
+    "delta_text": "1,300 stars today",
+    "forks": 1983,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "total_stars": 7611,
+    "delta_stars": 460,
+    "delta_text": "460 stars today",
+    "forks": 907,
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "language": "Java",
+    "total_stars": 13729,
+    "delta_stars": 1118,
+    "delta_text": "1,118 stars today",
+    "forks": 1149,
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 143674,
+    "delta_stars": 2318,
+    "delta_text": "2,318 stars today",
+    "forks": 12276,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "language": "Python",
+    "total_stars": 5177,
+    "delta_stars": 725,
+    "delta_text": "725 stars today",
+    "forks": 755,
+    "url": "https://github.com/TheCraigHewitt/seomachine"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 14384,
+    "delta_stars": 138,
+    "delta_text": "138 stars today",
+    "forks": 2460,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 12155,
+    "delta_stars": 223,
+    "delta_text": "223 stars today",
+    "forks": 2505,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "YishenTu/claudian",
+    "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+    "language": "TypeScript",
+    "total_stars": 6788,
+    "delta_stars": 174,
+    "delta_text": "174 stars today",
+    "forks": 400,
+    "url": "https://github.com/YishenTu/claudian"
+  }
+]

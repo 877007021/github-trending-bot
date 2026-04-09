@@ -1,0 +1,112 @@
+[
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 19916,
+    "delta_stars": 3796,
+    "delta_text": "3,796 stars this week",
+    "forks": 1861,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "language": "TypeScript",
+    "total_stars": 19908,
+    "delta_stars": 11503,
+    "delta_text": "11,503 stars this week",
+    "forks": 1809,
+    "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 26904,
+    "delta_stars": 13938,
+    "delta_text": "13,938 stars this week",
+    "forks": 1794,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 44110,
+    "delta_stars": 14811,
+    "delta_text": "14,811 stars this week",
+    "forks": 5661,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 3185,
+    "delta_stars": 1844,
+    "delta_text": "1,844 stars this week",
+    "forks": 301,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 14791,
+    "delta_stars": 2256,
+    "delta_text": "2,256 stars this week",
+    "forks": 1983,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "language": "Python",
+    "total_stars": 26212,
+    "delta_stars": 5673,
+    "delta_text": "5,673 stars this week",
+    "forks": 3492,
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 15973,
+    "delta_stars": 3963,
+    "delta_text": "3,963 stars this week",
+    "forks": 1443,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "NVIDIA/personaplex",
+    "description": "PersonaPlex code.",
+    "language": "Python",
+    "total_stars": 8737,
+    "delta_stars": 2382,
+    "delta_text": "2,382 stars this week",
+    "forks": 1236,
+    "url": "https://github.com/NVIDIA/personaplex"
+  },
+  {
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "total_stars": 23980,
+    "delta_stars": 8317,
+    "delta_text": "8,317 stars this week",
+    "forks": 2878,
+    "url": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 10388,
+    "delta_stars": 1387,
+    "delta_text": "1,387 stars this week",
+    "forks": 696,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  }
+]

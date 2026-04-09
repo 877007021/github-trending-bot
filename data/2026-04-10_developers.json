@@ -1,0 +1,177 @@
+[
+  {
+    "username": "bradfitz",
+    "display_name": "Brad Fitzpatrick",
+    "popular_repo": "flakestress",
+    "url": "https://github.com/bradfitz",
+    "repo_url": "https://github.com/bradfitz/flakestress"
+  },
+  {
+    "username": "ericcurtin",
+    "display_name": "Eric Curtin",
+    "popular_repo": "inferrs",
+    "url": "https://github.com/ericcurtin",
+    "repo_url": "https://github.com/ericcurtin/inferrs"
+  },
+  {
+    "username": "nesquena",
+    "display_name": "Nathan Esquenazi",
+    "popular_repo": "hermes-webui",
+    "url": "https://github.com/nesquena",
+    "repo_url": "https://github.com/nesquena/hermes-webui"
+  },
+  {
+    "username": "njbrake",
+    "display_name": "Nathan Brake",
+    "popular_repo": "agent-of-empires",
+    "url": "https://github.com/njbrake",
+    "repo_url": "https://github.com/njbrake/agent-of-empires"
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "Youssef1313",
+    "display_name": "Youssef Victor",
+    "popular_repo": "",
+    "url": "https://github.com/Youssef1313",
+    "repo_url": ""
+  },
+  {
+    "username": "zircote",
+    "display_name": "Robert Allen",
+    "popular_repo": "lsp-marketplace",
+    "url": "https://github.com/zircote",
+    "repo_url": "https://github.com/zircote/lsp-marketplace"
+  },
+  {
+    "username": "charlesBochet",
+    "display_name": "Charles Bochet",
+    "popular_repo": "",
+    "url": "https://github.com/charlesBochet",
+    "repo_url": ""
+  },
+  {
+    "username": "karlseguin",
+    "display_name": "Karl Seguin",
+    "popular_repo": "http.zig",
+    "url": "https://github.com/karlseguin",
+    "repo_url": "https://github.com/karlseguin/http.zig"
+  },
+  {
+    "username": "christian-byrne",
+    "display_name": "Christian Byrne",
+    "popular_repo": "audio-separation-nodes-comfyui",
+    "url": "https://github.com/christian-byrne",
+    "repo_url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui"
+  },
+  {
+    "username": "gnodet",
+    "display_name": "Guillaume Nodet",
+    "popular_repo": "epubs",
+    "url": "https://github.com/gnodet",
+    "repo_url": "https://github.com/gnodet/epubs"
+  },
+  {
+    "username": "LalitMaganti",
+    "display_name": "Lalit Maganti",
+    "popular_repo": "syntaqlite",
+    "url": "https://github.com/LalitMaganti",
+    "repo_url": "https://github.com/LalitMaganti/syntaqlite"
+  },
+  {
+    "username": "mrgrain",
+    "display_name": "Momo Kornher",
+    "popular_repo": "",
+    "url": "https://github.com/mrgrain",
+    "repo_url": ""
+  },
+  {
+    "username": "comfyanonymous",
+    "display_name": "comfyanonymous",
+    "popular_repo": "ComfyUI_examples",
+    "url": "https://github.com/comfyanonymous",
+    "repo_url": "https://github.com/comfyanonymous/ComfyUI_examples"
+  },
+  {
+    "username": "meowgorithm",
+    "display_name": "Christian Rocha",
+    "popular_repo": "",
+    "url": "https://github.com/meowgorithm",
+    "repo_url": ""
+  },
+  {
+    "username": "vincelwt",
+    "display_name": "Vincelwt",
+    "popular_repo": "gloomberb",
+    "url": "https://github.com/vincelwt",
+    "repo_url": "https://github.com/vincelwt/gloomberb"
+  },
+  {
+    "username": "karpathy",
+    "display_name": "Andrej",
+    "popular_repo": "autoresearch",
+    "url": "https://github.com/karpathy",
+    "repo_url": "https://github.com/karpathy/autoresearch"
+  },
+  {
+    "username": "JamieMagee",
+    "display_name": "Jamie Magee",
+    "popular_repo": "highway",
+    "url": "https://github.com/JamieMagee",
+    "repo_url": "https://github.com/JamieMagee/highway"
+  },
+  {
+    "username": "RajaSunrise",
+    "display_name": "Indra Aryadi",
+    "popular_repo": "belajar-go-std",
+    "url": "https://github.com/RajaSunrise",
+    "repo_url": "https://github.com/RajaSunrise/belajar-go-std"
+  },
+  {
+    "username": "hathach",
+    "display_name": "Ha Thach",
+    "popular_repo": "tinyusb",
+    "url": "https://github.com/hathach",
+    "repo_url": "https://github.com/hathach/tinyusb"
+  },
+  {
+    "username": "tusharmath",
+    "display_name": "Tushar Mathur",
+    "popular_repo": "",
+    "url": "https://github.com/tusharmath",
+    "repo_url": ""
+  },
+  {
+    "username": "anakin87",
+    "display_name": "Stefano Fiorucci",
+    "popular_repo": "llm-rl-environments-lil-course",
+    "url": "https://github.com/anakin87",
+    "repo_url": "https://github.com/anakin87/llm-rl-environments-lil-course"
+  },
+  {
+    "username": "jjallaire",
+    "display_name": "jjallaire",
+    "popular_repo": "",
+    "url": "https://github.com/jjallaire",
+    "repo_url": ""
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "allenhutchison",
+    "display_name": "Allen Hutchison",
+    "popular_repo": "obsidian-gemini",
+    "url": "https://github.com/allenhutchison",
+    "repo_url": "https://github.com/allenhutchison/obsidian-gemini"
+  }
+]
