@@ -1,0 +1,122 @@
+[
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 20201,
+    "delta_stars": 4326,
+    "delta_text": "4,326 stars this week",
+    "forks": 1884,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 15941,
+    "delta_stars": 3233,
+    "delta_text": "3,233 stars this week",
+    "forks": 2097,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 51765,
+    "delta_stars": 19765,
+    "delta_text": "19,765 stars this week",
+    "forks": 6717,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 3320,
+    "delta_stars": 2157,
+    "delta_text": "2,157 stars this week",
+    "forks": 311,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 6020,
+    "delta_stars": 3201,
+    "delta_text": "3,201 stars this week",
+    "forks": 735,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 27582,
+    "delta_stars": 12278,
+    "delta_text": "12,278 stars this week",
+    "forks": 1849,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 11689,
+    "delta_stars": 2230,
+    "delta_text": "2,230 stars this week",
+    "forks": 770,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "language": "TypeScript",
+    "total_stars": 20577,
+    "delta_stars": 9737,
+    "delta_text": "9,737 stars this week",
+    "forks": 1836,
+    "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
+    "name": "NVIDIA/personaplex",
+    "description": "PersonaPlex code.",
+    "language": "Python",
+    "total_stars": 8914,
+    "delta_stars": 2745,
+    "delta_text": "2,745 stars this week",
+    "forks": 1258,
+    "url": "https://github.com/NVIDIA/personaplex"
+  },
+  {
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "language": "Python",
+    "total_stars": 26413,
+    "delta_stars": 5556,
+    "delta_text": "5,556 stars this week",
+    "forks": 3511,
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 16262,
+    "delta_stars": 3095,
+    "delta_text": "3,095 stars this week",
+    "forks": 1498,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "total_stars": 24681,
+    "delta_stars": 7342,
+    "delta_text": "7,342 stars this week",
+    "forks": 2952,
+    "url": "https://github.com/luongnv89/claude-howto"
+  }
+]

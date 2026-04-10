@@ -1,0 +1,122 @@
+[
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 99589,
+    "delta_stars": 2353,
+    "delta_text": "2,353 stars today",
+    "forks": 6099,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 15566,
+    "delta_stars": 756,
+    "delta_text": "756 stars today",
+    "forks": 2543,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 51763,
+    "delta_stars": 7674,
+    "delta_text": "7,674 stars today",
+    "forks": 6716,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory",
+    "language": "TypeScript",
+    "total_stars": 11710,
+    "delta_stars": 498,
+    "delta_text": "498 stars today",
+    "forks": 1092,
+    "url": "https://github.com/rowboatlabs/rowboat"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 6020,
+    "delta_stars": 1544,
+    "delta_text": "1,544 stars today",
+    "forks": 735,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 11689,
+    "delta_stars": 1454,
+    "delta_text": "1,454 stars today",
+    "forks": 770,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 12699,
+    "delta_stars": 602,
+    "delta_text": "602 stars today",
+    "forks": 2549,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 15941,
+    "delta_stars": 1426,
+    "delta_text": "1,426 stars today",
+    "forks": 2097,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "language": "Java",
+    "total_stars": 14764,
+    "delta_stars": 1309,
+    "delta_text": "1,309 stars today",
+    "forks": 1247,
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 145693,
+    "delta_stars": 2150,
+    "delta_text": "2,150 stars today",
+    "forks": 12492,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "jqlang/jq",
+    "description": "Command-line JSON processor",
+    "language": "C",
+    "total_stars": 34278,
+    "delta_stars": 141,
+    "delta_text": "141 stars today",
+    "forks": 1760,
+    "url": "https://github.com/jqlang/jq"
+  },
+  {
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "practice made claude perfect",
+    "language": "HTML",
+    "total_stars": 35704,
+    "delta_stars": 1248,
+    "delta_text": "1,248 stars today",
+    "forks": 3369,
+    "url": "https://github.com/shanraisshan/claude-code-best-practice"
+  }
+]

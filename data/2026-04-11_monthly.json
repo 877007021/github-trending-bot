@@ -1,0 +1,182 @@
+[
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 51765,
+    "delta_stars": 39332,
+    "delta_text": "39,332 stars this month",
+    "forks": 6717,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "language": "TypeScript",
+    "total_stars": 20577,
+    "delta_stars": 18112,
+    "delta_text": "18,112 stars this month",
+    "forks": 1836,
+    "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "My personal directory of skills, straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 13837,
+    "delta_stars": 12380,
+    "delta_text": "12,380 stars this month",
+    "forks": 1139,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "Automate the process of making money online.",
+    "language": "Python",
+    "total_stars": 29093,
+    "delta_stars": 14209,
+    "delta_text": "14,209 stars this month",
+    "forks": 3140,
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "language": "Python",
+    "total_stars": 60232,
+    "delta_stars": 33722,
+    "delta_text": "33,722 stars this month",
+    "forks": 7662,
+    "url": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "language": "Python",
+    "total_stars": 53203,
+    "delta_stars": 44278,
+    "delta_text": "44,278 stars this month",
+    "forks": 7966,
+    "url": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 27582,
+    "delta_stars": 19016,
+    "delta_text": "19,016 stars this month",
+    "forks": 1849,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 150041,
+    "delta_stars": 80680,
+    "delta_text": "80,680 stars this month",
+    "forks": 23219,
+    "url": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "jarrodwatts/claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+    "language": "JavaScript",
+    "total_stars": 18213,
+    "delta_stars": 13776,
+    "delta_text": "13,776 stars this month",
+    "forks": 792,
+    "url": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "name": "lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation",
+    "language": "Zig",
+    "total_stars": 28269,
+    "delta_stars": 16038,
+    "delta_text": "16,038 stars this month",
+    "forks": 1189,
+    "url": "https://github.com/lightpanda-io/browser"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 20413,
+    "delta_stars": 16184,
+    "delta_text": "16,184 stars this month",
+    "forks": 1669,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+    "language": "TypeScript",
+    "total_stars": 51339,
+    "delta_stars": 26755,
+    "delta_text": "26,755 stars this month",
+    "forks": 8373,
+    "url": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 49288,
+    "delta_stars": 17495,
+    "delta_text": "17,495 stars this month",
+    "forks": 8922,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 145693,
+    "delta_stars": 69396,
+    "delta_text": "69,396 stars this month",
+    "forks": 12492,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "total_stars": 77788,
+    "delta_stars": 61564,
+    "delta_text": "61,564 stars this month",
+    "forks": 12319,
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 20201,
+    "delta_stars": 4561,
+    "delta_text": "4,561 stars this month",
+    "forks": 1884,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "langchain-ai/open-swe",
+    "description": "An Open-Source Asynchronous Coding Agent",
+    "language": "Python",
+    "total_stars": 9416,
+    "delta_stars": 4137,
+    "delta_text": "4,137 stars this month",
+    "forks": 1062,
+    "url": "https://github.com/langchain-ai/open-swe"
+  },
+  {
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "language": "Python",
+    "total_stars": 26413,
+    "delta_stars": 8528,
+    "delta_text": "8,528 stars this month",
+    "forks": 3511,
+    "url": "https://github.com/onyx-dot-app/onyx"
+  }
+]
