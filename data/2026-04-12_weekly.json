@@ -1,0 +1,122 @@
+[
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 16726,
+    "delta_stars": 4698,
+    "delta_text": "4,698 stars this week",
+    "forks": 2199,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 58691,
+    "delta_stars": 26783,
+    "delta_text": "26,783 stars this week",
+    "forks": 7776,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 20429,
+    "delta_stars": 4409,
+    "delta_text": "4,409 stars this week",
+    "forks": 1918,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 7850,
+    "delta_stars": 3512,
+    "delta_text": "3,512 stars this week",
+    "forks": 1003,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 13509,
+    "delta_stars": 3741,
+    "delta_text": "3,741 stars this week",
+    "forks": 919,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 3420,
+    "delta_stars": 2210,
+    "delta_text": "2,210 stars this week",
+    "forks": 323,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "name": "NVIDIA/personaplex",
+    "description": "PersonaPlex code.",
+    "language": "Python",
+    "total_stars": 9013,
+    "delta_stars": 2939,
+    "delta_text": "2,939 stars this week",
+    "forks": 1269,
+    "url": "https://github.com/NVIDIA/personaplex"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 102088,
+    "delta_stars": 5214,
+    "delta_text": "5,214 stars this week",
+    "forks": 6305,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 28118,
+    "delta_stars": 10077,
+    "delta_text": "10,077 stars this week",
+    "forks": 1895,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "language": "Python",
+    "total_stars": 5679,
+    "delta_stars": 2526,
+    "delta_text": "2,526 stars this week",
+    "forks": 803,
+    "url": "https://github.com/TheCraigHewitt/seomachine"
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "language": "TypeScript",
+    "total_stars": 21076,
+    "delta_stars": 7276,
+    "delta_text": "7,276 stars this week",
+    "forks": 1872,
+    "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
+    "name": "aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "total_stars": 41200,
+    "delta_stars": 6428,
+    "delta_text": "6,428 stars this week",
+    "forks": 4099,
+    "url": "https://github.com/aaif-goose/goose"
+  }
+]
