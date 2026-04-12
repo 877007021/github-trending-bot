@@ -1,0 +1,172 @@
+[
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 66067,
+    "delta_stars": 52020,
+    "delta_text": "52,020 stars this month",
+    "forks": 8838,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "My personal directory of skills, straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 14373,
+    "delta_stars": 13058,
+    "delta_text": "13,058 stars this month",
+    "forks": 1181,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "Automate the process of making money online.",
+    "language": "Python",
+    "total_stars": 29293,
+    "delta_stars": 14394,
+    "delta_text": "14,394 stars this month",
+    "forks": 3159,
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "language": "Python",
+    "total_stars": 60783,
+    "delta_stars": 31738,
+    "delta_text": "31,738 stars this month",
+    "forks": 7768,
+    "url": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 28764,
+    "delta_stars": 20242,
+    "delta_text": "20,242 stars this month",
+    "forks": 1947,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "jarrodwatts/claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+    "language": "JavaScript",
+    "total_stars": 18593,
+    "delta_stars": 14133,
+    "delta_text": "14,133 stars this month",
+    "forks": 818,
+    "url": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 152640,
+    "delta_stars": 80675,
+    "delta_text": "80,675 stars this month",
+    "forks": 23674,
+    "url": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "language": "Python",
+    "total_stars": 54161,
+    "delta_stars": 37910,
+    "delta_text": "37,910 stars this month",
+    "forks": 8153,
+    "url": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 21038,
+    "delta_stars": 16729,
+    "delta_text": "16,729 stars this month",
+    "forks": 1712,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 49878,
+    "delta_stars": 17986,
+    "delta_text": "17,986 stars this month",
+    "forks": 9021,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 148393,
+    "delta_stars": 70276,
+    "delta_text": "70,276 stars this month",
+    "forks": 12792,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 20663,
+    "delta_stars": 5115,
+    "delta_text": "5,115 stars this month",
+    "forks": 1952,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+    "language": "TypeScript",
+    "total_stars": 52195,
+    "delta_stars": 26934,
+    "delta_text": "26,934 stars this month",
+    "forks": 8530,
+    "url": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "language": "TypeScript",
+    "total_stars": 28026,
+    "delta_stars": 18548,
+    "delta_text": "18,548 stars this month",
+    "forks": 2598,
+    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+  },
+  {
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "language": "Python",
+    "total_stars": 26757,
+    "delta_stars": 8840,
+    "delta_text": "8,840 stars this month",
+    "forks": 3557,
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "total_stars": 39039,
+    "delta_stars": 15215,
+    "delta_text": "15,215 stars this month",
+    "forks": 4514,
+    "url": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 3539,
+    "delta_stars": 2492,
+    "delta_text": "2,492 stars this month",
+    "forks": 336,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  }
+]

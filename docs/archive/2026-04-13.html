@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub 热点速报 - 2026-04-13</title>
+    <meta name="description" content="GitHub Trending 每日热门榜单 - 2026 年 04 月 13 日">
+    <style>
+        :root {
+            --bg: #0d1117;
+            --card: #161b22;
+            --border: #30363d;
+            --text: #e6edf3;
+            --text-secondary: #8b949e;
+            --accent: #58a6ff;
+            --accent2: #f78166;
+            --green: #3fb950;
+            --red: #f85149;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+
+        /* Header */
+        .header {
+            text-align: center;
+            padding: 40px 20px;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 2.5em;
+            background: linear-gradient(135deg, var(--accent), var(--accent2));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 8px;
+        }
+        .header .subtitle { color: var(--text-secondary); font-size: 1.1em; }
+        .header .date { color: var(--text-secondary); margin-top: 12px; font-size: 0.95em; }
+        .header .nav-links { margin-top: 16px; }
+        .header .nav-links a {
+            color: var(--accent);
+            text-decoration: none;
+            margin: 0 12px;
+            font-size: 0.9em;
+        }
+        .header .nav-links a:hover { text-decoration: underline; }
+
+        /* Sections */
+        .section {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 24px;
+        }
+        .section h2 {
+            font-size: 1.4em;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid var(--border);
+        }
+        .empty { color: var(--text-secondary); text-align: center; padding: 20px; }
+
+        /* Tables */
+        .table-wrapper { overflow-x: auto; }
+        table { width: 100%; border-collapse: collapse; font-size: 0.9em; }
+        th {
+            text-align: left;
+            padding: 10px 12px;
+            color: var(--text-secondary);
+            font-weight: 600;
+            font-size: 0.85em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 2px solid var(--border);
+            white-space: nowrap;
+        }
+        td { padding: 10px 12px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+        tr.even { background: rgba(255,255,255,0.02); }
+        tr:hover { background: rgba(88,166,255,0.06); }
+        .rank { width: 40px; text-align: center; color: var(--text-secondary); font-weight: 600; }
+        .repo a { color: var(--accent); text-decoration: none; font-weight: 500; }
+        .repo a:hover { text-decoration: underline; }
+        .desc { color: var(--text-secondary); max-width: 350px; }
+        .lang-cell { white-space: nowrap; }
+        .lang-dot {
+            display: inline-block;
+            width: 10px; height: 10px;
+            border-radius: 50%;
+            margin-right: 6px;
+            vertical-align: middle;
+        }
+        .lang { color: var(--text-secondary); font-size: 0.85em; }
+        .stars { text-align: right; white-space: nowrap; }
+        .delta { text-align: right; color: var(--green); font-weight: 600; white-space: nowrap; }
+
+        /* Dev table */
+        .dev { white-space: nowrap; }
+        .dev .avatar {
+            width: 28px; height: 28px;
+            border-radius: 50%;
+            margin-right: 8px;
+            vertical-align: middle;
+        }
+        .dev a { color: var(--accent); text-decoration: none; font-weight: 500; }
+        .dev a:hover { text-decoration: underline; }
+        .dev .username { color: var(--text-secondary); font-size: 0.85em; margin-left: 6px; }
+        .dev-repo a { color: var(--text); text-decoration: none; }
+        .dev-repo a:hover { color: var(--accent); }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: var(--text-secondary);
+            font-size: 0.85em;
+            border-top: 1px solid var(--border);
+            margin-top: 30px;
+        }
+        .footer a { color: var(--accent); text-decoration: none; }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header h1 { font-size: 1.8em; }
+            .section { padding: 16px; }
+            table { font-size: 0.8em; }
+            .desc { max-width: 200px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔥 GitHub 热点速报</h1>
+            <div class="subtitle">Trending Repositories & Developers</div>
+            <div class="date">2026 年 04 月 13 日</div>
+            <div class="nav-links">
+                <a href="../index.html">📋 首页</a>
+                <a href="https://github.com/trending" target="_blank" rel="noopener">🔗 GitHub Trending</a>
+            </div>
+        </div>
+
+        
+    <div class="section">
+        <h2>📊 今日热门榜 (Daily Trending)</h2>
+        <div class="table-wrapper">
+            <table>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>项目</th>
+                        <th>描述</th>
+                        <th>语言</th>
+                        <th>⭐ 总数</th>
+                        <th>📈 增长</th>
+                    </tr>
+                </thead>
+                <tbody>
+        <tr class="even">
+            <td class="rank">1</td>
+            <td class="repo">
+                <a href="https://github.com/NousResearch/hermes-agent" target="_blank" rel="noopener">NousResearch/hermes-agent</a>
+            </td>
+            <td class="desc">The agent that grows with you</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 6.6w</td>
+            <td class="delta">+7.5k</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">2</td>
+            <td class="repo">
+                <a href="https://github.com/shiyu-coder/Kronos" target="_blank" rel="noopener">shiyu-coder/Kronos</a>
+            </td>
+            <td class="desc">Kronos: A Foundation Model for the Language of Financial Markets</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 1.6w</td>
+            <td class="delta">+2.0k</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">3</td>
+            <td class="repo">
+                <a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank" rel="noopener">forrestchang/andrej-karpathy-skills</a>
+            </td>
+            <td class="desc">A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...</td>
+            <td class="lang-cell"><span class="lang">-</span></td>
+            <td class="stars">⭐ 1.7w</td>
+            <td class="delta">+2.4k</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">4</td>
+            <td class="repo">
+                <a href="https://github.com/microsoft/markitdown" target="_blank" rel="noopener">microsoft/markitdown</a>
+            </td>
+            <td class="desc">Python tool for converting files and office documents to Markdown.</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 10.5w</td>
+            <td class="delta">+2.5k</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">5</td>
+            <td class="repo">
+                <a href="https://github.com/multica-ai/multica" target="_blank" rel="noopener">multica-ai/multica</a>
+            </td>
+            <td class="desc">The open-source managed agents platform. Turn coding agents into real teammates ...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3178c6"></span><span class="lang">TypeScript</span></td>
+            <td class="stars">⭐ 9.3k</td>
+            <td class="delta">+1.6k</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">6</td>
+            <td class="repo">
+                <a href="https://github.com/coleam00/Archon" target="_blank" rel="noopener">coleam00/Archon</a>
+            </td>
+            <td class="desc">The first open-source harness builder for AI coding. Make AI coding deterministi...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3178c6"></span><span class="lang">TypeScript</span></td>
+            <td class="stars">⭐ 1.7w</td>
+            <td class="delta">+612</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">7</td>
+            <td class="repo">
+                <a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank" rel="noopener">shanraisshan/claude-code-best-practice</a>
+            </td>
+            <td class="desc">practice made claude perfect</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#e34c26"></span><span class="lang">HTML</span></td>
+            <td class="stars">⭐ 3.9w</td>
+            <td class="delta">+1.5k</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">8</td>
+            <td class="repo">
+                <a href="https://github.com/OpenBMB/VoxCPM" target="_blank" rel="noopener">OpenBMB/VoxCPM</a>
+            </td>
+            <td class="desc">VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 1.1w</td>
+            <td class="delta">+1.3k</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">9</td>
+            <td class="repo">
+                <a href="https://github.com/thedotmack/claude-mem" target="_blank" rel="noopener">thedotmack/claude-mem</a>
+            </td>
+            <td class="desc">A Claude Code plugin that automatically captures everything Claude does during y...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3178c6"></span><span class="lang">TypeScript</span></td>
+            <td class="stars">⭐ 5.0w</td>
+            <td class="delta">+814</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">10</td>
+            <td class="repo">
+                <a href="https://github.com/ahujasid/blender-mcp" target="_blank" rel="noopener">ahujasid/blender-mcp</a>
+            </td>
+            <td class="desc"></td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 1.9w</td>
+            <td class="delta">+228</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">11</td>
+            <td class="repo">
+                <a href="https://github.com/rustfs/rustfs" target="_blank" rel="noopener">rustfs/rustfs</a>
+            </td>
+            <td class="desc">🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-co...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#dea584"></span><span class="lang">Rust</span></td>
+            <td class="stars">⭐ 2.5w</td>
+            <td class="delta">+253</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">12</td>
+            <td class="repo">
+                <a href="https://github.com/virattt/ai-hedge-fund" target="_blank" rel="noopener">virattt/ai-hedge-fund</a>
+            </td>
+            <td class="desc">An AI Hedge Fund Team</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 5.2w</td>
+            <td class="delta">+696</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">13</td>
+            <td class="repo">
+                <a href="https://github.com/snarktank/ralph" target="_blank" rel="noopener">snarktank/ralph</a>
+            </td>
+            <td class="desc">Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3178c6"></span><span class="lang">TypeScript</span></td>
+            <td class="stars">⭐ 1.6w</td>
+            <td class="delta">+519</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">14</td>
+            <td class="repo">
+                <a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank" rel="noopener">TapXWorld/ChinaTextbook</a>
+            </td>
+            <td class="desc">所有小初高、大学PDF教材。</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#8b8b8b"></span><span class="lang">Roff</span></td>
+            <td class="stars">⭐ 6.8w</td>
+            <td class="delta">+450</td>
+        </tr></tbody>
+            </table>
+        </div>
+    </div>
+        
+    <div class="section">
+        <h2>🚀 本周升星榜 (Weekly Rising Stars)</h2>
+        <div class="table-wrapper">
+            <table>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>项目</th>
+                        <th>描述</th>
+                        <th>语言</th>
+                        <th>⭐ 总数</th>
+                        <th>📈 增长</th>
+                    </tr>
+                </thead>
+                <tbody>
+        <tr class="even">
+            <td class="rank">1</td>
+            <td class="repo">
+                <a href="https://github.com/NousResearch/hermes-agent" target="_blank" rel="noopener">NousResearch/hermes-agent</a>
+            </td>
+            <td class="desc">The agent that grows with you</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 6.6w</td>
+            <td class="delta">+3.3w</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">2</td>
+            <td class="repo">
+                <a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank" rel="noopener">forrestchang/andrej-karpathy-skills</a>
+            </td>
+            <td class="desc">A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...</td>
+            <td class="lang-cell"><span class="lang">-</span></td>
+            <td class="stars">⭐ 1.7w</td>
+            <td class="delta">+5.0k</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">3</td>
+            <td class="repo">
+                <a href="https://github.com/HKUDS/DeepTutor" target="_blank" rel="noopener">HKUDS/DeepTutor</a>
+            </td>
+            <td class="desc">"DeepTutor: Agent-Native Personalized Learning Assistant"</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 1.7w</td>
+            <td class="delta">+5.6k</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">4</td>
+            <td class="repo">
+                <a href="https://github.com/multica-ai/multica" target="_blank" rel="noopener">multica-ai/multica</a>
+            </td>
+            <td class="desc">The open-source managed agents platform. Turn coding agents into real teammates ...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3178c6"></span><span class="lang">TypeScript</span></td>
+            <td class="stars">⭐ 9.3k</td>
+            <td class="delta">+5.4k</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">5</td>
+            <td class="repo">
+                <a href="https://github.com/google-ai-edge/gallery" target="_blank" rel="noopener">google-ai-edge/gallery</a>
+            </td>
+            <td class="desc">A gallery that showcases on-device ML/GenAI use cases and allows people to try a...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#A97BFF"></span><span class="lang">Kotlin</span></td>
+            <td class="stars">⭐ 2.1w</td>
+            <td class="delta">+4.4k</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">6</td>
+            <td class="repo">
+                <a href="https://github.com/coleam00/Archon" target="_blank" rel="noopener">coleam00/Archon</a>
+            </td>
+            <td class="desc">The first open-source harness builder for AI coding. Make AI coding deterministi...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3178c6"></span><span class="lang">TypeScript</span></td>
+            <td class="stars">⭐ 1.7w</td>
+            <td class="delta">+2.4k</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">7</td>
+            <td class="repo">
+                <a href="https://github.com/microsoft/markitdown" target="_blank" rel="noopener">microsoft/markitdown</a>
+            </td>
+            <td class="desc">Python tool for converting files and office documents to Markdown.</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 10.5w</td>
+            <td class="delta">+8.2k</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">8</td>
+            <td class="repo">
+                <a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank" rel="noopener">google-ai-edge/LiteRT-LM</a>
+            </td>
+            <td class="desc"></td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#f34b7d"></span><span class="lang">C++</span></td>
+            <td class="stars">⭐ 3.5k</td>
+            <td class="delta">+2.2k</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">9</td>
+            <td class="repo">
+                <a href="https://github.com/NVIDIA/personaplex" target="_blank" rel="noopener">NVIDIA/personaplex</a>
+            </td>
+            <td class="desc">PersonaPlex code.</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 9.1k</td>
+            <td class="delta">+2.9k</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">10</td>
+            <td class="repo">
+                <a href="https://github.com/TheCraigHewitt/seomachine" target="_blank" rel="noopener">TheCraigHewitt/seomachine</a>
+            </td>
+            <td class="desc">A specialized Claude Code workspace for creating long-form, SEO-optimized blog c...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 5.8k</td>
+            <td class="delta">+2.7k</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">11</td>
+            <td class="repo">
+                <a href="https://github.com/nvim-treesitter/nvim-treesitter" target="_blank" rel="noopener">nvim-treesitter/nvim-treesitter</a>
+            </td>
+            <td class="desc">Nvim Treesitter configurations and abstraction layer</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#8b8b8b"></span><span class="lang">Tree-sitter Query</span></td>
+            <td class="stars">⭐ 1.4w</td>
+            <td class="delta">+154</td>
+        </tr></tbody>
+            </table>
+        </div>
+    </div>
+        
+    <div class="section">
+        <h2>👑 本月升星榜 (Monthly Rising Stars)</h2>
+        <div class="table-wrapper">
+            <table>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>项目</th>
+                        <th>描述</th>
+                        <th>语言</th>
+                        <th>⭐ 总数</th>
+                        <th>📈 增长</th>
+                    </tr>
+                </thead>
+                <tbody>
+        <tr class="even">
+            <td class="rank">1</td>
+            <td class="repo">
+                <a href="https://github.com/NousResearch/hermes-agent" target="_blank" rel="noopener">NousResearch/hermes-agent</a>
+            </td>
+            <td class="desc">The agent that grows with you</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 6.6w</td>
+            <td class="delta">+5.2w</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">2</td>
+            <td class="repo">
+                <a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener">mattpocock/skills</a>
+            </td>
+            <td class="desc">My personal directory of skills, straight from my .claude directory.</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#89e051"></span><span class="lang">Shell</span></td>
+            <td class="stars">⭐ 1.4w</td>
+            <td class="delta">+1.3w</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">3</td>
+            <td class="repo">
+                <a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank" rel="noopener">FujiwaraChoki/MoneyPrinterV2</a>
+            </td>
+            <td class="desc">Automate the process of making money online.</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 2.9w</td>
+            <td class="delta">+1.4w</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">4</td>
+            <td class="repo">
+                <a href="https://github.com/bytedance/deer-flow" target="_blank" rel="noopener">bytedance/deer-flow</a>
+            </td>
+            <td class="desc">An open-source long-horizon SuperAgent harness that researches, codes, and creat...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 6.1w</td>
+            <td class="delta">+3.2w</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">5</td>
+            <td class="repo">
+                <a href="https://github.com/siddharthvaddem/openscreen" target="_blank" rel="noopener">siddharthvaddem/openscreen</a>
+            </td>
+            <td class="desc">Create stunning demos for free. Open-source, no subscriptions, no watermarks, an...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3178c6"></span><span class="lang">TypeScript</span></td>
+            <td class="stars">⭐ 2.9w</td>
+            <td class="delta">+2.0w</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">6</td>
+            <td class="repo">
+                <a href="https://github.com/jarrodwatts/claude-hud" target="_blank" rel="noopener">jarrodwatts/claude-hud</a>
+            </td>
+            <td class="desc">A Claude Code plugin that shows what's happening - context usage, active tools, ...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#f1e05a"></span><span class="lang">JavaScript</span></td>
+            <td class="stars">⭐ 1.9w</td>
+            <td class="delta">+1.4w</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">7</td>
+            <td class="repo">
+                <a href="https://github.com/affaan-m/everything-claude-code" target="_blank" rel="noopener">affaan-m/everything-claude-code</a>
+            </td>
+            <td class="desc">The agent harness performance optimization system. Skills, instincts, memory, se...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#f1e05a"></span><span class="lang">JavaScript</span></td>
+            <td class="stars">⭐ 15.3w</td>
+            <td class="delta">+8.1w</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">8</td>
+            <td class="repo">
+                <a href="https://github.com/666ghj/MiroFish" target="_blank" rel="noopener">666ghj/MiroFish</a>
+            </td>
+            <td class="desc">A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 5.4w</td>
+            <td class="delta">+3.8w</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">9</td>
+            <td class="repo">
+                <a href="https://github.com/mvanhorn/last30days-skill" target="_blank" rel="noopener">mvanhorn/last30days-skill</a>
+            </td>
+            <td class="desc">AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 2.1w</td>
+            <td class="delta">+1.7w</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">10</td>
+            <td class="repo">
+                <a href="https://github.com/TauricResearch/TradingAgents" target="_blank" rel="noopener">TauricResearch/TradingAgents</a>
+            </td>
+            <td class="desc">TradingAgents: Multi-Agents LLM Financial Trading Framework</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 5.0w</td>
+            <td class="delta">+1.8w</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">11</td>
+            <td class="repo">
+                <a href="https://github.com/obra/superpowers" target="_blank" rel="noopener">obra/superpowers</a>
+            </td>
+            <td class="desc">An agentic skills framework &amp; software development methodology that works.</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#89e051"></span><span class="lang">Shell</span></td>
+            <td class="stars">⭐ 14.8w</td>
+            <td class="delta">+7.0w</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">12</td>
+            <td class="repo">
+                <a href="https://github.com/google-ai-edge/gallery" target="_blank" rel="noopener">google-ai-edge/gallery</a>
+            </td>
+            <td class="desc">A gallery that showcases on-device ML/GenAI use cases and allows people to try a...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#A97BFF"></span><span class="lang">Kotlin</span></td>
+            <td class="stars">⭐ 2.1w</td>
+            <td class="delta">+5.1k</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">13</td>
+            <td class="repo">
+                <a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank" rel="noopener">shareAI-lab/learn-claude-code</a>
+            </td>
+            <td class="desc">Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3178c6"></span><span class="lang">TypeScript</span></td>
+            <td class="stars">⭐ 5.2w</td>
+            <td class="delta">+2.7w</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">14</td>
+            <td class="repo">
+                <a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank" rel="noopener">Yeachan-Heo/oh-my-claudecode</a>
+            </td>
+            <td class="desc">Teams-first Multi-agent orchestration for Claude Code</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3178c6"></span><span class="lang">TypeScript</span></td>
+            <td class="stars">⭐ 2.8w</td>
+            <td class="delta">+1.9w</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">15</td>
+            <td class="repo">
+                <a href="https://github.com/onyx-dot-app/onyx" target="_blank" rel="noopener">onyx-dot-app/onyx</a>
+            </td>
+            <td class="desc">Open Source AI Platform - AI Chat with advanced features that works with every L...</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 2.7w</td>
+            <td class="delta">+8.8k</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">16</td>
+            <td class="repo">
+                <a href="https://github.com/microsoft/VibeVoice" target="_blank" rel="noopener">microsoft/VibeVoice</a>
+            </td>
+            <td class="desc">Open-Source Frontier Voice AI</td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#3572A5"></span><span class="lang">Python</span></td>
+            <td class="stars">⭐ 3.9w</td>
+            <td class="delta">+1.5w</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">17</td>
+            <td class="repo">
+                <a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank" rel="noopener">google-ai-edge/LiteRT-LM</a>
+            </td>
+            <td class="desc"></td>
+            <td class="lang-cell"><span class="lang-dot" style="background:#f34b7d"></span><span class="lang">C++</span></td>
+            <td class="stars">⭐ 3.5k</td>
+            <td class="delta">+2.5k</td>
+        </tr></tbody>
+            </table>
+        </div>
+    </div>
+        
+    <div class="section">
+        <h2>👨‍💻 热门开发者 (Trending Developers)</h2>
+        <div class="table-wrapper">
+            <table class="dev-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>开发者</th>
+                        <th>热门仓库</th>
+                    </tr>
+                </thead>
+                <tbody>
+        <tr class="even">
+            <td class="rank">1</td>
+            <td class="dev">
+                <img src="https://github.com/christian-byrne.png?size=32" alt="christian-byrne" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/christian-byrne" target="_blank" rel="noopener">Christian Byrne</a>
+                <span class="username">@christian-byrne</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/christian-byrne/audio-separation-nodes-comfyui" target="_blank" rel="noopener">audio-separation-nodes-comfyui</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">2</td>
+            <td class="dev">
+                <img src="https://github.com/qixing-jk.png?size=32" alt="qixing-jk" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/qixing-jk" target="_blank" rel="noopener">qixing-jk</a>
+                <span class="username">@qixing-jk</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/qixing-jk/all-api-hub" target="_blank" rel="noopener">all-api-hub</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">3</td>
+            <td class="dev">
+                <img src="https://github.com/mvanhorn.png?size=32" alt="mvanhorn" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/mvanhorn" target="_blank" rel="noopener">Matt Van Horn</a>
+                <span class="username">@mvanhorn</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/mvanhorn/last30days-skill" target="_blank" rel="noopener">last30days-skill</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">4</td>
+            <td class="dev">
+                <img src="https://github.com/koala73.png?size=32" alt="koala73" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/koala73" target="_blank" rel="noopener">Elie Habib</a>
+                <span class="username">@koala73</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/koala73/worldmonitor" target="_blank" rel="noopener">worldmonitor</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">5</td>
+            <td class="dev">
+                <img src="https://github.com/felixrieseberg.png?size=32" alt="felixrieseberg" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/felixrieseberg" target="_blank" rel="noopener">Felix Rieseberg</a>
+                <span class="username">@felixrieseberg</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/felixrieseberg/windows95" target="_blank" rel="noopener">windows95</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">6</td>
+            <td class="dev">
+                <img src="https://github.com/hrydgard.png?size=32" alt="hrydgard" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/hrydgard" target="_blank" rel="noopener">Henrik Rydgård</a>
+                <span class="username">@hrydgard</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/hrydgard/ppsspp" target="_blank" rel="noopener">ppsspp</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">7</td>
+            <td class="dev">
+                <img src="https://github.com/Beingpax.png?size=32" alt="Beingpax" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/Beingpax" target="_blank" rel="noopener">Prakash Joshi Pax</a>
+                <span class="username">@Beingpax</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/Beingpax/VoiceInk" target="_blank" rel="noopener">VoiceInk</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">8</td>
+            <td class="dev">
+                <img src="https://github.com/allenhutchison.png?size=32" alt="allenhutchison" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/allenhutchison" target="_blank" rel="noopener">Allen Hutchison</a>
+                <span class="username">@allenhutchison</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/allenhutchison/obsidian-gemini" target="_blank" rel="noopener">obsidian-gemini</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">9</td>
+            <td class="dev">
+                <img src="https://github.com/isair.png?size=32" alt="isair" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/isair" target="_blank" rel="noopener">Baris Sencan</a>
+                <span class="username">@isair</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/isair/jarvis" target="_blank" rel="noopener">jarvis</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">10</td>
+            <td class="dev">
+                <img src="https://github.com/chenhg5.png?size=32" alt="chenhg5" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/chenhg5" target="_blank" rel="noopener">cg33</a>
+                <span class="username">@chenhg5</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/chenhg5/cc-connect" target="_blank" rel="noopener">cc-connect</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">11</td>
+            <td class="dev">
+                <img src="https://github.com/alirezarezvani.png?size=32" alt="alirezarezvani" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/alirezarezvani" target="_blank" rel="noopener">Alireza Rezvani</a>
+                <span class="username">@alirezarezvani</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/alirezarezvani/claude-skills" target="_blank" rel="noopener">claude-skills</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">12</td>
+            <td class="dev">
+                <img src="https://github.com/comfyanonymous.png?size=32" alt="comfyanonymous" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/comfyanonymous" target="_blank" rel="noopener">comfyanonymous</a>
+                <span class="username">@comfyanonymous</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/comfyanonymous/ComfyUI_examples" target="_blank" rel="noopener">ComfyUI_examples</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">13</td>
+            <td class="dev">
+                <img src="https://github.com/ericcurtin.png?size=32" alt="ericcurtin" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/ericcurtin" target="_blank" rel="noopener">Eric Curtin</a>
+                <span class="username">@ericcurtin</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/ericcurtin/inferrs" target="_blank" rel="noopener">inferrs</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">14</td>
+            <td class="dev">
+                <img src="https://github.com/mitchellh.png?size=32" alt="mitchellh" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/mitchellh" target="_blank" rel="noopener">Mitchell Hashimoto</a>
+                <span class="username">@mitchellh</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/mitchellh/go-libghostty" target="_blank" rel="noopener">go-libghostty</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">15</td>
+            <td class="dev">
+                <img src="https://github.com/ranaroussi.png?size=32" alt="ranaroussi" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/ranaroussi" target="_blank" rel="noopener">Ran Aroussi</a>
+                <span class="username">@ranaroussi</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/ranaroussi/yfinance" target="_blank" rel="noopener">yfinance</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">16</td>
+            <td class="dev">
+                <img src="https://github.com/opcode81.png?size=32" alt="opcode81" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/opcode81" target="_blank" rel="noopener">Dr. Dominik Jain</a>
+                <span class="username">@opcode81</span>
+            </td>
+            <td class="dev-repo">-</td>
+        </tr>
+        <tr class="even">
+            <td class="rank">17</td>
+            <td class="dev">
+                <img src="https://github.com/hathach.png?size=32" alt="hathach" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/hathach" target="_blank" rel="noopener">Ha Thach</a>
+                <span class="username">@hathach</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/hathach/tinyusb" target="_blank" rel="noopener">tinyusb</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">18</td>
+            <td class="dev">
+                <img src="https://github.com/penso.png?size=32" alt="penso" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/penso" target="_blank" rel="noopener">Fabien Penso</a>
+                <span class="username">@penso</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/penso/arbor" target="_blank" rel="noopener">arbor</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">19</td>
+            <td class="dev">
+                <img src="https://github.com/joeyorlando.png?size=32" alt="joeyorlando" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/joeyorlando" target="_blank" rel="noopener">Joey Orlando</a>
+                <span class="username">@joeyorlando</span>
+            </td>
+            <td class="dev-repo">-</td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">20</td>
+            <td class="dev">
+                <img src="https://github.com/benvinegar.png?size=32" alt="benvinegar" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/benvinegar" target="_blank" rel="noopener">Ben Vinegar</a>
+                <span class="username">@benvinegar</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/benvinegar/slop-scan" target="_blank" rel="noopener">slop-scan</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">21</td>
+            <td class="dev">
+                <img src="https://github.com/floooh.png?size=32" alt="floooh" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/floooh" target="_blank" rel="noopener">Andre Weissflog</a>
+                <span class="username">@floooh</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/floooh/sokol" target="_blank" rel="noopener">sokol</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">22</td>
+            <td class="dev">
+                <img src="https://github.com/ayangweb.png?size=32" alt="ayangweb" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/ayangweb" target="_blank" rel="noopener">ayangweb</a>
+                <span class="username">@ayangweb</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/ayangweb/BongoCat" target="_blank" rel="noopener">BongoCat</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">23</td>
+            <td class="dev">
+                <img src="https://github.com/ManlyMarco.png?size=32" alt="ManlyMarco" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/ManlyMarco" target="_blank" rel="noopener">ManlyMarco</a>
+                <span class="username">@ManlyMarco</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/ManlyMarco/KK-HF_Patch" target="_blank" rel="noopener">KK-HF_Patch</a></td>
+        </tr>
+        <tr class="odd">
+            <td class="rank">24</td>
+            <td class="dev">
+                <img src="https://github.com/formulahendry.png?size=32" alt="formulahendry" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/formulahendry" target="_blank" rel="noopener">Jun Han</a>
+                <span class="username">@formulahendry</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/formulahendry/wechat-acp" target="_blank" rel="noopener">wechat-acp</a></td>
+        </tr>
+        <tr class="even">
+            <td class="rank">25</td>
+            <td class="dev">
+                <img src="https://github.com/mostlygeek.png?size=32" alt="mostlygeek" class="avatar" loading="lazy" onerror="this.style.display='none'">
+                <a href="https://github.com/mostlygeek" target="_blank" rel="noopener">Benson Wong</a>
+                <span class="username">@mostlygeek</span>
+            </td>
+            <td class="dev-repo"><a href="https://github.com/mostlygeek/llama-swap" target="_blank" rel="noopener">llama-swap</a></td>
+        </tr></tbody>
+            </table>
+        </div>
+    </div>
+
+        <div class="footer">
+            <p>数据来源：<a href="https://github.com/trending" target="_blank" rel="noopener">GitHub Trending</a> | 自动生成于 2026-04-13 07:44</p>
+            <p style="margin-top: 8px;">由 GitHub Actions 每日自动更新 ⚡</p>
+        </div>
+    </div>
+</body>
+</html>
