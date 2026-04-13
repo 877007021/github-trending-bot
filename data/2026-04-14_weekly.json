@@ -1,0 +1,102 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 24824,
+    "delta_stars": 7319,
+    "delta_text": "7,319 stars this week",
+    "forks": 2015,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 76781,
+    "delta_stars": 38426,
+    "delta_text": "38,426 stars this week",
+    "forks": 10262,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 11070,
+    "delta_stars": 6846,
+    "delta_text": "6,846 stars this week",
+    "forks": 1381,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 17724,
+    "delta_stars": 5873,
+    "delta_text": "5,873 stars this week",
+    "forks": 2329,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 17597,
+    "delta_stars": 2962,
+    "delta_text": "2,962 stars this week",
+    "forks": 2773,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 106875,
+    "delta_stars": 10592,
+    "delta_text": "10,592 stars this week",
+    "forks": 6726,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 20899,
+    "delta_stars": 4148,
+    "delta_text": "4,148 stars this week",
+    "forks": 1976,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 3662,
+    "delta_stars": 2164,
+    "delta_text": "2,164 stars this week",
+    "forks": 351,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "name": "NVIDIA/personaplex",
+    "description": "PersonaPlex code.",
+    "language": "Python",
+    "total_stars": 9206,
+    "delta_stars": 2331,
+    "delta_text": "2,331 stars this week",
+    "forks": 1294,
+    "url": "https://github.com/NVIDIA/personaplex"
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "language": "Python",
+    "total_stars": 5987,
+    "delta_stars": 2815,
+    "delta_text": "2,815 stars this week",
+    "forks": 837,
+    "url": "https://github.com/TheCraigHewitt/seomachine"
+  }
+]
