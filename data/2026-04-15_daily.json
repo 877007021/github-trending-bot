@@ -1,0 +1,132 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 33427,
+    "delta_stars": 9230,
+    "delta_text": "9,230 stars today",
+    "forks": 2744,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 55689,
+    "delta_stars": 2979,
+    "delta_text": "2,979 stars today",
+    "forks": 4471,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source voice synthesis studio",
+    "language": "TypeScript",
+    "total_stars": 17296,
+    "delta_stars": 1165,
+    "delta_text": "1,165 stars today",
+    "forks": 2023,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "language": "TypeScript",
+    "total_stars": 11587,
+    "delta_stars": 769,
+    "delta_text": "769 stars today",
+    "forks": 1471,
+    "url": "https://github.com/pascalorg/editor"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 108395,
+    "delta_stars": 1672,
+    "delta_text": "1,672 stars today",
+    "forks": 6863,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 152214,
+    "delta_stars": 1928,
+    "delta_text": "1,928 stars today",
+    "forks": 13200,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "total_stars": 66342,
+    "delta_stars": 559,
+    "delta_text": "559 stars today",
+    "forks": 7579,
+    "url": "https://github.com/chrislgarry/Apollo-11"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "total_stars": 54099,
+    "delta_stars": 1007,
+    "delta_text": "1,007 stars today",
+    "forks": 9378,
+    "url": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 17777,
+    "delta_stars": 965,
+    "delta_text": "965 stars today",
+    "forks": 3305,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 84128,
+    "delta_stars": 8282,
+    "delta_text": "8,282 stars today",
+    "forks": 11344,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "total_stars": 40221,
+    "delta_stars": 922,
+    "delta_text": "922 stars today",
+    "forks": 4445,
+    "url": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "name": "tw93/Mole",
+    "description": "🐹 Deep clean and optimize your Mac.",
+    "language": "Shell",
+    "total_stars": 47099,
+    "delta_stars": 269,
+    "delta_text": "269 stars today",
+    "forks": 1429,
+    "url": "https://github.com/tw93/Mole"
+  },
+  {
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "language": "HTML",
+    "total_stars": 43698,
+    "delta_stars": 2569,
+    "delta_text": "2,569 stars today",
+    "forks": 4180,
+    "url": "https://github.com/shanraisshan/claude-code-best-practice"
+  }
+]

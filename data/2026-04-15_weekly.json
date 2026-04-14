@@ -1,0 +1,132 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 33427,
+    "delta_stars": 14317,
+    "delta_text": "14,317 stars this week",
+    "forks": 2744,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 84128,
+    "delta_stars": 48286,
+    "delta_text": "48,286 stars this week",
+    "forks": 11344,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 12433,
+    "delta_stars": 8580,
+    "delta_text": "8,580 stars this week",
+    "forks": 1528,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 17953,
+    "delta_stars": 3647,
+    "delta_text": "3,647 stars this week",
+    "forks": 2822,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 18127,
+    "delta_stars": 6210,
+    "delta_text": "6,210 stars this week",
+    "forks": 2380,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 108396,
+    "delta_stars": 13336,
+    "delta_text": "13,336 stars this week",
+    "forks": 6863,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 21056,
+    "delta_stars": 3273,
+    "delta_text": "3,273 stars this week",
+    "forks": 1995,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 55689,
+    "delta_stars": 6570,
+    "delta_text": "6,570 stars this week",
+    "forks": 4471,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "total_stars": 69330,
+    "delta_stars": 2208,
+    "delta_text": "2,208 stars this week",
+    "forks": 15472,
+    "url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "language": "Python",
+    "total_stars": 6192,
+    "delta_stars": 2548,
+    "delta_text": "2,548 stars this week",
+    "forks": 855,
+    "url": "https://github.com/TheCraigHewitt/seomachine"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "total_stars": 54099,
+    "delta_stars": 2670,
+    "delta_text": "2,670 stars this week",
+    "forks": 9378,
+    "url": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "name": "NVIDIA/personaplex",
+    "description": "PersonaPlex code.",
+    "language": "Python",
+    "total_stars": 9297,
+    "delta_stars": 2110,
+    "delta_text": "2,110 stars this week",
+    "forks": 1300,
+    "url": "https://github.com/NVIDIA/personaplex"
+  },
+  {
+    "name": "jo-inc/camofox-browser",
+    "description": "Headless browser automation server for AI agents to visit sites that are usually blocked",
+    "language": "JavaScript",
+    "total_stars": 2327,
+    "delta_stars": 845,
+    "delta_text": "845 stars this week",
+    "forks": 223,
+    "url": "https://github.com/jo-inc/camofox-browser"
+  }
+]

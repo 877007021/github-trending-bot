@@ -1,0 +1,172 @@
+[
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 84129,
+    "delta_stars": 69018,
+    "delta_text": "69,018 stars this month",
+    "forks": 11344,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "My personal directory of skills, straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 15020,
+    "delta_stars": 13661,
+    "delta_text": "13,661 stars this month",
+    "forks": 1220,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "language": "TypeScript",
+    "total_stars": 23668,
+    "delta_stars": 23203,
+    "delta_text": "23,203 stars this month",
+    "forks": 2309,
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "Automate the process of making money online.",
+    "language": "Python",
+    "total_stars": 29562,
+    "delta_stars": 14609,
+    "delta_text": "14,609 stars this month",
+    "forks": 3172,
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 29768,
+    "delta_stars": 21485,
+    "delta_text": "21,485 stars this month",
+    "forks": 2022,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "language": "Python",
+    "total_stars": 61508,
+    "delta_stars": 31379,
+    "delta_text": "31,379 stars this month",
+    "forks": 7913,
+    "url": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "name": "jarrodwatts/claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+    "language": "JavaScript",
+    "total_stars": 19144,
+    "delta_stars": 14495,
+    "delta_text": "14,495 stars this month",
+    "forks": 848,
+    "url": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 21877,
+    "delta_stars": 17477,
+    "delta_text": "17,477 stars this month",
+    "forks": 1787,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 21056,
+    "delta_stars": 5586,
+    "delta_text": "5,586 stars this month",
+    "forks": 1995,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 156040,
+    "delta_stars": 80744,
+    "delta_text": "80,744 stars this month",
+    "forks": 24214,
+    "url": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 50451,
+    "delta_stars": 18422,
+    "delta_text": "18,422 stars this month",
+    "forks": 9112,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "langchain-ai/open-swe",
+    "description": "An Open-Source Asynchronous Coding Agent",
+    "language": "Python",
+    "total_stars": 9533,
+    "delta_stars": 4282,
+    "delta_text": "4,282 stars this month",
+    "forks": 1068,
+    "url": "https://github.com/langchain-ai/open-swe"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 152215,
+    "delta_stars": 69612,
+    "delta_text": "69,612 stars this month",
+    "forks": 13200,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 33428,
+    "delta_stars": 17646,
+    "delta_text": "17,646 stars this month",
+    "forks": 2744,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+    "language": "TypeScript",
+    "total_stars": 53325,
+    "delta_stars": 27226,
+    "delta_text": "27,226 stars this month",
+    "forks": 8748,
+    "url": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "total_stars": 39529,
+    "delta_stars": 15781,
+    "delta_text": "15,781 stars this month",
+    "forks": 4592,
+    "url": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 108397,
+    "delta_stars": 16296,
+    "delta_text": "16,296 stars this month",
+    "forks": 6863,
+    "url": "https://github.com/microsoft/markitdown"
+  }
+]
