@@ -1,0 +1,177 @@
+[
+  {
+    "username": "felixrieseberg",
+    "display_name": "Felix Rieseberg",
+    "popular_repo": "windows95",
+    "url": "https://github.com/felixrieseberg",
+    "repo_url": "https://github.com/felixrieseberg/windows95"
+  },
+  {
+    "username": "ColeMurray",
+    "display_name": "Cole Murray",
+    "popular_repo": "background-agents",
+    "url": "https://github.com/ColeMurray",
+    "repo_url": "https://github.com/ColeMurray/background-agents"
+  },
+  {
+    "username": "retlehs",
+    "display_name": "Ben Word",
+    "popular_repo": "quien",
+    "url": "https://github.com/retlehs",
+    "repo_url": "https://github.com/retlehs/quien"
+  },
+  {
+    "username": "zhayujie",
+    "display_name": "zhayujie",
+    "popular_repo": "CowAgent",
+    "url": "https://github.com/zhayujie",
+    "repo_url": "https://github.com/zhayujie/CowAgent"
+  },
+  {
+    "username": "danieldk",
+    "display_name": "Daniël de Kok",
+    "popular_repo": "",
+    "url": "https://github.com/danieldk",
+    "repo_url": ""
+  },
+  {
+    "username": "allenhutchison",
+    "display_name": "Allen Hutchison",
+    "popular_repo": "obsidian-gemini",
+    "url": "https://github.com/allenhutchison",
+    "repo_url": "https://github.com/allenhutchison/obsidian-gemini"
+  },
+  {
+    "username": "buger",
+    "display_name": "Leonid Bugaev",
+    "popular_repo": "jsonparser",
+    "url": "https://github.com/buger",
+    "repo_url": "https://github.com/buger/jsonparser"
+  },
+  {
+    "username": "emilk",
+    "display_name": "Emil Ernerfeldt",
+    "popular_repo": "egui",
+    "url": "https://github.com/emilk",
+    "repo_url": "https://github.com/emilk/egui"
+  },
+  {
+    "username": "hluk",
+    "display_name": "Lukas Holecek",
+    "popular_repo": "CopyQ",
+    "url": "https://github.com/hluk",
+    "repo_url": "https://github.com/hluk/CopyQ"
+  },
+  {
+    "username": "isair",
+    "display_name": "Baris Sencan",
+    "popular_repo": "jarvis",
+    "url": "https://github.com/isair",
+    "repo_url": "https://github.com/isair/jarvis"
+  },
+  {
+    "username": "floooh",
+    "display_name": "Andre Weissflog",
+    "popular_repo": "sokol",
+    "url": "https://github.com/floooh",
+    "repo_url": "https://github.com/floooh/sokol"
+  },
+  {
+    "username": "phodal",
+    "display_name": "Fengda Huang",
+    "popular_repo": "routa",
+    "url": "https://github.com/phodal",
+    "repo_url": "https://github.com/phodal/routa"
+  },
+  {
+    "username": "valyala",
+    "display_name": "Aliaksandr Valialkin",
+    "popular_repo": "fasthttp",
+    "url": "https://github.com/valyala",
+    "repo_url": "https://github.com/valyala/fasthttp"
+  },
+  {
+    "username": "virattt",
+    "display_name": "Virat Singh",
+    "popular_repo": "ai-hedge-fund",
+    "url": "https://github.com/virattt",
+    "repo_url": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "username": "HotCakeX",
+    "display_name": "Violet Hansen",
+    "popular_repo": "Harden-Windows-Security",
+    "url": "https://github.com/HotCakeX",
+    "repo_url": "https://github.com/HotCakeX/Harden-Windows-Security"
+  },
+  {
+    "username": "hrydgard",
+    "display_name": "Henrik Rydgård",
+    "popular_repo": "ppsspp",
+    "url": "https://github.com/hrydgard",
+    "repo_url": "https://github.com/hrydgard/ppsspp"
+  },
+  {
+    "username": "svarlamov",
+    "display_name": "Sasha Varlamov",
+    "popular_repo": "",
+    "url": "https://github.com/svarlamov",
+    "repo_url": ""
+  },
+  {
+    "username": "haacked",
+    "display_name": "Phil Haack",
+    "popular_repo": "aspnet-client-validation",
+    "url": "https://github.com/haacked",
+    "repo_url": "https://github.com/haacked/aspnet-client-validation"
+  },
+  {
+    "username": "xiaolai",
+    "display_name": "xiaolai",
+    "popular_repo": "vmark",
+    "url": "https://github.com/xiaolai",
+    "repo_url": "https://github.com/xiaolai/vmark"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "christian-byrne",
+    "display_name": "Christian Byrne",
+    "popular_repo": "audio-separation-nodes-comfyui",
+    "url": "https://github.com/christian-byrne",
+    "repo_url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "ruflo",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "username": "madeye",
+    "display_name": "Max Lv",
+    "popular_repo": "BaoLianDeng",
+    "url": "https://github.com/madeye",
+    "repo_url": "https://github.com/madeye/BaoLianDeng"
+  },
+  {
+    "username": "kurtisvg",
+    "display_name": "Kurtis Van Gent",
+    "popular_repo": "skillful-mcp",
+    "url": "https://github.com/kurtisvg",
+    "repo_url": "https://github.com/kurtisvg/skillful-mcp"
+  }
+]

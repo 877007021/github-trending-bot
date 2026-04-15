@@ -1,0 +1,162 @@
+[
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 89368,
+    "delta_stars": 76339,
+    "delta_text": "76,339 stars this month",
+    "forks": 12207,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "language": "TypeScript",
+    "total_stars": 23828,
+    "delta_stars": 23194,
+    "delta_text": "23,194 stars this month",
+    "forks": 2320,
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "Automate the process of making money online.",
+    "language": "Python",
+    "total_stars": 29691,
+    "delta_stars": 14719,
+    "delta_text": "14,719 stars this month",
+    "forks": 3182,
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "My personal directory of skills, straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 15357,
+    "delta_stars": 13952,
+    "delta_text": "13,952 stars this month",
+    "forks": 1248,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 42755,
+    "delta_stars": 23210,
+    "delta_text": "23,210 stars this month",
+    "forks": 3469,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "language": "Python",
+    "total_stars": 61801,
+    "delta_stars": 31482,
+    "delta_text": "31,482 stars this month",
+    "forks": 7962,
+    "url": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 30116,
+    "delta_stars": 21866,
+    "delta_text": "21,866 stars this month",
+    "forks": 2050,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 22105,
+    "delta_stars": 17814,
+    "delta_text": "17,814 stars this month",
+    "forks": 1802,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 21200,
+    "delta_stars": 5745,
+    "delta_text": "5,745 stars this month",
+    "forks": 2010,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 157390,
+    "delta_stars": 81407,
+    "delta_text": "81,407 stars this month",
+    "forks": 24439,
+    "url": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 50729,
+    "delta_stars": 18642,
+    "delta_text": "18,642 stars this month",
+    "forks": 9161,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "jarrodwatts/claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+    "language": "JavaScript",
+    "total_stars": 19399,
+    "delta_stars": 14720,
+    "delta_text": "14,720 stars this month",
+    "forks": 864,
+    "url": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 154214,
+    "delta_stars": 70149,
+    "delta_text": "70,149 stars this month",
+    "forks": 13388,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 109451,
+    "delta_stars": 17711,
+    "delta_text": "17,711 stars this month",
+    "forks": 6957,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 18231,
+    "delta_stars": 6599,
+    "delta_text": "6,599 stars this month",
+    "forks": 3365,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "total_stars": 39748,
+    "delta_stars": 16017,
+    "delta_text": "16,017 stars this month",
+    "forks": 4615,
+    "url": "https://github.com/microsoft/VibeVoice"
+  }
+]
