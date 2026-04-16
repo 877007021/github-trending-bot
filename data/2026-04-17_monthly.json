@@ -1,0 +1,192 @@
+[
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 93520,
+    "delta_stars": 81412,
+    "delta_text": "81,412 stars this month",
+    "forks": 13025,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 49660,
+    "delta_stars": 32572,
+    "delta_text": "32,572 stars this month",
+    "forks": 4093,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "language": "TypeScript",
+    "total_stars": 24013,
+    "delta_stars": 23152,
+    "delta_text": "23,152 stars this month",
+    "forks": 2336,
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "Automate the process of making money online.",
+    "language": "Python",
+    "total_stars": 29796,
+    "delta_stars": 14848,
+    "delta_text": "14,848 stars this month",
+    "forks": 3192,
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "language": "Python",
+    "total_stars": 62039,
+    "delta_stars": 31460,
+    "delta_text": "31,460 stars this month",
+    "forks": 8002,
+    "url": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 30492,
+    "delta_stars": 21995,
+    "delta_text": "21,995 stars this month",
+    "forks": 2079,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "openai/parameter-golf",
+    "description": "Train the smallest LM you can that fits in 16MB. Best model wins!",
+    "language": "Python",
+    "total_stars": 4845,
+    "delta_stars": 4847,
+    "delta_text": "4,847 stars this month",
+    "forks": 3198,
+    "url": "https://github.com/openai/parameter-golf"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 21309,
+    "delta_stars": 5881,
+    "delta_text": "5,881 stars this month",
+    "forks": 2028,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 22322,
+    "delta_stars": 18023,
+    "delta_text": "18,023 stars this month",
+    "forks": 1823,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 158602,
+    "delta_stars": 81757,
+    "delta_text": "81,757 stars this month",
+    "forks": 24662,
+    "url": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "language": "Java",
+    "total_stars": 17727,
+    "delta_stars": 15203,
+    "delta_text": "15,203 stars this month",
+    "forks": 1581,
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 50999,
+    "delta_stars": 18792,
+    "delta_text": "18,792 stars this month",
+    "forks": 9201,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "My personal directory of skills, straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 15703,
+    "delta_stars": 14248,
+    "delta_text": "14,248 stars this month",
+    "forks": 1274,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 18756,
+    "delta_stars": 7042,
+    "delta_text": "7,042 stars this month",
+    "forks": 3442,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 110352,
+    "delta_stars": 18909,
+    "delta_text": "18,909 stars this month",
+    "forks": 7056,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "total_stars": 39929,
+    "delta_stars": 16228,
+    "delta_text": "16,228 stars this month",
+    "forks": 4634,
+    "url": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 18403,
+    "delta_stars": 4533,
+    "delta_text": "4,533 stars this month",
+    "forks": 2880,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 156139,
+    "delta_stars": 70176,
+    "delta_text": "70,176 stars this month",
+    "forks": 13561,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "language": "Python",
+    "total_stars": 27311,
+    "delta_stars": 9443,
+    "delta_text": "9,443 stars this month",
+    "forks": 3628,
+    "url": "https://github.com/onyx-dot-app/onyx"
+  }
+]
