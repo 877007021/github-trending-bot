@@ -1,0 +1,132 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 54614,
+    "delta_stars": 37377,
+    "delta_text": "37,377 stars this week",
+    "forks": 4621,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 96739,
+    "delta_stars": 51025,
+    "delta_text": "51,025 stars this week",
+    "forks": 13598,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 19043,
+    "delta_stars": 6735,
+    "delta_text": "6,735 stars this week",
+    "forks": 3478,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 15395,
+    "delta_stars": 10588,
+    "delta_text": "10,588 stars this week",
+    "forks": 1900,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 111168,
+    "delta_stars": 14539,
+    "delta_text": "14,539 stars this week",
+    "forks": 7138,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "total_stars": 14126,
+    "delta_stars": 6344,
+    "delta_text": "6,344 stars this week",
+    "forks": 1692,
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 18564,
+    "delta_stars": 4309,
+    "delta_text": "4,309 stars this week",
+    "forks": 2892,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 61431,
+    "delta_stars": 12366,
+    "delta_text": "12,366 stars this week",
+    "forks": 5092,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "total_stars": 55915,
+    "delta_stars": 4672,
+    "delta_text": "4,672 stars this week",
+    "forks": 9697,
+    "url": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 16944,
+    "delta_stars": 6410,
+    "delta_text": "6,410 stars this week",
+    "forks": 2154,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 3597,
+    "delta_stars": 2322,
+    "delta_text": "2,322 stars this week",
+    "forks": 386,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "steipete/wacli",
+    "description": "WhatsApp CLI",
+    "language": "Go",
+    "total_stars": 1836,
+    "delta_stars": 831,
+    "delta_text": "831 stars this week",
+    "forks": 219,
+    "url": "https://github.com/steipete/wacli"
+  },
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "total_stars": 69811,
+    "delta_stars": 2855,
+    "delta_text": "2,855 stars this week",
+    "forks": 15592,
+    "url": "https://github.com/TapXWorld/ChinaTextbook"
+  }
+]
