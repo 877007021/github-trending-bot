@@ -1,0 +1,152 @@
+[
+  {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 57880,
+    "delta_stars": 42267,
+    "delta_text": "42,267 stars this week",
+    "forks": 4961,
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 99379,
+    "delta_stars": 47053,
+    "delta_text": "47,053 stars this week",
+    "forks": 14056,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 19320,
+    "delta_stars": 6511,
+    "delta_text": "6,511 stars this week",
+    "forks": 3509,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 16164,
+    "delta_stars": 10056,
+    "delta_text": "10,056 stars this week",
+    "forks": 1984,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 62445,
+    "delta_stars": 14033,
+    "delta_text": "14,033 stars this week",
+    "forks": 5213,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 111992,
+    "delta_stars": 13214,
+    "delta_text": "13,214 stars this week",
+    "forks": 7208,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "total_stars": 14543,
+    "delta_stars": 5786,
+    "delta_text": "5,786 stars this week",
+    "forks": 1736,
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 4232,
+    "delta_stars": 2375,
+    "delta_text": "2,375 stars this week",
+    "forks": 445,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "total_stars": 56131,
+    "delta_stars": 4941,
+    "delta_text": "4,941 stars this week",
+    "forks": 9736,
+    "url": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "name": "EvoMap/evolver",
+    "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+    "language": "JavaScript",
+    "total_stars": 4986,
+    "delta_stars": 2082,
+    "delta_text": "2,082 stars this week",
+    "forks": 489,
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "name": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "language": "Jupyter Notebook",
+    "total_stars": 32002,
+    "delta_stars": 4980,
+    "delta_text": "4,980 stars this week",
+    "forks": 3891,
+    "url": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 18747,
+    "delta_stars": 3745,
+    "delta_text": "3,745 stars this week",
+    "forks": 2910,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source voice synthesis studio",
+    "language": "TypeScript",
+    "total_stars": 20561,
+    "delta_stars": 5007,
+    "delta_text": "5,007 stars this week",
+    "forks": 2353,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "steipete/wacli",
+    "description": "WhatsApp CLI",
+    "language": "Go",
+    "total_stars": 1918,
+    "delta_stars": 1070,
+    "delta_text": "1,070 stars this week",
+    "forks": 224,
+    "url": "https://github.com/steipete/wacli"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 17515,
+    "delta_stars": 5571,
+    "delta_text": "5,571 stars this week",
+    "forks": 2208,
+    "url": "https://github.com/addyosmani/agent-skills"
+  }
+]
