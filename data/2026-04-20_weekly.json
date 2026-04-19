@@ -1,0 +1,152 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 61245,
+    "delta_stars": 44465,
+    "delta_text": "44,465 stars this week",
+    "forks": 5318,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 102033,
+    "delta_stars": 42612,
+    "delta_text": "42,612 stars this week",
+    "forks": 14553,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 63292,
+    "delta_stars": 14371,
+    "delta_text": "14,371 stars this week",
+    "forks": 5300,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "EvoMap/evolver",
+    "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+    "language": "JavaScript",
+    "total_stars": 5497,
+    "delta_stars": 2964,
+    "delta_text": "2,964 stars this week",
+    "forks": 535,
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 4533,
+    "delta_stars": 3218,
+    "delta_text": "3,218 stars this week",
+    "forks": 481,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 19592,
+    "delta_stars": 6026,
+    "delta_text": "6,026 stars this week",
+    "forks": 3546,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 16739,
+    "delta_stars": 8756,
+    "delta_text": "8,756 stars this week",
+    "forks": 2074,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "total_stars": 56343,
+    "delta_stars": 4818,
+    "delta_text": "4,818 stars this week",
+    "forks": 9782,
+    "url": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 112591,
+    "delta_stars": 10759,
+    "delta_text": "10,759 stars this week",
+    "forks": 7286,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "language": "Jupyter Notebook",
+    "total_stars": 32446,
+    "delta_stars": 5265,
+    "delta_text": "5,265 stars this week",
+    "forks": 3940,
+    "url": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source voice synthesis studio",
+    "language": "TypeScript",
+    "total_stars": 21188,
+    "delta_stars": 5589,
+    "delta_text": "5,589 stars this week",
+    "forks": 2432,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "total_stars": 14836,
+    "delta_stars": 5051,
+    "delta_text": "5,051 stars this week",
+    "forks": 1767,
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "description": "Claude Code skill to support Android app's reverse engineering",
+    "language": "Shell",
+    "total_stars": 3561,
+    "delta_stars": 1634,
+    "delta_text": "1,634 stars this week",
+    "forks": 363,
+    "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 17901,
+    "delta_stars": 4910,
+    "delta_text": "4,910 stars this week",
+    "forks": 2245,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "BasedHardware/omi",
+    "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+    "language": "Dart",
+    "total_stars": 11127,
+    "delta_stars": 2443,
+    "delta_text": "2,443 stars this week",
+    "forks": 1780,
+    "url": "https://github.com/BasedHardware/omi"
+  }
+]

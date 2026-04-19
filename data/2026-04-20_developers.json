@@ -1,0 +1,177 @@
+[
+  {
+    "username": "appcypher",
+    "display_name": "Stephen Akinyemi",
+    "popular_repo": "awesome-mcp-servers",
+    "url": "https://github.com/appcypher",
+    "repo_url": "https://github.com/appcypher/awesome-mcp-servers"
+  },
+  {
+    "username": "ColeMurray",
+    "display_name": "Cole Murray",
+    "popular_repo": "background-agents",
+    "url": "https://github.com/ColeMurray",
+    "repo_url": "https://github.com/ColeMurray/background-agents"
+  },
+  {
+    "username": "jamiepine",
+    "display_name": "Jamie Pine",
+    "popular_repo": "voicebox",
+    "url": "https://github.com/jamiepine",
+    "repo_url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "username": "theovilardo",
+    "display_name": "theovilardo",
+    "popular_repo": "PixelPlayer",
+    "url": "https://github.com/theovilardo",
+    "repo_url": "https://github.com/theovilardo/PixelPlayer"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "coleam00",
+    "display_name": "Cole Medin",
+    "popular_repo": "Archon",
+    "url": "https://github.com/coleam00",
+    "repo_url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "username": "twpayne",
+    "display_name": "Tom Payne",
+    "popular_repo": "chezmoi",
+    "url": "https://github.com/twpayne",
+    "repo_url": "https://github.com/twpayne/chezmoi"
+  },
+  {
+    "username": "MagMueller",
+    "display_name": "Magnus Müller",
+    "popular_repo": "",
+    "url": "https://github.com/MagMueller",
+    "repo_url": ""
+  },
+  {
+    "username": "dentiny",
+    "display_name": "dentiny",
+    "popular_repo": "duckdb-query-condition-cache",
+    "url": "https://github.com/dentiny",
+    "repo_url": "https://github.com/dentiny/duckdb-query-condition-cache"
+  },
+  {
+    "username": "dreamhunter2333",
+    "display_name": "Dream Hunter",
+    "popular_repo": "cloudflare_temp_email",
+    "url": "https://github.com/dreamhunter2333",
+    "repo_url": "https://github.com/dreamhunter2333/cloudflare_temp_email"
+  },
+  {
+    "username": "deadprogram",
+    "display_name": "Ron Evans",
+    "popular_repo": "",
+    "url": "https://github.com/deadprogram",
+    "repo_url": ""
+  },
+  {
+    "username": "threepointone",
+    "display_name": "Sunil Pai",
+    "popular_repo": "codemode-talk",
+    "url": "https://github.com/threepointone",
+    "repo_url": "https://github.com/threepointone/codemode-talk"
+  },
+  {
+    "username": "mostlygeek",
+    "display_name": "Benson Wong",
+    "popular_repo": "llama-swap",
+    "url": "https://github.com/mostlygeek",
+    "repo_url": "https://github.com/mostlygeek/llama-swap"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "weblate",
+    "display_name": "Weblate (bot)",
+    "popular_repo": "restoid",
+    "url": "https://github.com/weblate",
+    "repo_url": "https://github.com/weblate/restoid"
+  },
+  {
+    "username": "ctate",
+    "display_name": "Chris Tate",
+    "popular_repo": "3d-model-generator",
+    "url": "https://github.com/ctate",
+    "repo_url": "https://github.com/ctate/3d-model-generator"
+  },
+  {
+    "username": "niels9001",
+    "display_name": "Niels Laute",
+    "popular_repo": "CmdPalThemeDesigner",
+    "url": "https://github.com/niels9001",
+    "repo_url": "https://github.com/niels9001/CmdPalThemeDesigner"
+  },
+  {
+    "username": "behdad",
+    "display_name": "Behdad Esfahbod",
+    "popular_repo": "glyphy",
+    "url": "https://github.com/behdad",
+    "repo_url": "https://github.com/behdad/glyphy"
+  },
+  {
+    "username": "chenhg5",
+    "display_name": "cg33",
+    "popular_repo": "cc-connect",
+    "url": "https://github.com/chenhg5",
+    "repo_url": "https://github.com/chenhg5/cc-connect"
+  },
+  {
+    "username": "sobolevn",
+    "display_name": "sobolevn",
+    "popular_repo": "awesome-cryptography",
+    "url": "https://github.com/sobolevn",
+    "repo_url": "https://github.com/sobolevn/awesome-cryptography"
+  },
+  {
+    "username": "gtsteffaniak",
+    "display_name": "Graham Steffaniak",
+    "popular_repo": "filebrowser",
+    "url": "https://github.com/gtsteffaniak",
+    "repo_url": "https://github.com/gtsteffaniak/filebrowser"
+  },
+  {
+    "username": "4ian",
+    "display_name": "Florian Rival",
+    "popular_repo": "GDevelop",
+    "url": "https://github.com/4ian",
+    "repo_url": "https://github.com/4ian/GDevelop"
+  },
+  {
+    "username": "charliermarsh",
+    "display_name": "Charlie Marsh",
+    "popular_repo": "java-ml",
+    "url": "https://github.com/charliermarsh",
+    "repo_url": "https://github.com/charliermarsh/java-ml"
+  },
+  {
+    "username": "cjroth",
+    "display_name": "Chris Roth",
+    "popular_repo": "ink-web",
+    "url": "https://github.com/cjroth",
+    "repo_url": "https://github.com/cjroth/ink-web"
+  },
+  {
+    "username": "thc1006",
+    "display_name": "蔡秀吉",
+    "popular_repo": "sdr-o-ran-platform",
+    "url": "https://github.com/thc1006",
+    "repo_url": "https://github.com/thc1006/sdr-o-ran-platform"
+  }
+]
