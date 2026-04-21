@@ -1,0 +1,182 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 71921,
+    "delta_stars": 44394,
+    "delta_text": "44,394 stars this week",
+    "forks": 6561,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 5502,
+    "delta_stars": 3914,
+    "delta_text": "3,914 stars this week",
+    "forks": 594,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "EvoMap/evolver",
+    "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+    "language": "JavaScript",
+    "total_stars": 6311,
+    "delta_stars": 4032,
+    "delta_text": "4,032 stars this week",
+    "forks": 602,
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 108072,
+    "delta_stars": 30630,
+    "delta_text": "30,630 stars this week",
+    "forks": 15562,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 65137,
+    "delta_stars": 12472,
+    "delta_text": "12,472 stars this week",
+    "forks": 5494,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "language": "Jupyter Notebook",
+    "total_stars": 33331,
+    "delta_stars": 5703,
+    "delta_text": "5,703 stars this week",
+    "forks": 4075,
+    "url": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "description": "Claude Code skill to support Android app's reverse engineering",
+    "language": "Shell",
+    "total_stars": 4427,
+    "delta_stars": 2299,
+    "delta_text": "2,299 stars this week",
+    "forks": 504,
+    "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source voice synthesis studio",
+    "language": "TypeScript",
+    "total_stars": 22131,
+    "delta_stars": 5936,
+    "delta_text": "5,936 stars this week",
+    "forks": 2560,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "total_stars": 56812,
+    "delta_stars": 3950,
+    "delta_text": "3,950 stars this week",
+    "forks": 9864,
+    "url": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 18496,
+    "delta_stars": 7009,
+    "delta_text": "7,009 stars this week",
+    "forks": 2263,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "BasedHardware/omi",
+    "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+    "language": "Dart",
+    "total_stars": 11830,
+    "delta_stars": 3634,
+    "delta_text": "3,634 stars this week",
+    "forks": 1840,
+    "url": "https://github.com/BasedHardware/omi"
+  },
+  {
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "language": "Python",
+    "total_stars": 24367,
+    "delta_stars": 3078,
+    "delta_text": "3,078 stars this week",
+    "forks": 3734,
+    "url": "https://github.com/openai/openai-agents-python"
+  },
+  {
+    "name": "Tracer-Cloud/opensre",
+    "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+    "language": "Python",
+    "total_stars": 2142,
+    "delta_stars": 1368,
+    "delta_text": "1,368 stars this week",
+    "forks": 248,
+    "url": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "name": "z-lab/dflash",
+    "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+    "language": "Python",
+    "total_stars": 2082,
+    "delta_stars": 868,
+    "delta_text": "868 stars this week",
+    "forks": 147,
+    "url": "https://github.com/z-lab/dflash"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 20059,
+    "delta_stars": 3227,
+    "delta_text": "3,227 stars this week",
+    "forks": 3598,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "warproxxx/poly_data",
+    "description": "Polymarket Data Retriever that fetches, processes, and structures Polymarket data including markets, order events and trades.",
+    "language": "Python",
+    "total_stars": 1455,
+    "delta_stars": 487,
+    "delta_text": "487 stars this week",
+    "forks": 306,
+    "url": "https://github.com/warproxxx/poly_data"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 114034,
+    "delta_stars": 7084,
+    "delta_text": "7,084 stars this week",
+    "forks": 7415,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "total_stars": 15350,
+    "delta_stars": 3189,
+    "delta_text": "3,189 stars this week",
+    "forks": 1811,
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  }
+]
