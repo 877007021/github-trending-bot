@@ -1,0 +1,177 @@
+[
+  {
+    "username": "metux",
+    "display_name": "Enrico Weigelt",
+    "popular_repo": "nodejs-instagram",
+    "url": "https://github.com/metux",
+    "repo_url": "https://github.com/metux/nodejs-instagram"
+  },
+  {
+    "username": "sobolevn",
+    "display_name": "sobolevn",
+    "popular_repo": "awesome-cryptography",
+    "url": "https://github.com/sobolevn",
+    "repo_url": "https://github.com/sobolevn/awesome-cryptography"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "smallnest",
+    "display_name": "smallnest",
+    "popular_repo": "autoresearch",
+    "url": "https://github.com/smallnest",
+    "repo_url": "https://github.com/smallnest/autoresearch"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "gtsteffaniak",
+    "display_name": "Graham Steffaniak",
+    "popular_repo": "filebrowser",
+    "url": "https://github.com/gtsteffaniak",
+    "repo_url": "https://github.com/gtsteffaniak/filebrowser"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "inbox-zero",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/inbox-zero"
+  },
+  {
+    "username": "appcypher",
+    "display_name": "Stephen Akinyemi",
+    "popular_repo": "awesome-mcp-servers",
+    "url": "https://github.com/appcypher",
+    "repo_url": "https://github.com/appcypher/awesome-mcp-servers"
+  },
+  {
+    "username": "dreamhunter2333",
+    "display_name": "Dream Hunter",
+    "popular_repo": "cloudflare_temp_email",
+    "url": "https://github.com/dreamhunter2333",
+    "repo_url": "https://github.com/dreamhunter2333/cloudflare_temp_email"
+  },
+  {
+    "username": "RealKai42",
+    "display_name": "Kai",
+    "popular_repo": "qwerty-learner",
+    "url": "https://github.com/RealKai42",
+    "repo_url": "https://github.com/RealKai42/qwerty-learner"
+  },
+  {
+    "username": "zkochan",
+    "display_name": "Zoltan Kochan",
+    "popular_repo": "rfcs-1",
+    "url": "https://github.com/zkochan",
+    "repo_url": "https://github.com/zkochan/rfcs-1"
+  },
+  {
+    "username": "1c7",
+    "display_name": "郑诚 (Cheng Zheng)",
+    "popular_repo": "chinese-independent-developer",
+    "url": "https://github.com/1c7",
+    "repo_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "username": "danielmeppiel",
+    "display_name": "Daniel Meppiel",
+    "popular_repo": "agentic-sdlc-handbook",
+    "url": "https://github.com/danielmeppiel",
+    "repo_url": "https://github.com/danielmeppiel/agentic-sdlc-handbook"
+  },
+  {
+    "username": "dcramer",
+    "display_name": "David Cramer",
+    "popular_repo": "dex",
+    "url": "https://github.com/dcramer",
+    "repo_url": "https://github.com/dcramer/dex"
+  },
+  {
+    "username": "anakin87",
+    "display_name": "Stefano Fiorucci",
+    "popular_repo": "llm-rl-environments-lil-course",
+    "url": "https://github.com/anakin87",
+    "repo_url": "https://github.com/anakin87/llm-rl-environments-lil-course"
+  },
+  {
+    "username": "fengmk2",
+    "display_name": "MK (fengmk2)",
+    "popular_repo": "",
+    "url": "https://github.com/fengmk2",
+    "repo_url": ""
+  },
+  {
+    "username": "Aaronontheweb",
+    "display_name": "Aaron Stannard",
+    "popular_repo": "dotnet-skills",
+    "url": "https://github.com/Aaronontheweb",
+    "repo_url": "https://github.com/Aaronontheweb/dotnet-skills"
+  },
+  {
+    "username": "mitchellh",
+    "display_name": "Mitchell Hashimoto",
+    "popular_repo": "vouch",
+    "url": "https://github.com/mitchellh",
+    "repo_url": "https://github.com/mitchellh/vouch"
+  },
+  {
+    "username": "randombit",
+    "display_name": "Jack Lloyd",
+    "popular_repo": "botan",
+    "url": "https://github.com/randombit",
+    "repo_url": "https://github.com/randombit/botan"
+  },
+  {
+    "username": "adsharma",
+    "display_name": "adsharma",
+    "popular_repo": "dspy-ladybug",
+    "url": "https://github.com/adsharma",
+    "repo_url": "https://github.com/adsharma/dspy-ladybug"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "AndyButland",
+    "display_name": "Andy Butland",
+    "popular_repo": "SchoolMenuSkill",
+    "url": "https://github.com/AndyButland",
+    "repo_url": "https://github.com/AndyButland/SchoolMenuSkill"
+  },
+  {
+    "username": "mikepenz",
+    "display_name": "Mike Penz",
+    "popular_repo": "multiplatform-markdown-renderer",
+    "url": "https://github.com/mikepenz",
+    "repo_url": "https://github.com/mikepenz/multiplatform-markdown-renderer"
+  },
+  {
+    "username": "Classic298",
+    "display_name": "Classic298",
+    "popular_repo": "open-webui-plugins",
+    "url": "https://github.com/Classic298",
+    "repo_url": "https://github.com/Classic298/open-webui-plugins"
+  },
+  {
+    "username": "PureWeen",
+    "display_name": "Shane Neuville",
+    "popular_repo": "PolyPilot",
+    "url": "https://github.com/PureWeen",
+    "repo_url": "https://github.com/PureWeen/PolyPilot"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 76081,
+    "delta_stars": 40732,
+    "delta_text": "40,732 stars this week",
+    "forks": 7081,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "EvoMap/evolver",
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "language": "JavaScript",
+    "total_stars": 6528,
+    "delta_stars": 4376,
+    "delta_text": "4,376 stars this week",
+    "forks": 636,
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 5917,
+    "delta_stars": 4223,
+    "delta_text": "4,223 stars this week",
+    "forks": 642,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 110623,
+    "delta_stars": 25081,
+    "delta_text": "25,081 stars this week",
+    "forks": 16042,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 65785,
+    "delta_stars": 10356,
+    "delta_text": "10,356 stars this week",
+    "forks": 5573,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "language": "Python",
+    "total_stars": 24621,
+    "delta_stars": 3546,
+    "delta_text": "3,546 stars this week",
+    "forks": 3767,
+    "url": "https://github.com/openai/openai-agents-python"
+  },
+  {
+    "name": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "language": "Jupyter Notebook",
+    "total_stars": 33701,
+    "delta_stars": 5167,
+    "delta_text": "5,167 stars this week",
+    "forks": 4121,
+    "url": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source voice synthesis studio",
+    "language": "TypeScript",
+    "total_stars": 22465,
+    "delta_stars": 5198,
+    "delta_text": "5,198 stars this week",
+    "forks": 2621,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 19423,
+    "delta_stars": 6223,
+    "delta_text": "6,223 stars this week",
+    "forks": 2369,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "vercel-labs/open-agents",
+    "description": "An open source template for building cloud agents.",
+    "language": "TypeScript",
+    "total_stars": 4022,
+    "delta_stars": 1812,
+    "delta_text": "1,812 stars this week",
+    "forks": 445,
+    "url": "https://github.com/vercel-labs/open-agents"
+  },
+  {
+    "name": "Tracer-Cloud/opensre",
+    "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+    "language": "Python",
+    "total_stars": 2410,
+    "delta_stars": 1395,
+    "delta_text": "1,395 stars this week",
+    "forks": 269,
+    "url": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "name": "BasedHardware/omi",
+    "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+    "language": "Dart",
+    "total_stars": 11970,
+    "delta_stars": 3863,
+    "delta_text": "3,863 stars this week",
+    "forks": 1852,
+    "url": "https://github.com/BasedHardware/omi"
+  },
+  {
+    "name": "z-lab/dflash",
+    "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+    "language": "Python",
+    "total_stars": 2153,
+    "delta_stars": 909,
+    "delta_text": "909 stars this week",
+    "forks": 151,
+    "url": "https://github.com/z-lab/dflash"
+  },
+  {
+    "name": "steipete/wacli",
+    "description": "WhatsApp CLI",
+    "language": "Go",
+    "total_stars": 2065,
+    "delta_stars": 1086,
+    "delta_text": "1,086 stars this week",
+    "forks": 243,
+    "url": "https://github.com/steipete/wacli"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "total_stars": 57040,
+    "delta_stars": 3104,
+    "delta_text": "3,104 stars this week",
+    "forks": 9919,
+    "url": "https://github.com/virattt/ai-hedge-fund"
+  }
+]
