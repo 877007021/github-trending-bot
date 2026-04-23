@@ -1,0 +1,142 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 80375,
+    "delta_stars": 35349,
+    "delta_text": "35,349 stars this week",
+    "forks": 7564,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "description": "Claude Code skill to support Android app's reverse engineering",
+    "language": "Shell",
+    "total_stars": 4737,
+    "delta_stars": 2883,
+    "delta_text": "2,883 stars this week",
+    "forks": 546,
+    "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+  },
+  {
+    "name": "EvoMap/evolver",
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "language": "JavaScript",
+    "total_stars": 6675,
+    "delta_stars": 4364,
+    "delta_text": "4,364 stars this week",
+    "forks": 656,
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "language": "Python",
+    "total_stars": 24850,
+    "delta_stars": 3802,
+    "delta_text": "3,802 stars this week",
+    "forks": 3797,
+    "url": "https://github.com/openai/openai-agents-python"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "total_stars": 22823,
+    "delta_stars": 4495,
+    "delta_text": "4,495 stars this week",
+    "forks": 2669,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 66440,
+    "delta_stars": 8739,
+    "delta_text": "8,739 stars this week",
+    "forks": 5631,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 113090,
+    "delta_stars": 22083,
+    "delta_text": "22,083 stars this week",
+    "forks": 16477,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 20176,
+    "delta_stars": 6015,
+    "delta_text": "6,015 stars this week",
+    "forks": 2446,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "language": "Jupyter Notebook",
+    "total_stars": 33987,
+    "delta_stars": 4550,
+    "delta_text": "4,550 stars this week",
+    "forks": 4167,
+    "url": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "name": "Tracer-Cloud/opensre",
+    "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+    "language": "Python",
+    "total_stars": 2661,
+    "delta_stars": 1508,
+    "delta_text": "1,508 stars this week",
+    "forks": 291,
+    "url": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "name": "BasedHardware/omi",
+    "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+    "language": "Dart",
+    "total_stars": 12097,
+    "delta_stars": 3624,
+    "delta_text": "3,624 stars this week",
+    "forks": 1866,
+    "url": "https://github.com/BasedHardware/omi"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
+    "language": "TypeScript",
+    "total_stars": 9413,
+    "delta_stars": 1704,
+    "delta_text": "1,704 stars this week",
+    "forks": 655,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "zilliztech/claude-context",
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+    "language": "TypeScript",
+    "total_stars": 8396,
+    "delta_stars": 1381,
+    "delta_text": "1,381 stars this week",
+    "forks": 661,
+    "url": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 115970,
+    "delta_stars": 5554,
+    "delta_text": "5,554 stars this week",
+    "forks": 7581,
+    "url": "https://github.com/microsoft/markitdown"
+  }
+]
