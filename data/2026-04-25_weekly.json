@@ -1,0 +1,152 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 83609,
+    "delta_stars": 32115,
+    "delta_text": "32,115 stars this week",
+    "forks": 7989,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "description": "Claude Code skill to support Android app's reverse engineering",
+    "language": "Shell",
+    "total_stars": 4848,
+    "delta_stars": 2702,
+    "delta_text": "2,702 stars this week",
+    "forks": 560,
+    "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+    "language": "Python",
+    "total_stars": 8807,
+    "delta_stars": 4397,
+    "delta_text": "4,397 stars this week",
+    "forks": 1305,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "zilliztech/claude-context",
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+    "language": "TypeScript",
+    "total_stars": 8990,
+    "delta_stars": 2183,
+    "delta_text": "2,183 stars this week",
+    "forks": 690,
+    "url": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 6863,
+    "delta_stars": 3536,
+    "delta_text": "3,536 stars this week",
+    "forks": 765,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "EvoMap/evolver",
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "language": "JavaScript",
+    "total_stars": 6810,
+    "delta_stars": 3759,
+    "delta_text": "3,759 stars this week",
+    "forks": 674,
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "language": "Python",
+    "total_stars": 24990,
+    "delta_stars": 3842,
+    "delta_text": "3,842 stars this week",
+    "forks": 3815,
+    "url": "https://github.com/openai/openai-agents-python"
+  },
+  {
+    "name": "Tracer-Cloud/opensre",
+    "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+    "language": "Python",
+    "total_stars": 2913,
+    "delta_stars": 1614,
+    "delta_text": "1,614 stars this week",
+    "forks": 326,
+    "url": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 20664,
+    "delta_stars": 5741,
+    "delta_text": "5,741 stars this week",
+    "forks": 2517,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 115138,
+    "delta_stars": 20316,
+    "delta_text": "20,316 stars this week",
+    "forks": 16881,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 67024,
+    "delta_stars": 7562,
+    "delta_text": "7,562 stars this week",
+    "forks": 5692,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
+    "language": "TypeScript",
+    "total_stars": 9813,
+    "delta_stars": 1797,
+    "delta_text": "1,797 stars this week",
+    "forks": 668,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "deepseek-ai/DeepGEMM",
+    "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+    "language": "Cuda",
+    "total_stars": 6996,
+    "delta_stars": 589,
+    "delta_text": "589 stars this week",
+    "forks": 930,
+    "url": "https://github.com/deepseek-ai/DeepGEMM"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "total_stars": 23122,
+    "delta_stars": 3969,
+    "delta_text": "3,969 stars this week",
+    "forks": 2713,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "language": "Jupyter Notebook",
+    "total_stars": 34242,
+    "delta_stars": 3561,
+    "delta_text": "3,561 stars this week",
+    "forks": 4198,
+    "url": "https://github.com/Lordog/dive-into-llms"
+  }
+]
