@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+    "language": "Python",
+    "total_stars": 11442,
+    "delta_stars": 3975,
+    "delta_text": "3,975 stars today",
+    "forks": 1703,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "My personal directory of skills, straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 19942,
+    "delta_stars": 857,
+    "delta_text": "857 stars today",
+    "forks": 1661,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 63812,
+    "delta_stars": 1200,
+    "delta_text": "1,200 stars today",
+    "forks": 7153,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "language": "Python",
+    "total_stars": 33478,
+    "delta_stars": 469,
+    "delta_text": "469 stars today",
+    "forks": 2601,
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 25334,
+    "delta_stars": 78,
+    "delta_text": "78 stars today",
+    "forks": 2526,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "deepseek-ai/DeepEP",
+    "description": "DeepEP: an efficient expert-parallel communication library",
+    "language": "Cuda",
+    "total_stars": 9488,
+    "delta_stars": 189,
+    "delta_text": "189 stars today",
+    "forks": 1195,
+    "url": "https://github.com/deepseek-ai/DeepEP"
+  },
+  {
+    "name": "PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "total_stars": 53054,
+    "delta_stars": 68,
+    "delta_text": "68 stars today",
+    "forks": 8296,
+    "url": "https://github.com/PowerShell/PowerShell"
+  },
+  {
+    "name": "RooCodeInc/Roo-Code",
+    "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+    "language": "TypeScript",
+    "total_stars": 23501,
+    "delta_stars": 55,
+    "delta_text": "55 stars today",
+    "forks": 3121,
+    "url": "https://github.com/RooCodeInc/Roo-Code"
+  },
+  {
+    "name": "huggingface/ml-intern",
+    "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+    "language": "Python",
+    "total_stars": 6207,
+    "delta_stars": 1236,
+    "delta_text": "1,236 stars today",
+    "forks": 558,
+    "url": "https://github.com/huggingface/ml-intern"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "total_stars": 495945,
+    "delta_stars": 1431,
+    "delta_text": "1,431 stars today",
+    "forks": 46998,
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "name": "CJackHwang/ds2api",
+    "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+    "language": "Go",
+    "total_stars": 1402,
+    "delta_stars": 37,
+    "delta_text": "37 stars today",
+    "forks": 447,
+    "url": "https://github.com/CJackHwang/ds2api"
+  },
+  {
+    "name": "Universal-Commerce-Protocol/ucp",
+    "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
+    "language": "Python",
+    "total_stars": 2784,
+    "delta_stars": 16,
+    "delta_text": "16 stars today",
+    "forks": 347,
+    "url": "https://github.com/Universal-Commerce-Protocol/ucp"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 1458,
+    "delta_stars": 174,
+    "delta_text": "174 stars today",
+    "forks": 130,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  }
+]

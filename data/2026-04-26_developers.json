@@ -1,0 +1,177 @@
+[
+  {
+    "username": "davila7",
+    "display_name": "Daniel Avila",
+    "popular_repo": "claude-code-templates",
+    "url": "https://github.com/davila7",
+    "repo_url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "username": "avifenesh",
+    "display_name": "Avi Fenesh",
+    "popular_repo": "ocaml-valkey",
+    "url": "https://github.com/avifenesh",
+    "repo_url": "https://github.com/avifenesh/ocaml-valkey"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "Classic298",
+    "display_name": "Classic298",
+    "popular_repo": "open-webui-plugins",
+    "url": "https://github.com/Classic298",
+    "repo_url": "https://github.com/Classic298/open-webui-plugins"
+  },
+  {
+    "username": "waybarrios",
+    "display_name": "Wayner Barrios",
+    "popular_repo": "vllm-mlx",
+    "url": "https://github.com/waybarrios",
+    "repo_url": "https://github.com/waybarrios/vllm-mlx"
+  },
+  {
+    "username": "RealKai42",
+    "display_name": "Kai",
+    "popular_repo": "qwerty-learner",
+    "url": "https://github.com/RealKai42",
+    "repo_url": "https://github.com/RealKai42/qwerty-learner"
+  },
+  {
+    "username": "amir1376",
+    "display_name": "AmirHossein Abdolmotallebi",
+    "popular_repo": "ab-download-manager",
+    "url": "https://github.com/amir1376",
+    "repo_url": "https://github.com/amir1376/ab-download-manager"
+  },
+  {
+    "username": "chenhg5",
+    "display_name": "cg33",
+    "popular_repo": "cc-connect",
+    "url": "https://github.com/chenhg5",
+    "repo_url": "https://github.com/chenhg5/cc-connect"
+  },
+  {
+    "username": "RajaSunrise",
+    "display_name": "Indra Aryadi",
+    "popular_repo": "django-fullstack",
+    "url": "https://github.com/RajaSunrise",
+    "repo_url": "https://github.com/RajaSunrise/django-fullstack"
+  },
+  {
+    "username": "azure-sdk",
+    "display_name": "Azure SDK Bot",
+    "popular_repo": "",
+    "url": "https://github.com/azure-sdk",
+    "repo_url": ""
+  },
+  {
+    "username": "arsenm",
+    "display_name": "Matt Arsenault",
+    "popular_repo": "sanitizers-cmake",
+    "url": "https://github.com/arsenm",
+    "repo_url": "https://github.com/arsenm/sanitizers-cmake"
+  },
+  {
+    "username": "danielhanchen",
+    "display_name": "Daniel Han",
+    "popular_repo": "unsloth-zoo-staging-1",
+    "url": "https://github.com/danielhanchen",
+    "repo_url": "https://github.com/danielhanchen/unsloth-zoo-staging-1"
+  },
+  {
+    "username": "Beingpax",
+    "display_name": "Prakash Joshi Pax",
+    "popular_repo": "VoiceInk",
+    "url": "https://github.com/Beingpax",
+    "repo_url": "https://github.com/Beingpax/VoiceInk"
+  },
+  {
+    "username": "cyphar",
+    "display_name": "Aleksa Sarai",
+    "popular_repo": "heisig-rtk-index",
+    "url": "https://github.com/cyphar",
+    "repo_url": "https://github.com/cyphar/heisig-rtk-index"
+  },
+  {
+    "username": "yetone",
+    "display_name": "yetone",
+    "popular_repo": "voice-input-src",
+    "url": "https://github.com/yetone",
+    "repo_url": "https://github.com/yetone/voice-input-src"
+  },
+  {
+    "username": "LeiWang1999",
+    "display_name": "Lei Wang",
+    "popular_repo": "FPGA",
+    "url": "https://github.com/LeiWang1999",
+    "repo_url": "https://github.com/LeiWang1999/FPGA"
+  },
+  {
+    "username": "bartlomieju",
+    "display_name": "Bartek Iwańczuk",
+    "popular_repo": "",
+    "url": "https://github.com/bartlomieju",
+    "repo_url": ""
+  },
+  {
+    "username": "jarrodwatts",
+    "display_name": "Jarrod Watts",
+    "popular_repo": "claude-hud",
+    "url": "https://github.com/jarrodwatts",
+    "repo_url": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "username": "Planeshifter",
+    "display_name": "Philipp Burckhardt",
+    "popular_repo": "",
+    "url": "https://github.com/Planeshifter",
+    "repo_url": ""
+  },
+  {
+    "username": "njbrake",
+    "display_name": "Nathan Brake",
+    "popular_repo": "agent-of-empires",
+    "url": "https://github.com/njbrake",
+    "repo_url": "https://github.com/njbrake/agent-of-empires"
+  },
+  {
+    "username": "bolinfest",
+    "display_name": "Michael Bolin",
+    "popular_repo": "rules_rs",
+    "url": "https://github.com/bolinfest",
+    "repo_url": "https://github.com/bolinfest/rules_rs"
+  },
+  {
+    "username": "karlseguin",
+    "display_name": "Karl Seguin",
+    "popular_repo": "http.zig",
+    "url": "https://github.com/karlseguin",
+    "repo_url": "https://github.com/karlseguin/http.zig"
+  },
+  {
+    "username": "Aaronontheweb",
+    "display_name": "Aaron Stannard",
+    "popular_repo": "dotnet-skills",
+    "url": "https://github.com/Aaronontheweb",
+    "repo_url": "https://github.com/Aaronontheweb/dotnet-skills"
+  },
+  {
+    "username": "1c7",
+    "display_name": "郑诚 (Cheng Zheng)",
+    "popular_repo": "chinese-independent-developer",
+    "url": "https://github.com/1c7",
+    "repo_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "username": "fzyzcjy",
+    "display_name": "fzyzcjy",
+    "popular_repo": "flutter_rust_bridge",
+    "url": "https://github.com/fzyzcjy",
+    "repo_url": "https://github.com/fzyzcjy/flutter_rust_bridge"
+  }
+]
