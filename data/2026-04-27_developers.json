@@ -1,0 +1,177 @@
+[
+  {
+    "username": "Soju06",
+    "display_name": "Soju06",
+    "popular_repo": "codex-lb",
+    "url": "https://github.com/Soju06",
+    "repo_url": "https://github.com/Soju06/codex-lb"
+  },
+  {
+    "username": "waybarrios",
+    "display_name": "Wayner Barrios",
+    "popular_repo": "vllm-mlx",
+    "url": "https://github.com/waybarrios",
+    "repo_url": "https://github.com/waybarrios/vllm-mlx"
+  },
+  {
+    "username": "bartlomieju",
+    "display_name": "Bartek Iwańczuk",
+    "popular_repo": "",
+    "url": "https://github.com/bartlomieju",
+    "repo_url": ""
+  },
+  {
+    "username": "davila7",
+    "display_name": "Daniel Avila",
+    "popular_repo": "claude-code-templates",
+    "url": "https://github.com/davila7",
+    "repo_url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "username": "amir1376",
+    "display_name": "AmirHossein Abdolmotallebi",
+    "popular_repo": "ab-download-manager",
+    "url": "https://github.com/amir1376",
+    "repo_url": "https://github.com/amir1376/ab-download-manager"
+  },
+  {
+    "username": "Loyalsoldier",
+    "display_name": "Loyalsoldier",
+    "popular_repo": "clash-rules",
+    "url": "https://github.com/Loyalsoldier",
+    "repo_url": "https://github.com/Loyalsoldier/clash-rules"
+  },
+  {
+    "username": "avifenesh",
+    "display_name": "Avi Fenesh",
+    "popular_repo": "ocaml-valkey",
+    "url": "https://github.com/avifenesh",
+    "repo_url": "https://github.com/avifenesh/ocaml-valkey"
+  },
+  {
+    "username": "Git-on-my-level",
+    "display_name": "David Zhang",
+    "popular_repo": "codex-autorunner",
+    "url": "https://github.com/Git-on-my-level",
+    "repo_url": "https://github.com/Git-on-my-level/codex-autorunner"
+  },
+  {
+    "username": "jrouwe",
+    "display_name": "Jorrit Rouwe",
+    "popular_repo": "JoltPhysics",
+    "url": "https://github.com/jrouwe",
+    "repo_url": "https://github.com/jrouwe/JoltPhysics"
+  },
+  {
+    "username": "bradygaster",
+    "display_name": "Brady Gaster",
+    "popular_repo": "squad",
+    "url": "https://github.com/bradygaster",
+    "repo_url": "https://github.com/bradygaster/squad"
+  },
+  {
+    "username": "arvinxx",
+    "display_name": "Arvin Xu",
+    "popular_repo": "",
+    "url": "https://github.com/arvinxx",
+    "repo_url": ""
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "gavrielc",
+    "display_name": "gavrielc",
+    "popular_repo": "Nano-PDF",
+    "url": "https://github.com/gavrielc",
+    "repo_url": "https://github.com/gavrielc/Nano-PDF"
+  },
+  {
+    "username": "m417z",
+    "display_name": "Michael Maltsev",
+    "popular_repo": "winbindex",
+    "url": "https://github.com/m417z",
+    "repo_url": "https://github.com/m417z/winbindex"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "jamiepine",
+    "display_name": "Jamie Pine",
+    "popular_repo": "voicebox",
+    "url": "https://github.com/jamiepine",
+    "repo_url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "username": "weblate",
+    "display_name": "Weblate (bot)",
+    "popular_repo": "restoid",
+    "url": "https://github.com/weblate",
+    "repo_url": "https://github.com/weblate/restoid"
+  },
+  {
+    "username": "bolinfest",
+    "display_name": "Michael Bolin",
+    "popular_repo": "rules_rs",
+    "url": "https://github.com/bolinfest",
+    "repo_url": "https://github.com/bolinfest/rules_rs"
+  },
+  {
+    "username": "mitchellh",
+    "display_name": "Mitchell Hashimoto",
+    "popular_repo": "vouch",
+    "url": "https://github.com/mitchellh",
+    "repo_url": "https://github.com/mitchellh/vouch"
+  },
+  {
+    "username": "timothycarambat",
+    "display_name": "Timothy Carambat",
+    "popular_repo": "",
+    "url": "https://github.com/timothycarambat",
+    "repo_url": ""
+  },
+  {
+    "username": "ChuxiJ",
+    "display_name": "Gong Junmin",
+    "popular_repo": "prompt-engineering-for-developers",
+    "url": "https://github.com/ChuxiJ",
+    "repo_url": "https://github.com/ChuxiJ/prompt-engineering-for-developers"
+  },
+  {
+    "username": "ivov",
+    "display_name": "Iván Ovejero",
+    "popular_repo": "lisette",
+    "url": "https://github.com/ivov",
+    "repo_url": "https://github.com/ivov/lisette"
+  },
+  {
+    "username": "kolkov",
+    "display_name": "Andrey Kolkov",
+    "popular_repo": "racedetector",
+    "url": "https://github.com/kolkov",
+    "repo_url": "https://github.com/kolkov/racedetector"
+  },
+  {
+    "username": "scobru",
+    "display_name": "scobru",
+    "popular_repo": "",
+    "url": "https://github.com/scobru",
+    "repo_url": ""
+  },
+  {
+    "username": "njbrake",
+    "display_name": "Nathan Brake",
+    "popular_repo": "agent-of-empires",
+    "url": "https://github.com/njbrake",
+    "repo_url": "https://github.com/njbrake/agent-of-empires"
+  }
+]

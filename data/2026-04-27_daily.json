@@ -1,0 +1,132 @@
+[
+  {
+    "name": "mattpocock/skills",
+    "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 23475,
+    "delta_stars": 2507,
+    "delta_text": "2,507 stars today",
+    "forks": 1909,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+    "language": "Python",
+    "total_stars": 13505,
+    "delta_stars": 1694,
+    "delta_text": "1,694 stars today",
+    "forks": 1946,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 65410,
+    "delta_stars": 1724,
+    "delta_text": "1,724 stars today",
+    "forks": 7334,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "total_stars": 30141,
+    "delta_stars": 667,
+    "delta_text": "667 stars today",
+    "forks": 3477,
+    "url": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "language": "Python",
+    "total_stars": 33821,
+    "delta_stars": 338,
+    "delta_text": "338 stars today",
+    "forks": 2630,
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "name": "microsoft/typescript-go",
+    "description": "Staging repo for development of native port of TypeScript",
+    "language": "Go",
+    "total_stars": 25153,
+    "delta_stars": 38,
+    "delta_text": "38 stars today",
+    "forks": 919,
+    "url": "https://github.com/microsoft/typescript-go"
+  },
+  {
+    "name": "trycua/cua",
+    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+    "language": "HTML",
+    "total_stars": 14353,
+    "delta_stars": 200,
+    "delta_text": "200 stars today",
+    "forks": 898,
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "name": "gastownhall/beads",
+    "description": "Beads - A memory upgrade for your coding agent",
+    "language": "Go",
+    "total_stars": 21659,
+    "delta_stars": 133,
+    "delta_text": "133 stars today",
+    "forks": 1437,
+    "url": "https://github.com/gastownhall/beads"
+  },
+  {
+    "name": "curl/curl",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "language": "C",
+    "total_stars": 41529,
+    "delta_stars": 50,
+    "delta_text": "50 stars today",
+    "forks": 7153,
+    "url": "https://github.com/curl/curl"
+  },
+  {
+    "name": "home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "total_stars": 86500,
+    "delta_stars": 52,
+    "delta_text": "52 stars today",
+    "forks": 37361,
+    "url": "https://github.com/home-assistant/core"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "total_stars": 496771,
+    "delta_stars": 1074,
+    "delta_text": "1,074 stars today",
+    "forks": 47078,
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "language": "TypeScript",
+    "total_stars": 364590,
+    "delta_stars": 620,
+    "delta_text": "620 stars today",
+    "forks": 74659,
+    "url": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 1956,
+    "delta_stars": 518,
+    "delta_text": "518 stars today",
+    "forks": 158,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  }
+]
