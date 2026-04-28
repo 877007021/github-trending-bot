@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+    "language": "Python",
+    "total_stars": 16037,
+    "delta_stars": 10335,
+    "delta_text": "10,335 stars this week",
+    "forks": 2219,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "language": "Python",
+    "total_stars": 16221,
+    "delta_stars": 10070,
+    "delta_text": "10,070 stars this week",
+    "forks": 2204,
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "name": "zilliztech/claude-context",
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+    "language": "TypeScript",
+    "total_stars": 9859,
+    "delta_stars": 3537,
+    "delta_text": "3,537 stars this week",
+    "forks": 751,
+    "url": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 93983,
+    "delta_stars": 29944,
+    "delta_text": "29,944 stars this week",
+    "forks": 9062,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 30066,
+    "delta_stars": 5013,
+    "delta_text": "5,013 stars this week",
+    "forks": 2354,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 67058,
+    "delta_stars": 6488,
+    "delta_text": "6,488 stars this week",
+    "forks": 7520,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 7731,
+    "delta_stars": 2936,
+    "delta_text": "2,936 stars this week",
+    "forks": 883,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+    "language": "TypeScript",
+    "total_stars": 10684,
+    "delta_stars": 2504,
+    "delta_text": "2,504 stars this week",
+    "forks": 740,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "thunderbird/thunderbolt",
+    "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+    "language": "TypeScript",
+    "total_stars": 4293,
+    "delta_stars": 2244,
+    "delta_text": "2,244 stars this week",
+    "forks": 280,
+    "url": "https://github.com/thunderbird/thunderbolt"
+  },
+  {
+    "name": "Anil-matcha/Open-Generative-AI",
+    "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "language": "JavaScript",
+    "total_stars": 9321,
+    "delta_stars": 3448,
+    "delta_text": "3,448 stars this week",
+    "forks": 1676,
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "name": "Tracer-Cloud/opensre",
+    "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+    "language": "Python",
+    "total_stars": 3602,
+    "delta_stars": 1511,
+    "delta_text": "1,511 stars this week",
+    "forks": 402,
+    "url": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "name": "HKUDS/RAG-Anything",
+    "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+    "language": "Python",
+    "total_stars": 19033,
+    "delta_stars": 2639,
+    "delta_text": "2,639 stars this week",
+    "forks": 2174,
+    "url": "https://github.com/HKUDS/RAG-Anything"
+  },
+  {
+    "name": "GyulyVGC/sniffnet",
+    "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+    "language": "Rust",
+    "total_stars": 36558,
+    "delta_stars": 1858,
+    "delta_text": "1,858 stars this week",
+    "forks": 1436,
+    "url": "https://github.com/GyulyVGC/sniffnet"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 24561,
+    "delta_stars": 5857,
+    "delta_text": "5,857 stars this week",
+    "forks": 3052,
+    "url": "https://github.com/addyosmani/agent-skills"
+  }
+]

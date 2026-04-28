@@ -1,0 +1,202 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 93984,
+    "delta_stars": 82118,
+    "delta_text": "82,118 stars this month",
+    "forks": 9062,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 120539,
+    "delta_stars": 104773,
+    "delta_text": "104,773 stars this month",
+    "forks": 17928,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "language": "TypeScript",
+    "total_stars": 26370,
+    "delta_stars": 23592,
+    "delta_text": "23,592 stars this month",
+    "forks": 2169,
+    "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 21776,
+    "delta_stars": 10363,
+    "delta_text": "10,363 stars this month",
+    "forks": 3843,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "language": "Python",
+    "total_stars": 16221,
+    "delta_stars": 12424,
+    "delta_text": "12,424 stars this month",
+    "forks": 2204,
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "total_stars": 29478,
+    "delta_stars": 27992,
+    "delta_text": "27,992 stars this month",
+    "forks": 3617,
+    "url": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 33149,
+    "delta_stars": 24172,
+    "delta_text": "24,172 stars this month",
+    "forks": 2227,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 22218,
+    "delta_stars": 11213,
+    "delta_text": "11,213 stars this month",
+    "forks": 2965,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 19915,
+    "delta_stars": 6105,
+    "delta_text": "6,105 stars this month",
+    "forks": 3067,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 22158,
+    "delta_stars": 6710,
+    "delta_text": "6,710 stars this month",
+    "forks": 2151,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+    "language": "Python",
+    "total_stars": 16037,
+    "delta_stars": 11242,
+    "delta_text": "11,242 stars this month",
+    "forks": 2219,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 117932,
+    "delta_stars": 25187,
+    "delta_text": "25,187 stars this month",
+    "forks": 7752,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 4435,
+    "delta_stars": 3386,
+    "delta_text": "3,386 stars this month",
+    "forks": 440,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 7731,
+    "delta_stars": 6534,
+    "delta_text": "6,534 stars this month",
+    "forks": 883,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "total_stars": 43064,
+    "delta_stars": 17850,
+    "delta_text": "17,850 stars this month",
+    "forks": 4887,
+    "url": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "name": "hugohe3/ppt-master",
+    "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
+    "language": "Python",
+    "total_stars": 8661,
+    "delta_stars": 5275,
+    "delta_text": "5,275 stars this month",
+    "forks": 953,
+    "url": "https://github.com/hugohe3/ppt-master"
+  },
+  {
+    "name": "rtk-ai/rtk",
+    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "language": "Rust",
+    "total_stars": 36997,
+    "delta_stars": 22248,
+    "delta_text": "22,248 stars this month",
+    "forks": 2235,
+    "url": "https://github.com/rtk-ai/rtk"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 18743,
+    "delta_stars": 8574,
+    "delta_text": "8,574 stars this month",
+    "forks": 1821,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 68544,
+    "delta_stars": 27436,
+    "delta_text": "27,436 stars this month",
+    "forks": 5839,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 30070,
+    "delta_stars": 13281,
+    "delta_text": "13,281 stars this month",
+    "forks": 2354,
+    "url": "https://github.com/mattpocock/skills"
+  }
+]

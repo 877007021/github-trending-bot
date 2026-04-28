@@ -1,0 +1,132 @@
+[
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 30065,
+    "delta_stars": 5551,
+    "delta_text": "5,551 stars today",
+    "forks": 2354,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "total_stars": 31492,
+    "delta_stars": 1074,
+    "delta_text": "1,074 stars today",
+    "forks": 3602,
+    "url": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 2759,
+    "delta_stars": 637,
+    "delta_text": "637 stars today",
+    "forks": 201,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+    "language": "Python",
+    "total_stars": 16037,
+    "delta_stars": 2973,
+    "delta_text": "2,973 stars today",
+    "forks": 2219,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "gastownhall/beads",
+    "description": "Beads - A memory upgrade for your coding agent",
+    "language": "Go",
+    "total_stars": 22179,
+    "delta_stars": 485,
+    "delta_text": "485 stars today",
+    "forks": 1457,
+    "url": "https://github.com/gastownhall/beads"
+  },
+  {
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "total_stars": 46584,
+    "delta_stars": 283,
+    "delta_text": "283 stars today",
+    "forks": 2795,
+    "url": "https://github.com/penpot/penpot"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 25775,
+    "delta_stars": 181,
+    "delta_text": "181 stars today",
+    "forks": 2593,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "total_stars": 43062,
+    "delta_stars": 771,
+    "delta_text": "771 stars today",
+    "forks": 4887,
+    "url": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 67058,
+    "delta_stars": 1839,
+    "delta_text": "1,839 stars today",
+    "forks": 7520,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 53752,
+    "delta_stars": 183,
+    "delta_text": "183 stars today",
+    "forks": 9773,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "CJackHwang/ds2api",
+    "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+    "language": "Go",
+    "total_stars": 1825,
+    "delta_stars": 144,
+    "delta_text": "144 stars today",
+    "forks": 566,
+    "url": "https://github.com/CJackHwang/ds2api"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": "",
+    "language": "Python",
+    "total_stars": 103090,
+    "delta_stars": 60,
+    "delta_text": "60 stars today",
+    "forks": 16697,
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "total_stars": 345139,
+    "delta_stars": 396,
+    "delta_text": "396 stars today",
+    "forks": 55760,
+    "url": "https://github.com/donnemartin/system-design-primer"
+  }
+]
