@@ -1,0 +1,162 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 99548,
+    "delta_stars": 91463,
+    "delta_text": "91,463 stars this month",
+    "forks": 9701,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 124968,
+    "delta_stars": 109206,
+    "delta_text": "109,206 stars this month",
+    "forks": 18633,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw",
+    "language": "Python",
+    "total_stars": 18535,
+    "delta_stars": 17106,
+    "delta_text": "17,106 stars this month",
+    "forks": 2629,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "language": "Python",
+    "total_stars": 17799,
+    "delta_stars": 14863,
+    "delta_text": "14,863 stars this month",
+    "forks": 2408,
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "language": "TypeScript",
+    "total_stars": 26864,
+    "delta_stars": 24145,
+    "delta_text": "24,145 stars this month",
+    "forks": 2184,
+    "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 22578,
+    "delta_stars": 11789,
+    "delta_text": "11,789 stars this month",
+    "forks": 3014,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 22011,
+    "delta_stars": 10729,
+    "delta_text": "10,729 stars this month",
+    "forks": 3887,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 22285,
+    "delta_stars": 6868,
+    "delta_text": "6,868 stars this month",
+    "forks": 2182,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 33662,
+    "delta_stars": 24784,
+    "delta_text": "24,784 stars this month",
+    "forks": 2254,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 20204,
+    "delta_stars": 6446,
+    "delta_text": "6,446 stars this month",
+    "forks": 3091,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 118707,
+    "delta_stars": 26298,
+    "delta_text": "26,298 stars this month",
+    "forks": 7841,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 44395,
+    "delta_stars": 31265,
+    "delta_text": "31,265 stars this month",
+    "forks": 3555,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 8230,
+    "delta_stars": 7409,
+    "delta_text": "7,409 stars this month",
+    "forks": 940,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 4527,
+    "delta_stars": 3526,
+    "delta_text": "3,526 stars this month",
+    "forks": 444,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 68674,
+    "delta_stars": 12830,
+    "delta_text": "12,830 stars this month",
+    "forks": 7723,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "hugohe3/ppt-master",
+    "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He",
+    "language": "Python",
+    "total_stars": 9520,
+    "delta_stars": 6239,
+    "delta_text": "6,239 stars this month",
+    "forks": 1026,
+    "url": "https://github.com/hugohe3/ppt-master"
+  }
+]
