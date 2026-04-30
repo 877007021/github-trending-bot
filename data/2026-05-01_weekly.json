@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 19167,
+    "delta_stars": 16154,
+    "delta_text": "16,154 stars this week",
+    "forks": 2734,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 49379,
+    "delta_stars": 24702,
+    "delta_text": "24,702 stars this week",
+    "forks": 4045,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "huggingface/ml-intern",
+    "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+    "language": "Python",
+    "total_stars": 7695,
+    "delta_stars": 6388,
+    "delta_text": "6,388 stars this week",
+    "forks": 745,
+    "url": "https://github.com/huggingface/ml-intern"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 69283,
+    "delta_stars": 9428,
+    "delta_text": "9,428 stars this week",
+    "forks": 7812,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "CJackHwang/ds2api",
+    "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+    "language": "Go",
+    "total_stars": 2940,
+    "delta_stars": 1415,
+    "delta_text": "1,415 stars this week",
+    "forks": 766,
+    "url": "https://github.com/CJackHwang/ds2api"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 102519,
+    "delta_stars": 24129,
+    "delta_text": "24,129 stars this week",
+    "forks": 10066,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 8414,
+    "delta_stars": 2445,
+    "delta_text": "2,445 stars this week",
+    "forks": 1359,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "trycua/cua",
+    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+    "language": "HTML",
+    "total_stars": 15396,
+    "delta_stars": 1615,
+    "delta_text": "1,615 stars this week",
+    "forks": 952,
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "name": "Anil-matcha/Open-Generative-AI",
+    "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "language": "JavaScript",
+    "total_stars": 10416,
+    "delta_stars": 3823,
+    "delta_text": "3,823 stars this week",
+    "forks": 1824,
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "language": "Python",
+    "total_stars": 18308,
+    "delta_stars": 5117,
+    "delta_text": "5,117 stars this week",
+    "forks": 2457,
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "name": "zilliztech/claude-context",
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+    "language": "TypeScript",
+    "total_stars": 10434,
+    "delta_stars": 3151,
+    "delta_text": "3,151 stars this week",
+    "forks": 769,
+    "url": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 8478,
+    "delta_stars": 2365,
+    "delta_text": "2,365 stars this week",
+    "forks": 971,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  }
+]
