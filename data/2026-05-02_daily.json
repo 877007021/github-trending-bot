@@ -1,0 +1,92 @@
+[
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 59812,
+    "delta_stars": 2115,
+    "delta_text": "2,115 stars today",
+    "forks": 11489,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 21621,
+    "delta_stars": 535,
+    "delta_text": "535 stars today",
+    "forks": 1509,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "warpdotdev/warp",
+    "description": "Warp is an agentic development environment, born out of the terminal.",
+    "language": "Rust",
+    "total_stars": 51413,
+    "delta_stars": 3403,
+    "delta_text": "3,403 stars today",
+    "forks": 3443,
+    "url": "https://github.com/warpdotdev/warp"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "language": "Rust",
+    "total_stars": 2343,
+    "delta_stars": 404,
+    "delta_text": "404 stars today",
+    "forks": 206,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 52494,
+    "delta_stars": 3649,
+    "delta_text": "3,649 stars today",
+    "forks": 4387,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "browserbase/skills",
+    "description": "Claude Agent SDK with a web browsing tool",
+    "language": "JavaScript",
+    "total_stars": 1168,
+    "delta_stars": 334,
+    "delta_text": "334 stars today",
+    "forks": 81,
+    "url": "https://github.com/browserbase/skills"
+  },
+  {
+    "name": "simstudioai/sim",
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "language": "TypeScript",
+    "total_stars": 28144,
+    "delta_stars": 38,
+    "delta_text": "38 stars today",
+    "forks": 3557,
+    "url": "https://github.com/simstudioai/sim"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 175601,
+    "delta_stars": 1098,
+    "delta_text": "1,098 stars today",
+    "forks": 15513,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "total_stars": 26967,
+    "delta_stars": 165,
+    "delta_text": "165 stars today",
+    "forks": 2107,
+    "url": "https://github.com/Flowseal/zapret-discord-youtube"
+  }
+]

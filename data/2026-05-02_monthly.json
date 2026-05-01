@@ -1,0 +1,192 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 104669,
+    "delta_stars": 94646,
+    "delta_text": "94,646 stars this month",
+    "forks": 10335,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 128251,
+    "delta_stars": 107384,
+    "delta_text": "107,384 stars this month",
+    "forks": 19293,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 23464,
+    "delta_stars": 22824,
+    "delta_text": "22,824 stars this month",
+    "forks": 2887,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 19687,
+    "delta_stars": 17760,
+    "delta_text": "17,760 stars this month",
+    "forks": 2805,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 52495,
+    "delta_stars": 36944,
+    "delta_text": "36,944 stars this month",
+    "forks": 4387,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "language": "Python",
+    "total_stars": 18686,
+    "delta_stars": 15326,
+    "delta_text": "15,326 stars this month",
+    "forks": 2500,
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 22379,
+    "delta_stars": 10927,
+    "delta_text": "10,927 stars this month",
+    "forks": 3937,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 22834,
+    "delta_stars": 11891,
+    "delta_text": "11,891 stars this month",
+    "forks": 3051,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 20442,
+    "delta_stars": 6553,
+    "delta_text": "6,553 stars this month",
+    "forks": 3123,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 22415,
+    "delta_stars": 6925,
+    "delta_text": "6,925 stars this month",
+    "forks": 2215,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 119247,
+    "delta_stars": 26422,
+    "delta_text": "26,422 stars this month",
+    "forks": 7900,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 8639,
+    "delta_stars": 7653,
+    "delta_text": "7,653 stars this month",
+    "forks": 987,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 4618,
+    "delta_stars": 3578,
+    "delta_text": "3,578 stars this month",
+    "forks": 450,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "name": "hugohe3/ppt-master",
+    "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
+    "language": "Python",
+    "total_stars": 10401,
+    "delta_stars": 6546,
+    "delta_text": "6,546 stars this month",
+    "forks": 1096,
+    "url": "https://github.com/hugohe3/ppt-master"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 70740,
+    "delta_stars": 26754,
+    "delta_text": "26,754 stars this month",
+    "forks": 6051,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 69771,
+    "delta_stars": 12342,
+    "delta_text": "12,342 stars this month",
+    "forks": 7860,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 5390,
+    "delta_stars": 4562,
+    "delta_text": "4,562 stars this month",
+    "forks": 336,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "rtk-ai/rtk",
+    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "language": "Rust",
+    "total_stars": 39476,
+    "delta_stars": 23051,
+    "delta_text": "23,051 stars this month",
+    "forks": 2390,
+    "url": "https://github.com/rtk-ai/rtk"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "language": "TypeScript",
+    "total_stars": 34059,
+    "delta_stars": 24903,
+    "delta_text": "24,903 stars this month",
+    "forks": 2286,
+    "url": "https://github.com/siddharthvaddem/openscreen"
+  }
+]
