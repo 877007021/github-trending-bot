@@ -1,0 +1,92 @@
+[
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 55012,
+    "delta_stars": 33628,
+    "delta_text": "33,628 stars this week",
+    "forks": 4637,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 20222,
+    "delta_stars": 12928,
+    "delta_text": "12,928 stars this week",
+    "forks": 2891,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 62552,
+    "delta_stars": 6152,
+    "delta_text": "6,152 stars this week",
+    "forks": 12086,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 70414,
+    "delta_stars": 7925,
+    "delta_text": "7,925 stars this week",
+    "forks": 7937,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "CJackHwang/ds2api",
+    "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
+    "language": "Go",
+    "total_stars": 3165,
+    "delta_stars": 1775,
+    "delta_text": "1,775 stars this week",
+    "forks": 824,
+    "url": "https://github.com/CJackHwang/ds2api"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 106511,
+    "delta_stars": 21896,
+    "delta_text": "21,896 stars this week",
+    "forks": 10571,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 22656,
+    "delta_stars": 1833,
+    "delta_text": "1,833 stars this week",
+    "forks": 1593,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "total_stars": 34633,
+    "delta_stars": 5376,
+    "delta_text": "5,376 stars this week",
+    "forks": 3929,
+    "url": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 9162,
+    "delta_stars": 2023,
+    "delta_text": "2,023 stars this week",
+    "forks": 1451,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  }
+]
