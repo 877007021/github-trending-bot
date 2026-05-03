@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "language": "TypeScript",
+    "total_stars": 38929,
+    "delta_stars": 1834,
+    "delta_text": "1,834 stars today",
+    "forks": 4416,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 65217,
+    "delta_stars": 3315,
+    "delta_text": "3,315 stars today",
+    "forks": 12610,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 23765,
+    "delta_stars": 1117,
+    "delta_text": "1,117 stars today",
+    "forks": 1668,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "Coding agent for DeepSeek models that runs in your terminal",
+    "language": "Rust",
+    "total_stars": 2127,
+    "delta_stars": 389,
+    "delta_text": "389 stars today",
+    "forks": 120,
+    "url": "https://github.com/Hmbown/DeepSeek-TUI"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 9920,
+    "delta_stars": 478,
+    "delta_text": "478 stars today",
+    "forks": 1550,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "browserbase/skills",
+    "description": "Claude Agent SDK with a web browsing tool",
+    "language": "JavaScript",
+    "total_stars": 1810,
+    "delta_stars": 322,
+    "delta_text": "322 stars today",
+    "forks": 118,
+    "url": "https://github.com/browserbase/skills"
+  },
+  {
+    "name": "czlonkowski/n8n-mcp",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+    "language": "TypeScript",
+    "total_stars": 19507,
+    "delta_stars": 264,
+    "delta_text": "264 stars today",
+    "forks": 3235,
+    "url": "https://github.com/czlonkowski/n8n-mcp"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "language": "Rust",
+    "total_stars": 3411,
+    "delta_stars": 587,
+    "delta_text": "587 stars today",
+    "forks": 317,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "language": "C",
+    "total_stars": 26604,
+    "delta_stars": 14,
+    "delta_text": "14 stars today",
+    "forks": 12345,
+    "url": "https://github.com/openwrt/openwrt"
+  }
+]

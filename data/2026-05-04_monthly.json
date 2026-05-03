@@ -1,0 +1,182 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 108809,
+    "delta_stars": 98469,
+    "delta_text": "98,469 stars this month",
+    "forks": 10834,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 131163,
+    "delta_stars": 107704,
+    "delta_text": "107,704 stars this month",
+    "forks": 19878,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 27418,
+    "delta_stars": 27090,
+    "delta_text": "27,090 stars this month",
+    "forks": 3408,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 24082,
+    "delta_stars": 22270,
+    "delta_text": "22,270 stars this month",
+    "forks": 2944,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 56978,
+    "delta_stars": 42738,
+    "delta_text": "42,738 stars this month",
+    "forks": 4854,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 20693,
+    "delta_stars": 18673,
+    "delta_text": "18,673 stars this month",
+    "forks": 2974,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 22622,
+    "delta_stars": 11144,
+    "delta_text": "11,144 stars this month",
+    "forks": 3970,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 23103,
+    "delta_stars": 12096,
+    "delta_text": "12,096 stars this month",
+    "forks": 3083,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 20656,
+    "delta_stars": 6752,
+    "delta_text": "6,752 stars this month",
+    "forks": 3159,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 119877,
+    "delta_stars": 26800,
+    "delta_text": "26,800 stars this month",
+    "forks": 7969,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 8939,
+    "delta_stars": 7955,
+    "delta_text": "7,955 stars this month",
+    "forks": 1024,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 22547,
+    "delta_stars": 7036,
+    "delta_text": "7,036 stars this month",
+    "forks": 2223,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 71534,
+    "delta_stars": 26887,
+    "delta_text": "26,887 stars this month",
+    "forks": 6140,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 70892,
+    "delta_stars": 12929,
+    "delta_text": "12,929 stars this month",
+    "forks": 7995,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 6146,
+    "delta_stars": 5080,
+    "delta_text": "5,080 stars this month",
+    "forks": 405,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 9920,
+    "delta_stars": 5607,
+    "delta_text": "5,607 stars this month",
+    "forks": 1550,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "rtk-ai/rtk",
+    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "language": "Rust",
+    "total_stars": 40657,
+    "delta_stars": 23381,
+    "delta_text": "23,381 stars this month",
+    "forks": 2482,
+    "url": "https://github.com/rtk-ai/rtk"
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "total_stars": 4719,
+    "delta_stars": 3658,
+    "delta_text": "3,658 stars this month",
+    "forks": 456,
+    "url": "https://github.com/google-ai-edge/LiteRT-LM"
+  }
+]

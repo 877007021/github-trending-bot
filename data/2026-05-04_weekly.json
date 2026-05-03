@@ -1,0 +1,122 @@
+[
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 56978,
+    "delta_stars": 35324,
+    "delta_text": "35,324 stars this week",
+    "forks": 4853,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 65218,
+    "delta_stars": 8489,
+    "delta_text": "8,489 stars this week",
+    "forks": 12610,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 6146,
+    "delta_stars": 4290,
+    "delta_text": "4,290 stars this week",
+    "forks": 405,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 20692,
+    "delta_stars": 9364,
+    "delta_text": "9,364 stars this week",
+    "forks": 2974,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "language": "TypeScript",
+    "total_stars": 9221,
+    "delta_stars": 3384,
+    "delta_text": "3,384 stars this week",
+    "forks": 660,
+    "url": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 23765,
+    "delta_stars": 2678,
+    "delta_text": "2,678 stars this week",
+    "forks": 1668,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 70892,
+    "delta_stars": 7210,
+    "delta_text": "7,210 stars this week",
+    "forks": 7995,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "CJackHwang/ds2api",
+    "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
+    "language": "Go",
+    "total_stars": 3248,
+    "delta_stars": 1832,
+    "delta_text": "1,832 stars this week",
+    "forks": 861,
+    "url": "https://github.com/CJackHwang/ds2api"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "language": "TypeScript",
+    "total_stars": 38929,
+    "delta_stars": 2972,
+    "delta_text": "2,972 stars this week",
+    "forks": 4417,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "total_stars": 35188,
+    "delta_stars": 5465,
+    "delta_text": "5,465 stars this week",
+    "forks": 4001,
+    "url": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 108809,
+    "delta_stars": 20079,
+    "delta_text": "20,079 stars this week",
+    "forks": 10833,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 9920,
+    "delta_stars": 2315,
+    "delta_text": "2,315 stars this week",
+    "forks": 1550,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  }
+]
