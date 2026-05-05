@@ -1,0 +1,142 @@
+[
+  {
+    "name": "warpdotdev/warp",
+    "description": "Warp is an agentic development environment, born out of the terminal.",
+    "language": "Rust",
+    "total_stars": 54920,
+    "delta_stars": 27872,
+    "delta_text": "27,872 stars this week",
+    "forks": 3946,
+    "url": "https://github.com/warpdotdev/warp"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 60887,
+    "delta_stars": 31091,
+    "delta_text": "31,091 stars this week",
+    "forks": 5241,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 69299,
+    "delta_stars": 13293,
+    "delta_text": "13,293 stars this week",
+    "forks": 13356,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 25482,
+    "delta_stars": 4789,
+    "delta_text": "4,789 stars this week",
+    "forks": 1761,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "language": "TypeScript",
+    "total_stars": 43571,
+    "delta_stars": 6838,
+    "delta_text": "6,838 stars this week",
+    "forks": 4854,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "language": "Python",
+    "total_stars": 12678,
+    "delta_stars": 2617,
+    "delta_text": "2,617 stars this week",
+    "forks": 1692,
+    "url": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 6850,
+    "delta_stars": 3964,
+    "delta_text": "3,964 stars this week",
+    "forks": 448,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 11626,
+    "delta_stars": 3635,
+    "delta_text": "3,635 stars this week",
+    "forks": 1796,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 21591,
+    "delta_stars": 5787,
+    "delta_text": "5,787 stars this week",
+    "forks": 3126,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "iamgio/quarkdown",
+    "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+    "language": "Kotlin",
+    "total_stars": 13682,
+    "delta_stars": 2557,
+    "delta_text": "2,557 stars this week",
+    "forks": 379,
+    "url": "https://github.com/iamgio/quarkdown"
+  },
+  {
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "language": "TypeScript",
+    "total_stars": 23739,
+    "delta_stars": 1524,
+    "delta_text": "1,524 stars this week",
+    "forks": 2895,
+    "url": "https://github.com/virattt/dexter"
+  },
+  {
+    "name": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "total_stars": 81809,
+    "delta_stars": 1830,
+    "delta_text": "1,830 stars this week",
+    "forks": 8270,
+    "url": "https://github.com/zed-industries/zed"
+  },
+  {
+    "name": "CJackHwang/ds2api",
+    "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
+    "language": "Go",
+    "total_stars": 3517,
+    "delta_stars": 1619,
+    "delta_text": "1,619 stars this week",
+    "forks": 960,
+    "url": "https://github.com/CJackHwang/ds2api"
+  },
+  {
+    "name": "lukilabs/craft-agents-oss",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 5776,
+    "delta_stars": 1106,
+    "delta_text": "1,106 stars this week",
+    "forks": 771,
+    "url": "https://github.com/lukilabs/craft-agents-oss"
+  }
+]

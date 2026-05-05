@@ -1,0 +1,192 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 113808,
+    "delta_stars": 103293,
+    "delta_text": "103,293 stars this month",
+    "forks": 11372,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 134112,
+    "delta_stars": 108507,
+    "delta_text": "108,507 stars this month",
+    "forks": 20464,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 24816,
+    "delta_stars": 22432,
+    "delta_text": "22,432 stars this month",
+    "forks": 3017,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 60888,
+    "delta_stars": 46450,
+    "delta_text": "46,450 stars this month",
+    "forks": 5241,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "language": "Python",
+    "total_stars": 19923,
+    "delta_stars": 17030,
+    "delta_text": "17,030 stars this month",
+    "forks": 2681,
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 21591,
+    "delta_stars": 19618,
+    "delta_text": "19,618 stars this month",
+    "forks": 3127,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 28725,
+    "delta_stars": 27045,
+    "delta_text": "27,045 stars this month",
+    "forks": 3509,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 22974,
+    "delta_stars": 11354,
+    "delta_text": "11,354 stars this month",
+    "forks": 4026,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 20839,
+    "delta_stars": 6963,
+    "delta_text": "6,963 stars this month",
+    "forks": 3180,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 23367,
+    "delta_stars": 12356,
+    "delta_text": "12,356 stars this month",
+    "forks": 3102,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 120724,
+    "delta_stars": 27415,
+    "delta_text": "27,415 stars this month",
+    "forks": 8066,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 9194,
+    "delta_stars": 8239,
+    "delta_text": "8,239 stars this month",
+    "forks": 1066,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 11625,
+    "delta_stars": 7257,
+    "delta_text": "7,257 stars this month",
+    "forks": 1796,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 72476,
+    "delta_stars": 27271,
+    "delta_text": "27,271 stars this month",
+    "forks": 6220,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "hugohe3/ppt-master",
+    "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
+    "language": "Python",
+    "total_stars": 11668,
+    "delta_stars": 7808,
+    "delta_text": "7,808 stars this month",
+    "forks": 1217,
+    "url": "https://github.com/hugohe3/ppt-master"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 71886,
+    "delta_stars": 13759,
+    "delta_text": "13,759 stars this month",
+    "forks": 8116,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 6850,
+    "delta_stars": 5716,
+    "delta_text": "5,716 stars this month",
+    "forks": 448,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "rtk-ai/rtk",
+    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "language": "Rust",
+    "total_stars": 42178,
+    "delta_stars": 23950,
+    "delta_text": "23,950 stars this month",
+    "forks": 2554,
+    "url": "https://github.com/rtk-ai/rtk"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 69299,
+    "delta_stars": 20250,
+    "delta_text": "20,250 stars this month",
+    "forks": 13356,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  }
+]
