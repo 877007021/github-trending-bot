@@ -1,0 +1,182 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 111512,
+    "delta_stars": 103293,
+    "delta_text": "103,293 stars this month",
+    "forks": 11120,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 132679,
+    "delta_stars": 108507,
+    "delta_text": "108,507 stars this month",
+    "forks": 20166,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 24422,
+    "delta_stars": 22432,
+    "delta_text": "22,432 stars this month",
+    "forks": 2980,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 27816,
+    "delta_stars": 27045,
+    "delta_text": "27,045 stars this month",
+    "forks": 3443,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 58973,
+    "delta_stars": 46450,
+    "delta_text": "46,450 stars this month",
+    "forks": 5081,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 21209,
+    "delta_stars": 19618,
+    "delta_text": "19,618 stars this month",
+    "forks": 3059,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 22745,
+    "delta_stars": 11354,
+    "delta_text": "11,354 stars this month",
+    "forks": 3990,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 20759,
+    "delta_stars": 6963,
+    "delta_text": "6,963 stars this month",
+    "forks": 3167,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 23237,
+    "delta_stars": 12356,
+    "delta_text": "12,356 stars this month",
+    "forks": 3093,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 120346,
+    "delta_stars": 27415,
+    "delta_text": "27,415 stars this month",
+    "forks": 8018,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 9090,
+    "delta_stars": 8239,
+    "delta_text": "8,239 stars this month",
+    "forks": 1047,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 72003,
+    "delta_stars": 27271,
+    "delta_text": "27,271 stars this month",
+    "forks": 6181,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 71386,
+    "delta_stars": 13759,
+    "delta_text": "13,759 stars this month",
+    "forks": 8058,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 6498,
+    "delta_stars": 5716,
+    "delta_text": "5,716 stars this month",
+    "forks": 423,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 10856,
+    "delta_stars": 7257,
+    "delta_text": "7,257 stars this month",
+    "forks": 1692,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "language": "Kotlin",
+    "total_stars": 22598,
+    "delta_stars": 6677,
+    "delta_text": "6,677 stars this month",
+    "forks": 2233,
+    "url": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "name": "rtk-ai/rtk",
+    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "language": "Rust",
+    "total_stars": 41422,
+    "delta_stars": 23950,
+    "delta_text": "23,950 stars this month",
+    "forks": 2514,
+    "url": "https://github.com/rtk-ai/rtk"
+  },
+  {
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "description": "Claude Code skill to support Android app's reverse engineering",
+    "language": "Shell",
+    "total_stars": 5483,
+    "delta_stars": 4057,
+    "delta_text": "4,057 stars this month",
+    "forks": 621,
+    "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+  }
+]
