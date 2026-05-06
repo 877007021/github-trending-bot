@@ -1,0 +1,152 @@
+[
+  {
+    "name": "warpdotdev/warp",
+    "description": "Warp is an agentic development environment, born out of the terminal.",
+    "language": "Rust",
+    "total_stars": 55706,
+    "delta_stars": 28493,
+    "delta_text": "28,493 stars this week",
+    "forks": 4086,
+    "url": "https://github.com/warpdotdev/warp"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 70298,
+    "delta_stars": 14697,
+    "delta_text": "14,697 stars this week",
+    "forks": 13579,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 62961,
+    "delta_stars": 25389,
+    "delta_text": "25,389 stars this week",
+    "forks": 5446,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "language": "TypeScript",
+    "total_stars": 45225,
+    "delta_stars": 9159,
+    "delta_text": "9,159 stars this week",
+    "forks": 5006,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 25918,
+    "delta_stars": 5645,
+    "delta_text": "5,645 stars this week",
+    "forks": 1801,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "language": "Rust",
+    "total_stars": 4503,
+    "delta_stars": 3447,
+    "delta_text": "3,447 stars this week",
+    "forks": 432,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 12719,
+    "delta_stars": 4201,
+    "delta_text": "4,201 stars this week",
+    "forks": 1926,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "language": "TypeScript",
+    "total_stars": 24338,
+    "delta_stars": 2050,
+    "delta_text": "2,050 stars this week",
+    "forks": 2961,
+    "url": "https://github.com/virattt/dexter"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 7144,
+    "delta_stars": 3370,
+    "delta_text": "3,370 stars this week",
+    "forks": 472,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "language": "Python",
+    "total_stars": 46249,
+    "delta_stars": 5667,
+    "delta_text": "5,667 stars this week",
+    "forks": 4279,
+    "url": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "name": "docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "language": "Ruby",
+    "total_stars": 14860,
+    "delta_stars": 2229,
+    "delta_text": "2,229 stars this week",
+    "forks": 1353,
+    "url": "https://github.com/docusealco/docuseal"
+  },
+  {
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "language": "Python",
+    "total_stars": 12844,
+    "delta_stars": 2434,
+    "delta_text": "2,434 stars this week",
+    "forks": 1710,
+    "url": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "name": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "total_stars": 82001,
+    "delta_stars": 1900,
+    "delta_text": "1,900 stars this week",
+    "forks": 8297,
+    "url": "https://github.com/zed-industries/zed"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 22027,
+    "delta_stars": 4510,
+    "delta_text": "4,510 stars this week",
+    "forks": 3191,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "total_stars": 27468,
+    "delta_stars": 870,
+    "delta_text": "870 stars this week",
+    "forks": 2144,
+    "url": "https://github.com/Flowseal/zapret-discord-youtube"
+  }
+]
