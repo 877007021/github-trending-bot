@@ -1,0 +1,177 @@
+[
+  {
+    "username": "sozercan",
+    "display_name": "Sertaç Özercan",
+    "popular_repo": "kaset",
+    "url": "https://github.com/sozercan",
+    "repo_url": "https://github.com/sozercan/kaset"
+  },
+  {
+    "username": "raullenchai",
+    "display_name": "Raullen Chai",
+    "popular_repo": "Rapid-MLX",
+    "url": "https://github.com/raullenchai",
+    "repo_url": "https://github.com/raullenchai/Rapid-MLX"
+  },
+  {
+    "username": "1weiho",
+    "display_name": "Yiwei Ho",
+    "popular_repo": "open-slide",
+    "url": "https://github.com/1weiho",
+    "repo_url": "https://github.com/1weiho/open-slide"
+  },
+  {
+    "username": "Q00",
+    "display_name": "Q00",
+    "popular_repo": "ouroboros",
+    "url": "https://github.com/Q00",
+    "repo_url": "https://github.com/Q00/ouroboros"
+  },
+  {
+    "username": "leecalcote",
+    "display_name": "Lee Calcote",
+    "popular_repo": "",
+    "url": "https://github.com/leecalcote",
+    "repo_url": ""
+  },
+  {
+    "username": "zhaochenyang20",
+    "display_name": "赵晨阳",
+    "popular_repo": "Awesome-ML-SYS-Tutorial",
+    "url": "https://github.com/zhaochenyang20",
+    "repo_url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial"
+  },
+  {
+    "username": "vincelwt",
+    "display_name": "Vincelwt",
+    "popular_repo": "gloomberb",
+    "url": "https://github.com/vincelwt",
+    "repo_url": "https://github.com/vincelwt/gloomberb"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "ruflo",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "username": "HansKristian-Work",
+    "display_name": "Hans-Kristian Arntzen",
+    "popular_repo": "vkd3d-proton",
+    "url": "https://github.com/HansKristian-Work",
+    "repo_url": "https://github.com/HansKristian-Work/vkd3d-proton"
+  },
+  {
+    "username": "Classic298",
+    "display_name": "Classic298",
+    "popular_repo": "open-webui-plugins",
+    "url": "https://github.com/Classic298",
+    "repo_url": "https://github.com/Classic298/open-webui-plugins"
+  },
+  {
+    "username": "qixing-jk",
+    "display_name": "",
+    "popular_repo": "all-api-hub",
+    "url": "https://github.com/qixing-jk",
+    "repo_url": "https://github.com/qixing-jk/all-api-hub"
+  },
+  {
+    "username": "delano",
+    "display_name": "Delano",
+    "popular_repo": "postman-mcp-server",
+    "url": "https://github.com/delano",
+    "repo_url": "https://github.com/delano/postman-mcp-server"
+  },
+  {
+    "username": "localden",
+    "display_name": "Den Delimarsky",
+    "popular_repo": "",
+    "url": "https://github.com/localden",
+    "repo_url": ""
+  },
+  {
+    "username": "svarlamov",
+    "display_name": "Sasha Varlamov",
+    "popular_repo": "",
+    "url": "https://github.com/svarlamov",
+    "repo_url": ""
+  },
+  {
+    "username": "zhuzilin",
+    "display_name": "Zilin Zhu",
+    "popular_repo": "sgl-router",
+    "url": "https://github.com/zhuzilin",
+    "repo_url": "https://github.com/zhuzilin/sgl-router"
+  },
+  {
+    "username": "dalathegreat",
+    "display_name": "Daniel Öster",
+    "popular_repo": "Battery-Emulator",
+    "url": "https://github.com/dalathegreat",
+    "repo_url": "https://github.com/dalathegreat/Battery-Emulator"
+  },
+  {
+    "username": "tangly1024",
+    "display_name": "tangly1024",
+    "popular_repo": "NotionNext",
+    "url": "https://github.com/tangly1024",
+    "repo_url": "https://github.com/tangly1024/NotionNext"
+  },
+  {
+    "username": "MervinPraison",
+    "display_name": "Mervin Praison",
+    "popular_repo": "PraisonAI",
+    "url": "https://github.com/MervinPraison",
+    "repo_url": "https://github.com/MervinPraison/PraisonAI"
+  },
+  {
+    "username": "mohsen1",
+    "display_name": "Mohsen Azimi",
+    "popular_repo": "tsz",
+    "url": "https://github.com/mohsen1",
+    "repo_url": "https://github.com/mohsen1/tsz"
+  },
+  {
+    "username": "andimarafioti",
+    "display_name": "Andrés Marafioti",
+    "popular_repo": "faster-qwen3-tts",
+    "url": "https://github.com/andimarafioti",
+    "repo_url": "https://github.com/andimarafioti/faster-qwen3-tts"
+  },
+  {
+    "username": "emontnemery",
+    "display_name": "Erik Montnemery",
+    "popular_repo": "",
+    "url": "https://github.com/emontnemery",
+    "repo_url": ""
+  },
+  {
+    "username": "lukehinds",
+    "display_name": "Luke Hinds",
+    "popular_repo": "awesome-sandbox",
+    "url": "https://github.com/lukehinds",
+    "repo_url": "https://github.com/lukehinds/awesome-sandbox"
+  },
+  {
+    "username": "alexey-milovidov",
+    "display_name": "Alexey Milovidov",
+    "popular_repo": "go-clickhouse",
+    "url": "https://github.com/alexey-milovidov",
+    "repo_url": "https://github.com/alexey-milovidov/go-clickhouse"
+  },
+  {
+    "username": "sxyazi",
+    "display_name": "三咲雅 misaki masa",
+    "popular_repo": "yazi",
+    "url": "https://github.com/sxyazi",
+    "repo_url": "https://github.com/sxyazi/yazi"
+  },
+  {
+    "username": "1c7",
+    "display_name": "郑诚 (Cheng Zheng)",
+    "popular_repo": "chinese-independent-developer",
+    "url": "https://github.com/1c7",
+    "repo_url": "https://github.com/1c7/chinese-independent-developer"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 118611,
+    "delta_stars": 110765,
+    "delta_text": "110,765 stars this month",
+    "forks": 11954,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 137523,
+    "delta_stars": 107836,
+    "delta_text": "107,836 stars this month",
+    "forks": 21172,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 25843,
+    "delta_stars": 23598,
+    "delta_text": "23,598 stars this month",
+    "forks": 3138,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 64823,
+    "delta_stars": 51703,
+    "delta_text": "51,703 stars this month",
+    "forks": 5583,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 22371,
+    "delta_stars": 20653,
+    "delta_text": "20,653 stars this month",
+    "forks": 3241,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 23446,
+    "delta_stars": 11923,
+    "delta_text": "11,923 stars this month",
+    "forks": 4093,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 20992,
+    "delta_stars": 7217,
+    "delta_text": "7,217 stars this month",
+    "forks": 3200,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 32914,
+    "delta_stars": 24596,
+    "delta_text": "24,596 stars this month",
+    "forks": 3806,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 121514,
+    "delta_stars": 28421,
+    "delta_text": "28,421 stars this month",
+    "forks": 8155,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "total_stars": 17586,
+    "delta_stars": 11325,
+    "delta_text": "11,325 stars this month",
+    "forks": 2092,
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 9462,
+    "delta_stars": 8612,
+    "delta_text": "8,612 stars this month",
+    "forks": 1104,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 13303,
+    "delta_stars": 9860,
+    "delta_text": "9,860 stars this month",
+    "forks": 1998,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 73360,
+    "delta_stars": 27756,
+    "delta_text": "27,756 stars this month",
+    "forks": 6296,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "language": "Python",
+    "total_stars": 23614,
+    "delta_stars": 12002,
+    "delta_text": "12,002 stars this month",
+    "forks": 3129,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 7435,
+    "delta_stars": 6721,
+    "delta_text": "6,721 stars this month",
+    "forks": 487,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 72647,
+    "delta_stars": 14951,
+    "delta_text": "14,951 stars this month",
+    "forks": 8217,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  }
+]
