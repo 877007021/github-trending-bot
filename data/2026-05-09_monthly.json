@@ -1,0 +1,182 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 120587,
+    "delta_stars": 112013,
+    "delta_text": "112,013 stars this month",
+    "forks": 12166,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 139184,
+    "delta_stars": 104052,
+    "delta_text": "104,052 stars this month",
+    "forks": 21494,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 66576,
+    "delta_stars": 53203,
+    "delta_text": "53,203 stars this month",
+    "forks": 5720,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 22813,
+    "delta_stars": 20993,
+    "delta_text": "20,993 stars this month",
+    "forks": 3298,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 26241,
+    "delta_stars": 23942,
+    "delta_text": "23,942 stars this month",
+    "forks": 3180,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 23670,
+    "delta_stars": 12092,
+    "delta_text": "12,092 stars this month",
+    "forks": 4138,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 35325,
+    "delta_stars": 25346,
+    "delta_text": "25,346 stars this month",
+    "forks": 4017,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 9802,
+    "delta_stars": 8855,
+    "delta_text": "8,855 stars this month",
+    "forks": 1133,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 13768,
+    "delta_stars": 10269,
+    "delta_text": "10,269 stars this month",
+    "forks": 2049,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "total_stars": 17841,
+    "delta_stars": 11007,
+    "delta_text": "11,007 stars this month",
+    "forks": 2115,
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "language": "TypeScript",
+    "total_stars": 21069,
+    "delta_stars": 7274,
+    "delta_text": "7,274 stars this month",
+    "forks": 3212,
+    "url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 121934,
+    "delta_stars": 28653,
+    "delta_text": "28,653 stars this month",
+    "forks": 8204,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 72970,
+    "delta_stars": 15265,
+    "delta_text": "15,265 stars this month",
+    "forks": 8249,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 7654,
+    "delta_stars": 6940,
+    "delta_text": "6,940 stars this month",
+    "forks": 500,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "total_stars": 73739,
+    "delta_stars": 27861,
+    "delta_text": "27,861 stars this month",
+    "forks": 6336,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "hugohe3/ppt-master",
+    "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
+    "language": "Python",
+    "total_stars": 13453,
+    "delta_stars": 9337,
+    "delta_text": "9,337 stars this month",
+    "forks": 1370,
+    "url": "https://github.com/hugohe3/ppt-master"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 26607,
+    "delta_stars": 7182,
+    "delta_text": "7,182 stars this month",
+    "forks": 1864,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 71782,
+    "delta_stars": 23486,
+    "delta_text": "23,486 stars this month",
+    "forks": 13939,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  }
+]
