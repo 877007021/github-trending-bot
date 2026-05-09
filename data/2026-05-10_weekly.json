@@ -1,0 +1,162 @@
+[
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 17356,
+    "delta_stars": 5848,
+    "delta_text": "5,848 stars this week",
+    "forks": 2196,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "language": "TypeScript",
+    "total_stars": 47789,
+    "delta_stars": 12226,
+    "delta_text": "12,226 stars this week",
+    "forks": 5299,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 72494,
+    "delta_stars": 12981,
+    "delta_text": "12,981 stars this week",
+    "forks": 14089,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "language": "Ruby",
+    "total_stars": 16087,
+    "delta_stars": 4069,
+    "delta_text": "4,069 stars this week",
+    "forks": 1457,
+    "url": "https://github.com/docusealco/docuseal"
+  },
+  {
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "language": "TypeScript",
+    "total_stars": 25041,
+    "delta_stars": 3278,
+    "delta_text": "3,278 stars this week",
+    "forks": 3047,
+    "url": "https://github.com/virattt/dexter"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 27044,
+    "delta_stars": 5398,
+    "delta_text": "5,398 stars this week",
+    "forks": 1896,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "language": "Rust",
+    "total_stars": 5328,
+    "delta_stars": 2925,
+    "delta_text": "2,925 stars this week",
+    "forks": 533,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "cocoindex-io/cocoindex",
+    "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+    "language": "Python",
+    "total_stars": 9327,
+    "delta_stars": 1909,
+    "delta_text": "1,909 stars this week",
+    "forks": 706,
+    "url": "https://github.com/cocoindex-io/cocoindex"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 14168,
+    "delta_stars": 5136,
+    "delta_text": "5,136 stars this week",
+    "forks": 2091,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 68019,
+    "delta_stars": 14928,
+    "delta_text": "14,928 stars this week",
+    "forks": 5863,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "browserbase/skills",
+    "description": "Browserbase's official collection of agent skills to access the web.",
+    "language": "JavaScript",
+    "total_stars": 2964,
+    "delta_stars": 1621,
+    "delta_text": "1,621 stars this week",
+    "forks": 196,
+    "url": "https://github.com/browserbase/skills"
+  },
+  {
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "language": "JavaScript",
+    "total_stars": 6479,
+    "delta_stars": 1781,
+    "delta_text": "1,781 stars this week",
+    "forks": 1163,
+    "url": "https://github.com/decolua/9router"
+  },
+  {
+    "name": "openai/symphony",
+    "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+    "language": "Elixir",
+    "total_stars": 22950,
+    "delta_stars": 2335,
+    "delta_text": "2,335 stars this week",
+    "forks": 2148,
+    "url": "https://github.com/openai/symphony"
+  },
+  {
+    "name": "InsForge/InsForge",
+    "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
+    "language": "TypeScript",
+    "total_stars": 9240,
+    "delta_stars": 1201,
+    "delta_text": "1,201 stars this week",
+    "forks": 762,
+    "url": "https://github.com/InsForge/InsForge"
+  },
+  {
+    "name": "fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+    "language": "JavaScript",
+    "total_stars": 3522,
+    "delta_stars": 1122,
+    "delta_text": "1,122 stars this week",
+    "forks": 494,
+    "url": "https://github.com/fspecii/ace-step-ui"
+  },
+  {
+    "name": "Q00/ouroboros",
+    "description": "Agent OS: Stop prompting. Start specifying.",
+    "language": "Python",
+    "total_stars": 3831,
+    "delta_stars": 867,
+    "delta_text": "867 stars this week",
+    "forks": 367,
+    "url": "https://github.com/Q00/ouroboros"
+  }
+]
