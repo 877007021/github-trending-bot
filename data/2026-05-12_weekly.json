@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "Coding agent for DeepSeek models that runs in your terminal",
+    "language": "Rust",
+    "total_stars": 25169,
+    "delta_stars": 21752,
+    "delta_text": "21,752 stars this week",
+    "forks": 2080,
+    "url": "https://github.com/Hmbown/DeepSeek-TUI"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 20301,
+    "delta_stars": 12088,
+    "delta_text": "12,088 stars this week",
+    "forks": 2671,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "language": "TypeScript",
+    "total_stars": 49101,
+    "delta_stars": 8660,
+    "delta_text": "8,660 stars this week",
+    "forks": 5448,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "total_stars": 32978,
+    "delta_stars": 3211,
+    "delta_text": "3,211 stars this week",
+    "forks": 3271,
+    "url": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "name": "LearningCircuit/local-deep-research",
+    "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+    "language": "Python",
+    "total_stars": 7220,
+    "delta_stars": 2449,
+    "delta_text": "2,449 stars this week",
+    "forks": 635,
+    "url": "https://github.com/LearningCircuit/local-deep-research"
+  },
+  {
+    "name": "docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "language": "Ruby",
+    "total_stars": 16372,
+    "delta_stars": 3537,
+    "delta_text": "3,537 stars this week",
+    "forks": 1490,
+    "url": "https://github.com/docusealco/docuseal"
+  },
+  {
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "language": "JavaScript",
+    "total_stars": 8286,
+    "delta_stars": 4263,
+    "delta_text": "4,263 stars this week",
+    "forks": 1327,
+    "url": "https://github.com/decolua/9router"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 73847,
+    "delta_stars": 7259,
+    "delta_text": "7,259 stars this week",
+    "forks": 14399,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "bwya77/vscode-dark-islands",
+    "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+    "language": "PowerShell",
+    "total_stars": 8408,
+    "delta_stars": 1113,
+    "delta_text": "1,113 stars this week",
+    "forks": 263,
+    "url": "https://github.com/bwya77/vscode-dark-islands"
+  },
+  {
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "language": "TypeScript",
+    "total_stars": 25287,
+    "delta_stars": 2391,
+    "delta_text": "2,391 stars this week",
+    "forks": 3087,
+    "url": "https://github.com/virattt/dexter"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 15170,
+    "delta_stars": 4480,
+    "delta_text": "4,480 stars this week",
+    "forks": 2206,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 39436,
+    "delta_stars": 11725,
+    "delta_text": "11,725 stars this week",
+    "forks": 4352,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "cocoindex-io/cocoindex",
+    "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+    "language": "Python",
+    "total_stars": 9615,
+    "delta_stars": 1798,
+    "delta_text": "1,798 stars this week",
+    "forks": 739,
+    "url": "https://github.com/cocoindex-io/cocoindex"
+  },
+  {
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "language": "Python",
+    "total_stars": 30656,
+    "delta_stars": 4555,
+    "delta_text": "4,555 stars this week",
+    "forks": 2615,
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "name": "InsForge/InsForge",
+    "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
+    "language": "TypeScript",
+    "total_stars": 9462,
+    "delta_stars": 1493,
+    "delta_text": "1,493 stars this week",
+    "forks": 782,
+    "url": "https://github.com/InsForge/InsForge"
+  },
+  {
+    "name": "PriorLabs/TabPFN",
+    "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+    "language": "Python",
+    "total_stars": 6956,
+    "delta_stars": 739,
+    "delta_text": "739 stars this week",
+    "forks": 685,
+    "url": "https://github.com/PriorLabs/TabPFN"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "language": "Rust",
+    "total_stars": 5769,
+    "delta_stars": 2009,
+    "delta_text": "2,009 stars this week",
+    "forks": 595,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 72188,
+    "delta_stars": 12993,
+    "delta_text": "12,993 stars this week",
+    "forks": 6236,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "total_stars": 10710,
+    "delta_stars": 1226,
+    "delta_text": "1,226 stars this week",
+    "forks": 1996,
+    "url": "https://github.com/yikart/AiToEarn"
+  }
+]
