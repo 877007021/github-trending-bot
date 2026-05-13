@@ -1,0 +1,172 @@
+[
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 126930,
+    "delta_stars": 112357,
+    "delta_text": "112,357 stars this month",
+    "forks": 12899,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 75944,
+    "delta_stars": 60612,
+    "delta_text": "60,612 stars this month",
+    "forks": 6544,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 24122,
+    "delta_stars": 22285,
+    "delta_text": "22,285 stars this month",
+    "forks": 3575,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "total_stars": 11069,
+    "delta_stars": 10192,
+    "delta_text": "10,192 stars this month",
+    "forks": 1258,
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 146842,
+    "delta_stars": 84327,
+    "delta_text": "84,327 stars this month",
+    "forks": 23040,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 15600,
+    "delta_stars": 12025,
+    "delta_text": "12,025 stars this month",
+    "forks": 2249,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "Tracer-Cloud/opensre",
+    "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+    "language": "Python",
+    "total_stars": 4895,
+    "delta_stars": 4343,
+    "delta_text": "4,343 stars this month",
+    "forks": 620,
+    "url": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 40379,
+    "delta_stars": 27115,
+    "delta_text": "27,115 stars this month",
+    "forks": 4449,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 8834,
+    "delta_stars": 7910,
+    "delta_text": "7,910 stars this month",
+    "forks": 708,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 73897,
+    "delta_stars": 16078,
+    "delta_text": "16,078 stars this month",
+    "forks": 8336,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 28115,
+    "delta_stars": 8676,
+    "delta_text": "8,676 stars this month",
+    "forks": 2014,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 74396,
+    "delta_stars": 24880,
+    "delta_text": "24,880 stars this month",
+    "forks": 14510,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "language": "TypeScript",
+    "total_stars": 27708,
+    "delta_stars": 19082,
+    "delta_text": "19,082 stars this month",
+    "forks": 3337,
+    "url": "https://github.com/multica-ai/multica"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 21488,
+    "delta_stars": 13692,
+    "delta_text": "13,692 stars this month",
+    "forks": 2892,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "Anil-matcha/Open-Generative-AI",
+    "description": "Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "language": "JavaScript",
+    "total_stars": 13011,
+    "delta_stars": 8544,
+    "delta_text": "8,544 stars this month",
+    "forks": 2296,
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "name": "hugohe3/ppt-master",
+    "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
+    "language": "Python",
+    "total_stars": 15289,
+    "delta_stars": 10574,
+    "delta_text": "10,574 stars this month",
+    "forks": 1511,
+    "url": "https://github.com/hugohe3/ppt-master"
+  },
+  {
+    "name": "z-lab/dflash",
+    "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+    "language": "Python",
+    "total_stars": 4483,
+    "delta_stars": 3448,
+    "delta_text": "3,448 stars this month",
+    "forks": 315,
+    "url": "https://github.com/z-lab/dflash"
+  }
+]

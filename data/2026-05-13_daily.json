@@ -1,0 +1,112 @@
+[
+  {
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "language": "Rust",
+    "total_stars": 2657,
+    "delta_stars": 1014,
+    "delta_text": "1,014 stars today",
+    "forks": 258,
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 5819,
+    "delta_stars": 1048,
+    "delta_text": "1,048 stars today",
+    "forks": 544,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 7807,
+    "delta_stars": 1606,
+    "delta_text": "1,606 stars today",
+    "forks": 565,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "apernet/hysteria",
+    "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "language": "Go",
+    "total_stars": 20211,
+    "delta_stars": 51,
+    "delta_text": "51 stars today",
+    "forks": 2093,
+    "url": "https://github.com/apernet/hysteria"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 75941,
+    "delta_stars": 3867,
+    "delta_text": "3,867 stars today",
+    "forks": 6544,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "anonfaded/FadCam",
+    "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+    "language": "Java",
+    "total_stars": 2198,
+    "delta_stars": 116,
+    "delta_text": "116 stars today",
+    "forks": 168,
+    "url": "https://github.com/anonfaded/FadCam"
+  },
+  {
+    "name": "millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it",
+    "language": "TypeScript",
+    "total_stars": 8752,
+    "delta_stars": 788,
+    "delta_text": "788 stars today",
+    "forks": 280,
+    "url": "https://github.com/millionco/react-doctor"
+  },
+  {
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "language": "Jupyter Notebook",
+    "total_stars": 93752,
+    "delta_stars": 772,
+    "delta_text": "772 stars today",
+    "forks": 14412,
+    "url": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "name": "datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "language": "Python",
+    "total_stars": 48193,
+    "delta_stars": 599,
+    "delta_text": "599 stars today",
+    "forks": 5803,
+    "url": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "total_stars": 11826,
+    "delta_stars": 1282,
+    "delta_text": "1,282 stars today",
+    "forks": 2083,
+    "url": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "name": "HKUDS/AI-Trader",
+    "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+    "language": "Python",
+    "total_stars": 16582,
+    "delta_stars": 229,
+    "delta_text": "229 stars today",
+    "forks": 2611,
+    "url": "https://github.com/HKUDS/AI-Trader"
+  }
+]
