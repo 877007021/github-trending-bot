@@ -1,0 +1,177 @@
+[
+  {
+    "username": "Soju06",
+    "display_name": "Soju06",
+    "popular_repo": "codex-lb",
+    "url": "https://github.com/Soju06",
+    "repo_url": "https://github.com/Soju06/codex-lb"
+  },
+  {
+    "username": "zkochan",
+    "display_name": "Zoltan Kochan",
+    "popular_repo": "git-wt",
+    "url": "https://github.com/zkochan",
+    "repo_url": "https://github.com/zkochan/git-wt"
+  },
+  {
+    "username": "stephenberry",
+    "display_name": "Stephen Berry",
+    "popular_repo": "glaze",
+    "url": "https://github.com/stephenberry",
+    "repo_url": "https://github.com/stephenberry/glaze"
+  },
+  {
+    "username": "zackees",
+    "display_name": "Zachary Vorhies",
+    "popular_repo": "transcribe-anything",
+    "url": "https://github.com/zackees",
+    "repo_url": "https://github.com/zackees/transcribe-anything"
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "ruflo",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "username": "serenakeyitan",
+    "display_name": "Serena",
+    "popular_repo": "awesome-notebookLM-prompts",
+    "url": "https://github.com/serenakeyitan",
+    "repo_url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts"
+  },
+  {
+    "username": "andreknieriem",
+    "display_name": "Andre Rinas",
+    "popular_repo": "headunit-revived",
+    "url": "https://github.com/andreknieriem",
+    "repo_url": "https://github.com/andreknieriem/headunit-revived"
+  },
+  {
+    "username": "cyphar",
+    "display_name": "Aleksa Sarai",
+    "popular_repo": "mkonion",
+    "url": "https://github.com/cyphar",
+    "repo_url": "https://github.com/cyphar/mkonion"
+  },
+  {
+    "username": "ClementTsang",
+    "display_name": "Clement Tsang",
+    "popular_repo": "bottom",
+    "url": "https://github.com/ClementTsang",
+    "repo_url": "https://github.com/ClementTsang/bottom"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "cryppadotta",
+    "display_name": "Dotta",
+    "popular_repo": "paperclip-pap-3046",
+    "url": "https://github.com/cryppadotta",
+    "repo_url": "https://github.com/cryppadotta/paperclip-pap-3046"
+  },
+  {
+    "username": "sobolevn",
+    "display_name": "sobolevn",
+    "popular_repo": "awesome-cryptography",
+    "url": "https://github.com/sobolevn",
+    "repo_url": "https://github.com/sobolevn/awesome-cryptography"
+  },
+  {
+    "username": "RalphHightower",
+    "display_name": "Ralph Hightower",
+    "popular_repo": "",
+    "url": "https://github.com/RalphHightower",
+    "repo_url": ""
+  },
+  {
+    "username": "davideast",
+    "display_name": "David East",
+    "popular_repo": "stitch-mcp",
+    "url": "https://github.com/davideast",
+    "repo_url": "https://github.com/davideast/stitch-mcp"
+  },
+  {
+    "username": "oschwartz10612",
+    "display_name": "Owen Schwartz",
+    "popular_repo": "poppler-windows",
+    "url": "https://github.com/oschwartz10612",
+    "repo_url": "https://github.com/oschwartz10612/poppler-windows"
+  },
+  {
+    "username": "Viicos",
+    "display_name": "Victorien",
+    "popular_repo": "",
+    "url": "https://github.com/Viicos",
+    "repo_url": ""
+  },
+  {
+    "username": "lirantal",
+    "display_name": "Liran Tal",
+    "popular_repo": "npm-security-best-practices",
+    "url": "https://github.com/lirantal",
+    "repo_url": "https://github.com/lirantal/npm-security-best-practices"
+  },
+  {
+    "username": "Scottcjn",
+    "display_name": "AutoJanitor",
+    "popular_repo": "Rustchain",
+    "url": "https://github.com/Scottcjn",
+    "repo_url": "https://github.com/Scottcjn/Rustchain"
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "themightychris",
+    "display_name": "Chris Alfano",
+    "popular_repo": "",
+    "url": "https://github.com/themightychris",
+    "repo_url": ""
+  },
+  {
+    "username": "zircote",
+    "display_name": "Robert Allen",
+    "popular_repo": "rlm-rs",
+    "url": "https://github.com/zircote",
+    "repo_url": "https://github.com/zircote/rlm-rs"
+  },
+  {
+    "username": "threepointone",
+    "display_name": "Sunil Pai",
+    "popular_repo": "klocker",
+    "url": "https://github.com/threepointone",
+    "repo_url": "https://github.com/threepointone/klocker"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "holtskinner",
+    "display_name": "Holt Skinner",
+    "popular_repo": "A2AWalkthrough",
+    "url": "https://github.com/holtskinner",
+    "repo_url": "https://github.com/holtskinner/A2AWalkthrough"
+  }
+]

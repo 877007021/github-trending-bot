@@ -1,0 +1,152 @@
+[
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 55943,
+    "delta_stars": 1715,
+    "delta_text": "1,715 stars today",
+    "forks": 7402,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "language": "Rust",
+    "total_stars": 7730,
+    "delta_stars": 3329,
+    "delta_text": "3,329 stars today",
+    "forks": 621,
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 8952,
+    "delta_stars": 1879,
+    "delta_text": "1,879 stars today",
+    "forks": 740,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 191150,
+    "delta_stars": 1780,
+    "delta_text": "1,780 stars today",
+    "forks": 17002,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "language": "Python",
+    "total_stars": 21766,
+    "delta_stars": 654,
+    "delta_text": "654 stars today",
+    "forks": 2376,
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 24802,
+    "delta_stars": 363,
+    "delta_text": "363 stars today",
+    "forks": 4342,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "total_stars": 38868,
+    "delta_stars": 83,
+    "delta_text": "83 stars today",
+    "forks": 3478,
+    "url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "name": "influxdata/telegraf",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "language": "Go",
+    "total_stars": 17216,
+    "delta_stars": 215,
+    "delta_text": "215 stars today",
+    "forks": 5791,
+    "url": "https://github.com/influxdata/telegraf"
+  },
+  {
+    "name": "supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+    "language": "Swift",
+    "total_stars": 5306,
+    "delta_stars": 1128,
+    "delta_text": "1,128 stars today",
+    "forks": 517,
+    "url": "https://github.com/supertone-inc/supertonic"
+  },
+  {
+    "name": "Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "total_stars": 141316,
+    "delta_stars": 851,
+    "delta_text": "851 stars today",
+    "forks": 13049,
+    "url": "https://github.com/Genymobile/scrcpy"
+  },
+  {
+    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+    "language": "Python",
+    "total_stars": 823,
+    "delta_stars": 62,
+    "delta_text": "62 stars today",
+    "forks": 245,
+    "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 10838,
+    "delta_stars": 1354,
+    "delta_text": "1,354 stars today",
+    "forks": 807,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 82199,
+    "delta_stars": 2987,
+    "delta_text": "2,987 stars today",
+    "forks": 7092,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "language": "Python",
+    "total_stars": 99464,
+    "delta_stars": 1232,
+    "delta_text": "1,232 stars today",
+    "forks": 8667,
+    "url": "https://github.com/github/spec-kit"
+  },
+  {
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "language": "TypeScript",
+    "total_stars": 96720,
+    "delta_stars": 915,
+    "delta_text": "915 stars today",
+    "forks": 14387,
+    "url": "https://github.com/garrytan/gstack"
+  }
+]
