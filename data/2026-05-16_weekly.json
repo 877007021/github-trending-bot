@@ -1,0 +1,142 @@
+[
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 23282,
+    "delta_stars": 12529,
+    "delta_text": "12,529 stars this week",
+    "forks": 3204,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 11845,
+    "delta_stars": 8404,
+    "delta_text": "8,404 stars this week",
+    "forks": 892,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "total_stars": 14063,
+    "delta_stars": 4412,
+    "delta_text": "4,412 stars this week",
+    "forks": 2372,
+    "url": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 9642,
+    "delta_stars": 6467,
+    "delta_text": "6,467 stars this week",
+    "forks": 799,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "total_stars": 34092,
+    "delta_stars": 4184,
+    "delta_text": "4,184 stars this week",
+    "forks": 3395,
+    "url": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "language": "JavaScript",
+    "total_stars": 10661,
+    "delta_stars": 6024,
+    "delta_text": "6,024 stars this week",
+    "forks": 1643,
+    "url": "https://github.com/decolua/9router"
+  },
+  {
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "Coding agent for DeepSeek models that runs in your terminal",
+    "language": "Rust",
+    "total_stars": 29848,
+    "delta_stars": 11303,
+    "delta_text": "11,303 stars this week",
+    "forks": 2494,
+    "url": "https://github.com/Hmbown/DeepSeek-TUI"
+  },
+  {
+    "name": "HKUDS/AI-Trader",
+    "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+    "language": "Python",
+    "total_stars": 17383,
+    "delta_stars": 3013,
+    "delta_text": "3,013 stars this week",
+    "forks": 2678,
+    "url": "https://github.com/HKUDS/AI-Trader"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 84913,
+    "delta_stars": 17059,
+    "delta_text": "17,059 stars this week",
+    "forks": 7353,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "playcanvas/supersplat",
+    "description": "3D Gaussian Splat Editor",
+    "language": "TypeScript",
+    "total_stars": 8059,
+    "delta_stars": 2866,
+    "delta_text": "2,866 stars this week",
+    "forks": 870,
+    "url": "https://github.com/playcanvas/supersplat"
+  },
+  {
+    "name": "apernet/hysteria",
+    "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "language": "Go",
+    "total_stars": 20857,
+    "delta_stars": 874,
+    "delta_text": "874 stars this week",
+    "forks": 2149,
+    "url": "https://github.com/apernet/hysteria"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 57477,
+    "delta_stars": 3517,
+    "delta_text": "3,517 stars this week",
+    "forks": 7550,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 42067,
+    "delta_stars": 9198,
+    "delta_text": "9,198 stars this week",
+    "forks": 4615,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "datawhalechina/easy-vibe",
+    "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+    "language": "JavaScript",
+    "total_stars": 11097,
+    "delta_stars": 3096,
+    "delta_text": "3,096 stars this week",
+    "forks": 1033,
+    "url": "https://github.com/datawhalechina/easy-vibe"
+  }
+]

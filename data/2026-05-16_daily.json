@@ -1,0 +1,122 @@
+[
+  {
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "language": "Rust",
+    "total_stars": 9010,
+    "delta_stars": 1272,
+    "delta_text": "1,272 stars today",
+    "forks": 758,
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 192791,
+    "delta_stars": 1646,
+    "delta_text": "1,646 stars today",
+    "forks": 17147,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "language": "Python",
+    "total_stars": 22430,
+    "delta_stars": 643,
+    "delta_text": "643 stars today",
+    "forks": 2425,
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "name": "supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+    "language": "Swift",
+    "total_stars": 6023,
+    "delta_stars": 712,
+    "delta_text": "712 stars today",
+    "forks": 592,
+    "url": "https://github.com/supertone-inc/supertonic"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 57477,
+    "delta_stars": 1865,
+    "delta_text": "1,865 stars today",
+    "forks": 7550,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "influxdata/telegraf",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "language": "Go",
+    "total_stars": 17403,
+    "delta_stars": 213,
+    "delta_text": "213 stars today",
+    "forks": 5802,
+    "url": "https://github.com/influxdata/telegraf"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 135102,
+    "delta_stars": 625,
+    "delta_text": "625 stars today",
+    "forks": 15926,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "czlonkowski/n8n-mcp",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+    "language": "TypeScript",
+    "total_stars": 20888,
+    "delta_stars": 68,
+    "delta_text": "68 stars today",
+    "forks": 3398,
+    "url": "https://github.com/czlonkowski/n8n-mcp"
+  },
+  {
+    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+    "language": "Python",
+    "total_stars": 1145,
+    "delta_stars": 305,
+    "delta_text": "305 stars today",
+    "forks": 264,
+    "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
+  },
+  {
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Rust",
+    "total_stars": 90609,
+    "delta_stars": 395,
+    "delta_text": "395 stars today",
+    "forks": 4512,
+    "url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 84912,
+    "delta_stars": 3155,
+    "delta_text": "3,155 stars today",
+    "forks": 7353,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "joeseesun/qiaomu-anything-to-notebooklm",
+    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+    "language": "Python",
+    "total_stars": 2680,
+    "delta_stars": 465,
+    "delta_text": "465 stars today",
+    "forks": 273,
+    "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm"
+  }
+]
