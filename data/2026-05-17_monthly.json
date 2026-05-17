@@ -1,0 +1,192 @@
+[
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 86821,
+    "delta_stars": 70819,
+    "delta_text": "70,819 stars this month",
+    "forks": 7557,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 25008,
+    "delta_stars": 23165,
+    "delta_text": "23,165 stars this month",
+    "forks": 3727,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 132466,
+    "delta_stars": 85711,
+    "delta_text": "85,711 stars this month",
+    "forks": 13500,
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 18685,
+    "delta_stars": 18580,
+    "delta_text": "18,580 stars this month",
+    "forks": 1746,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 17444,
+    "delta_stars": 13265,
+    "delta_text": "13,265 stars this month",
+    "forks": 2518,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "language": "Python",
+    "total_stars": 10042,
+    "delta_stars": 9254,
+    "delta_text": "9,254 stars this month",
+    "forks": 941,
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 23805,
+    "delta_stars": 16163,
+    "delta_text": "16,163 stars this month",
+    "forks": 3288,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 74968,
+    "delta_stars": 17059,
+    "delta_text": "17,059 stars this month",
+    "forks": 8463,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 42499,
+    "delta_stars": 26268,
+    "delta_text": "26,268 stars this month",
+    "forks": 4665,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 28995,
+    "delta_stars": 9553,
+    "delta_text": "9,553 stars this month",
+    "forks": 2079,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 76157,
+    "delta_stars": 25591,
+    "delta_text": "25,591 stars this month",
+    "forks": 14824,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "thunderbird/thunderbolt",
+    "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+    "language": "TypeScript",
+    "total_stars": 4586,
+    "delta_stars": 4595,
+    "delta_text": "4,595 stars this month",
+    "forks": 311,
+    "url": "https://github.com/thunderbird/thunderbolt"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 153403,
+    "delta_stars": 61663,
+    "delta_text": "61,663 stars this month",
+    "forks": 24458,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 12624,
+    "delta_stars": 11015,
+    "delta_text": "11,015 stars this month",
+    "forks": 973,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 10320,
+    "delta_stars": 8330,
+    "delta_text": "8,330 stars this month",
+    "forks": 863,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "Anil-matcha/Open-Generative-AI",
+    "description": "Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "language": "JavaScript",
+    "total_stars": 14410,
+    "delta_stars": 9226,
+    "delta_text": "9,226 stars this month",
+    "forks": 2513,
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "name": "zilliztech/claude-context",
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+    "language": "TypeScript",
+    "total_stars": 11210,
+    "delta_stars": 5285,
+    "delta_text": "5,285 stars this month",
+    "forks": 834,
+    "url": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "name": "Tracer-Cloud/opensre",
+    "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+    "language": "Python",
+    "total_stars": 5257,
+    "delta_stars": 4294,
+    "delta_text": "4,294 stars this month",
+    "forks": 657,
+    "url": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "language": "JavaScript",
+    "total_stars": 11099,
+    "delta_stars": 8431,
+    "delta_text": "8,431 stars this month",
+    "forks": 1702,
+    "url": "https://github.com/decolua/9router"
+  }
+]
