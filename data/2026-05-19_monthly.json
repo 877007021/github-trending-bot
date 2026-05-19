@@ -1,0 +1,182 @@
+[
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 91812,
+    "delta_stars": 75156,
+    "delta_text": "75,156 stars this month",
+    "forks": 8056,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "language": "Python",
+    "total_stars": 25695,
+    "delta_stars": 23648,
+    "delta_text": "23,648 stars this month",
+    "forks": 3836,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 135925,
+    "delta_stars": 79827,
+    "delta_text": "79,827 stars this month",
+    "forks": 13946,
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 18088,
+    "delta_stars": 13920,
+    "delta_text": "13,920 stars this month",
+    "forks": 2583,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "language": "Python",
+    "total_stars": 21593,
+    "delta_stars": 17662,
+    "delta_text": "17,662 stars this month",
+    "forks": 2912,
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 25343,
+    "delta_stars": 17541,
+    "delta_text": "17,541 stars this month",
+    "forks": 3505,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "total_stars": 75343,
+    "delta_stars": 17407,
+    "delta_text": "17,407 stars this month",
+    "forks": 8498,
+    "url": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 15191,
+    "delta_stars": 13346,
+    "delta_text": "13,346 stars this month",
+    "forks": 1189,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 29358,
+    "delta_stars": 9898,
+    "delta_text": "9,898 stars this month",
+    "forks": 2105,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 43349,
+    "delta_stars": 26123,
+    "delta_text": "26,123 stars this month",
+    "forks": 4777,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 76935,
+    "delta_stars": 25921,
+    "delta_text": "25,921 stars this month",
+    "forks": 14992,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 12832,
+    "delta_stars": 10333,
+    "delta_text": "10,333 stars this month",
+    "forks": 1089,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 19347,
+    "delta_stars": 15723,
+    "delta_text": "15,723 stars this month",
+    "forks": 1821,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "Anil-matcha/Open-Generative-AI",
+    "description": "Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "language": "JavaScript",
+    "total_stars": 15784,
+    "delta_stars": 10606,
+    "delta_text": "10,606 stars this month",
+    "forks": 2667,
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "name": "zilliztech/claude-context",
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+    "language": "TypeScript",
+    "total_stars": 11412,
+    "delta_stars": 5469,
+    "delta_text": "5,469 stars this month",
+    "forks": 840,
+    "url": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "language": "JavaScript",
+    "total_stars": 12156,
+    "delta_stars": 9426,
+    "delta_text": "9,426 stars this month",
+    "forks": 1842,
+    "url": "https://github.com/decolua/9router"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "language": "TypeScript",
+    "total_stars": 52814,
+    "delta_stars": 20788,
+    "delta_text": "20,788 stars this month",
+    "forks": 5978,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 156412,
+    "delta_stars": 58667,
+    "delta_text": "58,667 stars this month",
+    "forks": 25157,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  }
+]

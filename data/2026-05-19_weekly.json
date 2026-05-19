@@ -1,0 +1,132 @@
+[
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 15189,
+    "delta_stars": 9124,
+    "delta_text": "9,124 stars this week",
+    "forks": 1189,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 12830,
+    "delta_stars": 7830,
+    "delta_text": "7,830 stars this week",
+    "forks": 1089,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Rust",
+    "total_stars": 91936,
+    "delta_stars": 2350,
+    "delta_text": "2,350 stars this week",
+    "forks": 4596,
+    "url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 11684,
+    "delta_stars": 4402,
+    "delta_text": "4,402 stars this week",
+    "forks": 1191,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "total_stars": 15196,
+    "delta_stars": 4851,
+    "delta_text": "4,851 stars this week",
+    "forks": 2493,
+    "url": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 25343,
+    "delta_stars": 5259,
+    "delta_text": "5,259 stars this week",
+    "forks": 3505,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 91811,
+    "delta_stars": 20361,
+    "delta_text": "20,361 stars this week",
+    "forks": 8056,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 59889,
+    "delta_stars": 7217,
+    "delta_text": "7,217 stars this week",
+    "forks": 7808,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it",
+    "language": "TypeScript",
+    "total_stars": 10165,
+    "delta_stars": 2453,
+    "delta_text": "2,453 stars this week",
+    "forks": 325,
+    "url": "https://github.com/millionco/react-doctor"
+  },
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 4883,
+    "delta_stars": 2690,
+    "delta_text": "2,690 stars this week",
+    "forks": 342,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "apernet/hysteria",
+    "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "language": "Go",
+    "total_stars": 21246,
+    "delta_stars": 1254,
+    "delta_text": "1,254 stars this week",
+    "forks": 2181,
+    "url": "https://github.com/apernet/hysteria"
+  },
+  {
+    "name": "facebook/pyrefly",
+    "description": "A fast type checker and language server for Python",
+    "language": "Rust",
+    "total_stars": 6208,
+    "delta_stars": 481,
+    "delta_text": "481 stars this week",
+    "forks": 367,
+    "url": "https://github.com/facebook/pyrefly"
+  },
+  {
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "total_stars": 34635,
+    "delta_stars": 1939,
+    "delta_text": "1,939 stars this week",
+    "forks": 3474,
+    "url": "https://github.com/bytedance/UI-TARS-desktop"
+  }
+]
