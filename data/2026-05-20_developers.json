@@ -1,0 +1,177 @@
+[
+  {
+    "username": "sonichi",
+    "display_name": "Chi Wang",
+    "popular_repo": "sutando",
+    "url": "https://github.com/sonichi",
+    "repo_url": "https://github.com/sonichi/sutando"
+  },
+  {
+    "username": "Aaronontheweb",
+    "display_name": "Aaron Stannard",
+    "popular_repo": "dotnet-skills",
+    "url": "https://github.com/Aaronontheweb",
+    "repo_url": "https://github.com/Aaronontheweb/dotnet-skills"
+  },
+  {
+    "username": "ctate",
+    "display_name": "Chris Tate",
+    "popular_repo": "3d-model-generator",
+    "url": "https://github.com/ctate",
+    "repo_url": "https://github.com/ctate/3d-model-generator"
+  },
+  {
+    "username": "adrianhajdin",
+    "display_name": "Adrian Hajdin - JS Mastery",
+    "popular_repo": "react-native-lingua",
+    "url": "https://github.com/adrianhajdin",
+    "repo_url": "https://github.com/adrianhajdin/react-native-lingua"
+  },
+  {
+    "username": "madeye",
+    "display_name": "Max Lv",
+    "popular_repo": "meow-ios",
+    "url": "https://github.com/madeye",
+    "repo_url": "https://github.com/madeye/meow-ios"
+  },
+  {
+    "username": "bdraco",
+    "display_name": "J. Nick Koston",
+    "popular_repo": "",
+    "url": "https://github.com/bdraco",
+    "repo_url": ""
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "zsviczian",
+    "display_name": "zsviczian",
+    "popular_repo": "obsidian-excalidraw-plugin",
+    "url": "https://github.com/zsviczian",
+    "repo_url": "https://github.com/zsviczian/obsidian-excalidraw-plugin"
+  },
+  {
+    "username": "delano",
+    "display_name": "Delano",
+    "popular_repo": "redis-dump",
+    "url": "https://github.com/delano",
+    "repo_url": "https://github.com/delano/redis-dump"
+  },
+  {
+    "username": "valyala",
+    "display_name": "Aliaksandr Valialkin",
+    "popular_repo": "fasthttp",
+    "url": "https://github.com/valyala",
+    "repo_url": "https://github.com/valyala/fasthttp"
+  },
+  {
+    "username": "MichaIng",
+    "display_name": "MichaIng",
+    "popular_repo": "DietPi",
+    "url": "https://github.com/MichaIng",
+    "repo_url": "https://github.com/MichaIng/DietPi"
+  },
+  {
+    "username": "danieldk",
+    "display_name": "Daniël de Kok",
+    "popular_repo": "",
+    "url": "https://github.com/danieldk",
+    "repo_url": ""
+  },
+  {
+    "username": "theovilardo",
+    "display_name": "theovilardo",
+    "popular_repo": "PixelPlayer",
+    "url": "https://github.com/theovilardo",
+    "repo_url": "https://github.com/theovilardo/PixelPlayer"
+  },
+  {
+    "username": "v9ai",
+    "display_name": "Vadim Nicolai",
+    "popular_repo": "ai-engineer-roadmap",
+    "url": "https://github.com/v9ai",
+    "repo_url": "https://github.com/v9ai/ai-engineer-roadmap"
+  },
+  {
+    "username": "yairm210",
+    "display_name": "Yair Morgenstern",
+    "popular_repo": "Unciv",
+    "url": "https://github.com/yairm210",
+    "repo_url": "https://github.com/yairm210/Unciv"
+  },
+  {
+    "username": "LalitMaganti",
+    "display_name": "Lalit Maganti",
+    "popular_repo": "syntaqlite",
+    "url": "https://github.com/LalitMaganti",
+    "repo_url": "https://github.com/LalitMaganti/syntaqlite"
+  },
+  {
+    "username": "bradygaster",
+    "display_name": "Brady Gaster",
+    "popular_repo": "squad",
+    "url": "https://github.com/bradygaster",
+    "repo_url": "https://github.com/bradygaster/squad"
+  },
+  {
+    "username": "kim-em",
+    "display_name": "Kim Morrison",
+    "popular_repo": "lean-zip",
+    "url": "https://github.com/kim-em",
+    "repo_url": "https://github.com/kim-em/lean-zip"
+  },
+  {
+    "username": "danielmeppiel",
+    "display_name": "Daniel Meppiel",
+    "popular_repo": "agentic-sdlc-handbook",
+    "url": "https://github.com/danielmeppiel",
+    "repo_url": "https://github.com/danielmeppiel/agentic-sdlc-handbook"
+  },
+  {
+    "username": "ZhuLinsen",
+    "display_name": "mumu",
+    "popular_repo": "daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen",
+    "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "username": "ivov",
+    "display_name": "Iván Ovejero",
+    "popular_repo": "lisette",
+    "url": "https://github.com/ivov",
+    "repo_url": "https://github.com/ivov/lisette"
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "cliffhall",
+    "display_name": "Cliff Hall",
+    "popular_repo": "",
+    "url": "https://github.com/cliffhall",
+    "repo_url": ""
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "bradfitz",
+    "display_name": "Brad Fitzpatrick",
+    "popular_repo": "tailscale-tamago-ec2",
+    "url": "https://github.com/bradfitz",
+    "repo_url": "https://github.com/bradfitz/tailscale-tamago-ec2"
+  }
+]
