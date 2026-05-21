@@ -1,0 +1,177 @@
+[
+  {
+    "username": "ctate",
+    "display_name": "Chris Tate",
+    "popular_repo": "3d-model-generator",
+    "url": "https://github.com/ctate",
+    "repo_url": "https://github.com/ctate/3d-model-generator"
+  },
+  {
+    "username": "sonichi",
+    "display_name": "Chi Wang",
+    "popular_repo": "sutando",
+    "url": "https://github.com/sonichi",
+    "repo_url": "https://github.com/sonichi/sutando"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "mishushakov",
+    "display_name": "Mish Ushakov",
+    "popular_repo": "llm-scraper",
+    "url": "https://github.com/mishushakov",
+    "repo_url": "https://github.com/mishushakov/llm-scraper"
+  },
+  {
+    "username": "Aaronontheweb",
+    "display_name": "Aaron Stannard",
+    "popular_repo": "dotnet-skills",
+    "url": "https://github.com/Aaronontheweb",
+    "repo_url": "https://github.com/Aaronontheweb/dotnet-skills"
+  },
+  {
+    "username": "bradygaster",
+    "display_name": "Brady Gaster",
+    "popular_repo": "squad",
+    "url": "https://github.com/bradygaster",
+    "repo_url": "https://github.com/bradygaster/squad"
+  },
+  {
+    "username": "emilk",
+    "display_name": "Emil Ernerfeldt",
+    "popular_repo": "egui",
+    "url": "https://github.com/emilk",
+    "repo_url": "https://github.com/emilk/egui"
+  },
+  {
+    "username": "RealKai42",
+    "display_name": "Kai",
+    "popular_repo": "qwerty-learner",
+    "url": "https://github.com/RealKai42",
+    "repo_url": "https://github.com/RealKai42/qwerty-learner"
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "rubenfiszel",
+    "display_name": "Ruben Fiszel",
+    "popular_repo": "",
+    "url": "https://github.com/rubenfiszel",
+    "repo_url": ""
+  },
+  {
+    "username": "fzyzcjy",
+    "display_name": "fzyzcjy",
+    "popular_repo": "flutter_rust_bridge",
+    "url": "https://github.com/fzyzcjy",
+    "repo_url": "https://github.com/fzyzcjy/flutter_rust_bridge"
+  },
+  {
+    "username": "rockorager",
+    "display_name": "Tim Culverhouse",
+    "popular_repo": "comview",
+    "url": "https://github.com/rockorager",
+    "repo_url": "https://github.com/rockorager/comview"
+  },
+  {
+    "username": "karpathy",
+    "display_name": "Andrej",
+    "popular_repo": "autoresearch",
+    "url": "https://github.com/karpathy",
+    "repo_url": "https://github.com/karpathy/autoresearch"
+  },
+  {
+    "username": "buger",
+    "display_name": "Leonid Bugaev",
+    "popular_repo": "jsonparser",
+    "url": "https://github.com/buger",
+    "repo_url": "https://github.com/buger/jsonparser"
+  },
+  {
+    "username": "danielmeppiel",
+    "display_name": "Daniel Meppiel",
+    "popular_repo": "agentic-sdlc-handbook",
+    "url": "https://github.com/danielmeppiel",
+    "repo_url": "https://github.com/danielmeppiel/agentic-sdlc-handbook"
+  },
+  {
+    "username": "ZhuLinsen",
+    "display_name": "mumu",
+    "popular_repo": "daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen",
+    "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "bdraco",
+    "display_name": "J. Nick Koston",
+    "popular_repo": "",
+    "url": "https://github.com/bdraco",
+    "repo_url": ""
+  },
+  {
+    "username": "xiaolai",
+    "display_name": "xiaolai",
+    "popular_repo": "type-review",
+    "url": "https://github.com/xiaolai",
+    "repo_url": "https://github.com/xiaolai/type-review"
+  },
+  {
+    "username": "charlesBochet",
+    "display_name": "Charles Bochet",
+    "popular_repo": "",
+    "url": "https://github.com/charlesBochet",
+    "repo_url": ""
+  },
+  {
+    "username": "HansKristian-Work",
+    "display_name": "Hans-Kristian Arntzen",
+    "popular_repo": "vkd3d-proton",
+    "url": "https://github.com/HansKristian-Work",
+    "repo_url": "https://github.com/HansKristian-Work/vkd3d-proton"
+  },
+  {
+    "username": "Classic298",
+    "display_name": "Classic298",
+    "popular_repo": "open-webui-plugins",
+    "url": "https://github.com/Classic298",
+    "repo_url": "https://github.com/Classic298/open-webui-plugins"
+  },
+  {
+    "username": "jjallaire",
+    "display_name": "jjallaire",
+    "popular_repo": "inspect-llm-workshop",
+    "url": "https://github.com/jjallaire",
+    "repo_url": "https://github.com/jjallaire/inspect-llm-workshop"
+  },
+  {
+    "username": "can1357",
+    "display_name": "Can Bölük",
+    "popular_repo": "oh-my-pi",
+    "url": "https://github.com/can1357",
+    "repo_url": "https://github.com/can1357/oh-my-pi"
+  }
+]
