@@ -1,0 +1,177 @@
+[
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "sonichi",
+    "display_name": "Chi Wang",
+    "popular_repo": "sutando",
+    "url": "https://github.com/sonichi",
+    "repo_url": "https://github.com/sonichi/sutando"
+  },
+  {
+    "username": "mishushakov",
+    "display_name": "Mish Ushakov",
+    "popular_repo": "llm-scraper",
+    "url": "https://github.com/mishushakov",
+    "repo_url": "https://github.com/mishushakov/llm-scraper"
+  },
+  {
+    "username": "bradygaster",
+    "display_name": "Brady Gaster",
+    "popular_repo": "squad",
+    "url": "https://github.com/bradygaster",
+    "repo_url": "https://github.com/bradygaster/squad"
+  },
+  {
+    "username": "Aaronontheweb",
+    "display_name": "Aaron Stannard",
+    "popular_repo": "dotnet-skills",
+    "url": "https://github.com/Aaronontheweb",
+    "repo_url": "https://github.com/Aaronontheweb/dotnet-skills"
+  },
+  {
+    "username": "ctate",
+    "display_name": "Chris Tate",
+    "popular_repo": "3d-model-generator",
+    "url": "https://github.com/ctate",
+    "repo_url": "https://github.com/ctate/3d-model-generator"
+  },
+  {
+    "username": "rockorager",
+    "display_name": "Tim Culverhouse",
+    "popular_repo": "comview",
+    "url": "https://github.com/rockorager",
+    "repo_url": "https://github.com/rockorager/comview"
+  },
+  {
+    "username": "buger",
+    "display_name": "Leonid Bugaev",
+    "popular_repo": "jsonparser",
+    "url": "https://github.com/buger",
+    "repo_url": "https://github.com/buger/jsonparser"
+  },
+  {
+    "username": "brettchalupa",
+    "display_name": "Brett Chalupa",
+    "popular_repo": "usagi",
+    "url": "https://github.com/brettchalupa",
+    "repo_url": "https://github.com/brettchalupa/usagi"
+  },
+  {
+    "username": "fzyzcjy",
+    "display_name": "fzyzcjy",
+    "popular_repo": "flutter_rust_bridge",
+    "url": "https://github.com/fzyzcjy",
+    "repo_url": "https://github.com/fzyzcjy/flutter_rust_bridge"
+  },
+  {
+    "username": "jeong-sik",
+    "display_name": "Jeong-Sik Yun",
+    "popular_repo": "qdrant-ocaml",
+    "url": "https://github.com/jeong-sik",
+    "repo_url": "https://github.com/jeong-sik/qdrant-ocaml"
+  },
+  {
+    "username": "jrouwe",
+    "display_name": "Jorrit Rouwe",
+    "popular_repo": "JoltPhysics",
+    "url": "https://github.com/jrouwe",
+    "repo_url": "https://github.com/jrouwe/JoltPhysics"
+  },
+  {
+    "username": "RyanMarten",
+    "display_name": "Ryan Marten",
+    "popular_repo": "",
+    "url": "https://github.com/RyanMarten",
+    "repo_url": ""
+  },
+  {
+    "username": "mjbvz",
+    "display_name": "Matt Bierner",
+    "popular_repo": "vscode-github-markdown-preview",
+    "url": "https://github.com/mjbvz",
+    "repo_url": "https://github.com/mjbvz/vscode-github-markdown-preview"
+  },
+  {
+    "username": "theovilardo",
+    "display_name": "theovilardo",
+    "popular_repo": "PixelPlayer",
+    "url": "https://github.com/theovilardo",
+    "repo_url": "https://github.com/theovilardo/PixelPlayer"
+  },
+  {
+    "username": "tobi",
+    "display_name": "Tobias Lütke",
+    "popular_repo": "qmd",
+    "url": "https://github.com/tobi",
+    "repo_url": "https://github.com/tobi/qmd"
+  },
+  {
+    "username": "jjallaire",
+    "display_name": "jjallaire",
+    "popular_repo": "inspect-llm-workshop",
+    "url": "https://github.com/jjallaire",
+    "repo_url": "https://github.com/jjallaire/inspect-llm-workshop"
+  },
+  {
+    "username": "arvinxx",
+    "display_name": "Arvin Xu",
+    "popular_repo": "zotero-engine-list",
+    "url": "https://github.com/arvinxx",
+    "repo_url": "https://github.com/arvinxx/zotero-engine-list"
+  },
+  {
+    "username": "lukehinds",
+    "display_name": "Luke Hinds",
+    "popular_repo": "rust-landlock",
+    "url": "https://github.com/lukehinds",
+    "repo_url": "https://github.com/lukehinds/rust-landlock"
+  },
+  {
+    "username": "karpathy",
+    "display_name": "Andrej",
+    "popular_repo": "autoresearch",
+    "url": "https://github.com/karpathy",
+    "repo_url": "https://github.com/karpathy/autoresearch"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "LalitMaganti",
+    "display_name": "Lalit Maganti",
+    "popular_repo": "syntaqlite",
+    "url": "https://github.com/LalitMaganti",
+    "repo_url": "https://github.com/LalitMaganti/syntaqlite"
+  },
+  {
+    "username": "ZhuLinsen",
+    "display_name": "mumu",
+    "popular_repo": "daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen",
+    "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "username": "valyala",
+    "display_name": "Aliaksandr Valialkin",
+    "popular_repo": "fasthttp",
+    "url": "https://github.com/valyala",
+    "repo_url": "https://github.com/valyala/fasthttp"
+  },
+  {
+    "username": "mmalmi",
+    "display_name": "Martti Malmi",
+    "popular_repo": "nostr-vpn",
+    "url": "https://github.com/mmalmi",
+    "repo_url": "https://github.com/mmalmi/nostr-vpn"
+  }
+]
