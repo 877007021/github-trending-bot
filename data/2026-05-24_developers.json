@@ -1,0 +1,177 @@
+[
+  {
+    "username": "bradygaster",
+    "display_name": "Brady Gaster",
+    "popular_repo": "squad",
+    "url": "https://github.com/bradygaster",
+    "repo_url": "https://github.com/bradygaster/squad"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "c4pt0r",
+    "display_name": "dongxu",
+    "popular_repo": "pie",
+    "url": "https://github.com/c4pt0r",
+    "repo_url": "https://github.com/c4pt0r/pie"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "rakyll",
+    "display_name": "Jaana Dogan",
+    "popular_repo": "hey",
+    "url": "https://github.com/rakyll",
+    "repo_url": "https://github.com/rakyll/hey"
+  },
+  {
+    "username": "tobi",
+    "display_name": "Tobias Lütke",
+    "popular_repo": "qmd",
+    "url": "https://github.com/tobi",
+    "repo_url": "https://github.com/tobi/qmd"
+  },
+  {
+    "username": "davila7",
+    "display_name": "Daniel Avila",
+    "popular_repo": "claude-code-templates",
+    "url": "https://github.com/davila7",
+    "repo_url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "username": "jjallaire",
+    "display_name": "jjallaire",
+    "popular_repo": "inspect-llm-workshop",
+    "url": "https://github.com/jjallaire",
+    "repo_url": "https://github.com/jjallaire/inspect-llm-workshop"
+  },
+  {
+    "username": "DenisovAV",
+    "display_name": "Sasha Denisov",
+    "popular_repo": "flutter_gemma",
+    "url": "https://github.com/DenisovAV",
+    "repo_url": "https://github.com/DenisovAV/flutter_gemma"
+  },
+  {
+    "username": "keydunov",
+    "display_name": "Artyom Keydunov",
+    "popular_repo": "",
+    "url": "https://github.com/keydunov",
+    "repo_url": ""
+  },
+  {
+    "username": "karlseguin",
+    "display_name": "Karl Seguin",
+    "popular_repo": "http.zig",
+    "url": "https://github.com/karlseguin",
+    "repo_url": "https://github.com/karlseguin/http.zig"
+  },
+  {
+    "username": "fzyzcjy",
+    "display_name": "fzyzcjy",
+    "popular_repo": "flutter_rust_bridge",
+    "url": "https://github.com/fzyzcjy",
+    "repo_url": "https://github.com/fzyzcjy/flutter_rust_bridge"
+  },
+  {
+    "username": "benhalpern",
+    "display_name": "Ben Halpern",
+    "popular_repo": "",
+    "url": "https://github.com/benhalpern",
+    "repo_url": ""
+  },
+  {
+    "username": "BBuf",
+    "display_name": "Xiaoyu Zhang",
+    "popular_repo": "AI-Infra-Auto-Driven-SKILLS",
+    "url": "https://github.com/BBuf",
+    "repo_url": "https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS"
+  },
+  {
+    "username": "brettchalupa",
+    "display_name": "Brett Chalupa",
+    "popular_repo": "usagi",
+    "url": "https://github.com/brettchalupa",
+    "repo_url": "https://github.com/brettchalupa/usagi"
+  },
+  {
+    "username": "azure-sdk",
+    "display_name": "Azure SDK Bot",
+    "popular_repo": "",
+    "url": "https://github.com/azure-sdk",
+    "repo_url": ""
+  },
+  {
+    "username": "arvinxx",
+    "display_name": "Arvin Xu",
+    "popular_repo": "zotero-engine-list",
+    "url": "https://github.com/arvinxx",
+    "repo_url": "https://github.com/arvinxx/zotero-engine-list"
+  },
+  {
+    "username": "ljagiello",
+    "display_name": "Lukasz Jagiello",
+    "popular_repo": "ctf-skills",
+    "url": "https://github.com/ljagiello",
+    "repo_url": "https://github.com/ljagiello/ctf-skills"
+  },
+  {
+    "username": "ericksoa",
+    "display_name": "Aaron Erickson 🦞",
+    "popular_repo": "",
+    "url": "https://github.com/ericksoa",
+    "repo_url": ""
+  },
+  {
+    "username": "majdyz",
+    "display_name": "Zamil Majdy",
+    "popular_repo": "",
+    "url": "https://github.com/majdyz",
+    "repo_url": ""
+  },
+  {
+    "username": "emilk",
+    "display_name": "Emil Ernerfeldt",
+    "popular_repo": "egui",
+    "url": "https://github.com/emilk",
+    "repo_url": "https://github.com/emilk/egui"
+  },
+  {
+    "username": "comfyanonymous",
+    "display_name": "comfyanonymous",
+    "popular_repo": "ComfyUI_examples",
+    "url": "https://github.com/comfyanonymous",
+    "repo_url": "https://github.com/comfyanonymous/ComfyUI_examples"
+  },
+  {
+    "username": "madeye",
+    "display_name": "Max Lv",
+    "popular_repo": "meow-ios",
+    "url": "https://github.com/madeye",
+    "repo_url": "https://github.com/madeye/meow-ios"
+  },
+  {
+    "username": "ItzCrazyKns",
+    "display_name": "Kushagra Srivastava",
+    "popular_repo": "Vane",
+    "url": "https://github.com/ItzCrazyKns",
+    "repo_url": "https://github.com/ItzCrazyKns/Vane"
+  }
+]
