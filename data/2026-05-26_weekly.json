@@ -1,0 +1,182 @@
+[
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 24875,
+    "delta_stars": 20208,
+    "delta_text": "20,208 stars this week",
+    "forks": 1374,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "language": "Rust",
+    "total_stars": 27783,
+    "delta_stars": 11906,
+    "delta_text": "11,906 stars this week",
+    "forks": 2569,
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "name": "Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "total_stars": 30989,
+    "delta_stars": 14750,
+    "delta_text": "14,750 stars this week",
+    "forks": 2567,
+    "url": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 21445,
+    "delta_stars": 10678,
+    "delta_text": "10,678 stars this week",
+    "forks": 1824,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 18486,
+    "delta_stars": 10035,
+    "delta_text": "10,035 stars this week",
+    "forks": 3141,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 65923,
+    "delta_stars": 6396,
+    "delta_text": "6,396 stars this week",
+    "forks": 8715,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 17822,
+    "delta_stars": 5687,
+    "delta_text": "5,687 stars this week",
+    "forks": 1460,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 20968,
+    "delta_stars": 6167,
+    "delta_text": "6,167 stars this week",
+    "forks": 1655,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+    "language": "Swift",
+    "total_stars": 10458,
+    "delta_stars": 2329,
+    "delta_text": "2,329 stars this week",
+    "forks": 1073,
+    "url": "https://github.com/supertone-inc/supertonic"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 7289,
+    "delta_stars": 2584,
+    "delta_text": "2,584 stars this week",
+    "forks": 590,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "dograh-hq/dograh",
+    "description": "Open Source Voice Agent Platform",
+    "language": "Python",
+    "total_stars": 2933,
+    "delta_stars": 693,
+    "delta_text": "693 stars this week",
+    "forks": 650,
+    "url": "https://github.com/dograh-hq/dograh"
+  },
+  {
+    "name": "presenton/presenton",
+    "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+    "language": "TypeScript",
+    "total_stars": 6879,
+    "delta_stars": 1787,
+    "delta_text": "1,787 stars this week",
+    "forks": 1159,
+    "url": "https://github.com/presenton/presenton"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 40361,
+    "delta_stars": 4010,
+    "delta_text": "4,010 stars this week",
+    "forks": 3813,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 206300,
+    "delta_stars": 9950,
+    "delta_text": "9,950 stars this week",
+    "forks": 18389,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "wechat-article/wechat-article-exporter",
+    "description": "一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。",
+    "language": "TypeScript",
+    "total_stars": 10826,
+    "delta_stars": 809,
+    "delta_text": "809 stars this week",
+    "forks": 1888,
+    "url": "https://github.com/wechat-article/wechat-article-exporter"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 809,
+    "delta_stars": 366,
+    "delta_text": "366 stars this week",
+    "forks": 88,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "phodal/routa",
+    "description": "Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/ A2A support across web and desktop.",
+    "language": "TypeScript",
+    "total_stars": 1431,
+    "delta_stars": 470,
+    "delta_text": "470 stars this week",
+    "forks": 202,
+    "url": "https://github.com/phodal/routa"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 41723,
+    "delta_stars": 1818,
+    "delta_text": "1,818 stars this week",
+    "forks": 2651,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  }
+]
