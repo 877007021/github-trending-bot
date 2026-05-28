@@ -1,0 +1,202 @@
+[
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 29769,
+    "delta_stars": 21424,
+    "delta_text": "21,424 stars this week",
+    "forks": 1702,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "total_stars": 39715,
+    "delta_stars": 23401,
+    "delta_text": "23,401 stars this week",
+    "forks": 3164,
+    "url": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 22465,
+    "delta_stars": 12787,
+    "delta_text": "12,787 stars this week",
+    "forks": 3681,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 66715,
+    "delta_stars": 5434,
+    "delta_text": "5,434 stars this week",
+    "forks": 8852,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 17253,
+    "delta_stars": 4718,
+    "delta_text": "4,718 stars this week",
+    "forks": 2015,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 22749,
+    "delta_stars": 7385,
+    "delta_text": "7,385 stars this week",
+    "forks": 1916,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "rmyndharis/OpenWA",
+    "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+    "language": "TypeScript",
+    "total_stars": 6701,
+    "delta_stars": 2113,
+    "delta_text": "2,113 stars this week",
+    "forks": 1378,
+    "url": "https://github.com/rmyndharis/OpenWA"
+  },
+  {
+    "name": "HKUDS/ViMax",
+    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+    "language": "Python",
+    "total_stars": 7802,
+    "delta_stars": 1940,
+    "delta_text": "1,940 stars this week",
+    "forks": 1211,
+    "url": "https://github.com/HKUDS/ViMax"
+  },
+  {
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "language": "Rust",
+    "total_stars": 28841,
+    "delta_stars": 5723,
+    "delta_text": "5,723 stars this week",
+    "forks": 2713,
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 7869,
+    "delta_stars": 2514,
+    "delta_text": "2,514 stars this week",
+    "forks": 635,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 981,
+    "delta_stars": 548,
+    "delta_text": "548 stars this week",
+    "forks": 92,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose",
+    "language": "",
+    "total_stars": 5668,
+    "delta_stars": 1751,
+    "delta_text": "1,751 stars this week",
+    "forks": 434,
+    "url": "https://github.com/hardikpandya/stop-slop"
+  },
+  {
+    "name": "Chachamaru127/claude-code-harness",
+    "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+    "language": "Shell",
+    "total_stars": 1810,
+    "delta_stars": 631,
+    "delta_text": "631 stars this week",
+    "forks": 198,
+    "url": "https://github.com/Chachamaru127/claude-code-harness"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 18669,
+    "delta_stars": 3781,
+    "delta_text": "3,781 stars this week",
+    "forks": 1537,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "dograh-hq/dograh",
+    "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+    "language": "Python",
+    "total_stars": 3414,
+    "delta_stars": 997,
+    "delta_text": "997 stars this week",
+    "forks": 725,
+    "url": "https://github.com/dograh-hq/dograh"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 10937,
+    "delta_stars": 4170,
+    "delta_text": "4,170 stars this week",
+    "forks": 1250,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 61889,
+    "delta_stars": 3495,
+    "delta_text": "3,495 stars this week",
+    "forks": 9040,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+    "language": "Swift",
+    "total_stars": 10800,
+    "delta_stars": 1849,
+    "delta_text": "1,849 stars this week",
+    "forks": 1117,
+    "url": "https://github.com/supertone-inc/supertonic"
+  },
+  {
+    "name": "aiming-lab/AutoResearchClaw",
+    "description": "Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+    "language": "Python",
+    "total_stars": 12848,
+    "delta_stars": 451,
+    "delta_text": "451 stars this week",
+    "forks": 1499,
+    "url": "https://github.com/aiming-lab/AutoResearchClaw"
+  },
+  {
+    "name": "humanlayer/12-factor-agents",
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "language": "TypeScript",
+    "total_stars": 22569,
+    "delta_stars": 1127,
+    "delta_text": "1,127 stars this week",
+    "forks": 1707,
+    "url": "https://github.com/humanlayer/12-factor-agents"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 29769,
+    "delta_stars": 28837,
+    "delta_text": "28,837 stars this month",
+    "forks": 1702,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 28203,
+    "delta_stars": 20415,
+    "delta_text": "20,415 stars this month",
+    "forks": 3954,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 21767,
+    "delta_stars": 20333,
+    "delta_text": "20,333 stars this month",
+    "forks": 1735,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 108489,
+    "delta_stars": 81117,
+    "delta_text": "81,117 stars this month",
+    "forks": 9553,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "warpdotdev/warp",
+    "description": "Warp is an agentic development environment, born out of the terminal.",
+    "language": "Rust",
+    "total_stars": 60218,
+    "delta_stars": 34105,
+    "delta_text": "34,105 stars this month",
+    "forks": 4785,
+    "url": "https://github.com/warpdotdev/warp"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 18669,
+    "delta_stars": 16556,
+    "delta_text": "16,556 stars this month",
+    "forks": 1537,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "total_stars": 39715,
+    "delta_stars": 29679,
+    "delta_text": "29,679 stars this month",
+    "forks": 3164,
+    "url": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 22749,
+    "delta_stars": 19046,
+    "delta_text": "19,046 stars this month",
+    "forks": 1916,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "language": "Rust",
+    "total_stars": 6606,
+    "delta_stars": 6232,
+    "delta_text": "6,232 stars this month",
+    "forks": 742,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "HKUDS/ViMax",
+    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+    "language": "Python",
+    "total_stars": 7803,
+    "delta_stars": 5067,
+    "delta_text": "5,067 stars this month",
+    "forks": 1211,
+    "url": "https://github.com/HKUDS/ViMax"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 30662,
+    "delta_stars": 11026,
+    "delta_text": "11,026 stars this month",
+    "forks": 2191,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 80184,
+    "delta_stars": 27184,
+    "delta_text": "27,184 stars this month",
+    "forks": 15610,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "language": "JavaScript",
+    "total_stars": 14718,
+    "delta_stars": 11580,
+    "delta_text": "11,580 stars this month",
+    "forks": 2200,
+    "url": "https://github.com/decolua/9router"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 22466,
+    "delta_stars": 16501,
+    "delta_text": "16,501 stars this month",
+    "forks": 3681,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 20147,
+    "delta_stars": 13195,
+    "delta_text": "13,195 stars this month",
+    "forks": 2833,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 158940,
+    "delta_stars": 66700,
+    "delta_text": "66,700 stars this month",
+    "forks": 16300,
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "language": "TypeScript",
+    "total_stars": 55794,
+    "delta_stars": 22453,
+    "delta_text": "22,453 stars this month",
+    "forks": 6345,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "total_stars": 16772,
+    "delta_stars": 7860,
+    "delta_text": "7,860 stars this month",
+    "forks": 2684,
+    "url": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "total_stars": 35509,
+    "delta_stars": 6059,
+    "delta_text": "6,059 stars this month",
+    "forks": 3568,
+    "url": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "name": "mattpocock/sandcastle",
+    "description": "Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()",
+    "language": "TypeScript",
+    "total_stars": 5232,
+    "delta_stars": 4201,
+    "delta_text": "4,201 stars this month",
+    "forks": 538,
+    "url": "https://github.com/mattpocock/sandcastle"
+  },
+  {
+    "name": "LearningCircuit/local-deep-research",
+    "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+    "language": "Python",
+    "total_stars": 8048,
+    "delta_stars": 3679,
+    "delta_text": "3,679 stars this month",
+    "forks": 698,
+    "url": "https://github.com/LearningCircuit/local-deep-research"
+  }
+]
