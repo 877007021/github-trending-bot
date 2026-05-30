@@ -1,0 +1,172 @@
+[
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 69613,
+    "delta_stars": 3567,
+    "delta_text": "3,567 stars today",
+    "forks": 10033,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 129920,
+    "delta_stars": 1873,
+    "delta_text": "1,873 stars today",
+    "forks": 8915,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "language": "TypeScript",
+    "total_stars": 18126,
+    "delta_stars": 353,
+    "delta_text": "353 stars today",
+    "forks": 1377,
+    "url": "https://github.com/EveryInc/compound-engineering-plugin"
+  },
+  {
+    "name": "twentyhq/twenty",
+    "description": "The open alternative to Salesforce, designed for AI.",
+    "language": "TypeScript",
+    "total_stars": 48399,
+    "delta_stars": 578,
+    "delta_text": "578 stars today",
+    "forks": 6862,
+    "url": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Python",
+    "total_stars": 127865,
+    "delta_stars": 395,
+    "delta_text": "395 stars today",
+    "forks": 20909,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "total_stars": 28108,
+    "delta_stars": 2062,
+    "delta_text": "2,062 stars today",
+    "forks": 2081,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 1295,
+    "delta_stars": 134,
+    "delta_text": "134 stars today",
+    "forks": 111,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "run-llama/liteparse",
+    "description": "A fast, helpful, and open-source document parser",
+    "language": "Rust",
+    "total_stars": 7279,
+    "delta_stars": 701,
+    "delta_text": "701 stars today",
+    "forks": 444,
+    "url": "https://github.com/run-llama/liteparse"
+  },
+  {
+    "name": "galilai-group/stable-worldmodel",
+    "description": "A platform for reproducible world model research and evaluation",
+    "language": "Python",
+    "total_stars": 1245,
+    "delta_stars": 362,
+    "delta_text": "362 stars today",
+    "forks": 148,
+    "url": "https://github.com/galilai-group/stable-worldmodel"
+  },
+  {
+    "name": "byoungd/English-level-up-tips",
+    "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+    "language": "",
+    "total_stars": 49624,
+    "delta_stars": 1566,
+    "delta_text": "1,566 stars today",
+    "forks": 5196,
+    "url": "https://github.com/byoungd/English-level-up-tips"
+  },
+  {
+    "name": "Biohub/esm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "total_stars": 2566,
+    "delta_stars": 52,
+    "delta_text": "52 stars today",
+    "forks": 314,
+    "url": "https://github.com/Biohub/esm"
+  },
+  {
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "language": "TypeScript",
+    "total_stars": 26953,
+    "delta_stars": 318,
+    "delta_text": "318 stars today",
+    "forks": 2656,
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "name": "DigitalPlatDev/FreeDomain",
+    "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+    "language": "HTML",
+    "total_stars": 171762,
+    "delta_stars": 1313,
+    "delta_text": "1,313 stars today",
+    "forks": 3344,
+    "url": "https://github.com/DigitalPlatDev/FreeDomain"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 198563,
+    "delta_stars": 1406,
+    "delta_text": "1,406 stars today",
+    "forks": 30509,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose",
+    "language": "",
+    "total_stars": 6978,
+    "delta_stars": 617,
+    "delta_text": "617 stars today",
+    "forks": 491,
+    "url": "https://github.com/hardikpandya/stop-slop"
+  },
+  {
+    "name": "DataTalksClub/data-engineering-zoomcamp",
+    "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+    "language": "Jupyter Notebook",
+    "total_stars": 41558,
+    "delta_stars": 160,
+    "delta_text": "160 stars today",
+    "forks": 8271,
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "total_stars": 507345,
+    "delta_stars": 866,
+    "delta_text": "866 stars today",
+    "forks": 48167,
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  }
+]
