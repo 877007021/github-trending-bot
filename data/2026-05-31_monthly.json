@@ -1,0 +1,182 @@
+[
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 34320,
+    "delta_stars": 33455,
+    "delta_text": "33,455 stars this month",
+    "forks": 2097,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 28868,
+    "delta_stars": 21134,
+    "delta_text": "21,134 stars this month",
+    "forks": 4045,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 22640,
+    "delta_stars": 21160,
+    "delta_text": "21,160 stars this month",
+    "forks": 1803,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "total_stars": 45909,
+    "delta_stars": 36047,
+    "delta_text": "36,047 stars this month",
+    "forks": 3696,
+    "url": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 19927,
+    "delta_stars": 17789,
+    "delta_text": "17,789 stars this month",
+    "forks": 1637,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 24513,
+    "delta_stars": 20575,
+    "delta_text": "20,575 stars this month",
+    "forks": 2029,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 112314,
+    "delta_stars": 71266,
+    "delta_text": "71,266 stars this month",
+    "forks": 9857,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 25155,
+    "delta_stars": 19463,
+    "delta_text": "19,463 stars this month",
+    "forks": 4078,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "language": "JavaScript",
+    "total_stars": 15246,
+    "delta_stars": 11936,
+    "delta_text": "11,936 stars this month",
+    "forks": 2282,
+    "url": "https://github.com/decolua/9router"
+  },
+  {
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "total_stars": 17104,
+    "delta_stars": 8137,
+    "delta_text": "8,137 stars this month",
+    "forks": 2733,
+    "url": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "language": "TypeScript",
+    "total_stars": 56675,
+    "delta_stars": 23037,
+    "delta_text": "23,037 stars this month",
+    "forks": 6449,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "total_stars": 35758,
+    "delta_stars": 6319,
+    "delta_text": "6,319 stars this month",
+    "forks": 3599,
+    "url": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 20575,
+    "delta_stars": 13102,
+    "delta_text": "13,102 stars this month",
+    "forks": 2886,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 162549,
+    "delta_stars": 65076,
+    "delta_text": "65,076 stars this month",
+    "forks": 16650,
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 31084,
+    "delta_stars": 11299,
+    "delta_text": "11,299 stars this month",
+    "forks": 2224,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 80988,
+    "delta_stars": 26772,
+    "delta_text": "26,772 stars this month",
+    "forks": 15742,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "LearningCircuit/local-deep-research",
+    "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+    "language": "Python",
+    "total_stars": 8209,
+    "delta_stars": 3835,
+    "delta_text": "3,835 stars this month",
+    "forks": 706,
+    "url": "https://github.com/LearningCircuit/local-deep-research"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "language": "Rust",
+    "total_stars": 6758,
+    "delta_stars": 5765,
+    "delta_text": "5,765 stars this month",
+    "forks": 754,
+    "url": "https://github.com/1jehuang/jcode"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 71929,
+    "delta_stars": 13948,
+    "delta_text": "13,948 stars this week",
+    "forks": 10314,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "total_stars": 45909,
+    "delta_stars": 25612,
+    "delta_text": "25,612 stars this week",
+    "forks": 3696,
+    "url": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 25155,
+    "delta_stars": 12082,
+    "delta_text": "12,082 stars this week",
+    "forks": 4078,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 18242,
+    "delta_stars": 5538,
+    "delta_text": "5,538 stars this week",
+    "forks": 2142,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 34319,
+    "delta_stars": 15909,
+    "delta_text": "15,909 stars this week",
+    "forks": 2097,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose",
+    "language": "",
+    "total_stars": 7404,
+    "delta_stars": 3543,
+    "delta_text": "3,543 stars this week",
+    "forks": 520,
+    "url": "https://github.com/hardikpandya/stop-slop"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 12569,
+    "delta_stars": 5417,
+    "delta_text": "5,417 stars this week",
+    "forks": 1455,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "total_stars": 29104,
+    "delta_stars": 10202,
+    "delta_text": "10,202 stars this week",
+    "forks": 2150,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 132328,
+    "delta_stars": 6652,
+    "delta_text": "6,652 stars this week",
+    "forks": 9060,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "total_stars": 28789,
+    "delta_stars": 2771,
+    "delta_text": "2,771 stars this week",
+    "forks": 3061,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 199281,
+    "delta_stars": 10802,
+    "delta_text": "10,802 stars this week",
+    "forks": 30600,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 1454,
+    "delta_stars": 738,
+    "delta_text": "738 stars this week",
+    "forks": 118,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "microsoft/agent-governance-toolkit",
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "language": "Python",
+    "total_stars": 3461,
+    "delta_stars": 1553,
+    "delta_text": "1,553 stars this week",
+    "forks": 498,
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "name": "dograh-hq/dograh",
+    "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+    "language": "Python",
+    "total_stars": 3860,
+    "delta_stars": 1236,
+    "delta_text": "1,236 stars this week",
+    "forks": 779,
+    "url": "https://github.com/dograh-hq/dograh"
+  },
+  {
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "language": "HTML",
+    "total_stars": 4252,
+    "delta_stars": 626,
+    "delta_text": "626 stars this week",
+    "forks": 625,
+    "url": "https://github.com/revfactory/harness"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 3199,
+    "delta_stars": 923,
+    "delta_text": "923 stars this week",
+    "forks": 211,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 8715,
+    "delta_stars": 1963,
+    "delta_text": "1,963 stars this week",
+    "forks": 696,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "language": "Python",
+    "total_stars": 22510,
+    "delta_stars": 1248,
+    "delta_text": "1,248 stars this week",
+    "forks": 2389,
+    "url": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "name": "Chachamaru127/claude-code-harness",
+    "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+    "language": "Shell",
+    "total_stars": 2283,
+    "delta_stars": 1034,
+    "delta_text": "1,034 stars this week",
+    "forks": 227,
+    "url": "https://github.com/Chachamaru127/claude-code-harness"
+  }
+]
