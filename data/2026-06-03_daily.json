@@ -1,0 +1,112 @@
+[
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 6558,
+    "delta_stars": 1265,
+    "delta_text": "1,265 stars today",
+    "forks": 458,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 141216,
+    "delta_stars": 3618,
+    "delta_text": "3,618 stars today",
+    "forks": 9622,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 204022,
+    "delta_stars": 1533,
+    "delta_text": "1,533 stars today",
+    "forks": 31296,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "language": "Python",
+    "total_stars": 59211,
+    "delta_stars": 1182,
+    "delta_text": "1,182 stars today",
+    "forks": 5722,
+    "url": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "language": "Python",
+    "total_stars": 12563,
+    "delta_stars": 1722,
+    "delta_text": "1,722 stars today",
+    "forks": 1540,
+    "url": "https://github.com/nesquena/hermes-webui"
+  },
+  {
+    "name": "reconurge/flowsint",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "language": "TypeScript",
+    "total_stars": 4530,
+    "delta_stars": 124,
+    "delta_text": "124 stars today",
+    "forks": 583,
+    "url": "https://github.com/reconurge/flowsint"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "total_stars": 25146,
+    "delta_stars": 783,
+    "delta_text": "783 stars today",
+    "forks": 2881,
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "name": "stefan-jansen/machine-learning-for-trading",
+    "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+    "language": "Jupyter Notebook",
+    "total_stars": 18494,
+    "delta_stars": 574,
+    "delta_text": "574 stars today",
+    "forks": 5228,
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading"
+  },
+  {
+    "name": "jamwithai/production-agentic-rag-course",
+    "description": "",
+    "language": "Python",
+    "total_stars": 6398,
+    "delta_stars": 30,
+    "delta_text": "30 stars today",
+    "forks": 1488,
+    "url": "https://github.com/jamwithai/production-agentic-rag-course"
+  },
+  {
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "language": "TypeScript",
+    "total_stars": 24662,
+    "delta_stars": 680,
+    "delta_text": "680 stars today",
+    "forks": 2179,
+    "url": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "language": "Python",
+    "total_stars": 8385,
+    "delta_stars": 66,
+    "delta_text": "66 stars today",
+    "forks": 1075,
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  }
+]

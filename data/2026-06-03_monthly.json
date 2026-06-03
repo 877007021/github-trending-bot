@@ -1,0 +1,192 @@
+[
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 38027,
+    "delta_stars": 37126,
+    "delta_text": "37,126 stars this month",
+    "forks": 2357,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "Hmbown/CodeWhale",
+    "description": "DeepSeek + MiMo coding agent in terminal",
+    "language": "Rust",
+    "total_stars": 36717,
+    "delta_stars": 35376,
+    "delta_text": "35,376 stars this month",
+    "forks": 3154,
+    "url": "https://github.com/Hmbown/CodeWhale"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 29534,
+    "delta_stars": 21733,
+    "delta_text": "21,733 stars this month",
+    "forks": 4134,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 23419,
+    "delta_stars": 21929,
+    "delta_text": "21,929 stars this month",
+    "forks": 1854,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 20776,
+    "delta_stars": 18650,
+    "delta_text": "18,650 stars this month",
+    "forks": 1711,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "total_stars": 50149,
+    "delta_stars": 39602,
+    "delta_text": "39,602 stars this month",
+    "forks": 4087,
+    "url": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 26242,
+    "delta_stars": 22232,
+    "delta_text": "22,232 stars this month",
+    "forks": 2160,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "fathah/hermes-desktop",
+    "description": "Desktop Companion for Hermes Agent",
+    "language": "TypeScript",
+    "total_stars": 9434,
+    "delta_stars": 8524,
+    "delta_text": "8,524 stars this month",
+    "forks": 1142,
+    "url": "https://github.com/fathah/hermes-desktop"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 78033,
+    "delta_stars": 21551,
+    "delta_text": "21,551 stars this month",
+    "forks": 11084,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 27402,
+    "delta_stars": 21199,
+    "delta_text": "21,199 stars this month",
+    "forks": 4448,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 115293,
+    "delta_stars": 61503,
+    "delta_text": "61,503 stars this month",
+    "forks": 10098,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "language": "JavaScript",
+    "total_stars": 15969,
+    "delta_stars": 12459,
+    "delta_text": "12,459 stars this month",
+    "forks": 2391,
+    "url": "https://github.com/decolua/9router"
+  },
+  {
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "total_stars": 17568,
+    "delta_stars": 8481,
+    "delta_text": "8,481 stars this month",
+    "forks": 2782,
+    "url": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "total_stars": 35947,
+    "delta_stars": 6498,
+    "delta_text": "6,498 stars this month",
+    "forks": 3618,
+    "url": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 70238,
+    "delta_stars": 19374,
+    "delta_text": "19,374 stars this month",
+    "forks": 9392,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "datawhalechina/easy-vibe",
+    "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+    "language": "JavaScript",
+    "total_stars": 15682,
+    "delta_stars": 8257,
+    "delta_text": "8,257 stars this month",
+    "forks": 1491,
+    "url": "https://github.com/datawhalechina/easy-vibe"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 10010,
+    "delta_stars": 6132,
+    "delta_text": "6,132 stars this month",
+    "forks": 825,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 165914,
+    "delta_stars": 60985,
+    "delta_text": "60,985 stars this month",
+    "forks": 16982,
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "language": "Python",
+    "total_stars": 21084,
+    "delta_stars": 12222,
+    "delta_text": "12,222 stars this month",
+    "forks": 2934,
+    "url": "https://github.com/AIDC-AI/Pixelle-Video"
+  }
+]
