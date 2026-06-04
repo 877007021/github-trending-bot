@@ -1,0 +1,177 @@
+[
+  {
+    "username": "lfnovo",
+    "display_name": "Luis Novo",
+    "popular_repo": "open-notebook",
+    "url": "https://github.com/lfnovo",
+    "repo_url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "EricLBuehler",
+    "display_name": "Eric Buehler",
+    "popular_repo": "mistral.rs",
+    "url": "https://github.com/EricLBuehler",
+    "repo_url": "https://github.com/EricLBuehler/mistral.rs"
+  },
+  {
+    "username": "1c7",
+    "display_name": "郑诚 (Cheng Zheng)",
+    "popular_repo": "chinese-independent-developer",
+    "url": "https://github.com/1c7",
+    "repo_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "username": "Scottcjn",
+    "display_name": "AutoJanitor",
+    "popular_repo": "Rustchain",
+    "url": "https://github.com/Scottcjn",
+    "repo_url": "https://github.com/Scottcjn/Rustchain"
+  },
+  {
+    "username": "MervinPraison",
+    "display_name": "Mervin Praison",
+    "popular_repo": "PraisonAI",
+    "url": "https://github.com/MervinPraison",
+    "repo_url": "https://github.com/MervinPraison/PraisonAI"
+  },
+  {
+    "username": "hntrl",
+    "display_name": "Hunter Lovell",
+    "popular_repo": "durable-object-rpc-repro",
+    "url": "https://github.com/hntrl",
+    "repo_url": "https://github.com/hntrl/durable-object-rpc-repro"
+  },
+  {
+    "username": "ranaroussi",
+    "display_name": "Ran Aroussi",
+    "popular_repo": "yfinance",
+    "url": "https://github.com/ranaroussi",
+    "repo_url": "https://github.com/ranaroussi/yfinance"
+  },
+  {
+    "username": "danielmeppiel",
+    "display_name": "Daniel Meppiel",
+    "popular_repo": "agentic-sdlc-handbook",
+    "url": "https://github.com/danielmeppiel",
+    "repo_url": "https://github.com/danielmeppiel/agentic-sdlc-handbook"
+  },
+  {
+    "username": "benbrandt",
+    "display_name": "Ben Brandt",
+    "popular_repo": "text-splitter",
+    "url": "https://github.com/benbrandt",
+    "repo_url": "https://github.com/benbrandt/text-splitter"
+  },
+  {
+    "username": "ZhuLinsen",
+    "display_name": "mumu",
+    "popular_repo": "daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen",
+    "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "username": "ColeMurray",
+    "display_name": "Cole Murray",
+    "popular_repo": "background-agents",
+    "url": "https://github.com/ColeMurray",
+    "repo_url": "https://github.com/ColeMurray/background-agents"
+  },
+  {
+    "username": "1weiho",
+    "display_name": "Yiwei Ho",
+    "popular_repo": "open-slide",
+    "url": "https://github.com/1weiho",
+    "repo_url": "https://github.com/1weiho/open-slide"
+  },
+  {
+    "username": "stephenberry",
+    "display_name": "Stephen Berry",
+    "popular_repo": "glaze",
+    "url": "https://github.com/stephenberry",
+    "repo_url": "https://github.com/stephenberry/glaze"
+  },
+  {
+    "username": "squidfunk",
+    "display_name": "Martin Donath",
+    "popular_repo": "mkdocs-material",
+    "url": "https://github.com/squidfunk",
+    "repo_url": "https://github.com/squidfunk/mkdocs-material"
+  },
+  {
+    "username": "sylvestre",
+    "display_name": "Sylvestre Ledru",
+    "popular_repo": "",
+    "url": "https://github.com/sylvestre",
+    "repo_url": ""
+  },
+  {
+    "username": "abhiaiyer91",
+    "display_name": "Abhi Aiyer",
+    "popular_repo": "",
+    "url": "https://github.com/abhiaiyer91",
+    "repo_url": ""
+  },
+  {
+    "username": "mitchellh",
+    "display_name": "Mitchell Hashimoto",
+    "popular_repo": "vouch",
+    "url": "https://github.com/mitchellh",
+    "repo_url": "https://github.com/mitchellh/vouch"
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "Cyan4973",
+    "display_name": "Yann Collet",
+    "popular_repo": "xxHash",
+    "url": "https://github.com/Cyan4973",
+    "repo_url": "https://github.com/Cyan4973/xxHash"
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "evalstate",
+    "display_name": "shaun smith",
+    "popular_repo": "fast-agent",
+    "url": "https://github.com/evalstate",
+    "repo_url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  }
+]
