@@ -1,0 +1,177 @@
+[
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "lfnovo",
+    "display_name": "Luis Novo",
+    "popular_repo": "open-notebook",
+    "url": "https://github.com/lfnovo",
+    "repo_url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "username": "MervinPraison",
+    "display_name": "Mervin Praison",
+    "popular_repo": "PraisonAI",
+    "url": "https://github.com/MervinPraison",
+    "repo_url": "https://github.com/MervinPraison/PraisonAI"
+  },
+  {
+    "username": "shahednasser",
+    "display_name": "Shahed Nasser",
+    "popular_repo": "awesome-resources",
+    "url": "https://github.com/shahednasser",
+    "repo_url": "https://github.com/shahednasser/awesome-resources"
+  },
+  {
+    "username": "ZhuLinsen",
+    "display_name": "mumu",
+    "popular_repo": "daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen",
+    "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "bradfitz",
+    "display_name": "Brad Fitzpatrick",
+    "popular_repo": "check-git-accidental-large-file",
+    "url": "https://github.com/bradfitz",
+    "repo_url": "https://github.com/bradfitz/check-git-accidental-large-file"
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "Cyan4973",
+    "display_name": "Yann Collet",
+    "popular_repo": "xxHash",
+    "url": "https://github.com/Cyan4973",
+    "repo_url": "https://github.com/Cyan4973/xxHash"
+  },
+  {
+    "username": "1c7",
+    "display_name": "郑诚 (Cheng Zheng)",
+    "popular_repo": "chinese-independent-developer",
+    "url": "https://github.com/1c7",
+    "repo_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "username": "EricLBuehler",
+    "display_name": "Eric Buehler",
+    "popular_repo": "mistral.rs",
+    "url": "https://github.com/EricLBuehler",
+    "repo_url": "https://github.com/EricLBuehler/mistral.rs"
+  },
+  {
+    "username": "zhaochenyang20",
+    "display_name": "赵晨阳",
+    "popular_repo": "Awesome-ML-SYS-Tutorial",
+    "url": "https://github.com/zhaochenyang20",
+    "repo_url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial"
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "ko3n1g",
+    "display_name": "oliver könig",
+    "popular_repo": "",
+    "url": "https://github.com/ko3n1g",
+    "repo_url": ""
+  },
+  {
+    "username": "Scottcjn",
+    "display_name": "AutoJanitor",
+    "popular_repo": "Rustchain",
+    "url": "https://github.com/Scottcjn",
+    "repo_url": "https://github.com/Scottcjn/Rustchain"
+  },
+  {
+    "username": "lewtun",
+    "display_name": "lewtun",
+    "popular_repo": "",
+    "url": "https://github.com/lewtun",
+    "repo_url": ""
+  },
+  {
+    "username": "sylvestre",
+    "display_name": "Sylvestre Ledru",
+    "popular_repo": "debian-clang",
+    "url": "https://github.com/sylvestre",
+    "repo_url": "https://github.com/sylvestre/debian-clang"
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "MarshallOfSound",
+    "display_name": "Samuel Attard",
+    "popular_repo": "ipc",
+    "url": "https://github.com/MarshallOfSound",
+    "repo_url": "https://github.com/MarshallOfSound/ipc"
+  },
+  {
+    "username": "zeux",
+    "display_name": "Arseny Kapoulkine",
+    "popular_repo": "meshoptimizer",
+    "url": "https://github.com/zeux",
+    "repo_url": "https://github.com/zeux/meshoptimizer"
+  },
+  {
+    "username": "ranaroussi",
+    "display_name": "Ran Aroussi",
+    "popular_repo": "yfinance",
+    "url": "https://github.com/ranaroussi",
+    "repo_url": "https://github.com/ranaroussi/yfinance"
+  },
+  {
+    "username": "benhalpern",
+    "display_name": "Ben Halpern",
+    "popular_repo": "",
+    "url": "https://github.com/benhalpern",
+    "repo_url": ""
+  },
+  {
+    "username": "bradygaster",
+    "display_name": "Brady Gaster",
+    "popular_repo": "squad",
+    "url": "https://github.com/bradygaster",
+    "repo_url": "https://github.com/bradygaster/squad"
+  },
+  {
+    "username": "cv",
+    "display_name": "Carlos Villela",
+    "popular_repo": "pi-action",
+    "url": "https://github.com/cv",
+    "repo_url": "https://github.com/cv/pi-action"
+  }
+]
