@@ -1,0 +1,177 @@
+[
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "lfnovo",
+    "display_name": "Luis Novo",
+    "popular_repo": "open-notebook",
+    "url": "https://github.com/lfnovo",
+    "repo_url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "ko3n1g",
+    "display_name": "oliver könig",
+    "popular_repo": "",
+    "url": "https://github.com/ko3n1g",
+    "repo_url": ""
+  },
+  {
+    "username": "jpr5",
+    "display_name": "Jordan Ritter",
+    "popular_repo": "ngrep",
+    "url": "https://github.com/jpr5",
+    "repo_url": "https://github.com/jpr5/ngrep"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "1c7",
+    "display_name": "郑诚 (Cheng Zheng)",
+    "popular_repo": "chinese-independent-developer",
+    "url": "https://github.com/1c7",
+    "repo_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "username": "Kikobeats",
+    "display_name": "Jose Francisco &#39;Kiko&#39; Verdú Gambín",
+    "popular_repo": "untracked",
+    "url": "https://github.com/Kikobeats",
+    "repo_url": "https://github.com/Kikobeats/untracked"
+  },
+  {
+    "username": "MaheshtheDev",
+    "display_name": "Mahesh Sanikommu",
+    "popular_repo": "",
+    "url": "https://github.com/MaheshtheDev",
+    "repo_url": ""
+  },
+  {
+    "username": "Cyan4973",
+    "display_name": "Yann Collet",
+    "popular_repo": "xxHash",
+    "url": "https://github.com/Cyan4973",
+    "repo_url": "https://github.com/Cyan4973/xxHash"
+  },
+  {
+    "username": "cv",
+    "display_name": "Carlos Villela",
+    "popular_repo": "pi-action",
+    "url": "https://github.com/cv",
+    "repo_url": "https://github.com/cv/pi-action"
+  },
+  {
+    "username": "shahednasser",
+    "display_name": "Shahed Nasser",
+    "popular_repo": "awesome-resources",
+    "url": "https://github.com/shahednasser",
+    "repo_url": "https://github.com/shahednasser/awesome-resources"
+  },
+  {
+    "username": "jrouwe",
+    "display_name": "Jorrit Rouwe",
+    "popular_repo": "JoltPhysics",
+    "url": "https://github.com/jrouwe",
+    "repo_url": "https://github.com/jrouwe/JoltPhysics"
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "dalathegreat",
+    "display_name": "Daniel Öster",
+    "popular_repo": "Battery-Emulator",
+    "url": "https://github.com/dalathegreat",
+    "repo_url": "https://github.com/dalathegreat/Battery-Emulator"
+  },
+  {
+    "username": "nerdai",
+    "display_name": "Andrei Fajardo",
+    "popular_repo": "llm-agents-from-scratch",
+    "url": "https://github.com/nerdai",
+    "repo_url": "https://github.com/nerdai/llm-agents-from-scratch"
+  },
+  {
+    "username": "esengine",
+    "display_name": "YHH",
+    "popular_repo": "DeepSeek-Reasonix",
+    "url": "https://github.com/esengine",
+    "repo_url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "username": "sylvestre",
+    "display_name": "Sylvestre Ledru",
+    "popular_repo": "debian-clang",
+    "url": "https://github.com/sylvestre",
+    "repo_url": "https://github.com/sylvestre/debian-clang"
+  },
+  {
+    "username": "ranaroussi",
+    "display_name": "Ran Aroussi",
+    "popular_repo": "yfinance",
+    "url": "https://github.com/ranaroussi",
+    "repo_url": "https://github.com/ranaroussi/yfinance"
+  },
+  {
+    "username": "chengyongru",
+    "display_name": "chengyongru",
+    "popular_repo": "skills",
+    "url": "https://github.com/chengyongru",
+    "repo_url": "https://github.com/chengyongru/skills"
+  },
+  {
+    "username": "yetone",
+    "display_name": "yetone",
+    "popular_repo": "native-feel-skill",
+    "url": "https://github.com/yetone",
+    "repo_url": "https://github.com/yetone/native-feel-skill"
+  },
+  {
+    "username": "squidfunk",
+    "display_name": "Martin Donath",
+    "popular_repo": "mkdocs-material",
+    "url": "https://github.com/squidfunk",
+    "repo_url": "https://github.com/squidfunk/mkdocs-material"
+  },
+  {
+    "username": "felixrieseberg",
+    "display_name": "Felix Rieseberg",
+    "popular_repo": "windows95",
+    "url": "https://github.com/felixrieseberg",
+    "repo_url": "https://github.com/felixrieseberg/windows95"
+  },
+  {
+    "username": "theovilardo",
+    "display_name": "theovilardo",
+    "popular_repo": "PixelPlayer",
+    "url": "https://github.com/theovilardo",
+    "repo_url": "https://github.com/theovilardo/PixelPlayer"
+  },
+  {
+    "username": "oschwartz10612",
+    "display_name": "Owen Schwartz",
+    "popular_repo": "poppler-windows",
+    "url": "https://github.com/oschwartz10612",
+    "repo_url": "https://github.com/oschwartz10612/poppler-windows"
+  }
+]
