@@ -1,0 +1,182 @@
+[
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 28784,
+    "delta_stars": 439,
+    "delta_text": "439 stars today",
+    "forks": 2438,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "CopilotKit/CopilotKit",
+    "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+    "language": "TypeScript",
+    "total_stars": 33199,
+    "delta_stars": 631,
+    "delta_text": "631 stars today",
+    "forks": 4239,
+    "url": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "name": "MemPalace/mempalace",
+    "description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "language": "Python",
+    "total_stars": 54272,
+    "delta_stars": 446,
+    "delta_text": "446 stars today",
+    "forks": 7109,
+    "url": "https://github.com/MemPalace/mempalace"
+  },
+  {
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+    "language": "TypeScript",
+    "total_stars": 14955,
+    "delta_stars": 70,
+    "delta_text": "70 stars today",
+    "forks": 2122,
+    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 1765,
+    "delta_stars": 213,
+    "delta_text": "213 stars today",
+    "forks": 256,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 22309,
+    "delta_stars": 683,
+    "delta_text": "683 stars today",
+    "forks": 1907,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "sveltejs/svelte",
+    "description": "web development for the rest of us",
+    "language": "JavaScript",
+    "total_stars": 86981,
+    "delta_stars": 25,
+    "delta_text": "25 stars today",
+    "forks": 4937,
+    "url": "https://github.com/sveltejs/svelte"
+  },
+  {
+    "name": "nginx/nginx",
+    "description": "The official NGINX Open Source repository.",
+    "language": "C",
+    "total_stars": 30688,
+    "delta_stars": 20,
+    "delta_text": "20 stars today",
+    "forks": 7956,
+    "url": "https://github.com/nginx/nginx"
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "total_stars": 35999,
+    "delta_stars": 159,
+    "delta_text": "159 stars today",
+    "forks": 454,
+    "url": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "name": "golang/go",
+    "description": "The Go programming language",
+    "language": "Go",
+    "total_stars": 134505,
+    "delta_stars": 30,
+    "delta_text": "30 stars today",
+    "forks": 19085,
+    "url": "https://github.com/golang/go"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 26604,
+    "delta_stars": 794,
+    "delta_text": "794 stars today",
+    "forks": 3037,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 219646,
+    "delta_stars": 700,
+    "delta_text": "700 stars today",
+    "forks": 19542,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "language": "JavaScript",
+    "total_stars": 49331,
+    "delta_stars": 193,
+    "delta_text": "193 stars today",
+    "forks": 10197,
+    "url": "https://github.com/santifer/career-ops"
+  },
+  {
+    "name": "openai/whisper",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "language": "Python",
+    "total_stars": 101853,
+    "delta_stars": 150,
+    "delta_text": "150 stars today",
+    "forks": 12440,
+    "url": "https://github.com/openai/whisper"
+  },
+  {
+    "name": "vitejs/vite",
+    "description": "Next generation frontend tooling. It's fast!",
+    "language": "TypeScript",
+    "total_stars": 81178,
+    "delta_stars": 25,
+    "delta_text": "25 stars today",
+    "forks": 8274,
+    "url": "https://github.com/vitejs/vite"
+  },
+  {
+    "name": "microsoft/mxc",
+    "description": "Policy-driven, layered isolation and containment",
+    "language": "Rust",
+    "total_stars": 573,
+    "delta_stars": 64,
+    "delta_text": "64 stars today",
+    "forks": 24,
+    "url": "https://github.com/microsoft/mxc"
+  },
+  {
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "language": "Python",
+    "total_stars": 80956,
+    "delta_stars": 433,
+    "delta_text": "433 stars today",
+    "forks": 10657,
+    "url": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "total_stars": 48469,
+    "delta_stars": 216,
+    "delta_text": "216 stars today",
+    "forks": 5391,
+    "url": "https://github.com/microsoft/VibeVoice"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 15823,
+    "delta_stars": 13308,
+    "delta_text": "13,308 stars this week",
+    "forks": 1007,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 146371,
+    "delta_stars": 15015,
+    "delta_text": "15,015 stars this week",
+    "forks": 10019,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 80479,
+    "delta_stars": 9174,
+    "delta_text": "9,174 stars this week",
+    "forks": 11473,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "language": "HTML",
+    "total_stars": 6258,
+    "delta_stars": 2098,
+    "delta_text": "2,098 stars this week",
+    "forks": 844,
+    "url": "https://github.com/revfactory/harness"
+  },
+  {
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "language": "TypeScript",
+    "total_stars": 25842,
+    "delta_stars": 2992,
+    "delta_text": "2,992 stars this week",
+    "forks": 2263,
+    "url": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 209149,
+    "delta_stars": 10351,
+    "delta_text": "10,351 stars this week",
+    "forks": 32078,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "language": "TypeScript",
+    "total_stars": 20095,
+    "delta_stars": 1752,
+    "delta_text": "1,752 stars this week",
+    "forks": 1497,
+    "url": "https://github.com/EveryInc/compound-engineering-plugin"
+  },
+  {
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "language": "Python",
+    "total_stars": 10194,
+    "delta_stars": 2273,
+    "delta_text": "2,273 stars this week",
+    "forks": 1209,
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 10918,
+    "delta_stars": 2318,
+    "delta_text": "2,318 stars this week",
+    "forks": 920,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "total_stars": 35228,
+    "delta_stars": 6085,
+    "delta_text": "6,085 stars this week",
+    "forks": 2579,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "run-llama/liteparse",
+    "description": "A fast, helpful, and open-source document parser",
+    "language": "Rust",
+    "total_stars": 9344,
+    "delta_stars": 1613,
+    "delta_text": "1,613 stars this week",
+    "forks": 562,
+    "url": "https://github.com/run-llama/liteparse"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 1765,
+    "delta_stars": 360,
+    "delta_text": "360 stars this week",
+    "forks": 256,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "total_stars": 35999,
+    "delta_stars": 711,
+    "delta_text": "711 stars this week",
+    "forks": 454,
+    "url": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "name": "hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose",
+    "language": "",
+    "total_stars": 9022,
+    "delta_stars": 1705,
+    "delta_text": "1,705 stars this week",
+    "forks": 625,
+    "url": "https://github.com/hardikpandya/stop-slop"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Python",
+    "total_stars": 130648,
+    "delta_stars": 2527,
+    "delta_text": "2,527 stars this week",
+    "forks": 21198,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "language": "Python",
+    "total_stars": 61600,
+    "delta_stars": 6002,
+    "delta_text": "6,002 stars this week",
+    "forks": 5963,
+    "url": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 14634,
+    "delta_stars": 2192,
+    "delta_text": "2,192 stars this week",
+    "forks": 1717,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "total_stars": 27203,
+    "delta_stars": 4450,
+    "delta_text": "4,450 stars this week",
+    "forks": 3075,
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "language": "Python",
+    "total_stars": 13660,
+    "delta_stars": 4418,
+    "delta_text": "4,418 stars this week",
+    "forks": 1677,
+    "url": "https://github.com/nesquena/hermes-webui"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 184753,
+    "delta_stars": 11355,
+    "delta_text": "11,355 stars this week",
+    "forks": 31715,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  }
+]

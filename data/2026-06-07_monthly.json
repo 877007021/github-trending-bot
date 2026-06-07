@@ -1,0 +1,192 @@
+[
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 43066,
+    "delta_stars": 42159,
+    "delta_text": "42,159 stars this month",
+    "forks": 2646,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 24475,
+    "delta_stars": 22858,
+    "delta_text": "22,858 stars this month",
+    "forks": 1948,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 15823,
+    "delta_stars": 13688,
+    "delta_text": "13,688 stars this month",
+    "forks": 1007,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 21572,
+    "delta_stars": 19405,
+    "delta_text": "19,405 stars this month",
+    "forks": 1777,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "total_stars": 53579,
+    "delta_stars": 40842,
+    "delta_text": "40,842 stars this month",
+    "forks": 4402,
+    "url": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "name": "fathah/hermes-desktop",
+    "description": "Desktop Companion for Hermes Agent",
+    "language": "TypeScript",
+    "total_stars": 10785,
+    "delta_stars": 9622,
+    "delta_text": "9,622 stars this month",
+    "forks": 1263,
+    "url": "https://github.com/fathah/hermes-desktop"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 80479,
+    "delta_stars": 23959,
+    "delta_text": "23,959 stars this month",
+    "forks": 11473,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 28081,
+    "delta_stars": 23409,
+    "delta_text": "23,409 stars this month",
+    "forks": 2314,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 29384,
+    "delta_stars": 22914,
+    "delta_text": "22,914 stars this month",
+    "forks": 4802,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 71349,
+    "delta_stars": 20042,
+    "delta_text": "20,042 stars this month",
+    "forks": 9511,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 30253,
+    "delta_stars": 21779,
+    "delta_text": "21,779 stars this month",
+    "forks": 4271,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "total_stars": 18391,
+    "delta_stars": 9281,
+    "delta_text": "9,281 stars this month",
+    "forks": 2878,
+    "url": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 119480,
+    "delta_stars": 57585,
+    "delta_text": "57,585 stars this month",
+    "forks": 10473,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 10918,
+    "delta_stars": 6893,
+    "delta_text": "6,893 stars this month",
+    "forks": 920,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "HKUDS/ViMax",
+    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+    "language": "Python",
+    "total_stars": 8928,
+    "delta_stars": 6195,
+    "delta_text": "6,195 stars this month",
+    "forks": 1362,
+    "url": "https://github.com/HKUDS/ViMax"
+  },
+  {
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "language": "JavaScript",
+    "total_stars": 16614,
+    "delta_stars": 12740,
+    "delta_text": "12,740 stars this month",
+    "forks": 2507,
+    "url": "https://github.com/decolua/9router"
+  },
+  {
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "total_stars": 36173,
+    "delta_stars": 6696,
+    "delta_text": "6,696 stars this month",
+    "forks": 3640,
+    "url": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "name": "Hmbown/CodeWhale",
+    "description": "DeepSeek + MiMo coding agent in terminal",
+    "language": "Rust",
+    "total_stars": 37328,
+    "delta_stars": 25791,
+    "delta_text": "25,791 stars this month",
+    "forks": 3209,
+    "url": "https://github.com/Hmbown/CodeWhale"
+  },
+  {
+    "name": "datawhalechina/easy-vibe",
+    "description": "💻 vibe coding 2026 | Your first modern Coding course beginners to master step by step.",
+    "language": "JavaScript",
+    "total_stars": 16363,
+    "delta_stars": 8780,
+    "delta_text": "8,780 stars this month",
+    "forks": 1541,
+    "url": "https://github.com/datawhalechina/easy-vibe"
+  }
+]
