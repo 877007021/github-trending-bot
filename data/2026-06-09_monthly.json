@@ -1,0 +1,182 @@
+[
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 44811,
+    "delta_stars": 43749,
+    "delta_text": "43,749 stars this month",
+    "forks": 2758,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 18837,
+    "delta_stars": 16237,
+    "delta_text": "16,237 stars this month",
+    "forks": 1203,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "Egonex-AI/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "total_stars": 55200,
+    "delta_stars": 41974,
+    "delta_text": "41,974 stars this month",
+    "forks": 4567,
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 24931,
+    "delta_stars": 22447,
+    "delta_text": "22,447 stars this month",
+    "forks": 1990,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 21928,
+    "delta_stars": 19359,
+    "delta_text": "19,359 stars this month",
+    "forks": 1803,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 82089,
+    "delta_stars": 25436,
+    "delta_text": "25,436 stars this month",
+    "forks": 11698,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "fathah/hermes-desktop",
+    "description": "Desktop Companion for Hermes Agent",
+    "language": "TypeScript",
+    "total_stars": 11237,
+    "delta_stars": 9936,
+    "delta_text": "9,936 stars this month",
+    "forks": 1293,
+    "url": "https://github.com/fathah/hermes-desktop"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 28985,
+    "delta_stars": 24020,
+    "delta_text": "24,020 stars this month",
+    "forks": 2402,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 30340,
+    "delta_stars": 23852,
+    "delta_text": "23,852 stars this month",
+    "forks": 4950,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 72024,
+    "delta_stars": 20463,
+    "delta_text": "20,463 stars this month",
+    "forks": 9609,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 121656,
+    "delta_stars": 55905,
+    "delta_text": "55,905 stars this month",
+    "forks": 10661,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 11287,
+    "delta_stars": 7167,
+    "delta_text": "7,167 stars this month",
+    "forks": 954,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "total_stars": 19432,
+    "delta_stars": 10222,
+    "delta_text": "10,222 stars this month",
+    "forks": 2980,
+    "url": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "name": "HKUDS/ViMax",
+    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+    "language": "Python",
+    "total_stars": 9139,
+    "delta_stars": 5702,
+    "delta_text": "5,702 stars this month",
+    "forks": 1382,
+    "url": "https://github.com/HKUDS/ViMax"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 30533,
+    "delta_stars": 16850,
+    "delta_text": "16,850 stars this month",
+    "forks": 4313,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 148391,
+    "delta_stars": 26881,
+    "delta_text": "26,881 stars this month",
+    "forks": 10183,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it",
+    "language": "TypeScript",
+    "total_stars": 12449,
+    "delta_stars": 6102,
+    "delta_text": "6,102 stars this month",
+    "forks": 396,
+    "url": "https://github.com/millionco/react-doctor"
+  },
+  {
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Rust",
+    "total_stars": 92947,
+    "delta_stars": 3777,
+    "delta_text": "3,777 stars this month",
+    "forks": 4694,
+    "url": "https://github.com/oven-sh/bun"
+  }
+]

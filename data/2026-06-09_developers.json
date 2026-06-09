@@ -1,0 +1,177 @@
+[
+  {
+    "username": "jonathanong",
+    "display_name": "jongleberry",
+    "popular_repo": "lingua-rs",
+    "url": "https://github.com/jonathanong",
+    "repo_url": "https://github.com/jonathanong/lingua-rs"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "SB2318",
+    "display_name": "S. B. | Software Developer",
+    "popular_repo": "UltimateHealth",
+    "url": "https://github.com/SB2318",
+    "repo_url": "https://github.com/SB2318/UltimateHealth"
+  },
+  {
+    "username": "tmchow",
+    "display_name": "Trevin Chow",
+    "popular_repo": "agent-skills",
+    "url": "https://github.com/tmchow",
+    "repo_url": "https://github.com/tmchow/agent-skills"
+  },
+  {
+    "username": "xiaolai",
+    "display_name": "xiaolai",
+    "popular_repo": "most-common-american-idioms",
+    "url": "https://github.com/xiaolai",
+    "repo_url": "https://github.com/xiaolai/most-common-american-idioms"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "inbox-zero",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/inbox-zero"
+  },
+  {
+    "username": "dalathegreat",
+    "display_name": "Daniel Öster",
+    "popular_repo": "Battery-Emulator",
+    "url": "https://github.com/dalathegreat",
+    "repo_url": "https://github.com/dalathegreat/Battery-Emulator"
+  },
+  {
+    "username": "isair",
+    "display_name": "Baris Sencan",
+    "popular_repo": "jarvis",
+    "url": "https://github.com/isair",
+    "repo_url": "https://github.com/isair/jarvis"
+  },
+  {
+    "username": "FlorianBruniaux",
+    "display_name": "Florian BRUNIAUX",
+    "popular_repo": "claude-code-ultimate-guide",
+    "url": "https://github.com/FlorianBruniaux",
+    "repo_url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "username": "frankekn",
+    "display_name": "Frank Yang",
+    "popular_repo": "george-hotz-skills",
+    "url": "https://github.com/frankekn",
+    "repo_url": "https://github.com/frankekn/george-hotz-skills"
+  },
+  {
+    "username": "akshaydeo",
+    "display_name": "Akshay Deo",
+    "popular_repo": "",
+    "url": "https://github.com/akshaydeo",
+    "repo_url": ""
+  },
+  {
+    "username": "ColeMurray",
+    "display_name": "Cole Murray",
+    "popular_repo": "background-agents",
+    "url": "https://github.com/ColeMurray",
+    "repo_url": "https://github.com/ColeMurray/background-agents"
+  },
+  {
+    "username": "lfnovo",
+    "display_name": "Luis Novo",
+    "popular_repo": "open-notebook",
+    "url": "https://github.com/lfnovo",
+    "repo_url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "username": "fancyboi999",
+    "display_name": "Xinmin Zeng",
+    "popular_repo": "ai-engineering-from-scratch-zh",
+    "url": "https://github.com/fancyboi999",
+    "repo_url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh"
+  },
+  {
+    "username": "Q00",
+    "display_name": "Q00",
+    "popular_repo": "ouroboros",
+    "url": "https://github.com/Q00",
+    "repo_url": "https://github.com/Q00/ouroboros"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "theovilardo",
+    "display_name": "theovilardo",
+    "popular_repo": "PixelPlayer",
+    "url": "https://github.com/theovilardo",
+    "repo_url": "https://github.com/theovilardo/PixelPlayer"
+  },
+  {
+    "username": "rjpower",
+    "display_name": "Russell Power",
+    "popular_repo": "weaver",
+    "url": "https://github.com/rjpower",
+    "repo_url": "https://github.com/rjpower/weaver"
+  },
+  {
+    "username": "adamziel",
+    "display_name": "Adam Zieliński",
+    "popular_repo": "",
+    "url": "https://github.com/adamziel",
+    "repo_url": ""
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "alexey-milovidov",
+    "display_name": "Alexey Milovidov",
+    "popular_repo": "",
+    "url": "https://github.com/alexey-milovidov",
+    "repo_url": ""
+  },
+  {
+    "username": "jrouwe",
+    "display_name": "Jorrit Rouwe",
+    "popular_repo": "JoltPhysics",
+    "url": "https://github.com/jrouwe",
+    "repo_url": "https://github.com/jrouwe/JoltPhysics"
+  },
+  {
+    "username": "lgallard",
+    "display_name": "Luis M. Gallardo D.",
+    "popular_repo": "anki-flashcards-koreader",
+    "url": "https://github.com/lgallard",
+    "repo_url": "https://github.com/lgallard/anki-flashcards-koreader"
+  },
+  {
+    "username": "Soulter",
+    "display_name": "Weilong Liao",
+    "popular_repo": "astrbot_plugin_bilibili",
+    "url": "https://github.com/Soulter",
+    "repo_url": "https://github.com/Soulter/astrbot_plugin_bilibili"
+  },
+  {
+    "username": "zeux",
+    "display_name": "Arseny Kapoulkine",
+    "popular_repo": "meshoptimizer",
+    "url": "https://github.com/zeux",
+    "repo_url": "https://github.com/zeux/meshoptimizer"
+  }
+]

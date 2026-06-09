@@ -1,0 +1,182 @@
+[
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 18837,
+    "delta_stars": 14266,
+    "delta_text": "14,266 stars this week",
+    "forks": 1203,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 148391,
+    "delta_stars": 11177,
+    "delta_text": "11,177 stars this week",
+    "forks": 10183,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 34478,
+    "delta_stars": 6616,
+    "delta_text": "6,616 stars this week",
+    "forks": 2820,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "language": "Python",
+    "total_stars": 10533,
+    "delta_stars": 2528,
+    "delta_text": "2,528 stars this week",
+    "forks": 1233,
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 24080,
+    "delta_stars": 3006,
+    "delta_text": "3,006 stars this week",
+    "forks": 2030,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 82089,
+    "delta_stars": 5574,
+    "delta_text": "5,574 stars this week",
+    "forks": 11698,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 2313,
+    "delta_stars": 899,
+    "delta_text": "899 stars this week",
+    "forks": 289,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 210819,
+    "delta_stars": 9301,
+    "delta_text": "9,301 stars this week",
+    "forks": 32335,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "language": "TypeScript",
+    "total_stars": 26199,
+    "delta_stars": 2434,
+    "delta_text": "2,434 stars this week",
+    "forks": 2285,
+    "url": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "total_stars": 38431,
+    "delta_stars": 7597,
+    "delta_text": "7,597 stars this week",
+    "forks": 2731,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "language": "HTML",
+    "total_stars": 6557,
+    "delta_stars": 1553,
+    "delta_text": "1,553 stars this week",
+    "forks": 891,
+    "url": "https://github.com/revfactory/harness"
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "total_stars": 36172,
+    "delta_stars": 919,
+    "delta_text": "919 stars this week",
+    "forks": 461,
+    "url": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 27977,
+    "delta_stars": 3891,
+    "delta_text": "3,891 stars this week",
+    "forks": 3165,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 11287,
+    "delta_stars": 1952,
+    "delta_text": "1,952 stars this week",
+    "forks": 954,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 187369,
+    "delta_stars": 11747,
+    "delta_text": "11,747 stars this week",
+    "forks": 32287,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 36262,
+    "delta_stars": 3736,
+    "delta_text": "3,736 stars this week",
+    "forks": 1974,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose",
+    "language": "",
+    "total_stars": 9495,
+    "delta_stars": 1498,
+    "delta_text": "1,498 stars this week",
+    "forks": 668,
+    "url": "https://github.com/hardikpandya/stop-slop"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 12644,
+    "delta_stars": 640,
+    "delta_text": "640 stars this week",
+    "forks": 1497,
+    "url": "https://github.com/phuryn/pm-skills"
+  }
+]
