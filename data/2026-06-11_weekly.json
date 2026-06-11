@@ -1,0 +1,172 @@
+[
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 39053,
+    "delta_stars": 11732,
+    "delta_text": "11,732 stars this week",
+    "forks": 3155,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 21744,
+    "delta_stars": 13062,
+    "delta_text": "13,062 stars this week",
+    "forks": 1404,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 28972,
+    "delta_stars": 4648,
+    "delta_text": "4,648 stars this week",
+    "forks": 3288,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 2748,
+    "delta_stars": 1371,
+    "delta_text": "1,371 stars this week",
+    "forks": 318,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 26045,
+    "delta_stars": 5021,
+    "delta_text": "5,021 stars this week",
+    "forks": 2153,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "total_stars": 40594,
+    "delta_stars": 8077,
+    "delta_text": "8,077 stars this week",
+    "forks": 2865,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 150277,
+    "delta_stars": 7820,
+    "delta_text": "7,820 stars this week",
+    "forks": 10348,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 14826,
+    "delta_stars": 2056,
+    "delta_text": "2,056 stars this week",
+    "forks": 1618,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "language": "Python",
+    "total_stars": 10858,
+    "delta_stars": 2110,
+    "delta_text": "2,110 stars this week",
+    "forks": 1262,
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 189939,
+    "delta_stars": 11519,
+    "delta_text": "11,519 stars this week",
+    "forks": 32902,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "total_stars": 36286,
+    "delta_stars": 991,
+    "delta_text": "991 stars this week",
+    "forks": 470,
+    "url": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 212710,
+    "delta_stars": 7865,
+    "delta_text": "7,865 stars this week",
+    "forks": 32673,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "CopilotKit/CopilotKit",
+    "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+    "language": "TypeScript",
+    "total_stars": 34609,
+    "delta_stars": 2686,
+    "delta_text": "2,686 stars this week",
+    "forks": 4329,
+    "url": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "language": "HTML",
+    "total_stars": 6754,
+    "delta_stars": 1113,
+    "delta_text": "1,113 stars this week",
+    "forks": 925,
+    "url": "https://github.com/revfactory/harness"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 37192,
+    "delta_stars": 3212,
+    "delta_text": "3,212 stars this week",
+    "forks": 2034,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "language": "TypeScript",
+    "total_stars": 20922,
+    "delta_stars": 1394,
+    "delta_text": "1,394 stars this week",
+    "forks": 1540,
+    "url": "https://github.com/EveryInc/compound-engineering-plugin"
+  },
+  {
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "total_stars": 43564,
+    "delta_stars": 3532,
+    "delta_text": "3,532 stars this week",
+    "forks": 3869,
+    "url": "https://github.com/roboflow/supervision"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 51737,
+    "delta_stars": 821,
+    "delta_text": "821 stars today",
+    "forks": 5702,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 14826,
+    "delta_stars": 804,
+    "delta_text": "804 stars today",
+    "forks": 1618,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "language": "TypeScript",
+    "total_stars": 14894,
+    "delta_stars": 612,
+    "delta_text": "612 stars today",
+    "forks": 1028,
+    "url": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 39053,
+    "delta_stars": 2535,
+    "delta_text": "2,535 stars today",
+    "forks": 3155,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 31999,
+    "delta_stars": 318,
+    "delta_text": "318 stars today",
+    "forks": 2339,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
+    "language": "",
+    "total_stars": 139506,
+    "delta_stars": 393,
+    "delta_text": "393 stars today",
+    "forks": 34590,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 223578,
+    "delta_stars": 1104,
+    "delta_text": "1,104 stars today",
+    "forks": 19874,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "masterking32/MasterDnsVPN",
+    "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+    "language": "Go",
+    "total_stars": 5202,
+    "delta_stars": 354,
+    "delta_text": "354 stars today",
+    "forks": 502,
+    "url": "https://github.com/masterking32/MasterDnsVPN"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 85002,
+    "delta_stars": 1389,
+    "delta_text": "1,389 stars today",
+    "forks": 12137,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "maziyarpanahi/openmed",
+    "description": "open-source healthcare ai",
+    "language": "Python",
+    "total_stars": 2278,
+    "delta_stars": 527,
+    "delta_text": "527 stars today",
+    "forks": 243,
+    "url": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "total_stars": 36522,
+    "delta_stars": 211,
+    "delta_text": "211 stars today",
+    "forks": 4411,
+    "url": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "name": "activeloopai/hivemind",
+    "description": "One brain for all your agents",
+    "language": "TypeScript",
+    "total_stars": 824,
+    "delta_stars": 64,
+    "delta_text": "64 stars today",
+    "forks": 49,
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 72888,
+    "delta_stars": 420,
+    "delta_text": "420 stars today",
+    "forks": 9727,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "total_stars": 43564,
+    "delta_stars": 695,
+    "delta_text": "695 stars today",
+    "forks": 3869,
+    "url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "total_stars": 13281,
+    "delta_stars": 211,
+    "delta_text": "211 stars today",
+    "forks": 1007,
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "name": "FareedKhan-dev/train-llm-from-scratch",
+    "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+    "language": "Python",
+    "total_stars": 5247,
+    "delta_stars": 247,
+    "delta_text": "247 stars today",
+    "forks": 709,
+    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 29749,
+    "delta_stars": 1611,
+    "delta_text": "1,611 stars today",
+    "forks": 829,
+    "url": "https://github.com/apple/container"
+  }
+]
