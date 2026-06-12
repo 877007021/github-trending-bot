@@ -1,0 +1,172 @@
+[
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 39713,
+    "delta_stars": 12422,
+    "delta_text": "12,422 stars this week",
+    "forks": 3201,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 23165,
+    "delta_stars": 11282,
+    "delta_text": "11,282 stars this week",
+    "forks": 1502,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 29272,
+    "delta_stars": 4796,
+    "delta_text": "4,796 stars this week",
+    "forks": 3317,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 16198,
+    "delta_stars": 4005,
+    "delta_text": "4,005 stars this week",
+    "forks": 1684,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 2812,
+    "delta_stars": 1424,
+    "delta_text": "1,424 stars this week",
+    "forks": 322,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 26360,
+    "delta_stars": 5186,
+    "delta_text": "5,186 stars this week",
+    "forks": 2165,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "NVIDIA/cosmos",
+    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+    "language": "Jupyter Notebook",
+    "total_stars": 9914,
+    "delta_stars": 1099,
+    "delta_text": "1,099 stars this week",
+    "forks": 641,
+    "url": "https://github.com/NVIDIA/cosmos"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "total_stars": 41532,
+    "delta_stars": 8413,
+    "delta_text": "8,413 stars this week",
+    "forks": 2906,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 32366,
+    "delta_stars": 4081,
+    "delta_text": "4,081 stars this week",
+    "forks": 906,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 151204,
+    "delta_stars": 7280,
+    "delta_text": "7,280 stars this week",
+    "forks": 10422,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "language": "Python",
+    "total_stars": 10987,
+    "delta_stars": 1676,
+    "delta_text": "1,676 stars this week",
+    "forks": 1273,
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  },
+  {
+    "name": "CopilotKit/CopilotKit",
+    "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+    "language": "TypeScript",
+    "total_stars": 34725,
+    "delta_stars": 2751,
+    "delta_text": "2,751 stars this week",
+    "forks": 4333,
+    "url": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "total_stars": 36331,
+    "delta_stars": 792,
+    "delta_text": "792 stars this week",
+    "forks": 469,
+    "url": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "language": "JavaScript",
+    "total_stars": 52806,
+    "delta_stars": 4111,
+    "delta_text": "4,111 stars this week",
+    "forks": 10578,
+    "url": "https://github.com/santifer/career-ops"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 190983,
+    "delta_stars": 10733,
+    "delta_text": "10,733 stars this week",
+    "forks": 33166,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "language": "HTML",
+    "total_stars": 6827,
+    "delta_stars": 973,
+    "delta_text": "973 stars this week",
+    "forks": 933,
+    "url": "https://github.com/revfactory/harness"
+  },
+  {
+    "name": "aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "total_stars": 48911,
+    "delta_stars": 2509,
+    "delta_text": "2,509 stars this week",
+    "forks": 5154,
+    "url": "https://github.com/aaif-goose/goose"
+  }
+]

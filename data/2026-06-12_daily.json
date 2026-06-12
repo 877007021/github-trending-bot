@@ -1,0 +1,192 @@
+[
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 32366,
+    "delta_stars": 2430,
+    "delta_text": "2,430 stars today",
+    "forks": 906,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 54676,
+    "delta_stars": 3278,
+    "delta_text": "3,278 stars today",
+    "forks": 5945,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "maziyarpanahi/openmed",
+    "description": "open-source healthcare ai",
+    "language": "Python",
+    "total_stars": 2745,
+    "delta_stars": 426,
+    "delta_text": "426 stars today",
+    "forks": 269,
+    "url": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 16197,
+    "delta_stars": 1978,
+    "delta_text": "1,978 stars today",
+    "forks": 1684,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 2632,
+    "delta_stars": 319,
+    "delta_text": "319 stars today",
+    "forks": 210,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "language": "Python",
+    "total_stars": 32599,
+    "delta_stars": 661,
+    "delta_text": "661 stars today",
+    "forks": 2386,
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
+    "language": "",
+    "total_stars": 139864,
+    "delta_stars": 368,
+    "delta_text": "368 stars today",
+    "forks": 34615,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "language": "TypeScript",
+    "total_stars": 15379,
+    "delta_stars": 604,
+    "delta_text": "604 stars today",
+    "forks": 1061,
+    "url": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 224803,
+    "delta_stars": 1322,
+    "delta_text": "1,322 stars today",
+    "forks": 19984,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "restic/restic",
+    "description": "Fast, secure, efficient backup program",
+    "language": "Go",
+    "total_stars": 34151,
+    "delta_stars": 61,
+    "delta_text": "61 stars today",
+    "forks": 1785,
+    "url": "https://github.com/restic/restic"
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "total_stars": 111539,
+    "delta_stars": 1599,
+    "delta_text": "1,599 stars today",
+    "forks": 18252,
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "name": "masterking32/MasterDnsVPN",
+    "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+    "language": "Go",
+    "total_stars": 5686,
+    "delta_stars": 507,
+    "delta_text": "507 stars today",
+    "forks": 518,
+    "url": "https://github.com/masterking32/MasterDnsVPN"
+  },
+  {
+    "name": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "total_stars": 30352,
+    "delta_stars": 67,
+    "delta_text": "67 stars today",
+    "forks": 7506,
+    "url": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "name": "kenn-io/agentsview",
+    "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+    "language": "Go",
+    "total_stars": 1632,
+    "delta_stars": 114,
+    "delta_text": "114 stars today",
+    "forks": 173,
+    "url": "https://github.com/kenn-io/agentsview"
+  },
+  {
+    "name": "alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "language": "",
+    "total_stars": 7938,
+    "delta_stars": 89,
+    "delta_text": "89 stars today",
+    "forks": 2413,
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill"
+  },
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "total_stars": 73919,
+    "delta_stars": 88,
+    "delta_text": "88 stars today",
+    "forks": 16537,
+    "url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "name": "hexo-ai/sia",
+    "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+    "language": "Python",
+    "total_stars": 1287,
+    "delta_stars": 199,
+    "delta_text": "199 stars today",
+    "forks": 158,
+    "url": "https://github.com/hexo-ai/sia"
+  },
+  {
+    "name": "mattermost/mattermost",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "language": "TypeScript",
+    "total_stars": 37308,
+    "delta_stars": 53,
+    "delta_text": "53 stars today",
+    "forks": 8697,
+    "url": "https://github.com/mattermost/mattermost"
+  },
+  {
+    "name": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "language": "Kotlin",
+    "total_stars": 46750,
+    "delta_stars": 161,
+    "delta_text": "161 stars today",
+    "forks": 8004,
+    "url": "https://github.com/bannedbook/fanqiang"
+  }
+]
