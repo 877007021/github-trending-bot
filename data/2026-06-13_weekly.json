@@ -1,0 +1,182 @@
+[
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 40330,
+    "delta_stars": 12257,
+    "delta_text": "12,257 stars this week",
+    "forks": 3243,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 24652,
+    "delta_stars": 10184,
+    "delta_text": "10,184 stars this week",
+    "forks": 1610,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 16971,
+    "delta_stars": 4839,
+    "delta_text": "4,839 stars this week",
+    "forks": 1741,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 35063,
+    "delta_stars": 7781,
+    "delta_text": "7,781 stars this week",
+    "forks": 978,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 2894,
+    "delta_stars": 1435,
+    "delta_text": "1,435 stars this week",
+    "forks": 337,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 26769,
+    "delta_stars": 5364,
+    "delta_text": "5,364 stars this week",
+    "forks": 2185,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 29533,
+    "delta_stars": 3848,
+    "delta_text": "3,848 stars this week",
+    "forks": 3347,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "total_stars": 42380,
+    "delta_stars": 8651,
+    "delta_text": "8,651 stars this week",
+    "forks": 2962,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 152075,
+    "delta_stars": 6967,
+    "delta_text": "6,967 stars this week",
+    "forks": 10510,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "NVIDIA/cosmos",
+    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+    "language": "Jupyter Notebook",
+    "total_stars": 10033,
+    "delta_stars": 721,
+    "delta_text": "721 stars this week",
+    "forks": 646,
+    "url": "https://github.com/NVIDIA/cosmos"
+  },
+  {
+    "name": "CopilotKit/CopilotKit",
+    "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+    "language": "TypeScript",
+    "total_stars": 34884,
+    "delta_stars": 2473,
+    "delta_text": "2,473 stars this week",
+    "forks": 4348,
+    "url": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "language": "TypeScript",
+    "total_stars": 15756,
+    "delta_stars": 3471,
+    "delta_text": "3,471 stars this week",
+    "forks": 1076,
+    "url": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "name": "aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "total_stars": 49095,
+    "delta_stars": 2479,
+    "delta_text": "2,479 stars this week",
+    "forks": 5176,
+    "url": "https://github.com/aaif-goose/goose"
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "total_stars": 36400,
+    "delta_stars": 638,
+    "delta_text": "638 stars this week",
+    "forks": 470,
+    "url": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "language": "JavaScript",
+    "total_stars": 53219,
+    "delta_stars": 4319,
+    "delta_text": "4,319 stars this week",
+    "forks": 10627,
+    "url": "https://github.com/santifer/career-ops"
+  },
+  {
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "language": "Python",
+    "total_stars": 11172,
+    "delta_stars": 1218,
+    "delta_text": "1,218 stars this week",
+    "forks": 1284,
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  },
+  {
+    "name": "opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "language": "C++",
+    "total_stars": 88977,
+    "delta_stars": 1203,
+    "delta_text": "1,203 stars this week",
+    "forks": 56642,
+    "url": "https://github.com/opencv/opencv"
+  },
+  {
+    "name": "sveltejs/svelte",
+    "description": "web development for the rest of us",
+    "language": "JavaScript",
+    "total_stars": 87195,
+    "delta_stars": 380,
+    "delta_text": "380 stars this week",
+    "forks": 4946,
+    "url": "https://github.com/sveltejs/svelte"
+  }
+]
