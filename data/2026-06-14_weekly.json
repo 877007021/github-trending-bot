@@ -1,0 +1,182 @@
+[
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 41237,
+    "delta_stars": 12602,
+    "delta_text": "12,602 stars this week",
+    "forks": 3339,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 36277,
+    "delta_stars": 9173,
+    "delta_text": "9,173 stars this week",
+    "forks": 1033,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 17627,
+    "delta_stars": 5408,
+    "delta_text": "5,408 stars this week",
+    "forks": 1814,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 26197,
+    "delta_stars": 10406,
+    "delta_text": "10,406 stars this week",
+    "forks": 1745,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 4421,
+    "delta_stars": 2799,
+    "delta_text": "2,799 stars this week",
+    "forks": 334,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 58340,
+    "delta_stars": 9348,
+    "delta_text": "9,348 stars this week",
+    "forks": 6300,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 27390,
+    "delta_stars": 5183,
+    "delta_text": "5,183 stars this week",
+    "forks": 2231,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 2969,
+    "delta_stars": 1298,
+    "delta_text": "1,298 stars this week",
+    "forks": 345,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "total_stars": 43080,
+    "delta_stars": 8097,
+    "delta_text": "8,097 stars this week",
+    "forks": 3001,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 152763,
+    "delta_stars": 6635,
+    "delta_text": "6,635 stars this week",
+    "forks": 10566,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "language": "TypeScript",
+    "total_stars": 16084,
+    "delta_stars": 3708,
+    "delta_text": "3,708 stars this week",
+    "forks": 1093,
+    "url": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 30130,
+    "delta_stars": 3570,
+    "delta_text": "3,570 stars this week",
+    "forks": 3421,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "total_stars": 49227,
+    "delta_stars": 2366,
+    "delta_text": "2,366 stars this week",
+    "forks": 5199,
+    "url": "https://github.com/aaif-goose/goose"
+  },
+  {
+    "name": "opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "language": "C++",
+    "total_stars": 89063,
+    "delta_stars": 1237,
+    "delta_text": "1,237 stars this week",
+    "forks": 56653,
+    "url": "https://github.com/opencv/opencv"
+  },
+  {
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "total_stars": 44084,
+    "delta_stars": 4022,
+    "delta_text": "4,022 stars this week",
+    "forks": 3920,
+    "url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "name": "CopilotKit/CopilotKit",
+    "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+    "language": "TypeScript",
+    "total_stars": 35005,
+    "delta_stars": 2034,
+    "delta_text": "2,034 stars this week",
+    "forks": 4362,
+    "url": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "name": "NVIDIA/cosmos",
+    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+    "language": "Jupyter Notebook",
+    "total_stars": 10149,
+    "delta_stars": 554,
+    "delta_text": "554 stars this week",
+    "forks": 658,
+    "url": "https://github.com/NVIDIA/cosmos"
+  },
+  {
+    "name": "huggingface/OpenEnv",
+    "description": "An interface library for RL post training with environments.",
+    "language": "Python",
+    "total_stars": 2167,
+    "delta_stars": 235,
+    "delta_text": "235 stars this week",
+    "forks": 392,
+    "url": "https://github.com/huggingface/OpenEnv"
+  }
+]
