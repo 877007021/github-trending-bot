@@ -1,0 +1,152 @@
+[
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 120875,
+    "delta_stars": 1528,
+    "delta_text": "1,528 stars today",
+    "forks": 6469,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "language": "TypeScript",
+    "total_stars": 447172,
+    "delta_stars": 146,
+    "delta_text": "146 stars today",
+    "forks": 44948,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "name": "pytest-dev/pytest",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+    "language": "Python",
+    "total_stars": 14029,
+    "delta_stars": 14,
+    "delta_text": "14 stars today",
+    "forks": 3179,
+    "url": "https://github.com/pytest-dev/pytest"
+  },
+  {
+    "name": "swc-project/swc",
+    "description": "Rust-based platform for the Web",
+    "language": "Rust",
+    "total_stars": 33775,
+    "delta_stars": 163,
+    "delta_text": "163 stars today",
+    "forks": 1401,
+    "url": "https://github.com/swc-project/swc"
+  },
+  {
+    "name": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "total_stars": 31208,
+    "delta_stars": 400,
+    "delta_text": "400 stars today",
+    "forks": 7586,
+    "url": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 5265,
+    "delta_stars": 964,
+    "delta_text": "964 stars today",
+    "forks": 402,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "meshery/meshery",
+    "description": "Meshery, the cloud native manager",
+    "language": "TypeScript",
+    "total_stars": 10396,
+    "delta_stars": 20,
+    "delta_text": "20 stars today",
+    "forks": 3420,
+    "url": "https://github.com/meshery/meshery"
+  },
+  {
+    "name": "cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "TypeScript",
+    "total_stars": 49928,
+    "delta_stars": 39,
+    "delta_text": "39 stars today",
+    "forks": 3413,
+    "url": "https://github.com/cypress-io/cypress"
+  },
+  {
+    "name": "GorvGoyl/Clone-Wars",
+    "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+    "language": "",
+    "total_stars": 35447,
+    "delta_stars": 269,
+    "delta_text": "269 stars today",
+    "forks": 3184,
+    "url": "https://github.com/GorvGoyl/Clone-Wars"
+  },
+  {
+    "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "description": "Introduction to Autonomous Robots",
+    "language": "TeX",
+    "total_stars": 2707,
+    "delta_stars": 293,
+    "delta_text": "293 stars today",
+    "forks": 612,
+    "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 29901,
+    "delta_stars": 244,
+    "delta_text": "244 stars today",
+    "forks": 5150,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "music-assistant/server",
+    "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+    "language": "Python",
+    "total_stars": 2177,
+    "delta_stars": 197,
+    "delta_text": "197 stars today",
+    "forks": 437,
+    "url": "https://github.com/music-assistant/server"
+  },
+  {
+    "name": "Free-TV/IPTV",
+    "description": "M3U Playlist for free TV channels",
+    "language": "Python",
+    "total_stars": 16922,
+    "delta_stars": 70,
+    "delta_text": "70 stars today",
+    "forks": 2543,
+    "url": "https://github.com/Free-TV/IPTV"
+  },
+  {
+    "name": "puppeteer/puppeteer",
+    "description": "JavaScript API for Chrome and Firefox",
+    "language": "TypeScript",
+    "total_stars": 94640,
+    "delta_stars": 29,
+    "delta_text": "29 stars today",
+    "forks": 9439,
+    "url": "https://github.com/puppeteer/puppeteer"
+  },
+  {
+    "name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "total_stars": 14385,
+    "delta_stars": 291,
+    "delta_text": "291 stars today",
+    "forks": 1504,
+    "url": "https://github.com/andrewyng/aisuite"
+  }
+]
