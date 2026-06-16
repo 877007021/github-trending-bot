@@ -1,0 +1,202 @@
+[
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 49706,
+    "delta_stars": 47946,
+    "delta_text": "47,946 stars this month",
+    "forks": 3037,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 28871,
+    "delta_stars": 26561,
+    "delta_text": "26,561 stars this month",
+    "forks": 1950,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "Egonex-AI/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "total_stars": 60604,
+    "delta_stars": 45478,
+    "delta_text": "45,478 stars this month",
+    "forks": 5001,
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 88313,
+    "delta_stars": 31448,
+    "delta_text": "31,448 stars this month",
+    "forks": 12670,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 33106,
+    "delta_stars": 25209,
+    "delta_text": "25,209 stars this month",
+    "forks": 5414,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "language": "Rust",
+    "total_stars": 32267,
+    "delta_stars": 24138,
+    "delta_text": "24,138 stars this month",
+    "forks": 3124,
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 31753,
+    "delta_stars": 24428,
+    "delta_text": "24,428 stars this month",
+    "forks": 2612,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 37470,
+    "delta_stars": 10915,
+    "delta_text": "10,915 stars this month",
+    "forks": 1073,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 12648,
+    "delta_stars": 8156,
+    "delta_text": "8,156 stars this month",
+    "forks": 1073,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 74045,
+    "delta_stars": 17836,
+    "delta_text": "17,836 stars this month",
+    "forks": 9884,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose",
+    "language": "",
+    "total_stars": 10815,
+    "delta_stars": 7220,
+    "delta_text": "7,220 stars this month",
+    "forks": 767,
+    "url": "https://github.com/hardikpandya/stop-slop"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 154131,
+    "delta_stars": 31148,
+    "delta_text": "31,148 stars this month",
+    "forks": 10656,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 20797,
+    "delta_stars": 8644,
+    "delta_text": "8,644 stars this month",
+    "forks": 2455,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "total_stars": 44551,
+    "delta_stars": 26989,
+    "delta_text": "26,989 stars this month",
+    "forks": 3108,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 5810,
+    "delta_stars": 4931,
+    "delta_text": "4,931 stars this month",
+    "forks": 347,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "HKUDS/ViMax",
+    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+    "language": "Python",
+    "total_stars": 10151,
+    "delta_stars": 6208,
+    "delta_text": "6,208 stars this month",
+    "forks": 1488,
+    "url": "https://github.com/HKUDS/ViMax"
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "total_stars": 22971,
+    "delta_stars": 13696,
+    "delta_text": "13,696 stars this month",
+    "forks": 1893,
+    "url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "language": "Python",
+    "total_stars": 26237,
+    "delta_stars": 14818,
+    "delta_text": "14,818 stars this month",
+    "forks": 2072,
+    "url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 130152,
+    "delta_stars": 46419,
+    "delta_text": "46,419 stars this month",
+    "forks": 11359,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "iii-hq/iii",
+    "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+    "language": "Rust",
+    "total_stars": 18154,
+    "delta_stars": 2542,
+    "delta_text": "2,542 stars this month",
+    "forks": 1209,
+    "url": "https://github.com/iii-hq/iii"
+  }
+]

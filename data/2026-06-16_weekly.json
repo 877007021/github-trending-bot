@@ -1,0 +1,202 @@
+[
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 42908,
+    "delta_stars": 9676,
+    "delta_text": "9,676 stars this week",
+    "forks": 3503,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 37470,
+    "delta_stars": 10541,
+    "delta_text": "10,541 stars this week",
+    "forks": 1073,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 18628,
+    "delta_stars": 6117,
+    "delta_text": "6,117 stars this week",
+    "forks": 1921,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 6403,
+    "delta_stars": 4633,
+    "delta_text": "4,633 stars this week",
+    "forks": 468,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 28871,
+    "delta_stars": 10660,
+    "delta_text": "10,660 stars this week",
+    "forks": 1950,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 60334,
+    "delta_stars": 11088,
+    "delta_text": "11,088 stars this week",
+    "forks": 6543,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 30250,
+    "delta_stars": 5873,
+    "delta_text": "5,873 stars this week",
+    "forks": 2453,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "language": "Python",
+    "total_stars": 11659,
+    "delta_stars": 3651,
+    "delta_text": "3,651 stars this week",
+    "forks": 1014,
+    "url": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "language": "TypeScript",
+    "total_stars": 16406,
+    "delta_stars": 3179,
+    "delta_text": "3,179 stars this week",
+    "forks": 1125,
+    "url": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "name": "music-assistant/server",
+    "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+    "language": "Python",
+    "total_stars": 2388,
+    "delta_stars": 710,
+    "delta_text": "710 stars this week",
+    "forks": 444,
+    "url": "https://github.com/music-assistant/server"
+  },
+  {
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "total_stars": 44356,
+    "delta_stars": 2360,
+    "delta_text": "2,360 stars this week",
+    "forks": 3939,
+    "url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "total_stars": 44550,
+    "delta_stars": 6297,
+    "delta_text": "6,297 stars this week",
+    "forks": 3108,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 3084,
+    "delta_stars": 882,
+    "delta_text": "882 stars this week",
+    "forks": 359,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "mattermost/mattermost",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "language": "TypeScript",
+    "total_stars": 37903,
+    "delta_stars": 853,
+    "delta_text": "853 stars this week",
+    "forks": 8738,
+    "url": "https://github.com/mattermost/mattermost"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 154131,
+    "delta_stars": 5913,
+    "delta_text": "5,913 stars this week",
+    "forks": 10656,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 42465,
+    "delta_stars": 935,
+    "delta_text": "935 stars this week",
+    "forks": 7062,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "total_stars": 31709,
+    "delta_stars": 1472,
+    "delta_text": "1,472 stars this week",
+    "forks": 7630,
+    "url": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "language": "C",
+    "total_stars": 135009,
+    "delta_stars": 1129,
+    "delta_text": "1,129 stars this week",
+    "forks": 8100,
+    "url": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "name": "huggingface/OpenEnv",
+    "description": "An interface library for RL post training with environments.",
+    "language": "Python",
+    "total_stars": 2274,
+    "delta_stars": 319,
+    "delta_text": "319 stars this week",
+    "forks": 397,
+    "url": "https://github.com/huggingface/OpenEnv"
+  },
+  {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
+    "language": "",
+    "total_stars": 140582,
+    "delta_stars": 1668,
+    "delta_text": "1,668 stars this week",
+    "forks": 34694,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  }
+]
