@@ -1,0 +1,222 @@
+[
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 7945,
+    "delta_stars": 5505,
+    "delta_text": "5,505 stars this week",
+    "forks": 598,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 62930,
+    "delta_stars": 9285,
+    "delta_text": "9,285 stars this week",
+    "forks": 6830,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 125505,
+    "delta_stars": 7899,
+    "delta_text": "7,899 stars this week",
+    "forks": 6855,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 38594,
+    "delta_stars": 7671,
+    "delta_text": "7,671 stars this week",
+    "forks": 1112,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 19595,
+    "delta_stars": 3663,
+    "delta_text": "3,663 stars this week",
+    "forks": 2003,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 34392,
+    "delta_stars": 7856,
+    "delta_text": "7,856 stars this week",
+    "forks": 2745,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "kenn-io/agentsview",
+    "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+    "language": "Go",
+    "total_stars": 2866,
+    "delta_stars": 1382,
+    "delta_text": "1,382 stars this week",
+    "forks": 246,
+    "url": "https://github.com/kenn-io/agentsview"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 34687,
+    "delta_stars": 10159,
+    "delta_text": "10,159 stars this week",
+    "forks": 2346,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 7080,
+    "delta_stars": 3244,
+    "delta_text": "3,244 stars this week",
+    "forks": 568,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "meshery/meshery",
+    "description": "Meshery, the cloud native manager",
+    "language": "TypeScript",
+    "total_stars": 11120,
+    "delta_stars": 848,
+    "delta_text": "848 stars this week",
+    "forks": 3466,
+    "url": "https://github.com/meshery/meshery"
+  },
+  {
+    "name": "LMCache/LMCache",
+    "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+    "language": "Python",
+    "total_stars": 9342,
+    "delta_stars": 825,
+    "delta_text": "825 stars this week",
+    "forks": 1346,
+    "url": "https://github.com/LMCache/LMCache"
+  },
+  {
+    "name": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "total_stars": 32572,
+    "delta_stars": 2422,
+    "delta_text": "2,422 stars this week",
+    "forks": 7737,
+    "url": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "name": "pytest-dev/pytest",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+    "language": "Python",
+    "total_stars": 14211,
+    "delta_stars": 297,
+    "delta_text": "297 stars this week",
+    "forks": 3193,
+    "url": "https://github.com/pytest-dev/pytest"
+  },
+  {
+    "name": "puppeteer/puppeteer",
+    "description": "JavaScript API for Chrome and Firefox",
+    "language": "TypeScript",
+    "total_stars": 95082,
+    "delta_stars": 593,
+    "delta_text": "593 stars this week",
+    "forks": 9456,
+    "url": "https://github.com/puppeteer/puppeteer"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 44425,
+    "delta_stars": 4827,
+    "delta_text": "4,827 stars this week",
+    "forks": 3652,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 31609,
+    "delta_stars": 2373,
+    "delta_text": "2,373 stars this week",
+    "forks": 3588,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "language": "TypeScript",
+    "total_stars": 449552,
+    "delta_stars": 2879,
+    "delta_text": "2,879 stars this week",
+    "forks": 45130,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "language": "C",
+    "total_stars": 135227,
+    "delta_stars": 1219,
+    "delta_text": "1,219 stars this week",
+    "forks": 8118,
+    "url": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "name": "mattermost/mattermost",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "language": "TypeScript",
+    "total_stars": 38045,
+    "delta_stars": 937,
+    "delta_text": "937 stars this week",
+    "forks": 8752,
+    "url": "https://github.com/mattermost/mattermost"
+  },
+  {
+    "name": "restic/restic",
+    "description": "Fast, secure, efficient backup program",
+    "language": "Go",
+    "total_stars": 34569,
+    "delta_stars": 541,
+    "delta_text": "541 stars this week",
+    "forks": 1796,
+    "url": "https://github.com/restic/restic"
+  },
+  {
+    "name": "biomejs/biome",
+    "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "language": "Rust",
+    "total_stars": 25130,
+    "delta_stars": 147,
+    "delta_text": "147 stars this week",
+    "forks": 1031,
+    "url": "https://github.com/biomejs/biome"
+  },
+  {
+    "name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "language": "Java",
+    "total_stars": 25485,
+    "delta_stars": 74,
+    "delta_text": "74 stars this week",
+    "forks": 9530,
+    "url": "https://github.com/jenkinsci/jenkins"
+  }
+]

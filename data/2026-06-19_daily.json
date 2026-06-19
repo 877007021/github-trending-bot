@@ -1,0 +1,172 @@
+[
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 23207,
+    "delta_stars": 844,
+    "delta_text": "844 stars today",
+    "forks": 2220,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "language": "Rust",
+    "total_stars": 10011,
+    "delta_stars": 369,
+    "delta_text": "369 stars today",
+    "forks": 463,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "language": "TypeScript",
+    "total_stars": 449552,
+    "delta_stars": 417,
+    "delta_text": "417 stars today",
+    "forks": 45130,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 232451,
+    "delta_stars": 1429,
+    "delta_text": "1,429 stars today",
+    "forks": 20645,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "zai-org/GLM-5",
+    "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "language": "",
+    "total_stars": 4140,
+    "delta_stars": 202,
+    "delta_text": "202 stars today",
+    "forks": 433,
+    "url": "https://github.com/zai-org/GLM-5"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 7080,
+    "delta_stars": 2322,
+    "delta_text": "2,322 stars today",
+    "forks": 567,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "yifanfeng97/Hyper-Extract",
+    "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+    "language": "Python",
+    "total_stars": 1791,
+    "delta_stars": 124,
+    "delta_text": "124 stars today",
+    "forks": 204,
+    "url": "https://github.com/yifanfeng97/Hyper-Extract"
+  },
+  {
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "total_stars": 11230,
+    "delta_stars": 259,
+    "delta_text": "259 stars today",
+    "forks": 652,
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "name": "withastro/flue",
+    "description": "The sandbox agent framework.",
+    "language": "TypeScript",
+    "total_stars": 5517,
+    "delta_stars": 162,
+    "delta_text": "162 stars today",
+    "forks": 301,
+    "url": "https://github.com/withastro/flue"
+  },
+  {
+    "name": "Kilo-Org/kilocode",
+    "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+    "language": "TypeScript",
+    "total_stars": 22171,
+    "delta_stars": 1345,
+    "delta_text": "1,345 stars today",
+    "forks": 2708,
+    "url": "https://github.com/Kilo-Org/kilocode"
+  },
+  {
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "language": "TypeScript",
+    "total_stars": 51848,
+    "delta_stars": 613,
+    "delta_text": "613 stars today",
+    "forks": 4603,
+    "url": "https://github.com/makeplane/plane"
+  },
+  {
+    "name": "Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "total_stars": 38689,
+    "delta_stars": 18,
+    "delta_text": "18 stars today",
+    "forks": 2293,
+    "url": "https://github.com/Kong/insomnia"
+  },
+  {
+    "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+    "language": "Rust",
+    "total_stars": 7926,
+    "delta_stars": 244,
+    "delta_text": "244 stars today",
+    "forks": 341,
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+  },
+  {
+    "name": "dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "language": "C#",
+    "total_stars": 38098,
+    "delta_stars": 14,
+    "delta_text": "14 stars today",
+    "forks": 10710,
+    "url": "https://github.com/dotnet/aspnetcore"
+  },
+  {
+    "name": "owainlewis/awesome-artificial-intelligence",
+    "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "language": "",
+    "total_stars": 14407,
+    "delta_stars": 40,
+    "delta_text": "40 stars today",
+    "forks": 2335,
+    "url": "https://github.com/owainlewis/awesome-artificial-intelligence"
+  },
+  {
+    "name": "Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+    "language": "Python",
+    "total_stars": 7500,
+    "delta_stars": 51,
+    "delta_text": "51 stars today",
+    "forks": 1208,
+    "url": "https://github.com/Lightricks/LTX-2"
+  },
+  {
+    "name": "LibreTranslate/LibreTranslate",
+    "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+    "language": "Python",
+    "total_stars": 14983,
+    "delta_stars": 51,
+    "delta_text": "51 stars today",
+    "forks": 1534,
+    "url": "https://github.com/LibreTranslate/LibreTranslate"
+  }
+]
