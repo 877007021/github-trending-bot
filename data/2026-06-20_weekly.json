@@ -1,0 +1,202 @@
+[
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 8290,
+    "delta_stars": 5026,
+    "delta_text": "5,026 stars this week",
+    "forks": 632,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 125793,
+    "delta_stars": 8035,
+    "delta_text": "8,035 stars this week",
+    "forks": 6874,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 8207,
+    "delta_stars": 4212,
+    "delta_text": "4,212 stars this week",
+    "forks": 624,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 35085,
+    "delta_stars": 8324,
+    "delta_text": "8,324 stars this week",
+    "forks": 2796,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 38651,
+    "delta_stars": 12793,
+    "delta_text": "12,793 stars this week",
+    "forks": 2638,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 63399,
+    "delta_stars": 7170,
+    "delta_text": "7,170 stars this week",
+    "forks": 6874,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 38841,
+    "delta_stars": 4492,
+    "delta_text": "4,492 stars this week",
+    "forks": 1114,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 19808,
+    "delta_stars": 3025,
+    "delta_text": "3,025 stars this week",
+    "forks": 2020,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 43571,
+    "delta_stars": 1682,
+    "delta_text": "1,682 stars this week",
+    "forks": 7219,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "kenn-io/agentsview",
+    "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+    "language": "Go",
+    "total_stars": 2941,
+    "delta_stars": 955,
+    "delta_text": "955 stars this week",
+    "forks": 251,
+    "url": "https://github.com/kenn-io/agentsview"
+  },
+  {
+    "name": "swc-project/swc",
+    "description": "Rust-based platform for the Web",
+    "language": "Rust",
+    "total_stars": 34068,
+    "delta_stars": 545,
+    "delta_text": "545 stars this week",
+    "forks": 1424,
+    "url": "https://github.com/swc-project/swc"
+  },
+  {
+    "name": "meshery/meshery",
+    "description": "Meshery, the cloud native manager",
+    "language": "TypeScript",
+    "total_stars": 11145,
+    "delta_stars": 879,
+    "delta_text": "879 stars this week",
+    "forks": 3471,
+    "url": "https://github.com/meshery/meshery"
+  },
+  {
+    "name": "music-assistant/server",
+    "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+    "language": "Python",
+    "total_stars": 2715,
+    "delta_stars": 1081,
+    "delta_text": "1,081 stars this week",
+    "forks": 463,
+    "url": "https://github.com/music-assistant/server"
+  },
+  {
+    "name": "LMCache/LMCache",
+    "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+    "language": "Python",
+    "total_stars": 9405,
+    "delta_stars": 876,
+    "delta_text": "876 stars this week",
+    "forks": 1353,
+    "url": "https://github.com/LMCache/LMCache"
+  },
+  {
+    "name": "cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "TypeScript",
+    "total_stars": 50361,
+    "delta_stars": 648,
+    "delta_text": "648 stars this week",
+    "forks": 3429,
+    "url": "https://github.com/cypress-io/cypress"
+  },
+  {
+    "name": "pytest-dev/pytest",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+    "language": "Python",
+    "total_stars": 14230,
+    "delta_stars": 309,
+    "delta_text": "309 stars this week",
+    "forks": 3198,
+    "url": "https://github.com/pytest-dev/pytest"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 31813,
+    "delta_stars": 2381,
+    "delta_text": "2,381 stars this week",
+    "forks": 3615,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "puppeteer/puppeteer",
+    "description": "JavaScript API for Chrome and Firefox",
+    "language": "TypeScript",
+    "total_stars": 95124,
+    "delta_stars": 620,
+    "delta_text": "620 stars this week",
+    "forks": 9459,
+    "url": "https://github.com/puppeteer/puppeteer"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "language": "TypeScript",
+    "total_stars": 449801,
+    "delta_stars": 3232,
+    "delta_text": "3,232 stars this week",
+    "forks": 45164,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "name": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "total_stars": 32700,
+    "delta_stars": 2094,
+    "delta_text": "2,094 stars this week",
+    "forks": 7766,
+    "url": "https://github.com/chatwoot/chatwoot"
+  }
+]
