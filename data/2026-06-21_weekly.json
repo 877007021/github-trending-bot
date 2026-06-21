@@ -1,0 +1,212 @@
+[
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 9334,
+    "delta_stars": 5419,
+    "delta_text": "5,419 stars this week",
+    "forks": 706,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 41829,
+    "delta_stars": 14982,
+    "delta_text": "14,982 stars this week",
+    "forks": 2875,
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 35875,
+    "delta_stars": 8483,
+    "delta_text": "8,483 stars this week",
+    "forks": 2859,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 126387,
+    "delta_stars": 7856,
+    "delta_text": "7,856 stars this week",
+    "forks": 6912,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 8673,
+    "delta_stars": 4631,
+    "delta_text": "4,631 stars this week",
+    "forks": 667,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "language": "Rust",
+    "total_stars": 10363,
+    "delta_stars": 1621,
+    "delta_text": "1,621 stars this week",
+    "forks": 472,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 64151,
+    "delta_stars": 6332,
+    "delta_text": "6,332 stars this week",
+    "forks": 6931,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 43887,
+    "delta_stars": 1866,
+    "delta_text": "1,866 stars this week",
+    "forks": 7275,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 24541,
+    "delta_stars": 3655,
+    "delta_text": "3,655 stars this week",
+    "forks": 2327,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 20082,
+    "delta_stars": 2605,
+    "delta_text": "2,605 stars this week",
+    "forks": 2041,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "meshery/meshery",
+    "description": "Meshery, the cloud native manager",
+    "language": "TypeScript",
+    "total_stars": 11178,
+    "delta_stars": 898,
+    "delta_text": "898 stars this week",
+    "forks": 3471,
+    "url": "https://github.com/meshery/meshery"
+  },
+  {
+    "name": "swc-project/swc",
+    "description": "Rust-based platform for the Web",
+    "language": "Rust",
+    "total_stars": 34087,
+    "delta_stars": 538,
+    "delta_text": "538 stars this week",
+    "forks": 1425,
+    "url": "https://github.com/swc-project/swc"
+  },
+  {
+    "name": "LMCache/LMCache",
+    "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+    "language": "Python",
+    "total_stars": 9471,
+    "delta_stars": 713,
+    "delta_text": "713 stars this week",
+    "forks": 1356,
+    "url": "https://github.com/LMCache/LMCache"
+  },
+  {
+    "name": "pytest-dev/pytest",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+    "language": "Python",
+    "total_stars": 14245,
+    "delta_stars": 321,
+    "delta_text": "321 stars this week",
+    "forks": 3199,
+    "url": "https://github.com/pytest-dev/pytest"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 32040,
+    "delta_stars": 2143,
+    "delta_text": "2,143 stars this week",
+    "forks": 3629,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "total_stars": 39321,
+    "delta_stars": 657,
+    "delta_text": "657 stars this week",
+    "forks": 2325,
+    "url": "https://github.com/Kong/insomnia"
+  },
+  {
+    "name": "puppeteer/puppeteer",
+    "description": "JavaScript API for Chrome and Firefox",
+    "language": "TypeScript",
+    "total_stars": 95161,
+    "delta_stars": 642,
+    "delta_text": "642 stars this week",
+    "forks": 9461,
+    "url": "https://github.com/puppeteer/puppeteer"
+  },
+  {
+    "name": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "total_stars": 32942,
+    "delta_stars": 2233,
+    "delta_text": "2,233 stars this week",
+    "forks": 7799,
+    "url": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "name": "withastro/flue",
+    "description": "The sandbox agent framework.",
+    "language": "TypeScript",
+    "total_stars": 6091,
+    "delta_stars": 1012,
+    "delta_text": "1,012 stars this week",
+    "forks": 344,
+    "url": "https://github.com/withastro/flue"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "language": "TypeScript",
+    "total_stars": 449960,
+    "delta_stars": 3308,
+    "delta_text": "3,308 stars this week",
+    "forks": 45175,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "language": "TypeScript",
+    "total_stars": 52177,
+    "delta_stars": 1389,
+    "delta_text": "1,389 stars this week",
+    "forks": 4636,
+    "url": "https://github.com/makeplane/plane"
+  }
+]
