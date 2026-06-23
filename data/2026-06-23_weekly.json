@@ -1,0 +1,182 @@
+[
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 11516,
+    "delta_stars": 7560,
+    "delta_text": "7,560 stars this week",
+    "forks": 854,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 11978,
+    "delta_stars": 6089,
+    "delta_text": "6,089 stars this week",
+    "forks": 1545,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 37789,
+    "delta_stars": 8108,
+    "delta_text": "8,108 stars this week",
+    "forks": 3001,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "language": "Rust",
+    "total_stars": 10537,
+    "delta_stars": 1806,
+    "delta_text": "1,806 stars this week",
+    "forks": 479,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 25139,
+    "delta_stars": 4259,
+    "delta_text": "4,259 stars this week",
+    "forks": 2395,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 127518,
+    "delta_stars": 5017,
+    "delta_text": "5,017 stars this week",
+    "forks": 7005,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 45015,
+    "delta_stars": 2612,
+    "delta_text": "2,612 stars this week",
+    "forks": 7412,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "withastro/flue",
+    "description": "The sandbox agent framework.",
+    "language": "TypeScript",
+    "total_stars": 6425,
+    "delta_stars": 1413,
+    "delta_text": "1,413 stars this week",
+    "forks": 362,
+    "url": "https://github.com/withastro/flue"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 9392,
+    "delta_stars": 3302,
+    "delta_text": "3,302 stars this week",
+    "forks": 734,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "teslamate-org/teslamate",
+    "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+    "language": "Elixir",
+    "total_stars": 8569,
+    "delta_stars": 401,
+    "delta_text": "401 stars this week",
+    "forks": 966,
+    "url": "https://github.com/teslamate-org/teslamate"
+  },
+  {
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "total_stars": 52856,
+    "delta_stars": 2983,
+    "delta_text": "2,983 stars this week",
+    "forks": 3386,
+    "url": "https://github.com/penpot/penpot"
+  },
+  {
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "language": "TypeScript",
+    "total_stars": 52562,
+    "delta_stars": 1696,
+    "delta_text": "1,696 stars this week",
+    "forks": 4682,
+    "url": "https://github.com/makeplane/plane"
+  },
+  {
+    "name": "Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "total_stars": 39551,
+    "delta_stars": 1074,
+    "delta_text": "1,074 stars this week",
+    "forks": 2343,
+    "url": "https://github.com/Kong/insomnia"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 65389,
+    "delta_stars": 5277,
+    "delta_text": "5,277 stars this week",
+    "forks": 7062,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "language": "TypeScript",
+    "total_stars": 450216,
+    "delta_stars": 2670,
+    "delta_text": "2,670 stars this week",
+    "forks": 45211,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 58602,
+    "delta_stars": 2090,
+    "delta_text": "2,090 stars this week",
+    "forks": 9255,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "LMCache/LMCache",
+    "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+    "language": "Python",
+    "total_stars": 9621,
+    "delta_stars": 503,
+    "delta_text": "503 stars this week",
+    "forks": 1381,
+    "url": "https://github.com/LMCache/LMCache"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 58849,
+    "delta_stars": 3097,
+    "delta_text": "3,097 stars this week",
+    "forks": 6419,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  }
+]
