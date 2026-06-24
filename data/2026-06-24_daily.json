@@ -1,0 +1,162 @@
+[
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 15567,
+    "delta_stars": 3592,
+    "delta_text": "3,592 stars today",
+    "forks": 1849,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 47004,
+    "delta_stars": 1119,
+    "delta_text": "1,119 stars today",
+    "forks": 42367,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 19653,
+    "delta_stars": 1041,
+    "delta_text": "1,041 stars today",
+    "forks": 2286,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "language": "TypeScript",
+    "total_stars": 114039,
+    "delta_stars": 1011,
+    "delta_text": "1,011 stars today",
+    "forks": 16883,
+    "url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "language": "Python",
+    "total_stars": 73882,
+    "delta_stars": 739,
+    "delta_text": "739 stars today",
+    "forks": 9967,
+    "url": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 59069,
+    "delta_stars": 294,
+    "delta_text": "294 stars today",
+    "forks": 9282,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI",
+    "language": "Swift",
+    "total_stars": 8400,
+    "delta_stars": 1630,
+    "delta_text": "1,630 stars today",
+    "forks": 551,
+    "url": "https://github.com/palmier-io/palmier-pro"
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "total_stars": 30828,
+    "delta_stars": 77,
+    "delta_text": "77 stars today",
+    "forks": 3358,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "language": "HTML",
+    "total_stars": 59416,
+    "delta_stars": 344,
+    "delta_text": "344 stars today",
+    "forks": 5980,
+    "url": "https://github.com/shanraisshan/claude-code-best-practice"
+  },
+  {
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "language": "HTML",
+    "total_stars": 7434,
+    "delta_stars": 128,
+    "delta_text": "128 stars today",
+    "forks": 1045,
+    "url": "https://github.com/revfactory/harness"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "total_stars": 33113,
+    "delta_stars": 1045,
+    "delta_text": "1,045 stars today",
+    "forks": 3995,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "language": "TypeScript",
+    "total_stars": 18527,
+    "delta_stars": 826,
+    "delta_text": "826 stars today",
+    "forks": 2801,
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "name": "byoungd/English-level-up-tips",
+    "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+    "language": "",
+    "total_stars": 54486,
+    "delta_stars": 125,
+    "delta_text": "125 stars today",
+    "forks": 5584,
+    "url": "https://github.com/byoungd/English-level-up-tips"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 12860,
+    "delta_stars": 1300,
+    "delta_text": "1,300 stars today",
+    "forks": 933,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 200907,
+    "delta_stars": 936,
+    "delta_text": "936 stars today",
+    "forks": 35833,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 220518,
+    "delta_stars": 593,
+    "delta_text": "593 stars today",
+    "forks": 33780,
+    "url": "https://github.com/affaan-m/ECC"
+  }
+]

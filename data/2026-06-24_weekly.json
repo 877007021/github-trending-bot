@@ -1,0 +1,212 @@
+[
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 12862,
+    "delta_stars": 8536,
+    "delta_text": "8,536 stars this week",
+    "forks": 933,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 15568,
+    "delta_stars": 9410,
+    "delta_text": "9,410 stars this week",
+    "forks": 1849,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 25309,
+    "delta_stars": 4376,
+    "delta_text": "4,376 stars this week",
+    "forks": 2407,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 38615,
+    "delta_stars": 6915,
+    "delta_text": "6,915 stars this week",
+    "forks": 3060,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "language": "Rust",
+    "total_stars": 10626,
+    "delta_stars": 1531,
+    "delta_text": "1,531 stars this week",
+    "forks": 484,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 45403,
+    "delta_stars": 2681,
+    "delta_text": "2,681 stars this week",
+    "forks": 7461,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 59069,
+    "delta_stars": 2309,
+    "delta_text": "2,309 stars this week",
+    "forks": 9283,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 127994,
+    "delta_stars": 4378,
+    "delta_text": "4,378 stars this week",
+    "forks": 7042,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "total_stars": 53277,
+    "delta_stars": 3423,
+    "delta_text": "3,423 stars this week",
+    "forks": 3412,
+    "url": "https://github.com/penpot/penpot"
+  },
+  {
+    "name": "withastro/flue",
+    "description": "The sandbox agent framework.",
+    "language": "TypeScript",
+    "total_stars": 6530,
+    "delta_stars": 1489,
+    "delta_text": "1,489 stars this week",
+    "forks": 366,
+    "url": "https://github.com/withastro/flue"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 59227,
+    "delta_stars": 3283,
+    "delta_text": "3,283 stars this week",
+    "forks": 6444,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 9824,
+    "delta_stars": 2849,
+    "delta_text": "2,849 stars this week",
+    "forks": 768,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "total_stars": 33113,
+    "delta_stars": 2883,
+    "delta_text": "2,883 stars this week",
+    "forks": 3995,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 143269,
+    "delta_stars": 11784,
+    "delta_text": "11,784 stars this week",
+    "forks": 12387,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "total_stars": 39610,
+    "delta_stars": 1121,
+    "delta_text": "1,121 stars this week",
+    "forks": 2345,
+    "url": "https://github.com/Kong/insomnia"
+  },
+  {
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "language": "TypeScript",
+    "total_stars": 52723,
+    "delta_stars": 1804,
+    "delta_text": "1,804 stars this week",
+    "forks": 4697,
+    "url": "https://github.com/makeplane/plane"
+  },
+  {
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+    "language": "Java",
+    "total_stars": 83683,
+    "delta_stars": 2491,
+    "delta_text": "2,491 stars this week",
+    "forks": 7286,
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 65949,
+    "delta_stars": 5073,
+    "delta_text": "5,073 stars this week",
+    "forks": 7112,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "total_stars": 33373,
+    "delta_stars": 1399,
+    "delta_text": "1,399 stars this week",
+    "forks": 7858,
+    "url": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 6313,
+    "delta_stars": 1216,
+    "delta_text": "1,216 stars this week",
+    "forks": 464,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "continuedev/continue",
+    "description": "open-source coding agent",
+    "language": "TypeScript",
+    "total_stars": 34347,
+    "delta_stars": 620,
+    "delta_text": "620 stars this week",
+    "forks": 4812,
+    "url": "https://github.com/continuedev/continue"
+  }
+]
