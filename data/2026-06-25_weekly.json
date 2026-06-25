@@ -1,0 +1,202 @@
+[
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 19308,
+    "delta_stars": 12948,
+    "delta_text": "12,948 stars this week",
+    "forks": 2197,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 14101,
+    "delta_stars": 9589,
+    "delta_text": "9,589 stars this week",
+    "forks": 1039,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 25446,
+    "delta_stars": 3915,
+    "delta_text": "3,915 stars this week",
+    "forks": 2421,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "language": "Rust",
+    "total_stars": 10695,
+    "delta_stars": 1196,
+    "delta_text": "1,196 stars this week",
+    "forks": 488,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 59584,
+    "delta_stars": 2899,
+    "delta_text": "2,899 stars this week",
+    "forks": 9319,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 45723,
+    "delta_stars": 2662,
+    "delta_text": "2,662 stars this week",
+    "forks": 7507,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 39668,
+    "delta_stars": 6752,
+    "delta_text": "6,752 stars this week",
+    "forks": 3142,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "total_stars": 53496,
+    "delta_stars": 3593,
+    "delta_text": "3,593 stars this week",
+    "forks": 3443,
+    "url": "https://github.com/penpot/penpot"
+  },
+  {
+    "name": "withastro/flue",
+    "description": "The sandbox agent framework.",
+    "language": "TypeScript",
+    "total_stars": 6616,
+    "delta_stars": 1415,
+    "delta_text": "1,415 stars this week",
+    "forks": 371,
+    "url": "https://github.com/withastro/flue"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "total_stars": 33851,
+    "delta_stars": 3583,
+    "delta_text": "3,583 stars this week",
+    "forks": 4072,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 128289,
+    "delta_stars": 3543,
+    "delta_text": "3,543 stars this week",
+    "forks": 7065,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 59550,
+    "delta_stars": 3550,
+    "delta_text": "3,550 stars this week",
+    "forks": 6472,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 6760,
+    "delta_stars": 1397,
+    "delta_text": "1,397 stars this week",
+    "forks": 490,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "language": "TypeScript",
+    "total_stars": 52882,
+    "delta_stars": 1871,
+    "delta_text": "1,871 stars this week",
+    "forks": 4715,
+    "url": "https://github.com/makeplane/plane"
+  },
+  {
+    "name": "Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "total_stars": 39660,
+    "delta_stars": 1167,
+    "delta_text": "1,167 stars this week",
+    "forks": 2347,
+    "url": "https://github.com/Kong/insomnia"
+  },
+  {
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+    "language": "Java",
+    "total_stars": 84041,
+    "delta_stars": 2793,
+    "delta_text": "2,793 stars this week",
+    "forks": 7317,
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 48461,
+    "delta_stars": 5185,
+    "delta_text": "5,185 stars this week",
+    "forks": 42948,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 10348,
+    "delta_stars": 2980,
+    "delta_text": "2,980 stars this week",
+    "forks": 824,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "microsoft/presidio",
+    "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
+    "language": "Python",
+    "total_stars": 9589,
+    "delta_stars": 888,
+    "delta_text": "888 stars this week",
+    "forks": 1162,
+    "url": "https://github.com/microsoft/presidio"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 20568,
+    "delta_stars": 4304,
+    "delta_text": "4,304 stars this week",
+    "forks": 2388,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  }
+]
