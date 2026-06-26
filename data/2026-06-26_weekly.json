@@ -1,0 +1,202 @@
+[
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 22032,
+    "delta_stars": 15793,
+    "delta_text": "15,793 stars this week",
+    "forks": 2474,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 14760,
+    "delta_stars": 8024,
+    "delta_text": "8,024 stars this week",
+    "forks": 1086,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 25568,
+    "delta_stars": 3040,
+    "delta_text": "3,040 stars this week",
+    "forks": 2429,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 59810,
+    "delta_stars": 3059,
+    "delta_text": "3,059 stars this week",
+    "forks": 9343,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "total_stars": 53683,
+    "delta_stars": 3379,
+    "delta_text": "3,379 stars this week",
+    "forks": 3459,
+    "url": "https://github.com/penpot/penpot"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "total_stars": 34202,
+    "delta_stars": 3688,
+    "delta_text": "3,688 stars this week",
+    "forks": 4114,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 46048,
+    "delta_stars": 2720,
+    "delta_text": "2,720 stars this week",
+    "forks": 7548,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 41186,
+    "delta_stars": 6830,
+    "delta_text": "6,830 stars this week",
+    "forks": 3257,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 49487,
+    "delta_stars": 6383,
+    "delta_text": "6,383 stars this week",
+    "forks": 43448,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 59785,
+    "delta_stars": 2801,
+    "delta_text": "2,801 stars this week",
+    "forks": 6492,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "withastro/flue",
+    "description": "The sandbox agent framework.",
+    "language": "TypeScript",
+    "total_stars": 6701,
+    "delta_stars": 1327,
+    "delta_text": "1,327 stars this week",
+    "forks": 372,
+    "url": "https://github.com/withastro/flue"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 21213,
+    "delta_stars": 4596,
+    "delta_text": "4,596 stars this week",
+    "forks": 2447,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+    "language": "Java",
+    "total_stars": 84366,
+    "delta_stars": 3082,
+    "delta_text": "3,082 stars this week",
+    "forks": 7349,
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "name": "interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes.",
+    "language": "Python",
+    "total_stars": 2737,
+    "delta_stars": 1507,
+    "delta_text": "1,507 stars this week",
+    "forks": 655,
+    "url": "https://github.com/interviewstreet/hiring-agent"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 7421,
+    "delta_stars": 1949,
+    "delta_text": "1,949 stars this week",
+    "forks": 531,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "language": "Rust",
+    "total_stars": 10765,
+    "delta_stars": 886,
+    "delta_text": "886 stars this week",
+    "forks": 492,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "total_stars": 39723,
+    "delta_stars": 1188,
+    "delta_text": "1,188 stars this week",
+    "forks": 2346,
+    "url": "https://github.com/Kong/insomnia"
+  },
+  {
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "language": "TypeScript",
+    "total_stars": 53081,
+    "delta_stars": 1399,
+    "delta_text": "1,399 stars this week",
+    "forks": 4737,
+    "url": "https://github.com/makeplane/plane"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "language": "Python",
+    "total_stars": 74712,
+    "delta_stars": 3242,
+    "delta_text": "3,242 stars this week",
+    "forks": 10074,
+    "url": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 146290,
+    "delta_stars": 11246,
+    "delta_text": "11,246 stars this week",
+    "forks": 12651,
+    "url": "https://github.com/mattpocock/skills"
+  }
+]

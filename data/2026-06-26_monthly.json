@@ -1,0 +1,222 @@
+[
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 92597,
+    "delta_stars": 35397,
+    "delta_text": "35,397 stars this month",
+    "forks": 13362,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 43196,
+    "delta_stars": 16509,
+    "delta_text": "16,509 stars this month",
+    "forks": 1268,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 14760,
+    "delta_stars": 11956,
+    "delta_text": "11,956 stars this month",
+    "forks": 1086,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 22032,
+    "delta_stars": 17703,
+    "delta_text": "17,703 stars this month",
+    "forks": 2474,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 46718,
+    "delta_stars": 20428,
+    "delta_text": "20,428 stars this month",
+    "forks": 3875,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 41186,
+    "delta_stars": 20822,
+    "delta_text": "20,822 stars this month",
+    "forks": 3257,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 128496,
+    "delta_stars": 12377,
+    "delta_text": "12,377 stars this month",
+    "forks": 7082,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 159155,
+    "delta_stars": 34611,
+    "delta_text": "34,611 stars this month",
+    "forks": 11134,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 33342,
+    "delta_stars": 9696,
+    "delta_text": "9,696 stars this month",
+    "forks": 3746,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 21065,
+    "delta_stars": 9534,
+    "delta_text": "9,534 stars this month",
+    "forks": 2136,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "JavaScript",
+    "total_stars": 50968,
+    "delta_stars": 31799,
+    "delta_text": "31,799 stars this month",
+    "forks": 3508,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "esengine/DeepSeek-Reasonix",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "language": "Go",
+    "total_stars": 24673,
+    "delta_stars": 16846,
+    "delta_text": "16,846 stars this month",
+    "forks": 1495,
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "name": "Egonex-AI/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "total_stars": 67951,
+    "delta_stars": 38487,
+    "delta_text": "38,487 stars this month",
+    "forks": 5624,
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "TypeScript",
+    "total_stars": 54576,
+    "delta_stars": 30518,
+    "delta_text": "30,518 stars this month",
+    "forks": 3349,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 3553,
+    "delta_stars": 2318,
+    "delta_text": "2,318 stars this month",
+    "forks": 415,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "tashfeenahmed/freellmapi",
+    "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "language": "TypeScript",
+    "total_stars": 12702,
+    "delta_stars": 7440,
+    "delta_text": "7,440 stars this month",
+    "forks": 1933,
+    "url": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 21213,
+    "delta_stars": 12170,
+    "delta_text": "12,170 stars this month",
+    "forks": 2447,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose",
+    "language": "",
+    "total_stars": 12447,
+    "delta_stars": 8227,
+    "delta_text": "8,227 stars this month",
+    "forks": 864,
+    "url": "https://github.com/hardikpandya/stop-slop"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 14642,
+    "delta_stars": 7513,
+    "delta_text": "7,513 stars this month",
+    "forks": 1282,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "run-llama/liteparse",
+    "description": "A fast, helpful, and open-source document parser",
+    "language": "Rust",
+    "total_stars": 11062,
+    "delta_stars": 5875,
+    "delta_text": "5,875 stars this month",
+    "forks": 727,
+    "url": "https://github.com/run-llama/liteparse"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 7330,
+    "delta_stars": 4901,
+    "delta_text": "4,901 stars this month",
+    "forks": 450,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "supermemoryai/supermemory",
+    "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+    "language": "TypeScript",
+    "total_stars": 27543,
+    "delta_stars": 4925,
+    "delta_text": "4,925 stars this month",
+    "forks": 2386,
+    "url": "https://github.com/supermemoryai/supermemory"
+  }
+]
