@@ -1,0 +1,172 @@
+[
+  {
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "total_stars": 12532,
+    "delta_stars": 432,
+    "delta_text": "432 stars today",
+    "forks": 709,
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "name": "google-labs-code/design.md",
+    "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "language": "TypeScript",
+    "total_stars": 21230,
+    "delta_stars": 2407,
+    "delta_text": "2,407 stars today",
+    "forks": 1720,
+    "url": "https://github.com/google-labs-code/design.md"
+  },
+  {
+    "name": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "language": "Python",
+    "total_stars": 61776,
+    "delta_stars": 80,
+    "delta_text": "80 stars today",
+    "forks": 11047,
+    "url": "https://github.com/commaai/openpilot"
+  },
+  {
+    "name": "kunchenguid/no-mistakes",
+    "description": "git push no-mistakes",
+    "language": "Go",
+    "total_stars": 3415,
+    "delta_stars": 398,
+    "delta_text": "398 stars today",
+    "forks": 205,
+    "url": "https://github.com/kunchenguid/no-mistakes"
+  },
+  {
+    "name": "grafana/grafana",
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "language": "TypeScript",
+    "total_stars": 74891,
+    "delta_stars": 32,
+    "delta_text": "32 stars today",
+    "forks": 14125,
+    "url": "https://github.com/grafana/grafana"
+  },
+  {
+    "name": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "total_stars": 123725,
+    "delta_stars": 90,
+    "delta_text": "90 stars today",
+    "forks": 13051,
+    "url": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "name": "opendatalab/MinerU",
+    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "language": "Python",
+    "total_stars": 70407,
+    "delta_stars": 960,
+    "delta_text": "960 stars today",
+    "forks": 5939,
+    "url": "https://github.com/opendatalab/MinerU"
+  },
+  {
+    "name": "alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "language": "",
+    "total_stars": 9244,
+    "delta_stars": 160,
+    "delta_text": "160 stars today",
+    "forks": 2561,
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill"
+  },
+  {
+    "name": "mauriceboe/TREK",
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "language": "TypeScript",
+    "total_stars": 7648,
+    "delta_stars": 1060,
+    "delta_text": "1,060 stars today",
+    "forks": 647,
+    "url": "https://github.com/mauriceboe/TREK"
+  },
+  {
+    "name": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "language": "Python",
+    "total_stars": 3101,
+    "delta_stars": 1274,
+    "delta_text": "1,274 stars today",
+    "forks": 456,
+    "url": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 23593,
+    "delta_stars": 1754,
+    "delta_text": "1,754 stars today",
+    "forks": 2619,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "aws/agent-toolkit-for-aws",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "language": "Python",
+    "total_stars": 1347,
+    "delta_stars": 243,
+    "delta_text": "243 stars today",
+    "forks": 121,
+    "url": "https://github.com/aws/agent-toolkit-for-aws"
+  },
+  {
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "total_stars": 53343,
+    "delta_stars": 673,
+    "delta_text": "673 stars today",
+    "forks": 10974,
+    "url": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "language": "TypeScript",
+    "total_stars": 116621,
+    "delta_stars": 950,
+    "delta_text": "950 stars today",
+    "forks": 17306,
+    "url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "name": "IceWhaleTech/CasaOS",
+    "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "language": "Go",
+    "total_stars": 35363,
+    "delta_stars": 619,
+    "delta_text": "619 stars today",
+    "forks": 2026,
+    "url": "https://github.com/IceWhaleTech/CasaOS"
+  },
+  {
+    "name": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "language": "TypeScript",
+    "total_stars": 21354,
+    "delta_stars": 1088,
+    "delta_text": "1,088 stars today",
+    "forks": 3096,
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 42330,
+    "delta_stars": 1194,
+    "delta_text": "1,194 stars today",
+    "forks": 3361,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  }
+]
