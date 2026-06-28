@@ -1,0 +1,177 @@
+[
+  {
+    "username": "ko3n1g",
+    "display_name": "oliver könig",
+    "popular_repo": "",
+    "url": "https://github.com/ko3n1g",
+    "repo_url": ""
+  },
+  {
+    "username": "capcom6",
+    "display_name": "Aleksandr",
+    "popular_repo": "android-sms-gateway",
+    "url": "https://github.com/capcom6",
+    "repo_url": "https://github.com/capcom6/android-sms-gateway"
+  },
+  {
+    "username": "1c7",
+    "display_name": "郑诚 (Cheng Zheng)",
+    "popular_repo": "chinese-independent-developer",
+    "url": "https://github.com/1c7",
+    "repo_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "username": "hoangsonww",
+    "display_name": "dav nguyxn",
+    "popular_repo": "Claude-Code-Agent-Monitor",
+    "url": "https://github.com/hoangsonww",
+    "repo_url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
+    "username": "xdotli",
+    "display_name": "Xiangyi Li",
+    "popular_repo": "",
+    "url": "https://github.com/xdotli",
+    "repo_url": ""
+  },
+  {
+    "username": "azure-sdk",
+    "display_name": "Azure SDK Bot",
+    "popular_repo": "azure-docs-sdk-java",
+    "url": "https://github.com/azure-sdk",
+    "repo_url": "https://github.com/azure-sdk/azure-docs-sdk-java"
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "SamMorrowDrums",
+    "display_name": "Sam Morrow",
+    "popular_repo": "remarkable-mcp",
+    "url": "https://github.com/SamMorrowDrums",
+    "repo_url": "https://github.com/SamMorrowDrums/remarkable-mcp"
+  },
+  {
+    "username": "robobun",
+    "display_name": "robobun",
+    "popular_repo": "",
+    "url": "https://github.com/robobun",
+    "repo_url": ""
+  },
+  {
+    "username": "zhukunpenglinyutong",
+    "display_name": "朱昆鹏",
+    "popular_repo": "desktop-cc-gui",
+    "url": "https://github.com/zhukunpenglinyutong",
+    "repo_url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui"
+  },
+  {
+    "username": "emilk",
+    "display_name": "Emil Ernerfeldt",
+    "popular_repo": "egui",
+    "url": "https://github.com/emilk",
+    "repo_url": "https://github.com/emilk/egui"
+  },
+  {
+    "username": "sozercan",
+    "display_name": "Sertaç Özercan",
+    "popular_repo": "kaset",
+    "url": "https://github.com/sozercan",
+    "repo_url": "https://github.com/sozercan/kaset"
+  },
+  {
+    "username": "Scottcjn",
+    "display_name": "AutoJanitor",
+    "popular_repo": "Rustchain",
+    "url": "https://github.com/Scottcjn",
+    "repo_url": "https://github.com/Scottcjn/Rustchain"
+  },
+  {
+    "username": "sxyazi",
+    "display_name": "三咲雅 misaki masa",
+    "popular_repo": "yazi",
+    "url": "https://github.com/sxyazi",
+    "repo_url": "https://github.com/sxyazi/yazi"
+  },
+  {
+    "username": "BridgeAR",
+    "display_name": "Ruben Bridgewater",
+    "popular_repo": "dd-native-iast-taint-tracking-js",
+    "url": "https://github.com/BridgeAR",
+    "repo_url": "https://github.com/BridgeAR/dd-native-iast-taint-tracking-js"
+  },
+  {
+    "username": "Alan-TheGentleman",
+    "display_name": "Alan Buscaglia",
+    "popular_repo": "gentleman-book-mcp",
+    "url": "https://github.com/Alan-TheGentleman",
+    "repo_url": "https://github.com/Alan-TheGentleman/gentleman-book-mcp"
+  },
+  {
+    "username": "fancyboi999",
+    "display_name": "Xinmin Zeng",
+    "popular_repo": "ai-engineering-from-scratch-zh",
+    "url": "https://github.com/fancyboi999",
+    "repo_url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh"
+  },
+  {
+    "username": "caugner",
+    "display_name": "Claas Augner",
+    "popular_repo": "telemetry-inbox-php",
+    "url": "https://github.com/caugner",
+    "repo_url": "https://github.com/caugner/telemetry-inbox-php"
+  },
+  {
+    "username": "pyramation",
+    "display_name": "Dan Lynch",
+    "popular_repo": "",
+    "url": "https://github.com/pyramation",
+    "repo_url": ""
+  },
+  {
+    "username": "ahojnnes",
+    "display_name": "Johannes Schönberger",
+    "popular_repo": "",
+    "url": "https://github.com/ahojnnes",
+    "repo_url": ""
+  },
+  {
+    "username": "cberner",
+    "display_name": "Christopher Berner",
+    "popular_repo": "redb",
+    "url": "https://github.com/cberner",
+    "repo_url": "https://github.com/cberner/redb"
+  },
+  {
+    "username": "JamieMagee",
+    "display_name": "Jamie Magee",
+    "popular_repo": "aur-packages-template",
+    "url": "https://github.com/JamieMagee",
+    "repo_url": "https://github.com/JamieMagee/aur-packages-template"
+  },
+  {
+    "username": "squidfunk",
+    "display_name": "Martin Donath",
+    "popular_repo": "mkdocs-material",
+    "url": "https://github.com/squidfunk",
+    "repo_url": "https://github.com/squidfunk/mkdocs-material"
+  },
+  {
+    "username": "tadasant",
+    "display_name": "Tadas Antanavicius",
+    "popular_repo": "",
+    "url": "https://github.com/tadasant",
+    "repo_url": ""
+  },
+  {
+    "username": "KevinWu098",
+    "display_name": "Kevin Wu",
+    "popular_repo": "codebreaker",
+    "url": "https://github.com/KevinWu098",
+    "repo_url": "https://github.com/KevinWu098/codebreaker"
+  }
+]
