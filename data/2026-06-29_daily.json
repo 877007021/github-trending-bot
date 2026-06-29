@@ -1,0 +1,132 @@
+[
+  {
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "total_stars": 14971,
+    "delta_stars": 1180,
+    "delta_text": "1,180 stars today",
+    "forks": 865,
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "name": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "total_stars": 125191,
+    "delta_stars": 495,
+    "delta_text": "495 stars today",
+    "forks": 13166,
+    "url": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "name": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "language": "Python",
+    "total_stars": 62375,
+    "delta_stars": 266,
+    "delta_text": "266 stars today",
+    "forks": 11093,
+    "url": "https://github.com/commaai/openpilot"
+  },
+  {
+    "name": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "language": "Python",
+    "total_stars": 5260,
+    "delta_stars": 1445,
+    "delta_text": "1,445 stars today",
+    "forks": 717,
+    "url": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "language": "Python",
+    "total_stars": 8211,
+    "delta_stars": 372,
+    "delta_text": "372 stars today",
+    "forks": 802,
+    "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 19603,
+    "delta_stars": 2190,
+    "delta_text": "2,190 stars today",
+    "forks": 1422,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "cupy/cupy",
+    "description": "NumPy &amp; SciPy for GPU",
+    "language": "Python",
+    "total_stars": 11506,
+    "delta_stars": 174,
+    "delta_text": "174 stars today",
+    "forks": 1069,
+    "url": "https://github.com/cupy/cupy"
+  },
+  {
+    "name": "altic-dev/FluidVoice",
+    "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+    "language": "Swift",
+    "total_stars": 3710,
+    "delta_stars": 365,
+    "delta_text": "365 stars today",
+    "forks": 238,
+    "url": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "name": "opendatalab/MinerU",
+    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "language": "Python",
+    "total_stars": 71567,
+    "delta_stars": 380,
+    "delta_text": "380 stars today",
+    "forks": 6013,
+    "url": "https://github.com/opendatalab/MinerU"
+  },
+  {
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "total_stars": 14296,
+    "delta_stars": 492,
+    "delta_text": "492 stars today",
+    "forks": 2630,
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "name": "ByteByteGoHq/system-design-101",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "language": "",
+    "total_stars": 84432,
+    "delta_stars": 250,
+    "delta_text": "250 stars today",
+    "forks": 9347,
+    "url": "https://github.com/ByteByteGoHq/system-design-101"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 26712,
+    "delta_stars": 122,
+    "delta_text": "122 stars today",
+    "forks": 2983,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "total_stars": 11026,
+    "delta_stars": 196,
+    "delta_text": "196 stars today",
+    "forks": 1522,
+    "url": "https://github.com/browser-use/video-use"
+  }
+]
