@@ -1,0 +1,212 @@
+[
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 28529,
+    "delta_stars": 17483,
+    "delta_text": "17,483 stars this week",
+    "forks": 3180,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 21421,
+    "delta_stars": 9899,
+    "delta_text": "9,899 stars this week",
+    "forks": 1538,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "google-labs-code/design.md",
+    "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "language": "TypeScript",
+    "total_stars": 23190,
+    "delta_stars": 7104,
+    "delta_text": "7,104 stars this week",
+    "forks": 1835,
+    "url": "https://github.com/google-labs-code/design.md"
+  },
+  {
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "total_stars": 16552,
+    "delta_stars": 4847,
+    "delta_text": "4,847 stars this week",
+    "forks": 957,
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "name": "kunchenguid/no-mistakes",
+    "description": "git push no-mistakes",
+    "language": "Go",
+    "total_stars": 4328,
+    "delta_stars": 2677,
+    "delta_text": "2,677 stars this week",
+    "forks": 242,
+    "url": "https://github.com/kunchenguid/no-mistakes"
+  },
+  {
+    "name": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "language": "TypeScript",
+    "total_stars": 23479,
+    "delta_stars": 5937,
+    "delta_text": "5,937 stars this week",
+    "forks": 3344,
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "name": "interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes.",
+    "language": "Python",
+    "total_stars": 3779,
+    "delta_stars": 2233,
+    "delta_text": "2,233 stars this week",
+    "forks": 770,
+    "url": "https://github.com/interviewstreet/hiring-agent"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 51810,
+    "delta_stars": 6297,
+    "delta_text": "6,297 stars this week",
+    "forks": 44983,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 9087,
+    "delta_stars": 3047,
+    "delta_text": "3,047 stars this week",
+    "forks": 621,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 45729,
+    "delta_stars": 7928,
+    "delta_text": "7,928 stars this week",
+    "forks": 3626,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 20614,
+    "delta_stars": 1858,
+    "delta_text": "1,858 stars this week",
+    "forks": 1770,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 23078,
+    "delta_stars": 4735,
+    "delta_text": "4,735 stars this week",
+    "forks": 2624,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI",
+    "language": "Swift",
+    "total_stars": 9540,
+    "delta_stars": 2797,
+    "delta_text": "2,797 stars this week",
+    "forks": 673,
+    "url": "https://github.com/palmier-io/palmier-pro"
+  },
+  {
+    "name": "BuilderIO/agent-native",
+    "description": "A framework for building agent-native applications.",
+    "language": "TypeScript",
+    "total_stars": 3082,
+    "delta_stars": 1679,
+    "delta_text": "1,679 stars this week",
+    "forks": 302,
+    "url": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "name": "aws/agent-toolkit-for-aws",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "language": "Python",
+    "total_stars": 1605,
+    "delta_stars": 648,
+    "delta_text": "648 stars this week",
+    "forks": 133,
+    "url": "https://github.com/aws/agent-toolkit-for-aws"
+  },
+  {
+    "name": "topoteretes/cognee",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "language": "Python",
+    "total_stars": 25659,
+    "delta_stars": 6335,
+    "delta_text": "6,335 stars this week",
+    "forks": 2361,
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "total_stars": 54255,
+    "delta_stars": 2642,
+    "delta_text": "2,642 stars this week",
+    "forks": 11064,
+    "url": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+    "language": "Java",
+    "total_stars": 85199,
+    "delta_stars": 2717,
+    "delta_text": "2,717 stars this week",
+    "forks": 7394,
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 60924,
+    "delta_stars": 2397,
+    "delta_text": "2,397 stars this week",
+    "forks": 9483,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "total_stars": 35896,
+    "delta_stars": 3884,
+    "delta_text": "3,884 stars this week",
+    "forks": 4300,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "total_stars": 54583,
+    "delta_stars": 1950,
+    "delta_text": "1,950 stars this week",
+    "forks": 3551,
+    "url": "https://github.com/penpot/penpot"
+  }
+]

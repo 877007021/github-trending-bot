@@ -1,0 +1,202 @@
+[
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 44765,
+    "delta_stars": 18123,
+    "delta_text": "18,123 stars this month",
+    "forks": 1325,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 21422,
+    "delta_stars": 18196,
+    "delta_text": "18,196 stars this month",
+    "forks": 1538,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 28530,
+    "delta_stars": 24187,
+    "delta_text": "24,187 stars this month",
+    "forks": 3180,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 45729,
+    "delta_stars": 25059,
+    "delta_text": "25,059 stars this month",
+    "forks": 3626,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 47675,
+    "delta_stars": 21128,
+    "delta_text": "21,128 stars this month",
+    "forks": 3945,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 129326,
+    "delta_stars": 13028,
+    "delta_text": "13,028 stars this month",
+    "forks": 7154,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 21708,
+    "delta_stars": 10053,
+    "delta_text": "10,053 stars this month",
+    "forks": 2192,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 33980,
+    "delta_stars": 10212,
+    "delta_text": "10,212 stars this month",
+    "forks": 3797,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 94191,
+    "delta_stars": 26117,
+    "delta_text": "26,117 stars this month",
+    "forks": 13664,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "JavaScript",
+    "total_stars": 53256,
+    "delta_stars": 25764,
+    "delta_text": "25,764 stars this month",
+    "forks": 3667,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "total_stars": 16553,
+    "delta_stars": 5025,
+    "delta_text": "5,025 stars this month",
+    "forks": 957,
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 3779,
+    "delta_stars": 2496,
+    "delta_text": "2,496 stars this month",
+    "forks": 435,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 47120,
+    "delta_stars": 6293,
+    "delta_text": "6,293 stars this month",
+    "forks": 7692,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 161251,
+    "delta_stars": 32813,
+    "delta_text": "32,813 stars this month",
+    "forks": 11343,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 9089,
+    "delta_stars": 5358,
+    "delta_text": "5,358 stars this month",
+    "forks": 621,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 8496,
+    "delta_stars": 5416,
+    "delta_text": "5,416 stars this month",
+    "forks": 517,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 23078,
+    "delta_stars": 11231,
+    "delta_text": "11,231 stars this month",
+    "forks": 2624,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "tashfeenahmed/freellmapi",
+    "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "language": "TypeScript",
+    "total_stars": 14047,
+    "delta_stars": 7821,
+    "delta_text": "7,821 stars this month",
+    "forks": 2087,
+    "url": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 15164,
+    "delta_stars": 6867,
+    "delta_text": "6,867 stars this month",
+    "forks": 1347,
+    "url": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "language": "Python",
+    "total_stars": 12147,
+    "delta_stars": 4291,
+    "delta_text": "4,291 stars this month",
+    "forks": 1410,
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  }
+]
