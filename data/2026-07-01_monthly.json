@@ -1,0 +1,202 @@
+[
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 45336,
+    "delta_stars": 18624,
+    "delta_text": "18,624 stars this month",
+    "forks": 1341,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 22836,
+    "delta_stars": 19612,
+    "delta_text": "19,612 stars this month",
+    "forks": 1657,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 29859,
+    "delta_stars": 25466,
+    "delta_text": "25,466 stars this month",
+    "forks": 3367,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 47037,
+    "delta_stars": 26239,
+    "delta_text": "26,239 stars this month",
+    "forks": 3724,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 47915,
+    "delta_stars": 21268,
+    "delta_text": "21,268 stars this month",
+    "forks": 3961,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 129580,
+    "delta_stars": 13223,
+    "delta_text": "13,223 stars this month",
+    "forks": 7177,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 21889,
+    "delta_stars": 10208,
+    "delta_text": "10,208 stars this month",
+    "forks": 2205,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 34132,
+    "delta_stars": 10333,
+    "delta_text": "10,333 stars this month",
+    "forks": 3806,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 94497,
+    "delta_stars": 21864,
+    "delta_text": "21,864 stars this month",
+    "forks": 13731,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 3824,
+    "delta_stars": 2528,
+    "delta_text": "2,528 stars this month",
+    "forks": 444,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 47387,
+    "delta_stars": 6472,
+    "delta_text": "6,472 stars this month",
+    "forks": 7734,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "JavaScript",
+    "total_stars": 53846,
+    "delta_stars": 24412,
+    "delta_text": "24,412 stars this month",
+    "forks": 3710,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "total_stars": 12640,
+    "delta_stars": 2930,
+    "delta_text": "2,930 stars this month",
+    "forks": 754,
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 9662,
+    "delta_stars": 5752,
+    "delta_text": "5,752 stars this month",
+    "forks": 657,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 8994,
+    "delta_stars": 5502,
+    "delta_text": "5,502 stars this month",
+    "forks": 539,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 23464,
+    "delta_stars": 10688,
+    "delta_text": "10,688 stars this month",
+    "forks": 2668,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "kenn-io/agentsview",
+    "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+    "language": "Go",
+    "total_stars": 3453,
+    "delta_stars": 2301,
+    "delta_text": "2,301 stars this month",
+    "forks": 272,
+    "url": "https://github.com/kenn-io/agentsview"
+  },
+  {
+    "name": "tashfeenahmed/freellmapi",
+    "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "language": "TypeScript",
+    "total_stars": 14244,
+    "delta_stars": 7626,
+    "delta_text": "7,626 stars this month",
+    "forks": 2099,
+    "url": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 60728,
+    "delta_stars": 8695,
+    "delta_text": "8,695 stars this month",
+    "forks": 6568,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "language": "TypeScript",
+    "total_stars": 15332,
+    "delta_stars": 6466,
+    "delta_text": "6,466 stars this month",
+    "forks": 1357,
+    "url": "https://github.com/can1357/oh-my-pi"
+  }
+]
