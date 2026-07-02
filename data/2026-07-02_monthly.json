@@ -1,0 +1,202 @@
+[
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 45634,
+    "delta_stars": 19052,
+    "delta_text": "19,052 stars this month",
+    "forks": 1357,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 23797,
+    "delta_stars": 20690,
+    "delta_text": "20,690 stars this month",
+    "forks": 1749,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 30851,
+    "delta_stars": 26509,
+    "delta_text": "26,509 stars this month",
+    "forks": 3498,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 48328,
+    "delta_stars": 27497,
+    "delta_text": "27,497 stars this month",
+    "forks": 3843,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 48241,
+    "delta_stars": 21484,
+    "delta_text": "21,484 stars this month",
+    "forks": 3990,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 129829,
+    "delta_stars": 13422,
+    "delta_text": "13,422 stars this month",
+    "forks": 7195,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 22048,
+    "delta_stars": 10309,
+    "delta_text": "10,309 stars this month",
+    "forks": 2221,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 34349,
+    "delta_stars": 10482,
+    "delta_text": "10,482 stars this month",
+    "forks": 3830,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 47659,
+    "delta_stars": 6665,
+    "delta_text": "6,665 stars this month",
+    "forks": 7773,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 3888,
+    "delta_stars": 2564,
+    "delta_text": "2,564 stars this month",
+    "forks": 455,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "JavaScript",
+    "total_stars": 54437,
+    "delta_stars": 23990,
+    "delta_text": "23,990 stars this month",
+    "forks": 3738,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 94951,
+    "delta_stars": 19037,
+    "delta_text": "19,037 stars this month",
+    "forks": 13787,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 9585,
+    "delta_stars": 5827,
+    "delta_text": "5,827 stars this month",
+    "forks": 565,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 10266,
+    "delta_stars": 6221,
+    "delta_text": "6,221 stars this month",
+    "forks": 691,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "t8y2/dbx",
+    "description": "15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
+    "language": "Rust",
+    "total_stars": 8055,
+    "delta_stars": 5289,
+    "delta_text": "5,289 stars this month",
+    "forks": 690,
+    "url": "https://github.com/t8y2/dbx"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 61108,
+    "delta_stars": 8963,
+    "delta_text": "8,963 stars this month",
+    "forks": 6590,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 23774,
+    "delta_stars": 10648,
+    "delta_text": "10,648 stars this month",
+    "forks": 2699,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "total_stars": 46157,
+    "delta_stars": 6459,
+    "delta_text": "6,459 stars this month",
+    "forks": 4094,
+    "url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "name": "tashfeenahmed/freellmapi",
+    "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "language": "TypeScript",
+    "total_stars": 14559,
+    "delta_stars": 7637,
+    "delta_text": "7,637 stars this month",
+    "forks": 2137,
+    "url": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+    "language": "Rust",
+    "total_stars": 10966,
+    "delta_stars": 2314,
+    "delta_text": "2,314 stars this month",
+    "forks": 507,
+    "url": "https://github.com/n0-computer/iroh"
+  }
+]
