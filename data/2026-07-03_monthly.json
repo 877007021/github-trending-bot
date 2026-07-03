@@ -1,0 +1,202 @@
+[
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 45874,
+    "delta_stars": 19269,
+    "delta_text": "19,269 stars this month",
+    "forks": 1365,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 24657,
+    "delta_stars": 21580,
+    "delta_text": "21,580 stars this month",
+    "forks": 1826,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 31726,
+    "delta_stars": 27370,
+    "delta_text": "27,370 stars this month",
+    "forks": 3603,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 49116,
+    "delta_stars": 28309,
+    "delta_text": "28,309 stars this month",
+    "forks": 3916,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 48497,
+    "delta_stars": 21774,
+    "delta_text": "21,774 stars this month",
+    "forks": 4012,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 130015,
+    "delta_stars": 13585,
+    "delta_text": "13,585 stars this month",
+    "forks": 7210,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 22197,
+    "delta_stars": 10418,
+    "delta_text": "10,418 stars this month",
+    "forks": 2235,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 34525,
+    "delta_stars": 10623,
+    "delta_text": "10,623 stars this month",
+    "forks": 3843,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "NVIDIA/cosmos",
+    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+    "language": "Jupyter Notebook",
+    "total_stars": 10809,
+    "delta_stars": 2315,
+    "delta_text": "2,315 stars this month",
+    "forks": 735,
+    "url": "https://github.com/NVIDIA/cosmos"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 47864,
+    "delta_stars": 6834,
+    "delta_text": "6,834 stars this month",
+    "forks": 7793,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 3932,
+    "delta_stars": 2606,
+    "delta_text": "2,606 stars this month",
+    "forks": 462,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "total_stars": 12717,
+    "delta_stars": 3005,
+    "delta_text": "3,005 stars this month",
+    "forks": 756,
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 10148,
+    "delta_stars": 6210,
+    "delta_text": "6,210 stars this month",
+    "forks": 598,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 11019,
+    "delta_stars": 6875,
+    "delta_text": "6,875 stars this month",
+    "forks": 729,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "JavaScript",
+    "total_stars": 55008,
+    "delta_stars": 23665,
+    "delta_text": "23,665 stars this month",
+    "forks": 3770,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "t8y2/dbx",
+    "description": "15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
+    "language": "Rust",
+    "total_stars": 8250,
+    "delta_stars": 5093,
+    "delta_text": "5,093 stars this month",
+    "forks": 710,
+    "url": "https://github.com/t8y2/dbx"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 95265,
+    "delta_stars": 18098,
+    "delta_text": "18,098 stars this month",
+    "forks": 13852,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+    "language": "Rust",
+    "total_stars": 11014,
+    "delta_stars": 2370,
+    "delta_text": "2,370 stars this month",
+    "forks": 509,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "total_stars": 46282,
+    "delta_stars": 6556,
+    "delta_text": "6,556 stars this month",
+    "forks": 4103,
+    "url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 61352,
+    "delta_stars": 9235,
+    "delta_text": "9,235 stars this month",
+    "forks": 6611,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  }
+]
