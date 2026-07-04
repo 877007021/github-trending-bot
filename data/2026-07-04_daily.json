@@ -1,0 +1,202 @@
+[
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 34597,
+    "delta_stars": 2803,
+    "delta_text": "2,803 stars today",
+    "forks": 3548,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 23195,
+    "delta_stars": 634,
+    "delta_text": "634 stars today",
+    "forks": 1403,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "JavaScript",
+    "total_stars": 82917,
+    "delta_stars": 2863,
+    "delta_text": "2,863 stars today",
+    "forks": 4626,
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "name": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "total_stars": 77333,
+    "delta_stars": 91,
+    "delta_text": "91 stars today",
+    "forks": 25923,
+    "url": "https://github.com/elastic/elasticsearch"
+  },
+  {
+    "name": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "language": "TypeScript",
+    "total_stars": 8261,
+    "delta_stars": 129,
+    "delta_text": "129 stars today",
+    "forks": 2535,
+    "url": "https://github.com/actions/checkout"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 45481,
+    "delta_stars": 405,
+    "delta_text": "405 stars today",
+    "forks": 2955,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "ansible/ansible",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "language": "Python",
+    "total_stars": 69196,
+    "delta_stars": 65,
+    "delta_text": "65 stars today",
+    "forks": 24107,
+    "url": "https://github.com/ansible/ansible"
+  },
+  {
+    "name": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 4604,
+    "delta_stars": 885,
+    "delta_text": "885 stars today",
+    "forks": 269,
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "name": "rommapp/romm",
+    "description": "A beautiful, powerful, self-hosted rom manager and player.",
+    "language": "Python",
+    "total_stars": 9804,
+    "delta_stars": 239,
+    "delta_text": "239 stars today",
+    "forks": 475,
+    "url": "https://github.com/rommapp/romm"
+  },
+  {
+    "name": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "language": "Python",
+    "total_stars": 26154,
+    "delta_stars": 793,
+    "delta_text": "793 stars today",
+    "forks": 3120,
+    "url": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "total_stars": 101426,
+    "delta_stars": 293,
+    "delta_text": "293 stars today",
+    "forks": 28249,
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "name": "apache/maven",
+    "description": "Apache Maven core",
+    "language": "Java",
+    "total_stars": 5225,
+    "delta_stars": 58,
+    "delta_text": "58 stars today",
+    "forks": 2901,
+    "url": "https://github.com/apache/maven"
+  },
+  {
+    "name": "safishamsi/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "language": "Python",
+    "total_stars": 77108,
+    "delta_stars": 945,
+    "delta_text": "945 stars today",
+    "forks": 7637,
+    "url": "https://github.com/safishamsi/graphify"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Python",
+    "total_stars": 135833,
+    "delta_stars": 221,
+    "delta_text": "221 stars today",
+    "forks": 21855,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 10768,
+    "delta_stars": 478,
+    "delta_text": "478 stars today",
+    "forks": 637,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 245516,
+    "delta_stars": 1209,
+    "delta_text": "1,209 stars today",
+    "forks": 21761,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills",
+    "language": "Python",
+    "total_stars": 21986,
+    "delta_stars": 406,
+    "delta_text": "406 stars today",
+    "forks": 1394,
+    "url": "https://github.com/agentskills/agentskills"
+  },
+  {
+    "name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "total_stars": 105465,
+    "delta_stars": 169,
+    "delta_text": "169 stars today",
+    "forks": 12970,
+    "url": "https://github.com/supabase/supabase"
+  },
+  {
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "total_stars": 7164,
+    "delta_stars": 60,
+    "delta_text": "60 stars today",
+    "forks": 592,
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "total_stars": 126476,
+    "delta_stars": 1208,
+    "delta_text": "1,208 stars today",
+    "forks": 20530,
+    "url": "https://github.com/msitarzewski/agency-agents"
+  }
+]

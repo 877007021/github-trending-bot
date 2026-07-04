@@ -1,0 +1,192 @@
+[
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 25533,
+    "delta_stars": 22440,
+    "delta_text": "22,440 stars this month",
+    "forks": 1889,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 46193,
+    "delta_stars": 19500,
+    "delta_text": "19,500 stars this month",
+    "forks": 1373,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 32408,
+    "delta_stars": 28028,
+    "delta_text": "28,028 stars this month",
+    "forks": 3688,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 49836,
+    "delta_stars": 28976,
+    "delta_text": "28,976 stars this month",
+    "forks": 3973,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 48722,
+    "delta_stars": 21857,
+    "delta_text": "21,857 stars this month",
+    "forks": 4029,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 130226,
+    "delta_stars": 13790,
+    "delta_text": "13,790 stars this month",
+    "forks": 7225,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 22354,
+    "delta_stars": 10524,
+    "delta_text": "10,524 stars this month",
+    "forks": 2246,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "total_stars": 34678,
+    "delta_stars": 10561,
+    "delta_text": "10,561 stars this month",
+    "forks": 3858,
+    "url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 10768,
+    "delta_stars": 6481,
+    "delta_text": "6,481 stars this month",
+    "forks": 637,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 48204,
+    "delta_stars": 6977,
+    "delta_text": "6,977 stars this month",
+    "forks": 7849,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 11668,
+    "delta_stars": 7466,
+    "delta_text": "7,466 stars this month",
+    "forks": 771,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 3980,
+    "delta_stars": 2619,
+    "delta_text": "2,619 stars this month",
+    "forks": 465,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "kenn-io/agentsview",
+    "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+    "language": "Go",
+    "total_stars": 3583,
+    "delta_stars": 2392,
+    "delta_text": "2,392 stars this month",
+    "forks": 281,
+    "url": "https://github.com/kenn-io/agentsview"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+    "language": "Rust",
+    "total_stars": 11049,
+    "delta_stars": 2398,
+    "delta_text": "2,398 stars this month",
+    "forks": 513,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "t8y2/dbx",
+    "description": "15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
+    "language": "Rust",
+    "total_stars": 8457,
+    "delta_stars": 5032,
+    "delta_text": "5,032 stars this month",
+    "forks": 722,
+    "url": "https://github.com/t8y2/dbx"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "JavaScript",
+    "total_stars": 55581,
+    "delta_stars": 23478,
+    "delta_text": "23,478 stars this month",
+    "forks": 3800,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "total_stars": 46439,
+    "delta_stars": 6618,
+    "delta_text": "6,618 stars this month",
+    "forks": 4119,
+    "url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "total_stars": 95498,
+    "delta_stars": 17491,
+    "delta_text": "17,491 stars this month",
+    "forks": 13895,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 24178,
+    "delta_stars": 10451,
+    "delta_text": "10,451 stars this month",
+    "forks": 2747,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  }
+]
