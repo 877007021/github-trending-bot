@@ -1,0 +1,162 @@
+[
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 51487,
+    "delta_stars": 1378,
+    "delta_text": "1,378 stars today",
+    "forks": 8393,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 70771,
+    "delta_stars": 1112,
+    "delta_text": "1,112 stars today",
+    "forks": 7671,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "language": "Rust",
+    "total_stars": 19335,
+    "delta_stars": 2494,
+    "delta_text": "2,494 stars today",
+    "forks": 1964,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 77499,
+    "delta_stars": 470,
+    "delta_text": "470 stars today",
+    "forks": 10406,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "JavaScript",
+    "total_stars": 58896,
+    "delta_stars": 1458,
+    "delta_text": "1,458 stars today",
+    "forks": 4012,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "alirezarezvani/claude-skills",
+    "description": "345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "language": "Python",
+    "total_stars": 21137,
+    "delta_stars": 610,
+    "delta_text": "610 stars today",
+    "forks": 2841,
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 26266,
+    "delta_stars": 906,
+    "delta_text": "906 stars today",
+    "forks": 1573,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 49726,
+    "delta_stars": 458,
+    "delta_text": "458 stars today",
+    "forks": 4145,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 12856,
+    "delta_stars": 779,
+    "delta_text": "779 stars today",
+    "forks": 746,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 4212,
+    "delta_stars": 427,
+    "delta_text": "427 stars today",
+    "forks": 603,
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "karakeep-app/karakeep",
+    "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+    "language": "TypeScript",
+    "total_stars": 26881,
+    "delta_stars": 199,
+    "delta_text": "199 stars today",
+    "forks": 1319,
+    "url": "https://github.com/karakeep-app/karakeep"
+  },
+  {
+    "name": "firecrawl/firecrawl",
+    "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+    "language": "TypeScript",
+    "total_stars": 146227,
+    "delta_stars": 867,
+    "delta_text": "867 stars today",
+    "forks": 8411,
+    "url": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "name": "steipete/CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "language": "Swift",
+    "total_stars": 16724,
+    "delta_stars": 598,
+    "delta_text": "598 stars today",
+    "forks": 1375,
+    "url": "https://github.com/steipete/CodexBar"
+  },
+  {
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "total_stars": 13492,
+    "delta_stars": 382,
+    "delta_text": "382 stars today",
+    "forks": 823,
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "name": "sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "",
+    "total_stars": 482275,
+    "delta_stars": 345,
+    "delta_text": "345 stars today",
+    "forks": 35736,
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "name": "gastownhall/gastown",
+    "description": "Gas Town - multi-agent workspace manager",
+    "language": "Go",
+    "total_stars": 16683,
+    "delta_stars": 291,
+    "delta_text": "291 stars today",
+    "forks": 1538,
+    "url": "https://github.com/gastownhall/gastown"
+  }
+]

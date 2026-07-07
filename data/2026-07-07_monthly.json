@@ -1,0 +1,192 @@
+[
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 46804,
+    "delta_stars": 20137,
+    "delta_text": "20,137 stars this month",
+    "forks": 1406,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 27373,
+    "delta_stars": 24223,
+    "delta_text": "24,223 stars this month",
+    "forks": 2037,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 34324,
+    "delta_stars": 29796,
+    "delta_text": "29,796 stars this month",
+    "forks": 3929,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 12149,
+    "delta_stars": 10867,
+    "delta_text": "10,867 stars this month",
+    "forks": 1002,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 52026,
+    "delta_stars": 30168,
+    "delta_text": "30,168 stars this month",
+    "forks": 4182,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 130757,
+    "delta_stars": 14204,
+    "delta_text": "14,204 stars this month",
+    "forks": 7274,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 49726,
+    "delta_stars": 21391,
+    "delta_text": "21,391 stars this month",
+    "forks": 4145,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "total_stars": 18003,
+    "delta_stars": 6897,
+    "delta_text": "6,897 stars this month",
+    "forks": 1061,
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 51488,
+    "delta_stars": 9636,
+    "delta_text": "9,636 stars this month",
+    "forks": 8393,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes.",
+    "language": "Python",
+    "total_stars": 4964,
+    "delta_stars": 4089,
+    "delta_text": "4,089 stars this month",
+    "forks": 932,
+    "url": "https://github.com/interviewstreet/hiring-agent"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 37977,
+    "delta_stars": 12018,
+    "delta_text": "12,018 stars this month",
+    "forks": 3859,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 22770,
+    "delta_stars": 10741,
+    "delta_text": "10,741 stars this month",
+    "forks": 2290,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 12856,
+    "delta_stars": 7878,
+    "delta_text": "7,878 stars this month",
+    "forks": 746,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 12858,
+    "delta_stars": 8457,
+    "delta_text": "8,457 stars this month",
+    "forks": 870,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "total_stars": 13493,
+    "delta_stars": 3459,
+    "delta_text": "3,459 stars this month",
+    "forks": 823,
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "name": "kenn-io/agentsview",
+    "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+    "language": "Go",
+    "total_stars": 3984,
+    "delta_stars": 2701,
+    "delta_text": "2,701 stars this month",
+    "forks": 305,
+    "url": "https://github.com/kenn-io/agentsview"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+    "language": "Rust",
+    "total_stars": 11168,
+    "delta_stars": 2504,
+    "delta_text": "2,504 stars this month",
+    "forks": 515,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "t8y2/dbx",
+    "description": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
+    "language": "Rust",
+    "total_stars": 8909,
+    "delta_stars": 4953,
+    "delta_text": "4,953 stars this month",
+    "forks": 754,
+    "url": "https://github.com/t8y2/dbx"
+  },
+  {
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "total_stars": 46972,
+    "delta_stars": 6991,
+    "delta_text": "6,991 stars this month",
+    "forks": 4184,
+    "url": "https://github.com/roboflow/supervision"
+  }
+]

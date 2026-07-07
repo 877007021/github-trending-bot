@@ -1,0 +1,177 @@
+[
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "ruflo",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "rubenfiszel",
+    "display_name": "Ruben Fiszel",
+    "popular_repo": "",
+    "url": "https://github.com/rubenfiszel",
+    "repo_url": ""
+  },
+  {
+    "username": "cmungall",
+    "display_name": "Chris Mungall",
+    "popular_repo": "",
+    "url": "https://github.com/cmungall",
+    "repo_url": ""
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "jeswr",
+    "display_name": "Jesse Wright",
+    "popular_repo": "http-query-adoption",
+    "url": "https://github.com/jeswr",
+    "repo_url": "https://github.com/jeswr/http-query-adoption"
+  },
+  {
+    "username": "dalathegreat",
+    "display_name": "Daniel Öster",
+    "popular_repo": "Battery-Emulator",
+    "url": "https://github.com/dalathegreat",
+    "repo_url": "https://github.com/dalathegreat/Battery-Emulator"
+  },
+  {
+    "username": "esokullu",
+    "display_name": "Emre Sokullu",
+    "popular_repo": "webbrain",
+    "url": "https://github.com/esokullu",
+    "repo_url": "https://github.com/esokullu/webbrain"
+  },
+  {
+    "username": "guibranco",
+    "display_name": "Guilherme Branco Stracini",
+    "popular_repo": "pancake",
+    "url": "https://github.com/guibranco",
+    "repo_url": "https://github.com/guibranco/pancake"
+  },
+  {
+    "username": "raullenchai",
+    "display_name": "Raullen Chai",
+    "popular_repo": "Rapid-MLX",
+    "url": "https://github.com/raullenchai",
+    "repo_url": "https://github.com/raullenchai/Rapid-MLX"
+  },
+  {
+    "username": "narumiruna",
+    "display_name": "なるみ",
+    "popular_repo": "pi-extensions",
+    "url": "https://github.com/narumiruna",
+    "repo_url": "https://github.com/narumiruna/pi-extensions"
+  },
+  {
+    "username": "davila7",
+    "display_name": "Daniel Avila",
+    "popular_repo": "claude-code-templates",
+    "url": "https://github.com/davila7",
+    "repo_url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "username": "addyosmani",
+    "display_name": "Addy Osmani",
+    "popular_repo": "agent-skills",
+    "url": "https://github.com/addyosmani",
+    "repo_url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "username": "lalalune",
+    "display_name": "Shaw",
+    "popular_repo": "ArkLib",
+    "url": "https://github.com/lalalune",
+    "repo_url": "https://github.com/lalalune/ArkLib"
+  },
+  {
+    "username": "tommoor",
+    "display_name": "Tom Moor",
+    "popular_repo": "",
+    "url": "https://github.com/tommoor",
+    "repo_url": ""
+  },
+  {
+    "username": "JoviDeCroock",
+    "display_name": "Jovi De Croock",
+    "popular_repo": "",
+    "url": "https://github.com/JoviDeCroock",
+    "repo_url": ""
+  },
+  {
+    "username": "delano",
+    "display_name": "Delano",
+    "popular_repo": "postman-mcp-server",
+    "url": "https://github.com/delano",
+    "repo_url": "https://github.com/delano/postman-mcp-server"
+  },
+  {
+    "username": "lfnovo",
+    "display_name": "Luis Novo",
+    "popular_repo": "open-notebook",
+    "url": "https://github.com/lfnovo",
+    "repo_url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "username": "Q00",
+    "display_name": "Q00",
+    "popular_repo": "ouroboros",
+    "url": "https://github.com/Q00",
+    "repo_url": "https://github.com/Q00/ouroboros"
+  },
+  {
+    "username": "neubig",
+    "display_name": "Graham Neubig",
+    "popular_repo": "anlp-code",
+    "url": "https://github.com/neubig",
+    "repo_url": "https://github.com/neubig/anlp-code"
+  },
+  {
+    "username": "hrydgard",
+    "display_name": "Henrik Rydgård",
+    "popular_repo": "ppsspp",
+    "url": "https://github.com/hrydgard",
+    "repo_url": "https://github.com/hrydgard/ppsspp"
+  },
+  {
+    "username": "esengine",
+    "display_name": "YHH",
+    "popular_repo": "DeepSeek-Reasonix",
+    "url": "https://github.com/esengine",
+    "repo_url": "https://github.com/esengine/DeepSeek-Reasonix"
+  }
+]
