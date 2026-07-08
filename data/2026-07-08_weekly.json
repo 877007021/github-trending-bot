@@ -1,0 +1,232 @@
+[
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 38552,
+    "delta_stars": 10741,
+    "delta_text": "10,741 stars this week",
+    "forks": 3912,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "language": "Rust",
+    "total_stars": 20691,
+    "delta_stars": 7349,
+    "delta_text": "7,349 stars this week",
+    "forks": 2075,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "language": "HTML",
+    "total_stars": 10696,
+    "delta_stars": 4950,
+    "delta_text": "4,950 stars this week",
+    "forks": 1201,
+    "url": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 13545,
+    "delta_stars": 4557,
+    "delta_text": "4,557 stars this week",
+    "forks": 786,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 13136,
+    "delta_stars": 4797,
+    "delta_text": "4,797 stars this week",
+    "forks": 1917,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 24922,
+    "delta_stars": 4163,
+    "delta_text": "4,163 stars this week",
+    "forks": 2132,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 26620,
+    "delta_stars": 4725,
+    "delta_text": "4,725 stars this week",
+    "forks": 1598,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+    "language": "TypeScript",
+    "total_stars": 10765,
+    "delta_stars": 5363,
+    "delta_text": "5,363 stars this week",
+    "forks": 3638,
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "name": "altic-dev/FluidVoice",
+    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
+    "language": "Swift",
+    "total_stars": 6689,
+    "delta_stars": 1865,
+    "delta_text": "1,865 stars this week",
+    "forks": 420,
+    "url": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "total_stars": 8443,
+    "delta_stars": 1692,
+    "delta_text": "1,692 stars this week",
+    "forks": 710,
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "name": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "language": "Python",
+    "total_stars": 11679,
+    "delta_stars": 4262,
+    "delta_text": "4,262 stars this week",
+    "forks": 1510,
+    "url": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "total_stars": 128773,
+    "delta_stars": 8597,
+    "delta_text": "8,597 stars this week",
+    "forks": 20934,
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "total_stars": 106728,
+    "delta_stars": 1984,
+    "delta_text": "1,984 stars this week",
+    "forks": 6109,
+    "url": "https://github.com/immich-app/immich"
+  },
+  {
+    "name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "language": "Python",
+    "total_stars": 5583,
+    "delta_stars": 645,
+    "delta_text": "645 stars this week",
+    "forks": 677,
+    "url": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "name": "allenai/olmocr",
+    "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "language": "Python",
+    "total_stars": 18953,
+    "delta_stars": 1134,
+    "delta_text": "1,134 stars this week",
+    "forks": 1558,
+    "url": "https://github.com/allenai/olmocr"
+  },
+  {
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "total_stars": 15879,
+    "delta_stars": 3435,
+    "delta_text": "3,435 stars this week",
+    "forks": 1845,
+    "url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "name": "dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "language": "C#",
+    "total_stars": 4299,
+    "delta_stars": 687,
+    "delta_text": "687 stars this week",
+    "forks": 324,
+    "url": "https://github.com/dotnet/skills"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "JavaScript",
+    "total_stars": 86259,
+    "delta_stars": 8066,
+    "delta_text": "8,066 stars this week",
+    "forks": 4809,
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 13512,
+    "delta_stars": 3820,
+    "delta_text": "3,820 stars this week",
+    "forks": 908,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "language": "Python",
+    "total_stars": 10194,
+    "delta_stars": 1451,
+    "delta_text": "1,451 stars this week",
+    "forks": 1022,
+    "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 52960,
+    "delta_stars": 5337,
+    "delta_text": "5,337 stars this week",
+    "forks": 8634,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 46245,
+    "delta_stars": 1480,
+    "delta_text": "1,480 stars this week",
+    "forks": 3018,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 28000,
+    "delta_stars": 5457,
+    "delta_text": "5,457 stars this week",
+    "forks": 2083,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  }
+]
