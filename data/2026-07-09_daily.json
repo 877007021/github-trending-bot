@@ -1,0 +1,152 @@
+[
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 74007,
+    "delta_stars": 1297,
+    "delta_text": "1,297 stars today",
+    "forks": 7985,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 79126,
+    "delta_stars": 799,
+    "delta_text": "799 stars today",
+    "forks": 10648,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "language": "TypeScript",
+    "total_stars": 7620,
+    "delta_stars": 318,
+    "delta_text": "318 stars today",
+    "forks": 706,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "prisma/prisma",
+    "description": "Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "language": "TypeScript",
+    "total_stars": 46543,
+    "delta_stars": 46,
+    "delta_text": "46 stars today",
+    "forks": 2280,
+    "url": "https://github.com/prisma/prisma"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 50730,
+    "delta_stars": 352,
+    "delta_text": "352 stars today",
+    "forks": 4233,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "argoproj/argo-cd",
+    "description": "Declarative Continuous Deployment for Kubernetes",
+    "language": "Go",
+    "total_stars": 23425,
+    "delta_stars": 29,
+    "delta_text": "29 stars today",
+    "forks": 7425,
+    "url": "https://github.com/argoproj/argo-cd"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 11762,
+    "delta_stars": 1717,
+    "delta_text": "1,717 stars today",
+    "forks": 799,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 54161,
+    "delta_stars": 1218,
+    "delta_text": "1,218 stars today",
+    "forks": 8822,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 249798,
+    "delta_stars": 1116,
+    "delta_text": "1,116 stars today",
+    "forks": 22163,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "total_stars": 14386,
+    "delta_stars": 395,
+    "delta_text": "395 stars today",
+    "forks": 887,
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "name": "Diolinux/PhotoGIMP",
+    "description": "A Patch for GIMP 3+ for Photoshop Users",
+    "language": "CSS",
+    "total_stars": 15023,
+    "delta_stars": 1125,
+    "delta_text": "1,125 stars today",
+    "forks": 594,
+    "url": "https://github.com/Diolinux/PhotoGIMP"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 6371,
+    "delta_stars": 28,
+    "delta_text": "28 stars today",
+    "forks": 748,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "huxingyi/autoremesher",
+    "description": "Automatic quad remeshing tool",
+    "language": "C++",
+    "total_stars": 1992,
+    "delta_stars": 296,
+    "delta_text": "296 stars today",
+    "forks": 152,
+    "url": "https://github.com/huxingyi/autoremesher"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 6041,
+    "delta_stars": 951,
+    "delta_text": "951 stars today",
+    "forks": 721,
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "total_stars": 8915,
+    "delta_stars": 564,
+    "delta_text": "564 stars today",
+    "forks": 737,
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  }
+]

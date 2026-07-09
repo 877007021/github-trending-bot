@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "language": "Rust",
+    "total_stars": 21637,
+    "delta_stars": 8366,
+    "delta_text": "8,366 stars this week",
+    "forks": 2159,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 39042,
+    "delta_stars": 10274,
+    "delta_text": "10,274 stars this week",
+    "forks": 3960,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 7167,
+    "delta_stars": 4943,
+    "delta_text": "4,943 stars this week",
+    "forks": 470,
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 26912,
+    "delta_stars": 4890,
+    "delta_text": "4,890 stars this week",
+    "forks": 1622,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 25205,
+    "delta_stars": 4295,
+    "delta_text": "4,295 stars this week",
+    "forks": 2161,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 14377,
+    "delta_stars": 4754,
+    "delta_text": "4,754 stars this week",
+    "forks": 825,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 13752,
+    "delta_stars": 4424,
+    "delta_text": "4,424 stars this week",
+    "forks": 2003,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 54161,
+    "delta_stars": 6182,
+    "delta_text": "6,182 stars this week",
+    "forks": 8822,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "total_stars": 8915,
+    "delta_stars": 2106,
+    "delta_text": "2,106 stars this week",
+    "forks": 737,
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "language": "Python",
+    "total_stars": 5701,
+    "delta_stars": 736,
+    "delta_text": "736 stars this week",
+    "forks": 687,
+    "url": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "name": "dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "language": "C#",
+    "total_stars": 4424,
+    "delta_stars": 840,
+    "delta_text": "840 stars this week",
+    "forks": 328,
+    "url": "https://github.com/dotnet/skills"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 6041,
+    "delta_stars": 2903,
+    "delta_text": "2,903 stars this week",
+    "forks": 721,
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "language": "HTML",
+    "total_stars": 11040,
+    "delta_stars": 3028,
+    "delta_text": "3,028 stars this week",
+    "forks": 1247,
+    "url": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "total_stars": 106926,
+    "delta_stars": 2099,
+    "delta_text": "2,099 stars this week",
+    "forks": 6130,
+    "url": "https://github.com/immich-app/immich"
+  },
+  {
+    "name": "altic-dev/FluidVoice",
+    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
+    "language": "Swift",
+    "total_stars": 6888,
+    "delta_stars": 1563,
+    "delta_text": "1,563 stars this week",
+    "forks": 430,
+    "url": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "JavaScript",
+    "total_stars": 86811,
+    "delta_stars": 8080,
+    "delta_text": "8,080 stars this week",
+    "forks": 4854,
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "total_stars": 129301,
+    "delta_stars": 7364,
+    "delta_text": "7,364 stars this week",
+    "forks": 21018,
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "name": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "language": "Python",
+    "total_stars": 12025,
+    "delta_stars": 3960,
+    "delta_text": "3,960 stars this week",
+    "forks": 1576,
+    "url": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 14194,
+    "delta_stars": 3953,
+    "delta_text": "3,953 stars this week",
+    "forks": 958,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 46386,
+    "delta_stars": 1547,
+    "delta_text": "1,547 stars this week",
+    "forks": 3024,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "alirezarezvani/claude-skills",
+    "description": "345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "language": "Python",
+    "total_stars": 21696,
+    "delta_stars": 2068,
+    "delta_text": "2,068 stars this week",
+    "forks": 2903,
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "total_stars": 16066,
+    "delta_stars": 3054,
+    "delta_text": "3,054 stars this week",
+    "forks": 1858,
+    "url": "https://github.com/browser-use/video-use"
+  }
+]
