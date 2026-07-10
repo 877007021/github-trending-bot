@@ -1,0 +1,212 @@
+[
+  {
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+    "language": "TypeScript",
+    "total_stars": 18930,
+    "delta_stars": 13847,
+    "delta_text": "13,847 stars this week",
+    "forks": 5481,
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "language": "Rust",
+    "total_stars": 22193,
+    "delta_stars": 8885,
+    "delta_text": "8,885 stars this week",
+    "forks": 2227,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 39607,
+    "delta_stars": 8370,
+    "delta_text": "8,370 stars this week",
+    "forks": 4058,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 7465,
+    "delta_stars": 4087,
+    "delta_text": "4,087 stars this week",
+    "forks": 518,
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 55136,
+    "delta_stars": 7149,
+    "delta_text": "7,149 stars this week",
+    "forks": 9006,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 27160,
+    "delta_stars": 4792,
+    "delta_text": "4,792 stars this week",
+    "forks": 1664,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 14811,
+    "delta_stars": 4756,
+    "delta_text": "4,756 stars this week",
+    "forks": 868,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 25507,
+    "delta_stars": 4459,
+    "delta_text": "4,459 stars this week",
+    "forks": 2235,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 14305,
+    "delta_stars": 4119,
+    "delta_text": "4,119 stars this week",
+    "forks": 2116,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 6683,
+    "delta_stars": 3630,
+    "delta_text": "3,630 stars this week",
+    "forks": 768,
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "total_stars": 9324,
+    "delta_stars": 2284,
+    "delta_text": "2,284 stars this week",
+    "forks": 799,
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "name": "dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "language": "C#",
+    "total_stars": 4486,
+    "delta_stars": 886,
+    "delta_text": "886 stars this week",
+    "forks": 329,
+    "url": "https://github.com/dotnet/skills"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 15041,
+    "delta_stars": 4111,
+    "delta_text": "4,111 stars this week",
+    "forks": 1049,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "language": "Python",
+    "total_stars": 5834,
+    "delta_stars": 788,
+    "delta_text": "788 stars this week",
+    "forks": 724,
+    "url": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "name": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "language": "Python",
+    "total_stars": 27238,
+    "delta_stars": 1969,
+    "delta_text": "1,969 stars this week",
+    "forks": 3271,
+    "url": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "name": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "language": "Python",
+    "total_stars": 12339,
+    "delta_stars": 3757,
+    "delta_text": "3,757 stars this week",
+    "forks": 1652,
+    "url": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 79662,
+    "delta_stars": 3537,
+    "delta_text": "3,537 stars this week",
+    "forks": 10718,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "saadeghi/daisyui",
+    "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
+    "language": "Svelte",
+    "total_stars": 41524,
+    "delta_stars": 261,
+    "delta_text": "261 stars this week",
+    "forks": 1649,
+    "url": "https://github.com/saadeghi/daisyui"
+  },
+  {
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "total_stars": 107095,
+    "delta_stars": 2194,
+    "delta_text": "2,194 stars this week",
+    "forks": 6147,
+    "url": "https://github.com/immich-app/immich"
+  },
+  {
+    "name": "steipete/CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "language": "Swift",
+    "total_stars": 17356,
+    "delta_stars": 1679,
+    "delta_text": "1,679 stars this week",
+    "forks": 1415,
+    "url": "https://github.com/steipete/CodexBar"
+  },
+  {
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "total_stars": 16258,
+    "delta_stars": 2645,
+    "delta_text": "2,645 stars this week",
+    "forks": 1911,
+    "url": "https://github.com/browser-use/video-use"
+  }
+]

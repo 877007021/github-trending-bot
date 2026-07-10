@@ -1,0 +1,232 @@
+[
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 29148,
+    "delta_stars": 26040,
+    "delta_text": "26,040 stars this month",
+    "forks": 2202,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 36155,
+    "delta_stars": 31648,
+    "delta_text": "31,648 stars this month",
+    "forks": 4228,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 53861,
+    "delta_stars": 28801,
+    "delta_text": "28,801 stars this month",
+    "forks": 4348,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 12618,
+    "delta_stars": 10971,
+    "delta_text": "10,971 stars this month",
+    "forks": 1043,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 55137,
+    "delta_stars": 13616,
+    "delta_text": "13,616 stars this month",
+    "forks": 9006,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+    "language": "TypeScript",
+    "total_stars": 18930,
+    "delta_stars": 14585,
+    "delta_text": "14,585 stars this month",
+    "forks": 5481,
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 47304,
+    "delta_stars": 20582,
+    "delta_text": "20,582 stars this month",
+    "forks": 1471,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 131763,
+    "delta_stars": 14536,
+    "delta_text": "14,536 stars this month",
+    "forks": 7369,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 14811,
+    "delta_stars": 9607,
+    "delta_text": "9,607 stars this month",
+    "forks": 868,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "total_stars": 18225,
+    "delta_stars": 7111,
+    "delta_text": "7,111 stars this month",
+    "forks": 1108,
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 39609,
+    "delta_stars": 13697,
+    "delta_text": "13,697 stars this month",
+    "forks": 4058,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "total_stars": 14648,
+    "delta_stars": 4912,
+    "delta_text": "4,912 stars this month",
+    "forks": 906,
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 15041,
+    "delta_stars": 10439,
+    "delta_text": "10,439 stars this month",
+    "forks": 1049,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "language": "Rust",
+    "total_stars": 22193,
+    "delta_stars": 9534,
+    "delta_text": "9,534 stars this month",
+    "forks": 2227,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes.",
+    "language": "Python",
+    "total_stars": 5317,
+    "delta_stars": 4239,
+    "delta_text": "4,239 stars this month",
+    "forks": 1003,
+    "url": "https://github.com/interviewstreet/hiring-agent"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 25507,
+    "delta_stars": 7146,
+    "delta_text": "7,146 stars this month",
+    "forks": 2235,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+    "language": "Rust",
+    "total_stars": 11299,
+    "delta_stars": 2617,
+    "delta_text": "2,617 stars this month",
+    "forks": 559,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 14305,
+    "delta_stars": 8325,
+    "delta_text": "8,325 stars this month",
+    "forks": 2116,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "language": "",
+    "total_stars": 23231,
+    "delta_stars": 10042,
+    "delta_text": "10,042 stars this month",
+    "forks": 2355,
+    "url": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "name": "mauriceboe/TREK",
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "language": "TypeScript",
+    "total_stars": 9740,
+    "delta_stars": 4177,
+    "delta_text": "4,177 stars this month",
+    "forks": 843,
+    "url": "https://github.com/mauriceboe/TREK"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 56222,
+    "delta_stars": 14989,
+    "delta_text": "14,989 stars this month",
+    "forks": 48380,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "language": "TypeScript",
+    "total_stars": 27191,
+    "delta_stars": 10636,
+    "delta_text": "10,636 stars this month",
+    "forks": 3868,
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "name": "t8y2/dbx",
+    "description": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
+    "language": "Rust",
+    "total_stars": 9451,
+    "delta_stars": 4945,
+    "delta_text": "4,945 stars this month",
+    "forks": 841,
+    "url": "https://github.com/t8y2/dbx"
+  }
+]
