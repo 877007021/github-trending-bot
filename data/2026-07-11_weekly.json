@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. The #1 Ai Meeting Minutes generator.",
+    "language": "Rust",
+    "total_stars": 22666,
+    "delta_stars": 8795,
+    "delta_text": "8,795 stars this week",
+    "forks": 2385,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 55816,
+    "delta_stars": 7765,
+    "delta_text": "7,765 stars this week",
+    "forks": 9202,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 40135,
+    "delta_stars": 6443,
+    "delta_text": "6,443 stars this week",
+    "forks": 4207,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 27427,
+    "delta_stars": 4484,
+    "delta_text": "4,484 stars this week",
+    "forks": 1776,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 15214,
+    "delta_stars": 4714,
+    "delta_text": "4,714 stars this week",
+    "forks": 1006,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 7183,
+    "delta_stars": 4093,
+    "delta_text": "4,093 stars this week",
+    "forks": 803,
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 7735,
+    "delta_stars": 3582,
+    "delta_text": "3,582 stars this week",
+    "forks": 646,
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 25819,
+    "delta_stars": 3799,
+    "delta_text": "3,799 stars this week",
+    "forks": 2372,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "total_stars": 9581,
+    "delta_stars": 2514,
+    "delta_text": "2,514 stars this week",
+    "forks": 938,
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 15053,
+    "delta_stars": 4268,
+    "delta_text": "4,268 stars this week",
+    "forks": 2301,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 15934,
+    "delta_stars": 4328,
+    "delta_text": "4,328 stars this week",
+    "forks": 1243,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "language": "Python",
+    "total_stars": 6000,
+    "delta_stars": 811,
+    "delta_text": "811 stars this week",
+    "forks": 841,
+    "url": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 79881,
+    "delta_stars": 3657,
+    "delta_text": "3,657 stars this week",
+    "forks": 10750,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+    "language": "JavaScript",
+    "total_stars": 3442,
+    "delta_stars": 1019,
+    "delta_text": "1,019 stars this week",
+    "forks": 357,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 14417,
+    "delta_stars": 5789,
+    "delta_text": "5,789 stars this week",
+    "forks": 979,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "language": "Python",
+    "total_stars": 12639,
+    "delta_stars": 3596,
+    "delta_text": "3,596 stars this week",
+    "forks": 1787,
+    "url": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 7268,
+    "delta_stars": 557,
+    "delta_text": "557 stars this week",
+    "forks": 926,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "language": "C#",
+    "total_stars": 4548,
+    "delta_stars": 914,
+    "delta_text": "914 stars this week",
+    "forks": 331,
+    "url": "https://github.com/dotnet/skills"
+  },
+  {
+    "name": "alirezarezvani/claude-skills",
+    "description": "345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "language": "Python",
+    "total_stars": 22072,
+    "delta_stars": 2230,
+    "delta_text": "2,230 stars this week",
+    "forks": 3084,
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "JavaScript",
+    "total_stars": 87762,
+    "delta_stars": 5348,
+    "delta_text": "5,348 stars this week",
+    "forks": 5037,
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 76807,
+    "delta_stars": 7944,
+    "delta_text": "7,944 stars this week",
+    "forks": 8250,
+    "url": "https://github.com/addyosmani/agent-skills"
+  }
+]

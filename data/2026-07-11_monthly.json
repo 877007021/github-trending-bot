@@ -1,0 +1,202 @@
+[
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 29697,
+    "delta_stars": 26480,
+    "delta_text": "26,480 stars this month",
+    "forks": 2361,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 36693,
+    "delta_stars": 32095,
+    "delta_text": "32,095 stars this month",
+    "forks": 4417,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 54460,
+    "delta_stars": 28774,
+    "delta_text": "28,774 stars this month",
+    "forks": 4489,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 55816,
+    "delta_stars": 14343,
+    "delta_text": "14,343 stars this month",
+    "forks": 9202,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 12772,
+    "delta_stars": 10790,
+    "delta_text": "10,790 stars this month",
+    "forks": 1048,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "kunchenguid/no-mistakes",
+    "description": "git push no-mistakes",
+    "language": "Go",
+    "total_stars": 5820,
+    "delta_stars": 4599,
+    "delta_text": "4,599 stars this month",
+    "forks": 504,
+    "url": "https://github.com/kunchenguid/no-mistakes"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 40135,
+    "delta_stars": 14196,
+    "delta_text": "14,196 stars this month",
+    "forks": 4207,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 15214,
+    "delta_stars": 9902,
+    "delta_text": "9,902 stars this month",
+    "forks": 1006,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 132094,
+    "delta_stars": 14876,
+    "delta_text": "14,876 stars this month",
+    "forks": 7517,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "total_stars": 18365,
+    "delta_stars": 7249,
+    "delta_text": "7,249 stars this month",
+    "forks": 1224,
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. The #1 Ai Meeting Minutes generator.",
+    "language": "Rust",
+    "total_stars": 22666,
+    "delta_stars": 9968,
+    "delta_text": "9,968 stars this month",
+    "forks": 2385,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 15934,
+    "delta_stars": 11236,
+    "delta_text": "11,236 stars this month",
+    "forks": 1243,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "language": "Swift",
+    "total_stars": 47468,
+    "delta_stars": 19234,
+    "delta_text": "19,234 stars this month",
+    "forks": 1584,
+    "url": "https://github.com/apple/container"
+  },
+  {
+    "name": "interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes.",
+    "language": "Python",
+    "total_stars": 5475,
+    "delta_stars": 4396,
+    "delta_text": "4,396 stars this month",
+    "forks": 1113,
+    "url": "https://github.com/interviewstreet/hiring-agent"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 25819,
+    "delta_stars": 7398,
+    "delta_text": "7,398 stars this month",
+    "forks": 2372,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 15053,
+    "delta_stars": 8867,
+    "delta_text": "8,867 stars this month",
+    "forks": 2301,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+    "language": "Rust",
+    "total_stars": 11423,
+    "delta_stars": 2748,
+    "delta_text": "2,748 stars this month",
+    "forks": 668,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "mauriceboe/TREK",
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "language": "TypeScript",
+    "total_stars": 9999,
+    "delta_stars": 4420,
+    "delta_text": "4,420 stars this month",
+    "forks": 944,
+    "url": "https://github.com/mauriceboe/TREK"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 7183,
+    "delta_stars": 5106,
+    "delta_text": "5,106 stars this month",
+    "forks": 803,
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "language": "TypeScript",
+    "total_stars": 27506,
+    "delta_stars": 10885,
+    "delta_text": "10,885 stars this month",
+    "forks": 4009,
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+  }
+]
