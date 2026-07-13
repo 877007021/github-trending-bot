@@ -1,0 +1,192 @@
+[
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 8178,
+    "delta_stars": 1678,
+    "delta_text": "1,678 stars this week",
+    "forks": 997,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "total_stars": 17965,
+    "delta_stars": 600,
+    "delta_text": "600 stars this week",
+    "forks": 3217,
+    "url": "https://github.com/abseil/abseil-cpp"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+    "language": "Rust",
+    "total_stars": 24156,
+    "delta_stars": 7440,
+    "delta_text": "7,440 stars this week",
+    "forks": 2530,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "total_stars": 9985,
+    "delta_stars": 2490,
+    "delta_text": "2,490 stars this week",
+    "forks": 981,
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 28391,
+    "delta_stars": 2803,
+    "delta_text": "2,803 stars this week",
+    "forks": 1865,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 16121,
+    "delta_stars": 3928,
+    "delta_text": "3,928 stars this week",
+    "forks": 1092,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 16100,
+    "delta_stars": 6978,
+    "delta_text": "6,978 stars this week",
+    "forks": 1089,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 16856,
+    "delta_stars": 4506,
+    "delta_text": "4,506 stars this week",
+    "forks": 2550,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 57289,
+    "delta_stars": 7155,
+    "delta_text": "7,155 stars this week",
+    "forks": 9475,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 8128,
+    "delta_stars": 4353,
+    "delta_text": "4,353 stars this week",
+    "forks": 896,
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 18221,
+    "delta_stars": 4481,
+    "delta_text": "4,481 stars this week",
+    "forks": 1441,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+    "language": "JavaScript",
+    "total_stars": 4206,
+    "delta_stars": 1180,
+    "delta_text": "1,180 stars this week",
+    "forks": 390,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 8687,
+    "delta_stars": 2397,
+    "delta_text": "2,397 stars this week",
+    "forks": 726,
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 41202,
+    "delta_stars": 4143,
+    "delta_text": "4,143 stars this week",
+    "forks": 4339,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 26434,
+    "delta_stars": 2666,
+    "delta_text": "2,666 stars this week",
+    "forks": 2424,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 80474,
+    "delta_stars": 3763,
+    "delta_text": "3,763 stars this week",
+    "forks": 10834,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "language": "Go",
+    "total_stars": 20387,
+    "delta_stars": 1989,
+    "delta_text": "1,989 stars this week",
+    "forks": 2704,
+    "url": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "name": "argoproj/argo-cd",
+    "description": "Declarative Continuous Deployment for Kubernetes",
+    "language": "Go",
+    "total_stars": 23674,
+    "delta_stars": 340,
+    "delta_text": "340 stars this week",
+    "forks": 7613,
+    "url": "https://github.com/argoproj/argo-cd"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 46345,
+    "delta_stars": 2272,
+    "delta_text": "2,272 stars this week",
+    "forks": 2804,
+    "url": "https://github.com/pbakaus/impeccable"
+  }
+]
