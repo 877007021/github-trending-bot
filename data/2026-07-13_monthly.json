@@ -1,0 +1,212 @@
+[
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 30600,
+    "delta_stars": 27178,
+    "delta_text": "27,178 stars this month",
+    "forks": 2452,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 37516,
+    "delta_stars": 32911,
+    "delta_text": "32,911 stars this month",
+    "forks": 4531,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 55321,
+    "delta_stars": 28973,
+    "delta_text": "28,973 stars this month",
+    "forks": 4560,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 56715,
+    "delta_stars": 14973,
+    "delta_text": "14,973 stars this month",
+    "forks": 9372,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "kunchenguid/no-mistakes",
+    "description": "git push no-mistakes",
+    "language": "Go",
+    "total_stars": 6020,
+    "delta_stars": 4726,
+    "delta_text": "4,726 stars this month",
+    "forks": 536,
+    "url": "https://github.com/kunchenguid/no-mistakes"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 40845,
+    "delta_stars": 14993,
+    "delta_text": "14,993 stars this month",
+    "forks": 4310,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 15785,
+    "delta_stars": 10286,
+    "delta_text": "10,286 stars this month",
+    "forks": 1058,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 16926,
+    "delta_stars": 12079,
+    "delta_text": "12,079 stars this month",
+    "forks": 1327,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+    "language": "Rust",
+    "total_stars": 23566,
+    "delta_stars": 10839,
+    "delta_text": "10,839 stars this month",
+    "forks": 2486,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes.",
+    "language": "Python",
+    "total_stars": 5647,
+    "delta_stars": 4540,
+    "delta_text": "4,540 stars this month",
+    "forks": 1134,
+    "url": "https://github.com/interviewstreet/hiring-agent"
+  },
+  {
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "total_stars": 14812,
+    "delta_stars": 5073,
+    "delta_text": "5,073 stars this month",
+    "forks": 921,
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 16200,
+    "delta_stars": 10055,
+    "delta_text": "10,055 stars this month",
+    "forks": 2475,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 26211,
+    "delta_stars": 7797,
+    "delta_text": "7,797 stars this month",
+    "forks": 2413,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "total_stars": 18507,
+    "delta_stars": 7392,
+    "delta_text": "7,392 stars this month",
+    "forks": 1243,
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "total_stars": 132615,
+    "delta_stars": 15178,
+    "delta_text": "15,178 stars this month",
+    "forks": 7567,
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "name": "gabime/spdlog",
+    "description": "Fast C++ logging library.",
+    "language": "C++",
+    "total_stars": 29175,
+    "delta_stars": 308,
+    "delta_text": "308 stars this month",
+    "forks": 5323,
+    "url": "https://github.com/gabime/spdlog"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+    "language": "Rust",
+    "total_stars": 11594,
+    "delta_stars": 2909,
+    "delta_text": "2,909 stars this month",
+    "forks": 680,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "language": "Python",
+    "total_stars": 13013,
+    "delta_stars": 9876,
+    "delta_text": "9,876 stars this month",
+    "forks": 1058,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "name": "mauriceboe/TREK",
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "language": "TypeScript",
+    "total_stars": 10179,
+    "delta_stars": 4546,
+    "delta_text": "4,546 stars this month",
+    "forks": 967,
+    "url": "https://github.com/mauriceboe/TREK"
+  },
+  {
+    "name": "ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "total_stars": 74539,
+    "delta_stars": 843,
+    "delta_text": "843 stars this month",
+    "forks": 12001,
+    "url": "https://github.com/ocornut/imgui"
+  },
+  {
+    "name": "topoteretes/cognee",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "language": "Python",
+    "total_stars": 27647,
+    "delta_stars": 9895,
+    "delta_text": "9,895 stars this month",
+    "forks": 2743,
+    "url": "https://github.com/topoteretes/cognee"
+  }
+]
