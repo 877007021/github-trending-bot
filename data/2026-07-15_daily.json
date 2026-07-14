@@ -1,0 +1,162 @@
+[
+  {
+    "name": "1c7/chinese-independent-developer",
+    "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+    "language": "Python",
+    "total_stars": 53423,
+    "delta_stars": 1194,
+    "delta_text": "1,194 stars today",
+    "forks": 4693,
+    "url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "language": "Python",
+    "total_stars": 120749,
+    "delta_stars": 1104,
+    "delta_text": "1,104 stars today",
+    "forks": 17873,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 170186,
+    "delta_stars": 1864,
+    "delta_text": "1,864 stars today",
+    "forks": 14640,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Dicklesworthstone/destructive_command_guard",
+    "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+    "language": "Rust",
+    "total_stars": 4388,
+    "delta_stars": 481,
+    "delta_text": "481 stars today",
+    "forks": 164,
+    "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 69139,
+    "delta_stars": 4349,
+    "delta_text": "4,349 stars today",
+    "forks": 7205,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "total_stars": 61858,
+    "delta_stars": 156,
+    "delta_text": "156 stars today",
+    "forks": 10911,
+    "url": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 6112,
+    "delta_stars": 1010,
+    "delta_text": "1,010 stars today",
+    "forks": 349,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "total_stars": 22823,
+    "delta_stars": 1265,
+    "delta_text": "1,265 stars today",
+    "forks": 3918,
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "name": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "language": "PowerShell",
+    "total_stars": 51645,
+    "delta_stars": 779,
+    "delta_text": "779 stars today",
+    "forks": 2127,
+    "url": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "language": "HTML",
+    "total_stars": 13480,
+    "delta_stars": 864,
+    "delta_text": "864 stars today",
+    "forks": 1611,
+    "url": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+    "language": "Clojure",
+    "total_stars": 56148,
+    "delta_stars": 264,
+    "delta_text": "264 stars today",
+    "forks": 3693,
+    "url": "https://github.com/penpot/penpot"
+  },
+  {
+    "name": "AIEraDev/Clypra",
+    "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+    "language": "TypeScript",
+    "total_stars": 2607,
+    "delta_stars": 66,
+    "delta_text": "66 stars today",
+    "forks": 279,
+    "url": "https://github.com/AIEraDev/Clypra"
+  },
+  {
+    "name": "par274/sharpemu",
+    "description": "An experimental PlayStation 5 emulator project.",
+    "language": "C#",
+    "total_stars": 2110,
+    "delta_stars": 448,
+    "delta_text": "448 stars today",
+    "forks": 137,
+    "url": "https://github.com/par274/sharpemu"
+  },
+  {
+    "name": "chenyme/grok2api",
+    "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+    "language": "Go",
+    "total_stars": 5842,
+    "delta_stars": 179,
+    "delta_text": "179 stars today",
+    "forks": 1925,
+    "url": "https://github.com/chenyme/grok2api"
+  },
+  {
+    "name": "Graphify-Labs/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "language": "Python",
+    "total_stars": 86327,
+    "delta_stars": 1858,
+    "delta_text": "1,858 stars today",
+    "forks": 8496,
+    "url": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Become a cracked AI/ML Research Engineer",
+    "language": "TypeScript",
+    "total_stars": 5218,
+    "delta_stars": 69,
+    "delta_text": "69 stars today",
+    "forks": 701,
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+  }
+]

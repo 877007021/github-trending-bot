@@ -1,0 +1,202 @@
+[
+  {
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "TypeScript",
+    "total_stars": 22476,
+    "delta_stars": 15420,
+    "delta_text": "15,420 stars this week",
+    "forks": 6968,
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 8254,
+    "delta_stars": 1939,
+    "delta_text": "1,939 stars this week",
+    "forks": 1000,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "total_stars": 17979,
+    "delta_stars": 621,
+    "delta_text": "621 stars this week",
+    "forks": 3219,
+    "url": "https://github.com/abseil/abseil-cpp"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 16720,
+    "delta_stars": 7596,
+    "delta_text": "7,596 stars this week",
+    "forks": 1116,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 19088,
+    "delta_stars": 5263,
+    "delta_text": "5,263 stars this week",
+    "forks": 1495,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "total_stars": 10155,
+    "delta_stars": 2367,
+    "delta_text": "2,367 stars this week",
+    "forks": 983,
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 16476,
+    "delta_stars": 3449,
+    "delta_text": "3,449 stars this week",
+    "forks": 1113,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 17315,
+    "delta_stars": 4345,
+    "delta_text": "4,345 stars this week",
+    "forks": 2601,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 28632,
+    "delta_stars": 2265,
+    "delta_text": "2,265 stars this week",
+    "forks": 1883,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 8456,
+    "delta_stars": 4128,
+    "delta_text": "4,128 stars this week",
+    "forks": 922,
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+    "language": "JavaScript",
+    "total_stars": 4542,
+    "delta_stars": 1333,
+    "delta_text": "1,333 stars this week",
+    "forks": 408,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+    "language": "Rust",
+    "total_stars": 24628,
+    "delta_stars": 5392,
+    "delta_text": "5,392 stars this week",
+    "forks": 2565,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 46705,
+    "delta_stars": 2450,
+    "delta_text": "2,450 stars this week",
+    "forks": 2814,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 8958,
+    "delta_stars": 2255,
+    "delta_text": "2,255 stars this week",
+    "forks": 742,
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Rust",
+    "total_stars": 94701,
+    "delta_stars": 1228,
+    "delta_text": "1,228 stars this week",
+    "forks": 4960,
+    "url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "name": "vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "language": "Go",
+    "total_stars": 20591,
+    "delta_stars": 2199,
+    "delta_text": "2,199 stars this week",
+    "forks": 2718,
+    "url": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "language": "TypeScript",
+    "total_stars": 8859,
+    "delta_stars": 2231,
+    "delta_text": "2,231 stars this week",
+    "forks": 814,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 6112,
+    "delta_stars": 1558,
+    "delta_text": "1,558 stars this week",
+    "forks": 349,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "argoproj/argo-cd",
+    "description": "Declarative Continuous Deployment for Kubernetes",
+    "language": "Go",
+    "total_stars": 23699,
+    "delta_stars": 342,
+    "delta_text": "342 stars this week",
+    "forks": 7618,
+    "url": "https://github.com/argoproj/argo-cd"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "language": "Python",
+    "total_stars": 120749,
+    "delta_stars": 2860,
+    "delta_text": "2,860 stars this week",
+    "forks": 17873,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  }
+]
