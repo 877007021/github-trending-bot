@@ -1,0 +1,212 @@
+[
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 8336,
+    "delta_stars": 2055,
+    "delta_text": "2,055 stars this week",
+    "forks": 1006,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "total_stars": 7436,
+    "delta_stars": 992,
+    "delta_text": "992 stars this week",
+    "forks": 977,
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "name": "abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "total_stars": 18001,
+    "delta_stars": 648,
+    "delta_text": "648 stars this week",
+    "forks": 3224,
+    "url": "https://github.com/abseil/abseil-cpp"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 17725,
+    "delta_stars": 6374,
+    "delta_text": "6,374 stars this week",
+    "forks": 1176,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 19855,
+    "delta_stars": 5777,
+    "delta_text": "5,777 stars this week",
+    "forks": 1548,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "chriskohlhoff/asio",
+    "description": "Asio C++ Library",
+    "language": "C++",
+    "total_stars": 6179,
+    "delta_stars": 247,
+    "delta_text": "247 stars this week",
+    "forks": 1511,
+    "url": "https://github.com/chriskohlhoff/asio"
+  },
+  {
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "total_stars": 23675,
+    "delta_stars": 4802,
+    "delta_text": "4,802 stars this week",
+    "forks": 4032,
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 8414,
+    "delta_stars": 3551,
+    "delta_text": "3,551 stars this week",
+    "forks": 437,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Rust",
+    "total_stars": 94777,
+    "delta_stars": 1291,
+    "delta_text": "1,291 stars this week",
+    "forks": 4977,
+    "url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+    "language": "JavaScript",
+    "total_stars": 5093,
+    "delta_stars": 1840,
+    "delta_text": "1,840 stars this week",
+    "forks": 433,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 28822,
+    "delta_stars": 1998,
+    "delta_text": "1,998 stars this week",
+    "forks": 1894,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 17736,
+    "delta_stars": 4149,
+    "delta_text": "4,149 stars this week",
+    "forks": 2647,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 16823,
+    "delta_stars": 2636,
+    "delta_text": "2,636 stars this week",
+    "forks": 1139,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "total_stars": 10295,
+    "delta_stars": 1545,
+    "delta_text": "1,545 stars this week",
+    "forks": 997,
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "language": "Python",
+    "total_stars": 121876,
+    "delta_stars": 4902,
+    "delta_text": "4,902 stars this week",
+    "forks": 17990,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 47037,
+    "delta_stars": 2428,
+    "delta_text": "2,428 stars this week",
+    "forks": 2826,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 71610,
+    "delta_stars": 8702,
+    "delta_text": "8,702 stars this week",
+    "forks": 7343,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 29557,
+    "delta_stars": 1052,
+    "delta_text": "1,052 stars this week",
+    "forks": 3243,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "total_stars": 48959,
+    "delta_stars": 2252,
+    "delta_text": "2,252 stars this week",
+    "forks": 5801,
+    "url": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+    "language": "Rust",
+    "total_stars": 24966,
+    "delta_stars": 3499,
+    "delta_text": "3,499 stars this week",
+    "forks": 2610,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "language": "TypeScript",
+    "total_stars": 8514,
+    "delta_stars": 181,
+    "delta_text": "181 stars this week",
+    "forks": 2722,
+    "url": "https://github.com/actions/checkout"
+  }
+]

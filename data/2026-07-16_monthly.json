@@ -1,0 +1,202 @@
+[
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 38938,
+    "delta_stars": 34298,
+    "delta_text": "34,298 stars this month",
+    "forks": 4713,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 31852,
+    "delta_stars": 28343,
+    "delta_text": "28,343 stars this month",
+    "forks": 2543,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "total_stars": 21298,
+    "delta_stars": 908,
+    "delta_text": "908 stars this month",
+    "forks": 3449,
+    "url": "https://github.com/catchorg/Catch2"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 58103,
+    "delta_stars": 15928,
+    "delta_text": "15,928 stars this month",
+    "forks": 9604,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "kunchenguid/no-mistakes",
+    "description": "git push no-mistakes",
+    "language": "Go",
+    "total_stars": 6305,
+    "delta_stars": 4964,
+    "delta_text": "4,964 stars this month",
+    "forks": 557,
+    "url": "https://github.com/kunchenguid/no-mistakes"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 41853,
+    "delta_stars": 15974,
+    "delta_text": "15,974 stars this month",
+    "forks": 4397,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 56790,
+    "delta_stars": 27531,
+    "delta_text": "27,531 stars this month",
+    "forks": 4666,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 19855,
+    "delta_stars": 14890,
+    "delta_text": "14,890 stars this month",
+    "forks": 1548,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 16823,
+    "delta_stars": 11079,
+    "delta_text": "11,079 stars this month",
+    "forks": 1139,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+    "language": "Rust",
+    "total_stars": 24966,
+    "delta_stars": 12267,
+    "delta_text": "12,267 stars this month",
+    "forks": 2610,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 17736,
+    "delta_stars": 11484,
+    "delta_text": "11,484 stars this month",
+    "forks": 2647,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "gabime/spdlog",
+    "description": "Fast C++ logging library.",
+    "language": "C++",
+    "total_stars": 29232,
+    "delta_stars": 357,
+    "delta_text": "357 stars this month",
+    "forks": 5330,
+    "url": "https://github.com/gabime/spdlog"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 26746,
+    "delta_stars": 8322,
+    "delta_text": "8,322 stars this month",
+    "forks": 2459,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "GoogleCloudPlatform/knowledge-catalog",
+    "description": "Google Cloud Knowledge Catalog Tools and Samples",
+    "language": "HTML",
+    "total_stars": 7130,
+    "delta_stars": 5364,
+    "delta_text": "5,364 stars this month",
+    "forks": 581,
+    "url": "https://github.com/GoogleCloudPlatform/knowledge-catalog"
+  },
+  {
+    "name": "interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes.",
+    "language": "Python",
+    "total_stars": 5924,
+    "delta_stars": 4793,
+    "delta_text": "4,793 stars this month",
+    "forks": 1172,
+    "url": "https://github.com/interviewstreet/hiring-agent"
+  },
+  {
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "total_stars": 18678,
+    "delta_stars": 7565,
+    "delta_text": "7,565 stars this month",
+    "forks": 1264,
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "name": "ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "total_stars": 74702,
+    "delta_stars": 954,
+    "delta_text": "954 stars this month",
+    "forks": 12013,
+    "url": "https://github.com/ocornut/imgui"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 8336,
+    "delta_stars": 2199,
+    "delta_text": "2,199 stars this month",
+    "forks": 1006,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+    "language": "Rust",
+    "total_stars": 11746,
+    "delta_stars": 3068,
+    "delta_text": "3,068 stars this month",
+    "forks": 695,
+    "url": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 71611,
+    "delta_stars": 14882,
+    "delta_text": "14,882 stars this month",
+    "forks": 7343,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  }
+]
