@@ -1,0 +1,212 @@
+[
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 39211,
+    "delta_stars": 34552,
+    "delta_text": "34,552 stars this month",
+    "forks": 4644,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 32128,
+    "delta_stars": 28389,
+    "delta_text": "28,389 stars this month",
+    "forks": 2456,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 58356,
+    "delta_stars": 15918,
+    "delta_text": "15,918 stars this month",
+    "forks": 9547,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "kunchenguid/no-mistakes",
+    "description": "git push no-mistakes",
+    "language": "Go",
+    "total_stars": 6338,
+    "delta_stars": 5010,
+    "delta_text": "5,010 stars this month",
+    "forks": 471,
+    "url": "https://github.com/kunchenguid/no-mistakes"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 42027,
+    "delta_stars": 16246,
+    "delta_text": "16,246 stars this month",
+    "forks": 4333,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 20528,
+    "delta_stars": 15502,
+    "delta_text": "15,502 stars this month",
+    "forks": 1484,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 17183,
+    "delta_stars": 11259,
+    "delta_text": "11,259 stars this month",
+    "forks": 1070,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+    "language": "Rust",
+    "total_stars": 25105,
+    "delta_stars": 12507,
+    "delta_text": "12,507 stars this month",
+    "forks": 2521,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 18017,
+    "delta_stars": 11719,
+    "delta_text": "11,719 stars this month",
+    "forks": 2595,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 57168,
+    "delta_stars": 26023,
+    "delta_text": "26,023 stars this month",
+    "forks": 4580,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 26809,
+    "delta_stars": 8408,
+    "delta_text": "8,408 stars this month",
+    "forks": 2348,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "gabime/spdlog",
+    "description": "Fast C++ logging library.",
+    "language": "C++",
+    "total_stars": 29149,
+    "delta_stars": 373,
+    "delta_text": "373 stars this month",
+    "forks": 5246,
+    "url": "https://github.com/gabime/spdlog"
+  },
+  {
+    "name": "interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes.",
+    "language": "Python",
+    "total_stars": 5953,
+    "delta_stars": 4889,
+    "delta_text": "4,889 stars this month",
+    "forks": 1066,
+    "url": "https://github.com/interviewstreet/hiring-agent"
+  },
+  {
+    "name": "ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "total_stars": 74689,
+    "delta_stars": 986,
+    "delta_text": "986 stars this month",
+    "forks": 11916,
+    "url": "https://github.com/ocornut/imgui"
+  },
+  {
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "total_stars": 18630,
+    "delta_stars": 7609,
+    "delta_text": "7,609 stars this month",
+    "forks": 1170,
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 73974,
+    "delta_stars": 17981,
+    "delta_text": "17,981 stars this month",
+    "forks": 7479,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "GoogleCloudPlatform/knowledge-catalog",
+    "description": "Google Cloud Knowledge Catalog Tools and Samples",
+    "language": "HTML",
+    "total_stars": 7247,
+    "delta_stars": 4375,
+    "delta_text": "4,375 stars this month",
+    "forks": 590,
+    "url": "https://github.com/GoogleCloudPlatform/knowledge-catalog"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 8388,
+    "delta_stars": 2298,
+    "delta_text": "2,298 stars this month",
+    "forks": 925,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 18381,
+    "delta_stars": 11065,
+    "delta_text": "11,065 stars this month",
+    "forks": 1227,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "topoteretes/cognee",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "language": "Python",
+    "total_stars": 27934,
+    "delta_stars": 10229,
+    "delta_text": "10,229 stars this month",
+    "forks": 2665,
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 8814,
+    "delta_stars": 6697,
+    "delta_text": "6,697 stars this month",
+    "forks": 954,
+    "url": "https://github.com/bradautomates/claude-video"
+  }
+]

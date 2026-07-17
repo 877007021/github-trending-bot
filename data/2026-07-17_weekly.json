@@ -1,0 +1,202 @@
+[
+  {
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "total_stars": 7518,
+    "delta_stars": 1090,
+    "delta_text": "1,090 stars this week",
+    "forks": 886,
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 8388,
+    "delta_stars": 1991,
+    "delta_text": "1,991 stars this week",
+    "forks": 925,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "total_stars": 17946,
+    "delta_stars": 678,
+    "delta_text": "678 stars this week",
+    "forks": 3138,
+    "url": "https://github.com/abseil/abseil-cpp"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 10843,
+    "delta_stars": 6573,
+    "delta_text": "6,573 stars this week",
+    "forks": 534,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "total_stars": 24276,
+    "delta_stars": 5407,
+    "delta_text": "5,407 stars this week",
+    "forks": 4021,
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "name": "chriskohlhoff/asio",
+    "description": "Asio C++ Library",
+    "language": "C++",
+    "total_stars": 6092,
+    "delta_stars": 271,
+    "delta_text": "271 stars this week",
+    "forks": 1420,
+    "url": "https://github.com/chriskohlhoff/asio"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 20527,
+    "delta_stars": 5736,
+    "delta_text": "5,736 stars this week",
+    "forks": 1484,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Rust",
+    "total_stars": 94729,
+    "delta_stars": 1343,
+    "delta_text": "1,343 stars this week",
+    "forks": 4883,
+    "url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 73974,
+    "delta_stars": 11731,
+    "delta_text": "11,731 stars this week",
+    "forks": 7479,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 18381,
+    "delta_stars": 5342,
+    "delta_text": "5,342 stars this week",
+    "forks": 1227,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "language": "Python",
+    "total_stars": 122847,
+    "delta_stars": 5589,
+    "delta_text": "5,589 stars this week",
+    "forks": 18118,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 28934,
+    "delta_stars": 1908,
+    "delta_text": "1,908 stars this week",
+    "forks": 1829,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 18017,
+    "delta_stars": 3920,
+    "delta_text": "3,920 stars this week",
+    "forks": 2595,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 29592,
+    "delta_stars": 1101,
+    "delta_text": "1,101 stars this week",
+    "forks": 3149,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 47316,
+    "delta_stars": 2360,
+    "delta_text": "2,360 stars this week",
+    "forks": 2740,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "kangarooking/cangjie-skill",
+    "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+    "language": "Python",
+    "total_stars": 3284,
+    "delta_stars": 1043,
+    "delta_text": "1,043 stars this week",
+    "forks": 491,
+    "url": "https://github.com/kangarooking/cangjie-skill"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 17183,
+    "delta_stars": 2502,
+    "delta_text": "2,502 stars this week",
+    "forks": 1070,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "language": "TypeScript",
+    "total_stars": 8462,
+    "delta_stars": 211,
+    "delta_text": "211 stars this week",
+    "forks": 2605,
+    "url": "https://github.com/actions/checkout"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 26846,
+    "delta_stars": 1283,
+    "delta_text": "1,283 stars this week",
+    "forks": 3610,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "jrouwe/JoltPhysics",
+    "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+    "language": "C++",
+    "total_stars": 10927,
+    "delta_stars": 286,
+    "delta_text": "286 stars this week",
+    "forks": 803,
+    "url": "https://github.com/jrouwe/JoltPhysics"
+  }
+]

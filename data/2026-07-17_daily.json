@@ -1,0 +1,172 @@
+[
+  {
+    "name": "apache/ossie",
+    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "language": "Python",
+    "total_stars": 886,
+    "delta_stars": 60,
+    "delta_text": "60 stars today",
+    "forks": 133,
+    "url": "https://github.com/apache/ossie"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 10842,
+    "delta_stars": 3372,
+    "delta_text": "3,372 stars today",
+    "forks": 534,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 73974,
+    "delta_stars": 3537,
+    "delta_text": "3,537 stars today",
+    "forks": 7479,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "language": "Python",
+    "total_stars": 35821,
+    "delta_stars": 77,
+    "delta_text": "77 stars today",
+    "forks": 2988,
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "name": "openinterpreter/openinterpreter",
+    "description": "A Codex-compatible coding agent for open models like Kimi K3",
+    "language": "Rust",
+    "total_stars": 65966,
+    "delta_stars": 661,
+    "delta_text": "661 stars today",
+    "forks": 5673,
+    "url": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "name": "PrismML-Eng/Bonsai-demo",
+    "description": "Bonsai Demo",
+    "language": "Shell",
+    "total_stars": 1506,
+    "delta_stars": 196,
+    "delta_text": "196 stars today",
+    "forks": 153,
+    "url": "https://github.com/PrismML-Eng/Bonsai-demo"
+  },
+  {
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "language": "HTML",
+    "total_stars": 15015,
+    "delta_stars": 710,
+    "delta_text": "710 stars today",
+    "forks": 1800,
+    "url": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "language": "Python",
+    "total_stars": 122846,
+    "delta_stars": 923,
+    "delta_text": "923 stars today",
+    "forks": 18118,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "lobehub/lobehub",
+    "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+    "language": "TypeScript",
+    "total_stars": 80140,
+    "delta_stars": 71,
+    "delta_text": "71 stars today",
+    "forks": 15612,
+    "url": "https://github.com/lobehub/lobehub"
+  },
+  {
+    "name": "YimMenu/YimMenuV2",
+    "description": "Experimental menu for GTA 5: Enhanced",
+    "language": "C++",
+    "total_stars": 1500,
+    "delta_stars": 128,
+    "delta_text": "128 stars today",
+    "forks": 360,
+    "url": "https://github.com/YimMenu/YimMenuV2"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 26846,
+    "delta_stars": 656,
+    "delta_text": "656 stars today",
+    "forks": 3610,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "total_stars": 174199,
+    "delta_stars": 2060,
+    "delta_text": "2,060 stars today",
+    "forks": 14945,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "language": "Java",
+    "total_stars": 9635,
+    "delta_stars": 13,
+    "delta_text": "13 stars today",
+    "forks": 1318,
+    "url": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "name": "ibelick/ui-skills",
+    "description": "Skills for Design Engineers",
+    "language": "TypeScript",
+    "total_stars": 4238,
+    "delta_stars": 178,
+    "delta_text": "178 stars today",
+    "forks": 179,
+    "url": "https://github.com/ibelick/ui-skills"
+  },
+  {
+    "name": "Graphify-Labs/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "language": "Python",
+    "total_stars": 89008,
+    "delta_stars": 1107,
+    "delta_text": "1,107 stars today",
+    "forks": 8697,
+    "url": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "total_stars": 526271,
+    "delta_stars": 435,
+    "delta_text": "435 stars today",
+    "forks": 49795,
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "name": "ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "HTML",
+    "total_stars": 206495,
+    "delta_stars": 107,
+    "delta_text": "107 stars today",
+    "forks": 25630,
+    "url": "https://github.com/ossu/computer-science"
+  }
+]

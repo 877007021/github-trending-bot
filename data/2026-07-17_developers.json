@@ -1,0 +1,177 @@
+[
+  {
+    "username": "jkomyno",
+    "display_name": "Alberto Schiabel",
+    "popular_repo": ".dotfiles",
+    "url": "https://github.com/jkomyno",
+    "repo_url": "https://github.com/jkomyno/.dotfiles"
+  },
+  {
+    "username": "1weiho",
+    "display_name": "Yiwei Ho",
+    "popular_repo": "open-slide",
+    "url": "https://github.com/1weiho",
+    "repo_url": "https://github.com/1weiho/open-slide"
+  },
+  {
+    "username": "domcyrus",
+    "display_name": "Marco Cadetg",
+    "popular_repo": "rustnet",
+    "url": "https://github.com/domcyrus",
+    "repo_url": "https://github.com/domcyrus/rustnet"
+  },
+  {
+    "username": "jarrodwatts",
+    "display_name": "Jarrod Watts",
+    "popular_repo": "claude-hud",
+    "url": "https://github.com/jarrodwatts",
+    "repo_url": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "username": "Wei-Shaw",
+    "display_name": "Wesley Liddick",
+    "popular_repo": "sub2api",
+    "url": "https://github.com/Wei-Shaw",
+    "repo_url": "https://github.com/Wei-Shaw/sub2api"
+  },
+  {
+    "username": "zereight",
+    "display_name": "zereight",
+    "popular_repo": "gitlab-mcp",
+    "url": "https://github.com/zereight",
+    "repo_url": "https://github.com/zereight/gitlab-mcp"
+  },
+  {
+    "username": "Soju06",
+    "display_name": "Soju06",
+    "popular_repo": "codex-lb",
+    "url": "https://github.com/Soju06",
+    "repo_url": "https://github.com/Soju06/codex-lb"
+  },
+  {
+    "username": "dgtlmoon",
+    "display_name": "dgtlmoon",
+    "popular_repo": "changedetection.io",
+    "url": "https://github.com/dgtlmoon",
+    "repo_url": "https://github.com/dgtlmoon/changedetection.io"
+  },
+  {
+    "username": "davsclaus",
+    "display_name": "Claus Ibsen",
+    "popular_repo": "",
+    "url": "https://github.com/davsclaus",
+    "repo_url": ""
+  },
+  {
+    "username": "krlvi",
+    "display_name": "Kiril Videlov",
+    "popular_repo": "",
+    "url": "https://github.com/krlvi",
+    "repo_url": ""
+  },
+  {
+    "username": "zhaochenyang20",
+    "display_name": "赵晨阳",
+    "popular_repo": "Awesome-ML-SYS-Tutorial",
+    "url": "https://github.com/zhaochenyang20",
+    "repo_url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial"
+  },
+  {
+    "username": "Wirasm",
+    "display_name": "Rasmus Widing",
+    "popular_repo": "PRPs-agentic-eng",
+    "url": "https://github.com/Wirasm",
+    "repo_url": "https://github.com/Wirasm/PRPs-agentic-eng"
+  },
+  {
+    "username": "arsenm",
+    "display_name": "Matt Arsenault",
+    "popular_repo": "",
+    "url": "https://github.com/arsenm",
+    "repo_url": ""
+  },
+  {
+    "username": "joslat",
+    "display_name": "Jose Luis Latorre Millas",
+    "popular_repo": "agent-memory-dotnet",
+    "url": "https://github.com/joslat",
+    "repo_url": "https://github.com/joslat/agent-memory-dotnet"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "inbox-zero",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/inbox-zero"
+  },
+  {
+    "username": "comfyanonymous",
+    "display_name": "comfyanonymous",
+    "popular_repo": "ComfyUI_examples",
+    "url": "https://github.com/comfyanonymous",
+    "repo_url": "https://github.com/comfyanonymous/ComfyUI_examples"
+  },
+  {
+    "username": "zhukunpenglinyutong",
+    "display_name": "朱昆鹏",
+    "popular_repo": "jetbrains-cc-gui",
+    "url": "https://github.com/zhukunpenglinyutong",
+    "repo_url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
+  },
+  {
+    "username": "keith",
+    "display_name": "Keith Smiley",
+    "popular_repo": "reminders-cli",
+    "url": "https://github.com/keith",
+    "repo_url": "https://github.com/keith/reminders-cli"
+  },
+  {
+    "username": "tt-a1i",
+    "display_name": "tt-a1i",
+    "popular_repo": "archify",
+    "url": "https://github.com/tt-a1i",
+    "repo_url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "username": "jtydhr88",
+    "display_name": "Terry Jia",
+    "popular_repo": "ComfyUI-See-through",
+    "url": "https://github.com/jtydhr88",
+    "repo_url": "https://github.com/jtydhr88/ComfyUI-See-through"
+  },
+  {
+    "username": "jniebuhr",
+    "display_name": "Jochen Niebuhr",
+    "popular_repo": "gaggimate",
+    "url": "https://github.com/jniebuhr",
+    "repo_url": "https://github.com/jniebuhr/gaggimate"
+  },
+  {
+    "username": "krille-chan",
+    "display_name": "Krille-chan",
+    "popular_repo": "fluffychat",
+    "url": "https://github.com/krille-chan",
+    "repo_url": "https://github.com/krille-chan/fluffychat"
+  },
+  {
+    "username": "Nutlope",
+    "display_name": "Hassan El Mghari",
+    "popular_repo": "hallmark",
+    "url": "https://github.com/Nutlope",
+    "repo_url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "username": "Shubhamsaboo",
+    "display_name": "Shubham Saboo",
+    "popular_repo": "awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo",
+    "repo_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "username": "BBuf",
+    "display_name": "Xiaoyu Zhang",
+    "popular_repo": "AI-Infra-Auto-Driven-SKILLS",
+    "url": "https://github.com/BBuf",
+    "repo_url": "https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS"
+  }
+]
