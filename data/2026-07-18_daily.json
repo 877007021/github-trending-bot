@@ -1,0 +1,142 @@
+[
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "total_stars": 527314,
+    "delta_stars": 1070,
+    "delta_text": "1,070 stars today",
+    "forks": 49903,
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "language": "Python",
+    "total_stars": 36177,
+    "delta_stars": 437,
+    "delta_text": "437 stars today",
+    "forks": 3010,
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Become a cracked AI/ML Research Engineer",
+    "language": "TypeScript",
+    "total_stars": 6601,
+    "delta_stars": 248,
+    "delta_text": "248 stars today",
+    "forks": 810,
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 11989,
+    "delta_stars": 1486,
+    "delta_text": "1,486 stars today",
+    "forks": 602,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "language": "Java",
+    "total_stars": 9789,
+    "delta_stars": 234,
+    "delta_text": "234 stars today",
+    "forks": 1328,
+    "url": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "name": "anthropics/cwc-workshops",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 1579,
+    "delta_stars": 37,
+    "delta_text": "37 stars today",
+    "forks": 489,
+    "url": "https://github.com/anthropics/cwc-workshops"
+  },
+  {
+    "name": "PrismML-Eng/Bonsai-demo",
+    "description": "Bonsai Demo",
+    "language": "Shell",
+    "total_stars": 1705,
+    "delta_stars": 279,
+    "delta_text": "279 stars today",
+    "forks": 167,
+    "url": "https://github.com/PrismML-Eng/Bonsai-demo"
+  },
+  {
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "total_stars": 71537,
+    "delta_stars": 18,
+    "delta_text": "18 stars today",
+    "forks": 16192,
+    "url": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "total_stars": 19732,
+    "delta_stars": 57,
+    "delta_text": "57 stars today",
+    "forks": 2105,
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "name": "docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "language": "Ruby",
+    "total_stars": 17829,
+    "delta_stars": 131,
+    "delta_text": "131 stars today",
+    "forks": 1769,
+    "url": "https://github.com/docusealco/docuseal"
+  },
+  {
+    "name": "openinterpreter/openinterpreter",
+    "description": "A coding agent for open models like Kimi K3",
+    "language": "Rust",
+    "total_stars": 66344,
+    "delta_stars": 431,
+    "delta_text": "431 stars today",
+    "forks": 5705,
+    "url": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "name": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "language": "Python",
+    "total_stars": 13291,
+    "delta_stars": 280,
+    "delta_text": "280 stars today",
+    "forks": 1179,
+    "url": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 27344,
+    "delta_stars": 528,
+    "delta_text": "528 stars today",
+    "forks": 3644,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 74835,
+    "delta_stars": 1077,
+    "delta_text": "1,077 stars today",
+    "forks": 7544,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  }
+]

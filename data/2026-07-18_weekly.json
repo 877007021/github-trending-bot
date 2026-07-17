@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 11989,
+    "delta_stars": 6573,
+    "delta_text": "6,573 stars this week",
+    "forks": 602,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "total_stars": 17959,
+    "delta_stars": 678,
+    "delta_text": "678 stars this week",
+    "forks": 3138,
+    "url": "https://github.com/abseil/abseil-cpp"
+  },
+  {
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "total_stars": 7612,
+    "delta_stars": 1090,
+    "delta_text": "1,090 stars this week",
+    "forks": 893,
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "total_stars": 24618,
+    "delta_stars": 5407,
+    "delta_text": "5,407 stars this week",
+    "forks": 4075,
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 8450,
+    "delta_stars": 1991,
+    "delta_text": "1,991 stars this week",
+    "forks": 934,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 74835,
+    "delta_stars": 11731,
+    "delta_text": "11,731 stars this week",
+    "forks": 7544,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 21132,
+    "delta_stars": 5736,
+    "delta_text": "5,736 stars this week",
+    "forks": 1529,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "language": "Python",
+    "total_stars": 123592,
+    "delta_stars": 5589,
+    "delta_text": "5,589 stars this week",
+    "forks": 18215,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Rust",
+    "total_stars": 94800,
+    "delta_stars": 1343,
+    "delta_text": "1,343 stars this week",
+    "forks": 4884,
+    "url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 18821,
+    "delta_stars": 5342,
+    "delta_text": "5,342 stars this week",
+    "forks": 1260,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 29680,
+    "delta_stars": 1101,
+    "delta_text": "1,101 stars this week",
+    "forks": 3155,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 29096,
+    "delta_stars": 1908,
+    "delta_text": "1,908 stars this week",
+    "forks": 1843,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 27344,
+    "delta_stars": 1283,
+    "delta_text": "1,283 stars this week",
+    "forks": 3644,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 47634,
+    "delta_stars": 2360,
+    "delta_text": "2,360 stars this week",
+    "forks": 2759,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "kangarooking/cangjie-skill",
+    "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+    "language": "Python",
+    "total_stars": 3495,
+    "delta_stars": 1043,
+    "delta_text": "1,043 stars this week",
+    "forks": 505,
+    "url": "https://github.com/kangarooking/cangjie-skill"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "total_stars": 18378,
+    "delta_stars": 3920,
+    "delta_text": "3,920 stars this week",
+    "forks": 2633,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "total_stars": 17637,
+    "delta_stars": 2502,
+    "delta_text": "2,502 stars this week",
+    "forks": 1113,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "name": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "language": "TypeScript",
+    "total_stars": 8484,
+    "delta_stars": 211,
+    "delta_text": "211 stars this week",
+    "forks": 2601,
+    "url": "https://github.com/actions/checkout"
+  },
+  {
+    "name": "vercel-labs/native",
+    "description": "Toolkit for building native desktop apps",
+    "language": "Zig",
+    "total_stars": 6495,
+    "delta_stars": 1003,
+    "delta_text": "1,003 stars this week",
+    "forks": 263,
+    "url": "https://github.com/vercel-labs/native"
+  }
+]
