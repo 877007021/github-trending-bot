@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 12833,
+    "delta_stars": 8075,
+    "delta_text": "8,075 stars this week",
+    "forks": 640,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 75413,
+    "delta_stars": 12718,
+    "delta_text": "12,718 stars this week",
+    "forks": 7592,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "language": "Python",
+    "total_stars": 123990,
+    "delta_stars": 6252,
+    "delta_text": "6,252 stars this week",
+    "forks": 18291,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "total_stars": 24965,
+    "delta_stars": 5616,
+    "delta_text": "5,616 stars this week",
+    "forks": 4117,
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 27642,
+    "delta_stars": 1801,
+    "delta_text": "1,801 stars this week",
+    "forks": 3673,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 19293,
+    "delta_stars": 4611,
+    "delta_text": "4,611 stars this week",
+    "forks": 1297,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 176557,
+    "delta_stars": 11325,
+    "delta_text": "11,325 stars this week",
+    "forks": 15129,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "kangarooking/cangjie-skill",
+    "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+    "language": "Python",
+    "total_stars": 3660,
+    "delta_stars": 1158,
+    "delta_text": "1,158 stars this week",
+    "forks": 526,
+    "url": "https://github.com/kangarooking/cangjie-skill"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 8510,
+    "delta_stars": 1657,
+    "delta_text": "1,657 stars this week",
+    "forks": 940,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "total_stars": 99402,
+    "delta_stars": 2250,
+    "delta_text": "2,250 stars this week",
+    "forks": 14883,
+    "url": "https://github.com/openai/codex"
+  },
+  {
+    "name": "openinterpreter/openinterpreter",
+    "description": "A coding agent for open models like Kimi K3",
+    "language": "Rust",
+    "total_stars": 66666,
+    "delta_stars": 2009,
+    "delta_text": "2,009 stars this week",
+    "forks": 5726,
+    "url": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "name": "abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "total_stars": 17979,
+    "delta_stars": 608,
+    "delta_text": "608 stars this week",
+    "forks": 3141,
+    "url": "https://github.com/abseil/abseil-cpp"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "language": "TypeScript",
+    "total_stars": 21787,
+    "delta_stars": 5409,
+    "delta_text": "5,409 stars this week",
+    "forks": 1571,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "ibelick/ui-skills",
+    "description": "Skills for Design Engineers",
+    "language": "TypeScript",
+    "total_stars": 4993,
+    "delta_stars": 974,
+    "delta_text": "974 stars this week",
+    "forks": 209,
+    "url": "https://github.com/ibelick/ui-skills"
+  },
+  {
+    "name": "Graphify-Labs/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "language": "Python",
+    "total_stars": 90931,
+    "delta_stars": 8379,
+    "delta_text": "8,379 stars this week",
+    "forks": 8864,
+    "url": "https://github.com/Graphify-Labs/graphify"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "language": "Python",
+    "total_stars": 12915,
+    "delta_stars": 827,
+    "delta_text": "827 stars today",
+    "forks": 1344,
+    "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "name": "apache/ossie",
+    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "language": "Python",
+    "total_stars": 1266,
+    "delta_stars": 48,
+    "delta_text": "48 stars today",
+    "forks": 153,
+    "url": "https://github.com/apache/ossie"
+  },
+  {
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "language": "Python",
+    "total_stars": 36582,
+    "delta_stars": 337,
+    "delta_text": "337 stars today",
+    "forks": 3027,
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "name": "ibelick/ui-skills",
+    "description": "Skills for Design Engineers",
+    "language": "TypeScript",
+    "total_stars": 4993,
+    "delta_stars": 242,
+    "delta_text": "242 stars today",
+    "forks": 209,
+    "url": "https://github.com/ibelick/ui-skills"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 39092,
+    "delta_stars": 240,
+    "delta_text": "240 stars today",
+    "forks": 6550,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "total_stars": 20150,
+    "delta_stars": 356,
+    "delta_text": "356 stars today",
+    "forks": 2125,
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "name": "elder-plinius/G0DM0D3",
+    "description": "LIBERATED AI CHAT",
+    "language": "TypeScript",
+    "total_stars": 9499,
+    "delta_stars": 63,
+    "delta_text": "63 stars today",
+    "forks": 2253,
+    "url": "https://github.com/elder-plinius/G0DM0D3"
+  },
+  {
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "total_stars": 23321,
+    "delta_stars": 234,
+    "delta_text": "234 stars today",
+    "forks": 2654,
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "name": "KnockOutEZ/wigolo",
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "language": "TypeScript",
+    "total_stars": 1218,
+    "delta_stars": 192,
+    "delta_text": "192 stars today",
+    "forks": 83,
+    "url": "https://github.com/KnockOutEZ/wigolo"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "total_stars": 528240,
+    "delta_stars": 1131,
+    "delta_text": "1,131 stars today",
+    "forks": 49982,
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "language": "Python",
+    "total_stars": 9467,
+    "delta_stars": 48,
+    "delta_text": "48 stars today",
+    "forks": 1165,
+    "url": "https://github.com/MoonshotAI/kimi-cli"
+  }
+]
