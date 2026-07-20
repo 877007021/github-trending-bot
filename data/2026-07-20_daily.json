@@ -1,0 +1,182 @@
+[
+  {
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "total_stars": 21334,
+    "delta_stars": 663,
+    "delta_text": "663 stars today",
+    "forks": 2187,
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "name": "kvcache-ai/ktransformers",
+    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "language": "Python",
+    "total_stars": 18401,
+    "delta_stars": 360,
+    "delta_text": "360 stars today",
+    "forks": 1453,
+    "url": "https://github.com/kvcache-ai/ktransformers"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 39725,
+    "delta_stars": 501,
+    "delta_text": "501 stars today",
+    "forks": 6634,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "total_stars": 43406,
+    "delta_stars": 610,
+    "delta_text": "610 stars today",
+    "forks": 5300,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "KnockOutEZ/wigolo",
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "language": "TypeScript",
+    "total_stars": 1887,
+    "delta_stars": 595,
+    "delta_text": "595 stars today",
+    "forks": 116,
+    "url": "https://github.com/KnockOutEZ/wigolo"
+  },
+  {
+    "name": "andrewrabert/jellium-desktop",
+    "description": "An unofficial desktop client for Jellyfin",
+    "language": "Rust",
+    "total_stars": 1298,
+    "delta_stars": 43,
+    "delta_text": "43 stars today",
+    "forks": 109,
+    "url": "https://github.com/andrewrabert/jellium-desktop"
+  },
+  {
+    "name": "github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "language": "Java",
+    "total_stars": 9968,
+    "delta_stars": 39,
+    "delta_text": "39 stars today",
+    "forks": 1350,
+    "url": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "language": "Python",
+    "total_stars": 36952,
+    "delta_stars": 411,
+    "delta_text": "411 stars today",
+    "forks": 3055,
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "name": "microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "total_stars": 104194,
+    "delta_stars": 59,
+    "delta_text": "59 stars today",
+    "forks": 9439,
+    "url": "https://github.com/microsoft/terminal"
+  },
+  {
+    "name": "AstrBotDevs/AstrBot",
+    "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "language": "Python",
+    "total_stars": 36717,
+    "delta_stars": 83,
+    "delta_text": "83 stars today",
+    "forks": 2547,
+    "url": "https://github.com/AstrBotDevs/AstrBot"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "language": "Rust",
+    "total_stars": 8938,
+    "delta_stars": 235,
+    "delta_text": "235 stars today",
+    "forks": 1037,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "HTML",
+    "total_stars": 20248,
+    "delta_stars": 64,
+    "delta_text": "64 stars today",
+    "forks": 1342,
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "language": "Python",
+    "total_stars": 9910,
+    "delta_stars": 410,
+    "delta_text": "410 stars today",
+    "forks": 1195,
+    "url": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "total_stars": 31038,
+    "delta_stars": 106,
+    "delta_text": "106 stars today",
+    "forks": 2374,
+    "url": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "total_stars": 528960,
+    "delta_stars": 754,
+    "delta_text": "754 stars today",
+    "forks": 50041,
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "total_stars": 23646,
+    "delta_stars": 358,
+    "delta_text": "358 stars today",
+    "forks": 2681,
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "name": "Canner/WrenAI",
+    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+    "language": "Python",
+    "total_stars": 16225,
+    "delta_stars": 121,
+    "delta_text": "121 stars today",
+    "forks": 1842,
+    "url": "https://github.com/Canner/WrenAI"
+  },
+  {
+    "name": "PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "HTML",
+    "total_stars": 74195,
+    "delta_stars": 134,
+    "delta_text": "134 stars today",
+    "forks": 7941,
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning"
+  }
+]

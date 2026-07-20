@@ -1,0 +1,177 @@
+[
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "rjpower",
+    "display_name": "Russell Power",
+    "popular_repo": "",
+    "url": "https://github.com/rjpower",
+    "repo_url": ""
+  },
+  {
+    "username": "assafelovic",
+    "display_name": "Assaf Elovic",
+    "popular_repo": "gpt-researcher",
+    "url": "https://github.com/assafelovic",
+    "repo_url": "https://github.com/assafelovic/gpt-researcher"
+  },
+  {
+    "username": "doitsujin",
+    "display_name": "Philip Rebohle",
+    "popular_repo": "dxvk",
+    "url": "https://github.com/doitsujin",
+    "repo_url": "https://github.com/doitsujin/dxvk"
+  },
+  {
+    "username": "jarrodwatts",
+    "display_name": "Jarrod Watts",
+    "popular_repo": "claude-hud",
+    "url": "https://github.com/jarrodwatts",
+    "repo_url": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "username": "alexey-milovidov",
+    "display_name": "Alexey Milovidov",
+    "popular_repo": "",
+    "url": "https://github.com/alexey-milovidov",
+    "repo_url": ""
+  },
+  {
+    "username": "voodoohop",
+    "display_name": "voodoohop",
+    "popular_repo": "",
+    "url": "https://github.com/voodoohop",
+    "repo_url": ""
+  },
+  {
+    "username": "ColeMurray",
+    "display_name": "Cole Murray",
+    "popular_repo": "background-agents",
+    "url": "https://github.com/ColeMurray",
+    "repo_url": "https://github.com/ColeMurray/background-agents"
+  },
+  {
+    "username": "tontinton",
+    "display_name": "Tony Solomonik",
+    "popular_repo": "maki",
+    "url": "https://github.com/tontinton",
+    "repo_url": "https://github.com/tontinton/maki"
+  },
+  {
+    "username": "owainlewis",
+    "display_name": "Owain Lewis",
+    "popular_repo": "awesome-artificial-intelligence",
+    "url": "https://github.com/owainlewis",
+    "repo_url": "https://github.com/owainlewis/awesome-artificial-intelligence"
+  },
+  {
+    "username": "Yeraze",
+    "display_name": "Randall Hand",
+    "popular_repo": "meshmonitor",
+    "url": "https://github.com/Yeraze",
+    "repo_url": "https://github.com/Yeraze/meshmonitor"
+  },
+  {
+    "username": "andimarafioti",
+    "display_name": "Andrés Marafioti",
+    "popular_repo": "faster-qwen3-tts",
+    "url": "https://github.com/andimarafioti",
+    "repo_url": "https://github.com/andimarafioti/faster-qwen3-tts"
+  },
+  {
+    "username": "carlosflorencio",
+    "display_name": "Carlos Florêncio",
+    "popular_repo": "",
+    "url": "https://github.com/carlosflorencio",
+    "repo_url": ""
+  },
+  {
+    "username": "anarkiwi",
+    "display_name": "Josh Bailey",
+    "popular_repo": "sid-digi",
+    "url": "https://github.com/anarkiwi",
+    "repo_url": "https://github.com/anarkiwi/sid-digi"
+  },
+  {
+    "username": "igorpecovnik",
+    "display_name": "Igor",
+    "popular_repo": "",
+    "url": "https://github.com/igorpecovnik",
+    "repo_url": ""
+  },
+  {
+    "username": "kane50613",
+    "display_name": "Kane Wang",
+    "popular_repo": "takumi",
+    "url": "https://github.com/kane50613",
+    "repo_url": "https://github.com/kane50613/takumi"
+  },
+  {
+    "username": "narumiruna",
+    "display_name": "なるみ",
+    "popular_repo": "pi-extensions",
+    "url": "https://github.com/narumiruna",
+    "repo_url": "https://github.com/narumiruna/pi-extensions"
+  },
+  {
+    "username": "aurelleb",
+    "display_name": "Aurelle",
+    "popular_repo": "",
+    "url": "https://github.com/aurelleb",
+    "repo_url": ""
+  },
+  {
+    "username": "adsharma",
+    "display_name": "Arun Sharma",
+    "popular_repo": "ast-grep",
+    "url": "https://github.com/adsharma",
+    "repo_url": "https://github.com/adsharma/ast-grep"
+  },
+  {
+    "username": "vitali87",
+    "display_name": "Vitali Avagyan",
+    "popular_repo": "code-graph-rag",
+    "url": "https://github.com/vitali87",
+    "repo_url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "domoritz",
+    "display_name": "Dominik Moritz",
+    "popular_repo": "json2parquet",
+    "url": "https://github.com/domoritz",
+    "repo_url": "https://github.com/domoritz/json2parquet"
+  },
+  {
+    "username": "benvinegar",
+    "display_name": "Ben Vinegar",
+    "popular_repo": "counterscale",
+    "url": "https://github.com/benvinegar",
+    "repo_url": "https://github.com/benvinegar/counterscale"
+  },
+  {
+    "username": "DaleSeo",
+    "display_name": "Dale Seo",
+    "popular_repo": "korean-skills",
+    "url": "https://github.com/DaleSeo",
+    "repo_url": "https://github.com/DaleSeo/korean-skills"
+  },
+  {
+    "username": "aaronjmars",
+    "display_name": "@aaronjmars",
+    "popular_repo": "polymarket-tg-bot",
+    "url": "https://github.com/aaronjmars",
+    "repo_url": "https://github.com/aaronjmars/polymarket-tg-bot"
+  }
+]
