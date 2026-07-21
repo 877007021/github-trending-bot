@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 14170,
+    "delta_stars": 9173,
+    "delta_text": "9,173 stars this week",
+    "forks": 707,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 76377,
+    "delta_stars": 11676,
+    "delta_text": "11,676 stars this week",
+    "forks": 7666,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "language": "Python",
+    "total_stars": 125150,
+    "delta_stars": 5857,
+    "delta_text": "5,857 stars this week",
+    "forks": 18466,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 28359,
+    "delta_stars": 2754,
+    "delta_text": "2,754 stars this week",
+    "forks": 3743,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "Dicklesworthstone/destructive_command_guard",
+    "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+    "language": "Rust",
+    "total_stars": 5196,
+    "delta_stars": 1410,
+    "delta_text": "1,410 stars this week",
+    "forks": 194,
+    "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+  },
+  {
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "total_stars": 25690,
+    "delta_stars": 4387,
+    "delta_text": "4,387 stars this week",
+    "forks": 4220,
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "total_stars": 23099,
+    "delta_stars": 3073,
+    "delta_text": "3,073 stars this week",
+    "forks": 2273,
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "name": "ibelick/ui-skills",
+    "description": "Skills for Design Engineers",
+    "language": "TypeScript",
+    "total_stars": 5645,
+    "delta_stars": 1925,
+    "delta_text": "1,925 stars this week",
+    "forks": 238,
+    "url": "https://github.com/ibelick/ui-skills"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 178883,
+    "delta_stars": 10872,
+    "delta_text": "10,872 stars this week",
+    "forks": 15298,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "kangarooking/cangjie-skill",
+    "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+    "language": "Python",
+    "total_stars": 4079,
+    "delta_stars": 1342,
+    "delta_text": "1,342 stars this week",
+    "forks": 551,
+    "url": "https://github.com/kangarooking/cangjie-skill"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 20152,
+    "delta_stars": 4140,
+    "delta_text": "4,140 stars this week",
+    "forks": 1349,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "total_stars": 100045,
+    "delta_stars": 2448,
+    "delta_text": "2,448 stars this week",
+    "forks": 14970,
+    "url": "https://github.com/openai/codex"
+  },
+  {
+    "name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "language": "Python",
+    "total_stars": 10225,
+    "delta_stars": 974,
+    "delta_text": "974 stars this week",
+    "forks": 1218,
+    "url": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "name": "openinterpreter/openinterpreter",
+    "description": "A coding agent for open models like Kimi K3",
+    "language": "Rust",
+    "total_stars": 66950,
+    "delta_stars": 2644,
+    "delta_text": "2,644 stars this week",
+    "forks": 5749,
+    "url": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+    "language": "JavaScript",
+    "total_stars": 6226,
+    "delta_stars": 2102,
+    "delta_text": "2,102 stars this week",
+    "forks": 416,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "language": "TypeScript",
+    "total_stars": 73483,
+    "delta_stars": 2932,
+    "delta_text": "2,932 stars this week",
+    "forks": 9060,
+    "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "total_stars": 529442,
+    "delta_stars": 4863,
+    "delta_text": "4,863 stars this week",
+    "forks": 50084,
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "name": "anthropics/cwc-workshops",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 1827,
+    "delta_stars": 385,
+    "delta_text": "385 stars this week",
+    "forks": 501,
+    "url": "https://github.com/anthropics/cwc-workshops"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "username": "owainlewis",
+    "display_name": "Owain Lewis",
+    "popular_repo": "awesome-artificial-intelligence",
+    "url": "https://github.com/owainlewis",
+    "repo_url": "https://github.com/owainlewis/awesome-artificial-intelligence"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "narumiruna",
+    "display_name": "なるみ",
+    "popular_repo": "pi-extensions",
+    "url": "https://github.com/narumiruna",
+    "repo_url": "https://github.com/narumiruna/pi-extensions"
+  },
+  {
+    "username": "lfnovo",
+    "display_name": "Luis Novo",
+    "popular_repo": "open-notebook",
+    "url": "https://github.com/lfnovo",
+    "repo_url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "username": "assafelovic",
+    "display_name": "Assaf Elovic",
+    "popular_repo": "gpt-researcher",
+    "url": "https://github.com/assafelovic",
+    "repo_url": "https://github.com/assafelovic/gpt-researcher"
+  },
+  {
+    "username": "andrewrabert",
+    "display_name": "Andrew Rabert",
+    "popular_repo": "jellium-desktop",
+    "url": "https://github.com/andrewrabert",
+    "repo_url": "https://github.com/andrewrabert/jellium-desktop"
+  },
+  {
+    "username": "Alan-TheGentleman",
+    "display_name": "Alan Buscaglia",
+    "popular_repo": "gentleman-book-mcp",
+    "url": "https://github.com/Alan-TheGentleman",
+    "repo_url": "https://github.com/Alan-TheGentleman/gentleman-book-mcp"
+  },
+  {
+    "username": "ZhuLinsen",
+    "display_name": "zhulinsen",
+    "popular_repo": "daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen",
+    "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "0xdeafcafe",
+    "display_name": "Alexander Forbes-Reed",
+    "popular_repo": "",
+    "url": "https://github.com/0xdeafcafe",
+    "repo_url": ""
+  },
+  {
+    "username": "ilblackdragon",
+    "display_name": "Illia Polosukhin",
+    "popular_repo": "",
+    "url": "https://github.com/ilblackdragon",
+    "repo_url": ""
+  },
+  {
+    "username": "hrydgard",
+    "display_name": "Henrik Rydgård",
+    "popular_repo": "ppsspp",
+    "url": "https://github.com/hrydgard",
+    "repo_url": "https://github.com/hrydgard/ppsspp"
+  },
+  {
+    "username": "igorpecovnik",
+    "display_name": "Igor",
+    "popular_repo": "",
+    "url": "https://github.com/igorpecovnik",
+    "repo_url": ""
+  },
+  {
+    "username": "simonklee",
+    "display_name": "Simon Klee",
+    "popular_repo": "",
+    "url": "https://github.com/simonklee",
+    "repo_url": ""
+  },
+  {
+    "username": "eddyizm",
+    "display_name": "eddyizm",
+    "popular_repo": "tempus",
+    "url": "https://github.com/eddyizm",
+    "repo_url": "https://github.com/eddyizm/tempus"
+  },
+  {
+    "username": "Kitenite",
+    "display_name": "Kiet",
+    "popular_repo": "",
+    "url": "https://github.com/Kitenite",
+    "repo_url": ""
+  },
+  {
+    "username": "78",
+    "display_name": "Xiaoxia",
+    "popular_repo": "xiaozhi-esp32",
+    "url": "https://github.com/78",
+    "repo_url": "https://github.com/78/xiaozhi-esp32"
+  },
+  {
+    "username": "chrox",
+    "display_name": "Huang Xin",
+    "popular_repo": "",
+    "url": "https://github.com/chrox",
+    "repo_url": ""
+  },
+  {
+    "username": "mylinuxforwork",
+    "display_name": "Stephan Raabe",
+    "popular_repo": "dotfiles",
+    "url": "https://github.com/mylinuxforwork",
+    "repo_url": "https://github.com/mylinuxforwork/dotfiles"
+  },
+  {
+    "username": "jarrodwatts",
+    "display_name": "Jarrod Watts",
+    "popular_repo": "claude-hud",
+    "url": "https://github.com/jarrodwatts",
+    "repo_url": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "username": "andimarafioti",
+    "display_name": "Andrés Marafioti",
+    "popular_repo": "faster-qwen3-tts",
+    "url": "https://github.com/andimarafioti",
+    "repo_url": "https://github.com/andimarafioti/faster-qwen3-tts"
+  },
+  {
+    "username": "carlosflorencio",
+    "display_name": "Carlos Florêncio",
+    "popular_repo": "",
+    "url": "https://github.com/carlosflorencio",
+    "repo_url": ""
+  },
+  {
+    "username": "perminder-klair",
+    "display_name": "Parminder Klair",
+    "popular_repo": "subwave",
+    "url": "https://github.com/perminder-klair",
+    "repo_url": "https://github.com/perminder-klair/subwave"
+  },
+  {
+    "username": "vitali87",
+    "display_name": "Vitali Avagyan",
+    "popular_repo": "code-graph-rag",
+    "url": "https://github.com/vitali87",
+    "repo_url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "username": "syssi",
+    "display_name": "Sebastian Muszynski",
+    "popular_repo": "esphome-jk-bms",
+    "url": "https://github.com/syssi",
+    "repo_url": "https://github.com/syssi/esphome-jk-bms"
+  }
+]
