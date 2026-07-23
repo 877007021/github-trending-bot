@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 15586,
+    "delta_stars": 8471,
+    "delta_text": "8,471 stars this week",
+    "forks": 787,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "total_stars": 25301,
+    "delta_stars": 5639,
+    "delta_text": "5,639 stars this week",
+    "forks": 2390,
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 29106,
+    "delta_stars": 3030,
+    "delta_text": "3,030 stars this week",
+    "forks": 3833,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "MoonshotAI/kimi-code",
+    "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+    "language": "TypeScript",
+    "total_stars": 4588,
+    "delta_stars": 1400,
+    "delta_text": "1,400 stars this week",
+    "forks": 672,
+    "url": "https://github.com/MoonshotAI/kimi-code"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "The most intelligent agent harness for code",
+    "language": "Rust",
+    "total_stars": 10732,
+    "delta_stars": 2293,
+    "delta_text": "2,293 stars this week",
+    "forks": 1179,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "language": "Python",
+    "total_stars": 126334,
+    "delta_stars": 4690,
+    "delta_text": "4,690 stars this week",
+    "forks": 18635,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "ibelick/ui-skills",
+    "description": "Skills for Design Engineers",
+    "language": "TypeScript",
+    "total_stars": 5993,
+    "delta_stars": 2206,
+    "delta_text": "2,206 stars this week",
+    "forks": 258,
+    "url": "https://github.com/ibelick/ui-skills"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 77567,
+    "delta_stars": 7394,
+    "delta_text": "7,394 stars this week",
+    "forks": 7759,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "apache/ossie",
+    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "language": "Python",
+    "total_stars": 1499,
+    "delta_stars": 810,
+    "delta_text": "810 stars this week",
+    "forks": 175,
+    "url": "https://github.com/apache/ossie"
+  },
+  {
+    "name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "language": "Python",
+    "total_stars": 10614,
+    "delta_stars": 1443,
+    "delta_text": "1,443 stars this week",
+    "forks": 1235,
+    "url": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "language": "TypeScript",
+    "total_stars": 75497,
+    "delta_stars": 4060,
+    "delta_text": "4,060 stars this week",
+    "forks": 9284,
+    "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 68899,
+    "delta_stars": 5812,
+    "delta_text": "5,812 stars this week",
+    "forks": 10529,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 182296,
+    "delta_stars": 10282,
+    "delta_text": "10,282 stars this week",
+    "forks": 15571,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "language": "Python",
+    "total_stars": 14902,
+    "delta_stars": 4250,
+    "delta_text": "4,250 stars this week",
+    "forks": 1545,
+    "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "language": "TypeScript",
+    "total_stars": 25225,
+    "delta_stars": 6989,
+    "delta_text": "6,989 stars this week",
+    "forks": 3350,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "language": "Go",
+    "total_stars": 37551,
+    "delta_stars": 1665,
+    "delta_text": "1,665 stars this week",
+    "forks": 1483,
+    "url": "https://github.com/schollz/croc"
+  },
+  {
+    "name": "openinterpreter/openinterpreter",
+    "description": "A coding agent for open models like Kimi K3",
+    "language": "Rust",
+    "total_stars": 67142,
+    "delta_stars": 2025,
+    "delta_text": "2,025 stars this week",
+    "forks": 5767,
+    "url": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 21067,
+    "delta_stars": 3579,
+    "delta_text": "3,579 stars this week",
+    "forks": 1409,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  }
+]
