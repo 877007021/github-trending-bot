@@ -1,0 +1,172 @@
+[
+  {
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "total_stars": 25837,
+    "delta_stars": 6257,
+    "delta_text": "6,257 stars this week",
+    "forks": 2426,
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 16243,
+    "delta_stars": 5797,
+    "delta_text": "5,797 stars this week",
+    "forks": 817,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "MoonshotAI/kimi-code",
+    "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+    "language": "TypeScript",
+    "total_stars": 4782,
+    "delta_stars": 1610,
+    "delta_text": "1,610 stars this week",
+    "forks": 703,
+    "url": "https://github.com/MoonshotAI/kimi-code"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 71539,
+    "delta_stars": 9054,
+    "delta_text": "9,054 stars this week",
+    "forks": 10797,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "The most intelligent agent harness for code",
+    "language": "Rust",
+    "total_stars": 10990,
+    "delta_stars": 2586,
+    "delta_text": "2,586 stars this week",
+    "forks": 1202,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 29363,
+    "delta_stars": 2661,
+    "delta_text": "2,661 stars this week",
+    "forks": 3867,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "PrismML-Eng/Bonsai-demo",
+    "description": "Bonsai Demo",
+    "language": "Shell",
+    "total_stars": 1975,
+    "delta_stars": 553,
+    "delta_text": "553 stars this week",
+    "forks": 196,
+    "url": "https://github.com/PrismML-Eng/Bonsai-demo"
+  },
+  {
+    "name": "ibelick/ui-skills",
+    "description": "Skills for Design Engineers",
+    "language": "TypeScript",
+    "total_stars": 6156,
+    "delta_stars": 2139,
+    "delta_text": "2,139 stars this week",
+    "forks": 268,
+    "url": "https://github.com/ibelick/ui-skills"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "language": "TypeScript",
+    "total_stars": 27132,
+    "delta_stars": 8673,
+    "delta_text": "8,673 stars this week",
+    "forks": 3558,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "language": "Python",
+    "total_stars": 10701,
+    "delta_stars": 1528,
+    "delta_text": "1,528 stars this week",
+    "forks": 1248,
+    "url": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "name": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent",
+    "language": "TypeScript",
+    "total_stars": 2349,
+    "delta_stars": 1050,
+    "delta_text": "1,050 stars this week",
+    "forks": 325,
+    "url": "https://github.com/agegr/pi-web"
+  },
+  {
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "language": "TypeScript",
+    "total_stars": 76274,
+    "delta_stars": 4495,
+    "delta_text": "4,495 stars this week",
+    "forks": 9388,
+    "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "language": "Python",
+    "total_stars": 15112,
+    "delta_stars": 4435,
+    "delta_text": "4,435 stars this week",
+    "forks": 1560,
+    "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "name": "apache/ossie",
+    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "language": "Python",
+    "total_stars": 1551,
+    "delta_stars": 764,
+    "delta_text": "764 stars this week",
+    "forks": 181,
+    "url": "https://github.com/apache/ossie"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "language": "Python",
+    "total_stars": 126902,
+    "delta_stars": 4390,
+    "delta_text": "4,390 stars this week",
+    "forks": 18716,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "total_stars": 530838,
+    "delta_stars": 4964,
+    "delta_text": "4,964 stars this week",
+    "forks": 50215,
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "name": "kvcache-ai/ktransformers",
+    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "language": "Python",
+    "total_stars": 18947,
+    "delta_stars": 1507,
+    "delta_text": "1,507 stars this week",
+    "forks": 1481,
+    "url": "https://github.com/kvcache-ai/ktransformers"
+  }
+]
