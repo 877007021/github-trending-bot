@@ -1,0 +1,222 @@
+[
+  {
+    "name": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "language": "Python",
+    "total_stars": 19763,
+    "delta_stars": 16579,
+    "delta_text": "16,579 stars this week",
+    "forks": 1969,
+    "url": "https://github.com/bojieli/ai-agent-book"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 74125,
+    "delta_stars": 12085,
+    "delta_text": "12,085 stars this week",
+    "forks": 11130,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "total_stars": 26395,
+    "delta_stars": 6423,
+    "delta_text": "6,423 stars this week",
+    "forks": 2467,
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "The most intelligent agent harness for code",
+    "language": "Rust",
+    "total_stars": 11452,
+    "delta_stars": 2914,
+    "delta_text": "2,914 stars this week",
+    "forks": 1258,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent",
+    "language": "TypeScript",
+    "total_stars": 2737,
+    "delta_stars": 1450,
+    "delta_text": "1,450 stars this week",
+    "forks": 368,
+    "url": "https://github.com/agegr/pi-web"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "language": "TypeScript",
+    "total_stars": 29990,
+    "delta_stars": 11147,
+    "delta_text": "11,147 stars this week",
+    "forks": 3913,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "MoonshotAI/kimi-code",
+    "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+    "language": "TypeScript",
+    "total_stars": 5057,
+    "delta_stars": 1534,
+    "delta_text": "1,534 stars this week",
+    "forks": 739,
+    "url": "https://github.com/MoonshotAI/kimi-code"
+  },
+  {
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "language": "TypeScript",
+    "total_stars": 77537,
+    "delta_stars": 5167,
+    "delta_text": "5,167 stars this week",
+    "forks": 9545,
+    "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "language": "Python",
+    "total_stars": 10833,
+    "delta_stars": 1537,
+    "delta_text": "1,537 stars this week",
+    "forks": 1253,
+    "url": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 43469,
+    "delta_stars": 4518,
+    "delta_text": "4,518 stars this week",
+    "forks": 7281,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 188230,
+    "delta_stars": 11790,
+    "delta_text": "11,790 stars this week",
+    "forks": 16175,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 86355,
+    "delta_stars": 5313,
+    "delta_text": "5,313 stars this week",
+    "forks": 11488,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 29777,
+    "delta_stars": 2154,
+    "delta_text": "2,154 stars this week",
+    "forks": 3918,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 17686,
+    "delta_stars": 4881,
+    "delta_text": "4,881 stars this week",
+    "forks": 890,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "language": "Rust",
+    "total_stars": 9705,
+    "delta_stars": 1584,
+    "delta_text": "1,584 stars this week",
+    "forks": 655,
+    "url": "https://github.com/Pumpkin-MC/Pumpkin"
+  },
+  {
+    "name": "schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "language": "Go",
+    "total_stars": 38454,
+    "delta_stars": 2849,
+    "delta_text": "2,849 stars this week",
+    "forks": 1529,
+    "url": "https://github.com/schollz/croc"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+    "language": "TypeScript",
+    "total_stars": 29001,
+    "delta_stars": 7327,
+    "delta_text": "7,327 stars this week",
+    "forks": 2056,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 7953,
+    "delta_stars": 3439,
+    "delta_text": "3,439 stars this week",
+    "forks": 874,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "total_stars": 37468,
+    "delta_stars": 737,
+    "delta_text": "737 stars this week",
+    "forks": 1888,
+    "url": "https://github.com/hyprwm/Hyprland"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "total_stars": 46731,
+    "delta_stars": 4237,
+    "delta_text": "4,237 stars this week",
+    "forks": 5722,
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "name": "ibelick/ui-skills",
+    "description": "Skills for Design Engineers",
+    "language": "TypeScript",
+    "total_stars": 6428,
+    "delta_stars": 1647,
+    "delta_text": "1,647 stars this week",
+    "forks": 283,
+    "url": "https://github.com/ibelick/ui-skills"
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "language": "Python",
+    "total_stars": 70573,
+    "delta_stars": 2436,
+    "delta_text": "2,436 stars this week",
+    "forks": 7938,
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  }
+]
