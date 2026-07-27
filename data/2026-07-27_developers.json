@@ -1,0 +1,177 @@
+[
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "raullenchai",
+    "display_name": "Raullen Chai",
+    "popular_repo": "Rapid-MLX",
+    "url": "https://github.com/raullenchai",
+    "repo_url": "https://github.com/raullenchai/Rapid-MLX"
+  },
+  {
+    "username": "binaricat",
+    "display_name": "陈大猫",
+    "popular_repo": "Netcatty",
+    "url": "https://github.com/binaricat",
+    "repo_url": "https://github.com/binaricat/Netcatty"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "sanity",
+    "display_name": "Ian Clarke",
+    "popular_repo": "renegade",
+    "url": "https://github.com/sanity",
+    "repo_url": "https://github.com/sanity/renegade"
+  },
+  {
+    "username": "zzet",
+    "display_name": "Andrew Kumanyaev",
+    "popular_repo": "gortex",
+    "url": "https://github.com/zzet",
+    "repo_url": "https://github.com/zzet/gortex"
+  },
+  {
+    "username": "DeusData",
+    "display_name": "Martin Vogel",
+    "popular_repo": "codebase-memory-mcp",
+    "url": "https://github.com/DeusData",
+    "repo_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "username": "bdraco",
+    "display_name": "J. Nick Koston",
+    "popular_repo": "",
+    "url": "https://github.com/bdraco",
+    "repo_url": ""
+  },
+  {
+    "username": "cmungall",
+    "display_name": "Chris Mungall",
+    "popular_repo": "owljs",
+    "url": "https://github.com/cmungall",
+    "repo_url": "https://github.com/cmungall/owljs"
+  },
+  {
+    "username": "amir1376",
+    "display_name": "AmirHossein Abdolmotallebi",
+    "popular_repo": "ab-download-manager",
+    "url": "https://github.com/amir1376",
+    "repo_url": "https://github.com/amir1376/ab-download-manager"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "coddingtonbear",
+    "display_name": "Adam Coddington",
+    "popular_repo": "obsidian-local-rest-api",
+    "url": "https://github.com/coddingtonbear",
+    "repo_url": "https://github.com/coddingtonbear/obsidian-local-rest-api"
+  },
+  {
+    "username": "kim-em",
+    "display_name": "Kim Morrison",
+    "popular_repo": "lean-zip",
+    "url": "https://github.com/kim-em",
+    "repo_url": "https://github.com/kim-em/lean-zip"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "cbcoutinho",
+    "display_name": "Chris Coutinho",
+    "popular_repo": "nextcloud-mcp-server",
+    "url": "https://github.com/cbcoutinho",
+    "repo_url": "https://github.com/cbcoutinho/nextcloud-mcp-server"
+  },
+  {
+    "username": "gnanam1990",
+    "display_name": "KRATOS",
+    "popular_repo": "snapfall",
+    "url": "https://github.com/gnanam1990",
+    "repo_url": "https://github.com/gnanam1990/snapfall"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "koaning",
+    "display_name": "vincent d warmerdam",
+    "popular_repo": "wigglystuff",
+    "url": "https://github.com/koaning",
+    "repo_url": "https://github.com/koaning/wigglystuff"
+  },
+  {
+    "username": "danielchalmers",
+    "display_name": "Daniel Chalmers",
+    "popular_repo": "DesktopClock",
+    "url": "https://github.com/danielchalmers",
+    "repo_url": "https://github.com/danielchalmers/DesktopClock"
+  },
+  {
+    "username": "robobun",
+    "display_name": "robobun",
+    "popular_repo": "bun",
+    "url": "https://github.com/robobun",
+    "repo_url": "https://github.com/robobun/bun"
+  },
+  {
+    "username": "weblate",
+    "display_name": "Weblate (bot)",
+    "popular_repo": "thunderbird-mobile-components-l10n",
+    "url": "https://github.com/weblate",
+    "repo_url": "https://github.com/weblate/thunderbird-mobile-components-l10n"
+  },
+  {
+    "username": "gakonst",
+    "display_name": "Georgios Konstantopoulos",
+    "popular_repo": "nanocodex",
+    "url": "https://github.com/gakonst",
+    "repo_url": "https://github.com/gakonst/nanocodex"
+  },
+  {
+    "username": "agoodkind",
+    "display_name": "Alex Goodkind",
+    "popular_repo": "",
+    "url": "https://github.com/agoodkind",
+    "repo_url": ""
+  },
+  {
+    "username": "kentcdodds",
+    "display_name": "Kent C. Dodds",
+    "popular_repo": "kody",
+    "url": "https://github.com/kentcdodds",
+    "repo_url": "https://github.com/kentcdodds/kody"
+  }
+]
