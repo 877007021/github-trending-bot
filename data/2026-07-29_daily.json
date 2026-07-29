@@ -1,0 +1,122 @@
+[
+  {
+    "name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "language": "TypeScript",
+    "total_stars": 18674,
+    "delta_stars": 341,
+    "delta_text": "341 stars today",
+    "forks": 2526,
+    "url": "https://github.com/pascalorg/editor"
+  },
+  {
+    "name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "language": "Java",
+    "total_stars": 26065,
+    "delta_stars": 180,
+    "delta_text": "180 stars today",
+    "forks": 9687,
+    "url": "https://github.com/jenkinsci/jenkins"
+  },
+  {
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "language": "TypeScript",
+    "total_stars": 44736,
+    "delta_stars": 797,
+    "delta_text": "797 stars today",
+    "forks": 4447,
+    "url": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "total_stars": 15675,
+    "delta_stars": 62,
+    "delta_text": "62 stars today",
+    "forks": 1656,
+    "url": "https://github.com/andrewyng/aisuite"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 234785,
+    "delta_stars": 636,
+    "delta_text": "636 stars today",
+    "forks": 35774,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "language": "Python",
+    "total_stars": 7209,
+    "delta_stars": 227,
+    "delta_text": "227 stars today",
+    "forks": 953,
+    "url": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "total_stars": 11317,
+    "delta_stars": 423,
+    "delta_text": "423 stars today",
+    "forks": 1336,
+    "url": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  {
+    "name": "opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "language": "TypeScript",
+    "total_stars": 3379,
+    "delta_stars": 607,
+    "delta_text": "607 stars today",
+    "forks": 390,
+    "url": "https://github.com/opengeos/GeoLibre"
+  },
+  {
+    "name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "language": "Python",
+    "total_stars": 9563,
+    "delta_stars": 309,
+    "delta_text": "309 stars today",
+    "forks": 1290,
+    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+  },
+  {
+    "name": "microsoft/agent-governance-toolkit",
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "language": "Python",
+    "total_stars": 5181,
+    "delta_stars": 46,
+    "delta_text": "46 stars today",
+    "forks": 833,
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "name": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "language": "Go",
+    "total_stars": 21463,
+    "delta_stars": 662,
+    "delta_text": "662 stars today",
+    "forks": 695,
+    "url": "https://github.com/yorukot/superfile"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 12072,
+    "delta_stars": 988,
+    "delta_text": "988 stars today",
+    "forks": 1212,
+    "url": "https://github.com/bradautomates/claude-video"
+  }
+]

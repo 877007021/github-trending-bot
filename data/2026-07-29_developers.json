@@ -1,0 +1,177 @@
+[
+  {
+    "username": "binaricat",
+    "display_name": "陈大猫",
+    "popular_repo": "Netcatty",
+    "url": "https://github.com/binaricat",
+    "repo_url": "https://github.com/binaricat/Netcatty"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "inbox-zero",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/inbox-zero"
+  },
+  {
+    "username": "xpzouying",
+    "display_name": "zy",
+    "popular_repo": "xiaohongshu-mcp",
+    "url": "https://github.com/xpzouying",
+    "repo_url": "https://github.com/xpzouying/xiaohongshu-mcp"
+  },
+  {
+    "username": "dashhuang",
+    "display_name": "Dash",
+    "popular_repo": "DisplayFill",
+    "url": "https://github.com/dashhuang",
+    "repo_url": "https://github.com/dashhuang/DisplayFill"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "zzet",
+    "display_name": "Andrew Kumanyaev",
+    "popular_repo": "gortex",
+    "url": "https://github.com/zzet",
+    "repo_url": "https://github.com/zzet/gortex"
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "colbymchenry",
+    "display_name": "Colby Mchenry",
+    "popular_repo": "codegraph",
+    "url": "https://github.com/colbymchenry",
+    "repo_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "username": "yorukot",
+    "display_name": "Yorukot",
+    "popular_repo": "superfile",
+    "url": "https://github.com/yorukot",
+    "repo_url": "https://github.com/yorukot/superfile"
+  },
+  {
+    "username": "owainlewis",
+    "display_name": "Owain Lewis",
+    "popular_repo": "awesome-artificial-intelligence",
+    "url": "https://github.com/owainlewis",
+    "repo_url": "https://github.com/owainlewis/awesome-artificial-intelligence"
+  },
+  {
+    "username": "perminder-klair",
+    "display_name": "Parminder Klair",
+    "popular_repo": "subwave",
+    "url": "https://github.com/perminder-klair",
+    "repo_url": "https://github.com/perminder-klair/subwave"
+  },
+  {
+    "username": "jeswr",
+    "display_name": "Jesse Wright",
+    "popular_repo": "agent-account-registry",
+    "url": "https://github.com/jeswr",
+    "repo_url": "https://github.com/jeswr/agent-account-registry"
+  },
+  {
+    "username": "hiyouga",
+    "display_name": "Yaowei Zheng",
+    "popular_repo": "LlamaFactory",
+    "url": "https://github.com/hiyouga",
+    "repo_url": "https://github.com/hiyouga/LlamaFactory"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "ClementTsang",
+    "display_name": "Clement Tsang",
+    "popular_repo": "bottom",
+    "url": "https://github.com/ClementTsang",
+    "repo_url": "https://github.com/ClementTsang/bottom"
+  },
+  {
+    "username": "1jehuang",
+    "display_name": "Jeremy Huang",
+    "popular_repo": "jcode",
+    "url": "https://github.com/1jehuang",
+    "repo_url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "username": "marandaneto",
+    "display_name": "Manoel Aranda Neto",
+    "popular_repo": "dry4dotnet",
+    "url": "https://github.com/marandaneto",
+    "repo_url": "https://github.com/marandaneto/dry4dotnet"
+  },
+  {
+    "username": "Barre",
+    "display_name": "Pierre Barre",
+    "popular_repo": "ZeroFS",
+    "url": "https://github.com/Barre",
+    "repo_url": "https://github.com/Barre/ZeroFS"
+  },
+  {
+    "username": "kunchenguid",
+    "display_name": "Kun Chen",
+    "popular_repo": "no-mistakes",
+    "url": "https://github.com/kunchenguid",
+    "repo_url": "https://github.com/kunchenguid/no-mistakes"
+  },
+  {
+    "username": "sanity",
+    "display_name": "Ian Clarke",
+    "popular_repo": "renegade",
+    "url": "https://github.com/sanity",
+    "repo_url": "https://github.com/sanity/renegade"
+  },
+  {
+    "username": "agoodkind",
+    "display_name": "Alex Goodkind",
+    "popular_repo": "",
+    "url": "https://github.com/agoodkind",
+    "repo_url": ""
+  },
+  {
+    "username": "DeusData",
+    "display_name": "Martin Vogel",
+    "popular_repo": "codebase-memory-mcp",
+    "url": "https://github.com/DeusData",
+    "repo_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "username": "hyfdev",
+    "display_name": "Yunfei He",
+    "popular_repo": "project-context-records",
+    "url": "https://github.com/hyfdev",
+    "repo_url": "https://github.com/hyfdev/project-context-records"
+  },
+  {
+    "username": "ColeMurray",
+    "display_name": "Cole Murray",
+    "popular_repo": "background-agents",
+    "url": "https://github.com/ColeMurray",
+    "repo_url": "https://github.com/ColeMurray/background-agents"
+  }
+]

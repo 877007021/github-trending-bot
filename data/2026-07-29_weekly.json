@@ -1,0 +1,222 @@
+[
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 75929,
+    "delta_stars": 12173,
+    "delta_text": "12,173 stars this week",
+    "forks": 11358,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 12754,
+    "delta_stars": 6156,
+    "delta_text": "6,156 stars this week",
+    "forks": 664,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "language": "Python",
+    "total_stars": 24334,
+    "delta_stars": 10637,
+    "delta_text": "10,637 stars this week",
+    "forks": 2495,
+    "url": "https://github.com/bojieli/ai-agent-book"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "language": "TypeScript",
+    "total_stars": 33128,
+    "delta_stars": 10028,
+    "delta_text": "10,028 stars this week",
+    "forks": 4284,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "oblien/openship",
+    "description": "Self-hosted deployment platform",
+    "language": "TypeScript",
+    "total_stars": 9385,
+    "delta_stars": 3628,
+    "delta_text": "3,628 stars this week",
+    "forks": 753,
+    "url": "https://github.com/oblien/openship"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 192911,
+    "delta_stars": 12794,
+    "delta_text": "12,794 stars this week",
+    "forks": 16582,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "UditAkhourii/adhd",
+    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "language": "TypeScript",
+    "total_stars": 2565,
+    "delta_stars": 992,
+    "delta_text": "992 stars this week",
+    "forks": 206,
+    "url": "https://github.com/UditAkhourii/adhd"
+  },
+  {
+    "name": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent",
+    "language": "TypeScript",
+    "total_stars": 3111,
+    "delta_stars": 1474,
+    "delta_text": "1,474 stars this week",
+    "forks": 408,
+    "url": "https://github.com/agegr/pi-web"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 87283,
+    "delta_stars": 5026,
+    "delta_text": "5,026 stars this week",
+    "forks": 11600,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "language": "TypeScript",
+    "total_stars": 79668,
+    "delta_stars": 5244,
+    "delta_text": "5,244 stars this week",
+    "forks": 9808,
+    "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 34831,
+    "delta_stars": 2521,
+    "delta_text": "2,521 stars this week",
+    "forks": 5817,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "language": "Rust",
+    "total_stars": 10295,
+    "delta_stars": 2262,
+    "delta_text": "2,262 stars this week",
+    "forks": 690,
+    "url": "https://github.com/Pumpkin-MC/Pumpkin"
+  },
+  {
+    "name": "CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "language": "TypeScript",
+    "total_stars": 6456,
+    "delta_stars": 2828,
+    "delta_text": "2,828 stars this week",
+    "forks": 569,
+    "url": "https://github.com/CoreBunch/Instatic"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "The most RAM effiecent harness",
+    "language": "Rust",
+    "total_stars": 12811,
+    "delta_stars": 2495,
+    "delta_text": "2,495 stars this week",
+    "forks": 1416,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 44610,
+    "delta_stars": 3333,
+    "delta_text": "3,333 stars this week",
+    "forks": 7556,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 9028,
+    "delta_stars": 2596,
+    "delta_text": "2,596 stars this week",
+    "forks": 1018,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "total_stars": 27296,
+    "delta_stars": 3032,
+    "delta_text": "3,032 stars this week",
+    "forks": 2531,
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "name": "likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "language": "TypeScript",
+    "total_stars": 5230,
+    "delta_stars": 1228,
+    "delta_text": "1,228 stars this week",
+    "forks": 350,
+    "url": "https://github.com/likec4/likec4"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 15460,
+    "delta_stars": 1202,
+    "delta_text": "1,202 stars this week",
+    "forks": 3386,
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 30892,
+    "delta_stars": 2100,
+    "delta_text": "2,100 stars this week",
+    "forks": 4047,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "language": "Go",
+    "total_stars": 38994,
+    "delta_stars": 2488,
+    "delta_text": "2,488 stars this week",
+    "forks": 1544,
+    "url": "https://github.com/schollz/croc"
+  },
+  {
+    "name": "hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "total_stars": 37608,
+    "delta_stars": 774,
+    "delta_text": "774 stars this week",
+    "forks": 1897,
+    "url": "https://github.com/hyprwm/Hyprland"
+  }
+]
