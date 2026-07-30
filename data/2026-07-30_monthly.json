@@ -1,0 +1,222 @@
+[
+  {
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "language": "Swift",
+    "total_stars": 33289,
+    "delta_stars": 7255,
+    "delta_text": "7,255 stars this month",
+    "forks": 5259,
+    "url": "https://github.com/permissionlesstech/bitchat"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "language": "TypeScript",
+    "total_stars": 34112,
+    "delta_stars": 26276,
+    "delta_text": "26,276 stars this month",
+    "forks": 4405,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 45604,
+    "delta_stars": 18792,
+    "delta_text": "18,792 stars this month",
+    "forks": 4779,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+    "language": "TypeScript",
+    "total_stars": 32750,
+    "delta_stars": 23777,
+    "delta_text": "23,777 stars this month",
+    "forks": 2306,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+    "language": "Rust",
+    "total_stars": 27380,
+    "delta_stars": 14636,
+    "delta_text": "14,636 stars this month",
+    "forks": 2804,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "emilkowalski/skills",
+    "description": "Skills for Design Engineers.",
+    "language": "",
+    "total_stars": 22544,
+    "delta_stars": 18756,
+    "delta_text": "18,756 stars this month",
+    "forks": 1224,
+    "url": "https://github.com/emilkowalski/skills"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 19693,
+    "delta_stars": 16235,
+    "delta_text": "16,235 stars this month",
+    "forks": 973,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 61343,
+    "delta_stars": 14634,
+    "delta_text": "14,634 stars this month",
+    "forks": 10026,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 76477,
+    "delta_stars": 15849,
+    "delta_text": "15,849 stars this month",
+    "forks": 11424,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 23196,
+    "delta_stars": 15004,
+    "delta_text": "15,004 stars this month",
+    "forks": 1557,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 12663,
+    "delta_stars": 9872,
+    "delta_text": "9,872 stars this month",
+    "forks": 1244,
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 30380,
+    "delta_stars": 8723,
+    "delta_text": "8,723 stars this month",
+    "forks": 2001,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "language": "HTML",
+    "total_stars": 17880,
+    "delta_stars": 13494,
+    "delta_text": "13,494 stars this month",
+    "forks": 2172,
+    "url": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 8952,
+    "delta_stars": 2863,
+    "delta_text": "2,863 stars this month",
+    "forks": 1022,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "language": "Python",
+    "total_stars": 15859,
+    "delta_stars": 7511,
+    "delta_text": "7,511 stars this month",
+    "forks": 1685,
+    "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "total_stars": 28554,
+    "delta_stars": 13918,
+    "delta_text": "13,918 stars this month",
+    "forks": 4613,
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "name": "ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "total_stars": 75374,
+    "delta_stars": 1394,
+    "delta_text": "1,394 stars this month",
+    "forks": 11976,
+    "url": "https://github.com/ocornut/imgui"
+  },
+  {
+    "name": "catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "total_stars": 21386,
+    "delta_stars": 1074,
+    "delta_text": "1,074 stars this month",
+    "forks": 3415,
+    "url": "https://github.com/catchorg/Catch2"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 79749,
+    "delta_stars": 19614,
+    "delta_text": "19,614 stars this month",
+    "forks": 7938,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 9362,
+    "delta_stars": 5534,
+    "delta_text": "5,534 stars this month",
+    "forks": 1065,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "total_stars": 28139,
+    "delta_stars": 7802,
+    "delta_text": "7,802 stars this month",
+    "forks": 2468,
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "language": "Python",
+    "total_stars": 7844,
+    "delta_stars": 2803,
+    "delta_text": "2,803 stars this month",
+    "forks": 999,
+    "url": "https://github.com/huggingface/speech-to-speech"
+  }
+]
