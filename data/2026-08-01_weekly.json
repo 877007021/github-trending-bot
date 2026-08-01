@@ -1,0 +1,182 @@
+[
+  {
+    "name": "block/buzz",
+    "description": "A hive mind communication platform",
+    "language": "Rust",
+    "total_stars": 19468,
+    "delta_stars": 10558,
+    "delta_text": "10,558 stars this week",
+    "forks": 1964,
+    "url": "https://github.com/block/buzz"
+  },
+  {
+    "name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "language": "JavaScript",
+    "total_stars": 7008,
+    "delta_stars": 4741,
+    "delta_text": "4,741 stars this week",
+    "forks": 332,
+    "url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 17007,
+    "delta_stars": 4746,
+    "delta_text": "4,746 stars this week",
+    "forks": 1158,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 14744,
+    "delta_stars": 5133,
+    "delta_text": "5,133 stars this week",
+    "forks": 802,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "language": "TypeScript",
+    "total_stars": 20434,
+    "delta_stars": 2863,
+    "delta_text": "2,863 stars this week",
+    "forks": 2642,
+    "url": "https://github.com/pascalorg/editor"
+  },
+  {
+    "name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "total_stars": 14278,
+    "delta_stars": 4603,
+    "delta_text": "4,603 stars this week",
+    "forks": 1554,
+    "url": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "The most RAM efficient harness",
+    "language": "Rust",
+    "total_stars": 14602,
+    "delta_stars": 3351,
+    "delta_text": "3,351 stars this week",
+    "forks": 1610,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 197806,
+    "delta_stars": 11622,
+    "delta_text": "11,622 stars this week",
+    "forks": 17026,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 16081,
+    "delta_stars": 1488,
+    "delta_text": "1,488 stars this week",
+    "forks": 3580,
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 77428,
+    "delta_stars": 4657,
+    "delta_text": "4,657 stars this week",
+    "forks": 11563,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "language": "TypeScript",
+    "total_stars": 4714,
+    "delta_stars": 2765,
+    "delta_text": "2,765 stars this week",
+    "forks": 476,
+    "url": "https://github.com/opengeos/GeoLibre"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 35264,
+    "delta_stars": 1939,
+    "delta_text": "1,939 stars this week",
+    "forks": 5875,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "language": "TypeScript",
+    "total_stars": 46198,
+    "delta_stars": 3125,
+    "delta_text": "3,125 stars this week",
+    "forks": 4551,
+    "url": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "language": "TypeScript",
+    "total_stars": 36106,
+    "delta_stars": 7701,
+    "delta_text": "7,701 stars this week",
+    "forks": 4646,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "language": "TypeScript",
+    "total_stars": 6973,
+    "delta_stars": 2866,
+    "delta_text": "2,866 stars this week",
+    "forks": 606,
+    "url": "https://github.com/CoreBunch/Instatic"
+  },
+  {
+    "name": "earthtojake/text-to-cad",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "language": "JavaScript",
+    "total_stars": 12239,
+    "delta_stars": 1901,
+    "delta_text": "1,901 stars this week",
+    "forks": 1305,
+    "url": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "language": "TypeScript",
+    "total_stars": 81477,
+    "delta_stars": 4571,
+    "delta_text": "4,571 stars this week",
+    "forks": 10054,
+    "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "total_stars": 51708,
+    "delta_stars": 1222,
+    "delta_text": "1,222 stars this week",
+    "forks": 5730,
+    "url": "https://github.com/microsoft/VibeVoice"
+  }
+]
