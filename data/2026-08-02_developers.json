@@ -1,0 +1,177 @@
+[
+  {
+    "username": "appcypher",
+    "display_name": "Stephen Akinyemi",
+    "popular_repo": "awesome-mcp-servers",
+    "url": "https://github.com/appcypher",
+    "repo_url": "https://github.com/appcypher/awesome-mcp-servers"
+  },
+  {
+    "username": "justjavac",
+    "display_name": "迷渡",
+    "popular_repo": "free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac",
+    "repo_url": "https://github.com/justjavac/free-programming-books-zh_CN"
+  },
+  {
+    "username": "esengine",
+    "display_name": "YHH",
+    "popular_repo": "DeepSeek-Reasonix",
+    "url": "https://github.com/esengine",
+    "repo_url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "username": "marketcalls",
+    "display_name": "Marketcalls",
+    "popular_repo": "openalgo",
+    "url": "https://github.com/marketcalls",
+    "repo_url": "https://github.com/marketcalls/openalgo"
+  },
+  {
+    "username": "wassgha",
+    "display_name": "Wassim Gharbi",
+    "popular_repo": "rescript",
+    "url": "https://github.com/wassgha",
+    "repo_url": "https://github.com/wassgha/rescript"
+  },
+  {
+    "username": "1jehuang",
+    "display_name": "Jeremy Huang",
+    "popular_repo": "jcode",
+    "url": "https://github.com/1jehuang",
+    "repo_url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "username": "mitchellh",
+    "display_name": "Mitchell Hashimoto",
+    "popular_repo": "vouch",
+    "url": "https://github.com/mitchellh",
+    "repo_url": "https://github.com/mitchellh/vouch"
+  },
+  {
+    "username": "serenakeyitan",
+    "display_name": "Serena",
+    "popular_repo": "awesome-notebookLM-prompts",
+    "url": "https://github.com/serenakeyitan",
+    "repo_url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts"
+  },
+  {
+    "username": "neubig",
+    "display_name": "Graham Neubig",
+    "popular_repo": "kytea",
+    "url": "https://github.com/neubig",
+    "repo_url": "https://github.com/neubig/kytea"
+  },
+  {
+    "username": "Beingpax",
+    "display_name": "Prakash Joshi Pax",
+    "popular_repo": "VoiceInk",
+    "url": "https://github.com/Beingpax",
+    "repo_url": "https://github.com/Beingpax/VoiceInk"
+  },
+  {
+    "username": "wenshao",
+    "display_name": "Shaojin Wen",
+    "popular_repo": "codeagents",
+    "url": "https://github.com/wenshao",
+    "repo_url": "https://github.com/wenshao/codeagents"
+  },
+  {
+    "username": "kevmoo",
+    "display_name": "Kevin Moore",
+    "popular_repo": "",
+    "url": "https://github.com/kevmoo",
+    "repo_url": ""
+  },
+  {
+    "username": "mishushakov",
+    "display_name": "Mish Ushakov",
+    "popular_repo": "desktui",
+    "url": "https://github.com/mishushakov",
+    "repo_url": "https://github.com/mishushakov/desktui"
+  },
+  {
+    "username": "madeye",
+    "display_name": "Max Lv",
+    "popular_repo": "dhtsearch",
+    "url": "https://github.com/madeye",
+    "repo_url": "https://github.com/madeye/dhtsearch"
+  },
+  {
+    "username": "bradygaster",
+    "display_name": "Brady Gaster",
+    "popular_repo": "squad",
+    "url": "https://github.com/bradygaster",
+    "repo_url": "https://github.com/bradygaster/squad"
+  },
+  {
+    "username": "DeusData",
+    "display_name": "Martin Vogel",
+    "popular_repo": "codebase-memory-mcp",
+    "url": "https://github.com/DeusData",
+    "repo_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "username": "isair",
+    "display_name": "Baris Sencan",
+    "popular_repo": "jarvis",
+    "url": "https://github.com/isair",
+    "repo_url": "https://github.com/isair/jarvis"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "inbox-zero",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/inbox-zero"
+  },
+  {
+    "username": "DaleSeo",
+    "display_name": "Dale Seo",
+    "popular_repo": "korean-skills",
+    "url": "https://github.com/DaleSeo",
+    "repo_url": "https://github.com/DaleSeo/korean-skills"
+  },
+  {
+    "username": "syssi",
+    "display_name": "Sebastian Muszynski",
+    "popular_repo": "esphome-jk-bms",
+    "url": "https://github.com/syssi",
+    "repo_url": "https://github.com/syssi/esphome-jk-bms"
+  },
+  {
+    "username": "SteveMacenski",
+    "display_name": "Steve Macenski",
+    "popular_repo": "slam_toolbox",
+    "url": "https://github.com/SteveMacenski",
+    "repo_url": "https://github.com/SteveMacenski/slam_toolbox"
+  },
+  {
+    "username": "gakonst",
+    "display_name": "Georgios Konstantopoulos",
+    "popular_repo": "nanocodex",
+    "url": "https://github.com/gakonst",
+    "repo_url": "https://github.com/gakonst/nanocodex"
+  },
+  {
+    "username": "lidge-jun",
+    "display_name": "JUN",
+    "popular_repo": "opencodex",
+    "url": "https://github.com/lidge-jun",
+    "repo_url": "https://github.com/lidge-jun/opencodex"
+  },
+  {
+    "username": "Wei-Shaw",
+    "display_name": "Wesley Liddick",
+    "popular_repo": "sub2api",
+    "url": "https://github.com/Wei-Shaw",
+    "repo_url": "https://github.com/Wei-Shaw/sub2api"
+  },
+  {
+    "username": "andimarafioti",
+    "display_name": "Andrés Marafioti",
+    "popular_repo": "faster-qwen3-tts",
+    "url": "https://github.com/andimarafioti",
+    "repo_url": "https://github.com/andimarafioti/faster-qwen3-tts"
+  }
+]
