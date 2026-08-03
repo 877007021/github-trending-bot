@@ -1,0 +1,152 @@
+[
+  {
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "language": "Jupyter Notebook",
+    "total_stars": 58975,
+    "delta_stars": 2629,
+    "delta_text": "2,629 stars today",
+    "forks": 11598,
+    "url": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "name": "usekaneo/kaneo",
+    "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+    "language": "TypeScript",
+    "total_stars": 6128,
+    "delta_stars": 496,
+    "delta_text": "496 stars today",
+    "forks": 515,
+    "url": "https://github.com/usekaneo/kaneo"
+  },
+  {
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "total_stars": 25627,
+    "delta_stars": 819,
+    "delta_text": "819 stars today",
+    "forks": 2882,
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "name": "iv-org/invidious",
+    "description": "Invidious is an alternative front-end to YouTube",
+    "language": "Crystal",
+    "total_stars": 21968,
+    "delta_stars": 305,
+    "delta_text": "305 stars today",
+    "forks": 2455,
+    "url": "https://github.com/iv-org/invidious"
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "total_stars": 534817,
+    "delta_stars": 674,
+    "delta_text": "674 stars today",
+    "forks": 50554,
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "language": "PowerShell",
+    "total_stars": 13343,
+    "delta_stars": 1141,
+    "delta_text": "1,141 stars today",
+    "forks": 1997,
+    "url": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "name": "different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "language": "TypeScript",
+    "total_stars": 20299,
+    "delta_stars": 280,
+    "delta_text": "280 stars today",
+    "forks": 2087,
+    "url": "https://github.com/different-ai/openwork"
+  },
+  {
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI",
+    "language": "Jupyter Notebook",
+    "total_stars": 114757,
+    "delta_stars": 588,
+    "delta_text": "588 stars today",
+    "forks": 61283,
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 64674,
+    "delta_stars": 659,
+    "delta_text": "659 stars today",
+    "forks": 5346,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "total_stars": 10986,
+    "delta_stars": 602,
+    "delta_text": "602 stars today",
+    "forks": 1043,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 56870,
+    "delta_stars": 206,
+    "delta_text": "206 stars today",
+    "forks": 4975,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "NomaDamas/k-skill",
+    "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+    "language": "JavaScript",
+    "total_stars": 6886,
+    "delta_stars": 177,
+    "delta_text": "177 stars today",
+    "forks": 808,
+    "url": "https://github.com/NomaDamas/k-skill"
+  },
+  {
+    "name": "HarbourMasters/Lighthouse",
+    "description": "",
+    "language": "C",
+    "total_stars": 218,
+    "delta_stars": 65,
+    "delta_text": "65 stars today",
+    "forks": 18,
+    "url": "https://github.com/HarbourMasters/Lighthouse"
+  },
+  {
+    "name": "antirez/ds4",
+    "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+    "language": "C",
+    "total_stars": 19984,
+    "delta_stars": 139,
+    "delta_text": "139 stars today",
+    "forks": 1774,
+    "url": "https://github.com/antirez/ds4"
+  },
+  {
+    "name": "esengine/DeepSeek-Reasonix",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "language": "Go",
+    "total_stars": 29042,
+    "delta_stars": 333,
+    "delta_text": "333 stars today",
+    "forks": 1868,
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  }
+]
