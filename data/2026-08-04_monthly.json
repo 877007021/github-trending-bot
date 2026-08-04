@@ -1,0 +1,222 @@
+[
+  {
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "language": "Swift",
+    "total_stars": 34315,
+    "delta_stars": 8367,
+    "delta_text": "8,367 stars this month",
+    "forks": 5477,
+    "url": "https://github.com/permissionlesstech/bitchat"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "language": "TypeScript",
+    "total_stars": 38792,
+    "delta_stars": 28232,
+    "delta_text": "28,232 stars this month",
+    "forks": 5124,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+    "language": "TypeScript",
+    "total_stars": 36617,
+    "delta_stars": 25250,
+    "delta_text": "25,250 stars this month",
+    "forks": 2603,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "emilkowalski/skills",
+    "description": "Skills for Designers and Engineers.",
+    "language": "",
+    "total_stars": 24374,
+    "delta_stars": 19789,
+    "delta_text": "19,789 stars this month",
+    "forks": 1315,
+    "url": "https://github.com/emilkowalski/skills"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "HTML",
+    "total_stars": 8850,
+    "delta_stars": 6501,
+    "delta_text": "6,501 stars this month",
+    "forks": 720,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 78482,
+    "delta_stars": 17517,
+    "delta_text": "17,517 stars this month",
+    "forks": 11724,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 21223,
+    "delta_stars": 17706,
+    "delta_text": "17,706 stars this month",
+    "forks": 1071,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "total_stars": 24801,
+    "delta_stars": 16458,
+    "delta_text": "16,458 stars this month",
+    "forks": 1673,
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "total_stars": 13674,
+    "delta_stars": 10750,
+    "delta_text": "10,750 stars this month",
+    "forks": 1329,
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+    "language": "Rust",
+    "total_stars": 28141,
+    "delta_stars": 14535,
+    "delta_text": "14,535 stars this month",
+    "forks": 2943,
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "language": "Python",
+    "total_stars": 10704,
+    "delta_stars": 5579,
+    "delta_text": "5,579 stars this month",
+    "forks": 1311,
+    "url": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "total_stars": 9120,
+    "delta_stars": 3006,
+    "delta_text": "3,006 stars this month",
+    "forks": 1091,
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "name": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 11437,
+    "delta_stars": 7387,
+    "delta_text": "7,387 stars this month",
+    "forks": 974,
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "total_stars": 31143,
+    "delta_stars": 8384,
+    "delta_text": "8,384 stars this month",
+    "forks": 2097,
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 62167,
+    "delta_stars": 14503,
+    "delta_text": "14,503 stars this month",
+    "forks": 10192,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "The most RAM efficient harness",
+    "language": "Rust",
+    "total_stars": 15575,
+    "delta_stars": 7469,
+    "delta_text": "7,469 stars this month",
+    "forks": 1719,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "language": "Python",
+    "total_stars": 130220,
+    "delta_stars": 14250,
+    "delta_text": "14,250 stars this month",
+    "forks": 19222,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 32223,
+    "delta_stars": 7155,
+    "delta_text": "7,155 stars this month",
+    "forks": 4212,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 54487,
+    "delta_stars": 11471,
+    "delta_text": "11,471 stars this month",
+    "forks": 3279,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 47196,
+    "delta_stars": 13453,
+    "delta_text": "13,453 stars this month",
+    "forks": 4995,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 80732,
+    "delta_stars": 19626,
+    "delta_text": "19,626 stars this month",
+    "forks": 8010,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 16497,
+    "delta_stars": 3384,
+    "delta_text": "3,384 stars this month",
+    "forks": 3691,
+    "url": "https://github.com/pingdotgg/t3code"
+  }
+]
