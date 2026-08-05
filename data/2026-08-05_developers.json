@@ -1,0 +1,177 @@
+[
+  {
+    "username": "Astro-Han",
+    "display_name": "AstroHan",
+    "popular_repo": "karpathy-llm-wiki",
+    "url": "https://github.com/Astro-Han",
+    "repo_url": "https://github.com/Astro-Han/karpathy-llm-wiki"
+  },
+  {
+    "username": "lalalune",
+    "display_name": "Shaw",
+    "popular_repo": "outreachr",
+    "url": "https://github.com/lalalune",
+    "repo_url": "https://github.com/lalalune/outreachr"
+  },
+  {
+    "username": "maziyarpanahi",
+    "display_name": "Maziyar Panahi",
+    "popular_repo": "openmed",
+    "url": "https://github.com/maziyarpanahi",
+    "repo_url": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "username": "esengine",
+    "display_name": "YHH",
+    "popular_repo": "DeepSeek-Reasonix",
+    "url": "https://github.com/esengine",
+    "repo_url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "username": "LalitMaganti",
+    "display_name": "Lalit Maganti",
+    "popular_repo": "syntaqlite",
+    "url": "https://github.com/LalitMaganti",
+    "repo_url": "https://github.com/LalitMaganti/syntaqlite"
+  },
+  {
+    "username": "lidge-jun",
+    "display_name": "JUN",
+    "popular_repo": "opencodex",
+    "url": "https://github.com/lidge-jun",
+    "repo_url": "https://github.com/lidge-jun/opencodex"
+  },
+  {
+    "username": "louistrue",
+    "display_name": "Louis Trümpler",
+    "popular_repo": "ifcx-mcp",
+    "url": "https://github.com/louistrue",
+    "repo_url": "https://github.com/louistrue/ifcx-mcp"
+  },
+  {
+    "username": "abimaelmartell",
+    "display_name": "Abimael Martell",
+    "popular_repo": "system_monitor",
+    "url": "https://github.com/abimaelmartell",
+    "repo_url": "https://github.com/abimaelmartell/system_monitor"
+  },
+  {
+    "username": "dalathegreat",
+    "display_name": "Daniel Öster",
+    "popular_repo": "Battery-Emulator",
+    "url": "https://github.com/dalathegreat",
+    "repo_url": "https://github.com/dalathegreat/Battery-Emulator"
+  },
+  {
+    "username": "emontnemery",
+    "display_name": "Erik Montnemery",
+    "popular_repo": "",
+    "url": "https://github.com/emontnemery",
+    "repo_url": ""
+  },
+  {
+    "username": "marcusquinn",
+    "display_name": "Marcus Quinn",
+    "popular_repo": "aidevops",
+    "url": "https://github.com/marcusquinn",
+    "repo_url": "https://github.com/marcusquinn/aidevops"
+  },
+  {
+    "username": "marketcalls",
+    "display_name": "Marketcalls",
+    "popular_repo": "openalgo",
+    "url": "https://github.com/marketcalls",
+    "repo_url": "https://github.com/marketcalls/openalgo"
+  },
+  {
+    "username": "Alan-TheGentleman",
+    "display_name": "Alan Buscaglia",
+    "popular_repo": "gentle-ai-enterprise",
+    "url": "https://github.com/Alan-TheGentleman",
+    "repo_url": "https://github.com/Alan-TheGentleman/gentle-ai-enterprise"
+  },
+  {
+    "username": "poteto",
+    "display_name": "lauren",
+    "popular_repo": "hiring-without-whiteboards",
+    "url": "https://github.com/poteto",
+    "repo_url": "https://github.com/poteto/hiring-without-whiteboards"
+  },
+  {
+    "username": "bradfitz",
+    "display_name": "Brad Fitzpatrick",
+    "popular_repo": "",
+    "url": "https://github.com/bradfitz",
+    "repo_url": ""
+  },
+  {
+    "username": "slavingia",
+    "display_name": "Sahil Lavingia",
+    "popular_repo": "skills",
+    "url": "https://github.com/slavingia",
+    "repo_url": "https://github.com/slavingia/skills"
+  },
+  {
+    "username": "RaananW",
+    "display_name": "Raanan Weber",
+    "popular_repo": "",
+    "url": "https://github.com/RaananW",
+    "repo_url": ""
+  },
+  {
+    "username": "vanhauser-thc",
+    "display_name": "van Hauser",
+    "popular_repo": "thc-hydra",
+    "url": "https://github.com/vanhauser-thc",
+    "repo_url": "https://github.com/vanhauser-thc/thc-hydra"
+  },
+  {
+    "username": "yhirose",
+    "display_name": "yhirose",
+    "popular_repo": "cpp-httplib",
+    "url": "https://github.com/yhirose",
+    "repo_url": "https://github.com/yhirose/cpp-httplib"
+  },
+  {
+    "username": "gakonst",
+    "display_name": "Georgios Konstantopoulos",
+    "popular_repo": "nanocodex",
+    "url": "https://github.com/gakonst",
+    "repo_url": "https://github.com/gakonst/nanocodex"
+  },
+  {
+    "username": "sdatkinson",
+    "display_name": "Steven Atkinson",
+    "popular_repo": "neural-amp-modeler",
+    "url": "https://github.com/sdatkinson",
+    "repo_url": "https://github.com/sdatkinson/neural-amp-modeler"
+  },
+  {
+    "username": "marxin",
+    "display_name": "Martin Liška",
+    "popular_repo": "cvise",
+    "url": "https://github.com/marxin",
+    "repo_url": "https://github.com/marxin/cvise"
+  },
+  {
+    "username": "alshedivat",
+    "display_name": "Maruan",
+    "popular_repo": "al-folio",
+    "url": "https://github.com/alshedivat",
+    "repo_url": "https://github.com/alshedivat/al-folio"
+  },
+  {
+    "username": "comfyanonymous",
+    "display_name": "comfyanonymous",
+    "popular_repo": "ComfyUI_examples",
+    "url": "https://github.com/comfyanonymous",
+    "repo_url": "https://github.com/comfyanonymous/ComfyUI_examples"
+  },
+  {
+    "username": "jrouwe",
+    "display_name": "Jorrit Rouwe",
+    "popular_repo": "JoltPhysics",
+    "url": "https://github.com/jrouwe",
+    "repo_url": "https://github.com/jrouwe/JoltPhysics"
+  }
+]
