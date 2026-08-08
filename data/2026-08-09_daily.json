@@ -1,0 +1,122 @@
+[
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "total_stars": 8834,
+    "delta_stars": 2483,
+    "delta_text": "2,483 stars today",
+    "forks": 830,
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 84533,
+    "delta_stars": 778,
+    "delta_text": "778 stars today",
+    "forks": 9089,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "total_stars": 77911,
+    "delta_stars": 591,
+    "delta_text": "591 stars today",
+    "forks": 17640,
+    "url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "total_stars": 16713,
+    "delta_stars": 481,
+    "delta_text": "481 stars today",
+    "forks": 1361,
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 209974,
+    "delta_stars": 1354,
+    "delta_text": "1,354 stars today",
+    "forks": 18141,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "goauthentik/authentik",
+    "description": "The authentication glue you need.",
+    "language": "Python",
+    "total_stars": 23960,
+    "delta_stars": 467,
+    "delta_text": "467 stars today",
+    "forks": 1836,
+    "url": "https://github.com/goauthentik/authentik"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 96457,
+    "delta_stars": 126,
+    "delta_text": "126 stars today",
+    "forks": 18650,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "google/guava",
+    "description": "Google core libraries for Java",
+    "language": "Java",
+    "total_stars": 51845,
+    "delta_stars": 93,
+    "delta_text": "93 stars today",
+    "forks": 11180,
+    "url": "https://github.com/google/guava"
+  },
+  {
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "total_stars": 64975,
+    "delta_stars": 79,
+    "delta_text": "79 stars today",
+    "forks": 3104,
+    "url": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "name": "denoland/celld",
+    "description": "self-hosted, distributed Durable Objects",
+    "language": "Rust",
+    "total_stars": 2547,
+    "delta_stars": 432,
+    "delta_text": "432 stars today",
+    "forks": 72,
+    "url": "https://github.com/denoland/celld"
+  },
+  {
+    "name": "litu54/DevOps-Interview-Guide",
+    "description": "DevOps Interview Guide",
+    "language": "",
+    "total_stars": 696,
+    "delta_stars": 59,
+    "delta_text": "59 stars today",
+    "forks": 882,
+    "url": "https://github.com/litu54/DevOps-Interview-Guide"
+  },
+  {
+    "name": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "language": "Kotlin",
+    "total_stars": 49864,
+    "delta_stars": 161,
+    "delta_text": "161 stars today",
+    "forks": 8252,
+    "url": "https://github.com/bannedbook/fanqiang"
+  }
+]
