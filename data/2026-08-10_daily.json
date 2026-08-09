@@ -1,0 +1,122 @@
+[
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "total_stars": 10966,
+    "delta_stars": 2319,
+    "delta_text": "2,319 stars today",
+    "forks": 1139,
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "total_stars": 2967,
+    "delta_stars": 59,
+    "delta_text": "59 stars today",
+    "forks": 519,
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "total_stars": 140624,
+    "delta_stars": 932,
+    "delta_text": "932 stars today",
+    "forks": 22973,
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "name": "pranshuparmar/witr",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "language": "Go",
+    "total_stars": 20614,
+    "delta_stars": 342,
+    "delta_text": "342 stars today",
+    "forks": 726,
+    "url": "https://github.com/pranshuparmar/witr"
+  },
+  {
+    "name": "google-deepmind/weathernext",
+    "description": "",
+    "language": "Python",
+    "total_stars": 7064,
+    "delta_stars": 105,
+    "delta_text": "105 stars today",
+    "forks": 936,
+    "url": "https://github.com/google-deepmind/weathernext"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 85102,
+    "delta_stars": 670,
+    "delta_text": "670 stars today",
+    "forks": 9156,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 61163,
+    "delta_stars": 287,
+    "delta_text": "287 stars today",
+    "forks": 51989,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "goauthentik/authentik",
+    "description": "The authentication glue you need.",
+    "language": "Python",
+    "total_stars": 24254,
+    "delta_stars": 312,
+    "delta_text": "312 stars today",
+    "forks": 1856,
+    "url": "https://github.com/goauthentik/authentik"
+  },
+  {
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "total_stars": 17202,
+    "delta_stars": 532,
+    "delta_text": "532 stars today",
+    "forks": 1390,
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "total_stars": 125470,
+    "delta_stars": 333,
+    "delta_text": "333 stars today",
+    "forks": 14837,
+    "url": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
+    "name": "harveyai/harvey-labs",
+    "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+    "language": "Python",
+    "total_stars": 812,
+    "delta_stars": 87,
+    "delta_text": "87 stars today",
+    "forks": 174,
+    "url": "https://github.com/harveyai/harvey-labs"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 17638,
+    "delta_stars": 208,
+    "delta_text": "208 stars today",
+    "forks": 4009,
+    "url": "https://github.com/pingdotgg/t3code"
+  }
+]
