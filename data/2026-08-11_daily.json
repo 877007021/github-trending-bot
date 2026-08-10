@@ -1,0 +1,162 @@
+[
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 4060,
+    "delta_stars": 967,
+    "delta_text": "967 stars today",
+    "forks": 482,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "total_stars": 141779,
+    "delta_stars": 1352,
+    "delta_text": "1,352 stars today",
+    "forks": 23132,
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "total_stars": 60974,
+    "delta_stars": 215,
+    "delta_text": "215 stars today",
+    "forks": 12005,
+    "url": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 85721,
+    "delta_stars": 659,
+    "delta_text": "659 stars today",
+    "forks": 9226,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 76449,
+    "delta_stars": 167,
+    "delta_text": "167 stars today",
+    "forks": 14202,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "total_stars": 13022,
+    "delta_stars": 2655,
+    "delta_text": "2,655 stars today",
+    "forks": 1322,
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "total_stars": 65244,
+    "delta_stars": 106,
+    "delta_text": "106 stars today",
+    "forks": 3117,
+    "url": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 89355,
+    "delta_stars": 186,
+    "delta_text": "186 stars today",
+    "forks": 11889,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "danielmiessler/LifeOS",
+    "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+    "language": "TypeScript",
+    "total_stars": 17881,
+    "delta_stars": 357,
+    "delta_text": "357 stars today",
+    "forks": 2363,
+    "url": "https://github.com/danielmiessler/LifeOS"
+  },
+  {
+    "name": "firecrawl/firecrawl",
+    "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+    "language": "TypeScript",
+    "total_stars": 165033,
+    "delta_stars": 815,
+    "delta_text": "815 stars today",
+    "forks": 9285,
+    "url": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 97192,
+    "delta_stars": 234,
+    "delta_text": "234 stars today",
+    "forks": 18733,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "google-deepmind/weathernext",
+    "description": "",
+    "language": "Python",
+    "total_stars": 7334,
+    "delta_stars": 327,
+    "delta_text": "327 stars today",
+    "forks": 953,
+    "url": "https://github.com/google-deepmind/weathernext"
+  },
+  {
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "total_stars": 3516,
+    "delta_stars": 682,
+    "delta_text": "682 stars today",
+    "forks": 546,
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 18021,
+    "delta_stars": 388,
+    "delta_text": "388 stars today",
+    "forks": 4076,
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "total_stars": 126293,
+    "delta_stars": 921,
+    "delta_text": "921 stars today",
+    "forks": 14898,
+    "url": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
+    "name": "opa334/Dopamine",
+    "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+    "language": "C",
+    "total_stars": 6014,
+    "delta_stars": 174,
+    "delta_text": "174 stars today",
+    "forks": 6192,
+    "url": "https://github.com/opa334/Dopamine"
+  }
+]
