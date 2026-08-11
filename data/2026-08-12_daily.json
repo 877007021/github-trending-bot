@@ -1,0 +1,172 @@
+[
+  {
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "total_stars": 143150,
+    "delta_stars": 971,
+    "delta_text": "971 stars today",
+    "forks": 23271,
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 4844,
+    "delta_stars": 884,
+    "delta_text": "884 stars today",
+    "forks": 526,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "total_stars": 94483,
+    "delta_stars": 18,
+    "delta_text": "18 stars today",
+    "forks": 10353,
+    "url": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 86205,
+    "delta_stars": 571,
+    "delta_text": "571 stars today",
+    "forks": 9263,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 62108,
+    "delta_stars": 317,
+    "delta_text": "317 stars today",
+    "forks": 52420,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "total_stars": 3803,
+    "delta_stars": 339,
+    "delta_text": "339 stars today",
+    "forks": 560,
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 168114,
+    "delta_stars": 468,
+    "delta_text": "468 stars today",
+    "forks": 20029,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "total_stars": 90158,
+    "delta_stars": 246,
+    "delta_text": "246 stars today",
+    "forks": 7478,
+    "url": "https://github.com/3b1b/manim"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 34680,
+    "delta_stars": 829,
+    "delta_text": "829 stars today",
+    "forks": 4417,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+    "language": "TypeScript",
+    "total_stars": 42735,
+    "delta_stars": 881,
+    "delta_text": "881 stars today",
+    "forks": 2980,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 77139,
+    "delta_stars": 743,
+    "delta_text": "743 stars today",
+    "forks": 14248,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "huggingface/transformers",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "language": "Python",
+    "total_stars": 163793,
+    "delta_stars": 69,
+    "delta_text": "69 stars today",
+    "forks": 34200,
+    "url": "https://github.com/huggingface/transformers"
+  },
+  {
+    "name": "harveyai/harvey-labs",
+    "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+    "language": "Python",
+    "total_stars": 1074,
+    "delta_stars": 24,
+    "delta_text": "24 stars today",
+    "forks": 195,
+    "url": "https://github.com/harveyai/harvey-labs"
+  },
+  {
+    "name": "jaywcjlove/awesome-mac",
+    "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+    "language": "Swift",
+    "total_stars": 110451,
+    "delta_stars": 334,
+    "delta_text": "334 stars today",
+    "forks": 8415,
+    "url": "https://github.com/jaywcjlove/awesome-mac"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 47307,
+    "delta_stars": 436,
+    "delta_text": "436 stars today",
+    "forks": 5900,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "Python",
+    "total_stars": 278426,
+    "delta_stars": 394,
+    "delta_text": "394 stars today",
+    "forks": 35778,
+    "url": "https://github.com/practical-tutorials/project-based-learning"
+  },
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "total_stars": 14064,
+    "delta_stars": 1148,
+    "delta_text": "1,148 stars today",
+    "forks": 1451,
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  }
+]
