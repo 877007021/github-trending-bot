@@ -1,0 +1,172 @@
+[
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "language": "HTML",
+    "total_stars": 14371,
+    "delta_stars": 4504,
+    "delta_text": "4,504 stars today",
+    "forks": 859,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 6606,
+    "delta_stars": 727,
+    "delta_text": "727 stars today",
+    "forks": 696,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 168999,
+    "delta_stars": 383,
+    "delta_text": "383 stars today",
+    "forks": 20127,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 4936,
+    "delta_stars": 768,
+    "delta_text": "768 stars today",
+    "forks": 333,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "altic-dev/FluidVoice",
+    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
+    "language": "Swift",
+    "total_stars": 9840,
+    "delta_stars": 187,
+    "delta_text": "187 stars today",
+    "forks": 663,
+    "url": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "language": "Python",
+    "total_stars": 71034,
+    "delta_stars": 354,
+    "delta_text": "354 stars today",
+    "forks": 6405,
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "language": "Rust",
+    "total_stars": 2585,
+    "delta_stars": 1180,
+    "delta_text": "1,180 stars today",
+    "forks": 276,
+    "url": "https://github.com/macro-inc/macro"
+  },
+  {
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "total_stars": 12409,
+    "delta_stars": 166,
+    "delta_text": "166 stars today",
+    "forks": 1667,
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "name": "smicallef/spiderfoot",
+    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "language": "Python",
+    "total_stars": 20661,
+    "delta_stars": 278,
+    "delta_text": "278 stars today",
+    "forks": 3314,
+    "url": "https://github.com/smicallef/spiderfoot"
+  },
+  {
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+    "language": "Rust",
+    "total_stars": 1198,
+    "delta_stars": 408,
+    "delta_text": "408 stars today",
+    "forks": 108,
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+  },
+  {
+    "name": "holaboss-ai/holaOS",
+    "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+    "language": "TypeScript",
+    "total_stars": 6569,
+    "delta_stars": 380,
+    "delta_text": "380 stars today",
+    "forks": 598,
+    "url": "https://github.com/holaboss-ai/holaOS"
+  },
+  {
+    "name": "kepano/obsidian-skills",
+    "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+    "language": "",
+    "total_stars": 45707,
+    "delta_stars": 411,
+    "delta_text": "411 stars today",
+    "forks": 3295,
+    "url": "https://github.com/kepano/obsidian-skills"
+  },
+  {
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "total_stars": 90842,
+    "delta_stars": 204,
+    "delta_text": "204 stars today",
+    "forks": 7529,
+    "url": "https://github.com/3b1b/manim"
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "total_stars": 145173,
+    "delta_stars": 762,
+    "delta_text": "762 stars today",
+    "forks": 23483,
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "name": "Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+    "language": "Python",
+    "total_stars": 8905,
+    "delta_stars": 201,
+    "delta_text": "201 stars today",
+    "forks": 1406,
+    "url": "https://github.com/Lightricks/LTX-2"
+  },
+  {
+    "name": "lightningpixel/modly",
+    "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+    "language": "TypeScript",
+    "total_stars": 5391,
+    "delta_stars": 221,
+    "delta_text": "221 stars today",
+    "forks": 574,
+    "url": "https://github.com/lightningpixel/modly"
+  },
+  {
+    "name": "infiniflow/ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "language": "Go",
+    "total_stars": 88001,
+    "delta_stars": 473,
+    "delta_text": "473 stars today",
+    "forks": 10351,
+    "url": "https://github.com/infiniflow/ragflow"
+  }
+]

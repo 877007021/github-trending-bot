@@ -1,0 +1,172 @@
+[
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "total_stars": 15441,
+    "delta_stars": 12612,
+    "delta_text": "12,612 stars this week",
+    "forks": 1648,
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 6607,
+    "delta_stars": 3585,
+    "delta_text": "3,585 stars this week",
+    "forks": 696,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "total_stars": 18064,
+    "delta_stars": 2288,
+    "delta_text": "2,288 stars this week",
+    "forks": 1429,
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "name": "cloudflare/computer",
+    "description": "Give your agent a computer 👾",
+    "language": "TypeScript",
+    "total_stars": 7978,
+    "delta_stars": 6020,
+    "delta_text": "6,020 stars this week",
+    "forks": 441,
+    "url": "https://github.com/cloudflare/computer"
+  },
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "total_stars": 21197,
+    "delta_stars": 5720,
+    "delta_text": "5,720 stars this week",
+    "forks": 1930,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "total_stars": 4202,
+    "delta_stars": 1511,
+    "delta_text": "1,511 stars this week",
+    "forks": 586,
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "name": "huangruiteng/loopx",
+    "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+    "language": "Python",
+    "total_stars": 4604,
+    "delta_stars": 2509,
+    "delta_text": "2,509 stars this week",
+    "forks": 395,
+    "url": "https://github.com/huangruiteng/loopx"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 86960,
+    "delta_stars": 4817,
+    "delta_text": "4,817 stars this week",
+    "forks": 9340,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "drawdb-io/drawdb",
+    "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+    "language": "JavaScript",
+    "total_stars": 39035,
+    "delta_stars": 665,
+    "delta_text": "665 stars this week",
+    "forks": 3181,
+    "url": "https://github.com/drawdb-io/drawdb"
+  },
+  {
+    "name": "firecrawl/pdf-inspector",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "language": "Rust",
+    "total_stars": 15322,
+    "delta_stars": 4043,
+    "delta_text": "4,043 stars this week",
+    "forks": 1054,
+    "url": "https://github.com/firecrawl/pdf-inspector"
+  },
+  {
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "total_stars": 65552,
+    "delta_stars": 743,
+    "delta_text": "743 stars this week",
+    "forks": 3132,
+    "url": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "name": "esengine/DeepSeek-Reasonix",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "language": "Go",
+    "total_stars": 34467,
+    "delta_stars": 2953,
+    "delta_text": "2,953 stars this week",
+    "forks": 2275,
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "total_stars": 90842,
+    "delta_stars": 1420,
+    "delta_text": "1,420 stars this week",
+    "forks": 7529,
+    "url": "https://github.com/3b1b/manim"
+  },
+  {
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "language": "PowerShell",
+    "total_stars": 24922,
+    "delta_stars": 5573,
+    "delta_text": "5,573 stars this week",
+    "forks": 3386,
+    "url": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "total_stars": 79270,
+    "delta_stars": 2384,
+    "delta_text": "2,384 stars this week",
+    "forks": 17996,
+    "url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "total_stars": 21205,
+    "delta_stars": 3983,
+    "delta_text": "3,983 stars this week",
+    "forks": 2235,
+    "url": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  {
+    "name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "total_stars": 127350,
+    "delta_stars": 3321,
+    "delta_text": "3,321 stars this week",
+    "forks": 14988,
+    "url": "https://github.com/Comfy-Org/ComfyUI"
+  }
+]
