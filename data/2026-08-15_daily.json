@@ -1,0 +1,172 @@
+[
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "language": "HTML",
+    "total_stars": 17175,
+    "delta_stars": 3651,
+    "delta_text": "3,651 stars today",
+    "forks": 1023,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 5582,
+    "delta_stars": 661,
+    "delta_text": "661 stars today",
+    "forks": 372,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "total_stars": 12830,
+    "delta_stars": 427,
+    "delta_text": "427 stars today",
+    "forks": 1716,
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "language": "Rust",
+    "total_stars": 3017,
+    "delta_stars": 435,
+    "delta_text": "435 stars today",
+    "forks": 305,
+    "url": "https://github.com/macro-inc/macro"
+  },
+  {
+    "name": "smicallef/spiderfoot",
+    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "language": "Python",
+    "total_stars": 20932,
+    "delta_stars": 292,
+    "delta_text": "292 stars today",
+    "forks": 3341,
+    "url": "https://github.com/smicallef/spiderfoot"
+  },
+  {
+    "name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "language": "JavaScript",
+    "total_stars": 10343,
+    "delta_stars": 153,
+    "delta_text": "153 stars today",
+    "forks": 527,
+    "url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "name": "holaboss-ai/holaOS",
+    "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+    "language": "TypeScript",
+    "total_stars": 7265,
+    "delta_stars": 769,
+    "delta_text": "769 stars today",
+    "forks": 636,
+    "url": "https://github.com/holaboss-ai/holaOS"
+  },
+  {
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "language": "Python",
+    "total_stars": 128492,
+    "delta_stars": 1147,
+    "delta_text": "1,147 stars today",
+    "forks": 11483,
+    "url": "https://github.com/github/spec-kit"
+  },
+  {
+    "name": "lightningpixel/modly",
+    "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+    "language": "TypeScript",
+    "total_stars": 5916,
+    "delta_stars": 580,
+    "delta_text": "580 stars today",
+    "forks": 601,
+    "url": "https://github.com/lightningpixel/modly"
+  },
+  {
+    "name": "infiniflow/ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "language": "Go",
+    "total_stars": 88391,
+    "delta_stars": 474,
+    "delta_text": "474 stars today",
+    "forks": 10381,
+    "url": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 2805,
+    "delta_stars": 69,
+    "delta_text": "69 stars today",
+    "forks": 227,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "deepseek-ai/awesome-deepseek-agent",
+    "description": "",
+    "language": "",
+    "total_stars": 5686,
+    "delta_stars": 203,
+    "delta_text": "203 stars today",
+    "forks": 690,
+    "url": "https://github.com/deepseek-ai/awesome-deepseek-agent"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 7504,
+    "delta_stars": 1183,
+    "delta_text": "1,183 stars today",
+    "forks": 777,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "language": "Rust",
+    "total_stars": 120630,
+    "delta_stars": 182,
+    "delta_text": "182 stars today",
+    "forks": 18466,
+    "url": "https://github.com/rustdesk/rustdesk"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "total_stars": 83133,
+    "delta_stars": 238,
+    "delta_text": "238 stars today",
+    "forks": 8230,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "language": "Python",
+    "total_stars": 71486,
+    "delta_stars": 502,
+    "delta_text": "502 stars today",
+    "forks": 6447,
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "name": "ToolJet/ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "language": "JavaScript",
+    "total_stars": 39058,
+    "delta_stars": 302,
+    "delta_text": "302 stars today",
+    "forks": 5262,
+    "url": "https://github.com/ToolJet/ToolJet"
+  }
+]
