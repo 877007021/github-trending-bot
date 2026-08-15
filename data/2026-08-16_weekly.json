@@ -1,0 +1,162 @@
+[
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "language": "HTML",
+    "total_stars": 18570,
+    "delta_stars": 13556,
+    "delta_text": "13,556 stars this week",
+    "forks": 1114,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 7912,
+    "delta_stars": 5135,
+    "delta_text": "5,135 stars this week",
+    "forks": 811,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "total_stars": 16280,
+    "delta_stars": 10739,
+    "delta_text": "10,739 stars this week",
+    "forks": 1750,
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "total_stars": 13107,
+    "delta_stars": 671,
+    "delta_text": "671 stars this week",
+    "forks": 1742,
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+    "language": "Rust",
+    "total_stars": 1582,
+    "delta_stars": 1195,
+    "delta_text": "1,195 stars this week",
+    "forks": 144,
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+  },
+  {
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "total_stars": 4367,
+    "delta_stars": 1718,
+    "delta_text": "1,718 stars this week",
+    "forks": 592,
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 6052,
+    "delta_stars": 1929,
+    "delta_text": "1,929 stars this week",
+    "forks": 402,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "language": "Rust",
+    "total_stars": 3267,
+    "delta_stars": 2159,
+    "delta_text": "2,159 stars this week",
+    "forks": 324,
+    "url": "https://github.com/macro-inc/macro"
+  },
+  {
+    "name": "ToolJet/ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "language": "JavaScript",
+    "total_stars": 39514,
+    "delta_stars": 543,
+    "delta_text": "543 stars this week",
+    "forks": 5293,
+    "url": "https://github.com/ToolJet/ToolJet"
+  },
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "total_stars": 21974,
+    "delta_stars": 4423,
+    "delta_text": "4,423 stars this week",
+    "forks": 2011,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 87493,
+    "delta_stars": 3845,
+    "delta_text": "3,845 stars this week",
+    "forks": 9383,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "total_stars": 91228,
+    "delta_stars": 1919,
+    "delta_text": "1,919 stars this week",
+    "forks": 7548,
+    "url": "https://github.com/3b1b/manim"
+  },
+  {
+    "name": "cloudflare/computer",
+    "description": "Give your agent a computer 👾",
+    "language": "TypeScript",
+    "total_stars": 8247,
+    "delta_stars": 2856,
+    "delta_text": "2,856 stars this week",
+    "forks": 450,
+    "url": "https://github.com/cloudflare/computer"
+  },
+  {
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "total_stars": 18322,
+    "delta_stars": 2186,
+    "delta_text": "2,186 stars this week",
+    "forks": 1444,
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "name": "google-deepmind/weathernext",
+    "description": "",
+    "language": "Python",
+    "total_stars": 7515,
+    "delta_stars": 674,
+    "delta_text": "674 stars this week",
+    "forks": 962,
+    "url": "https://github.com/google-deepmind/weathernext"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 78305,
+    "delta_stars": 2404,
+    "delta_text": "2,404 stars this week",
+    "forks": 14361,
+    "url": "https://github.com/paperclipai/paperclip"
+  }
+]
