@@ -1,0 +1,162 @@
+[
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "language": "HTML",
+    "total_stars": 19491,
+    "delta_stars": 14735,
+    "delta_text": "14,735 stars this week",
+    "forks": 1194,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 8172,
+    "delta_stars": 5339,
+    "delta_text": "5,339 stars this week",
+    "forks": 835,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "total_stars": 16554,
+    "delta_stars": 8488,
+    "delta_text": "8,488 stars this week",
+    "forks": 1782,
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+    "language": "Rust",
+    "total_stars": 1681,
+    "delta_stars": 1326,
+    "delta_text": "1,326 stars this week",
+    "forks": 153,
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+  },
+  {
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "total_stars": 13287,
+    "delta_stars": 1059,
+    "delta_text": "1,059 stars this week",
+    "forks": 1755,
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 6541,
+    "delta_stars": 2488,
+    "delta_text": "2,488 stars this week",
+    "forks": 431,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "language": "Rust",
+    "total_stars": 3401,
+    "delta_stars": 2434,
+    "delta_text": "2,434 stars this week",
+    "forks": 338,
+    "url": "https://github.com/macro-inc/macro"
+  },
+  {
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "total_stars": 4428,
+    "delta_stars": 1756,
+    "delta_text": "1,756 stars this week",
+    "forks": 597,
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "name": "ToolJet/ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "language": "JavaScript",
+    "total_stars": 40000,
+    "delta_stars": 1047,
+    "delta_text": "1,047 stars this week",
+    "forks": 5329,
+    "url": "https://github.com/ToolJet/ToolJet"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 87740,
+    "delta_stars": 3300,
+    "delta_text": "3,300 stars this week",
+    "forks": 9404,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "total_stars": 91344,
+    "delta_stars": 2008,
+    "delta_text": "2,008 stars this week",
+    "forks": 7555,
+    "url": "https://github.com/3b1b/manim"
+  },
+  {
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 25352,
+    "delta_stars": 591,
+    "delta_text": "591 stars this week",
+    "forks": 2588,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "language": "Python",
+    "total_stars": 72541,
+    "delta_stars": 2207,
+    "delta_text": "2,207 stars this week",
+    "forks": 6542,
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "total_stars": 22224,
+    "delta_stars": 3956,
+    "delta_text": "3,956 stars this week",
+    "forks": 2038,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+    "language": "Python",
+    "total_stars": 9055,
+    "delta_stars": 484,
+    "delta_text": "484 stars this week",
+    "forks": 1429,
+    "url": "https://github.com/Lightricks/LTX-2"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 78502,
+    "delta_stars": 2430,
+    "delta_text": "2,430 stars this week",
+    "forks": 14383,
+    "url": "https://github.com/paperclipai/paperclip"
+  }
+]

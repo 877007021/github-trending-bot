@@ -1,0 +1,202 @@
+[
+  {
+    "name": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "language": "Python",
+    "total_stars": 37863,
+    "delta_stars": 37493,
+    "delta_text": "37,493 stars this month",
+    "forks": 4168,
+    "url": "https://github.com/bojieli/ai-agent-book"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+    "language": "TypeScript",
+    "total_stars": 49159,
+    "delta_stars": 31196,
+    "delta_text": "31,196 stars this month",
+    "forks": 6702,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 82398,
+    "delta_stars": 20570,
+    "delta_text": "20,570 stars this month",
+    "forks": 12302,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "The most RAM efficient harness",
+    "language": "Rust",
+    "total_stars": 17752,
+    "delta_stars": 9406,
+    "delta_text": "9,406 stars this month",
+    "forks": 1993,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "total_stars": 22224,
+    "delta_stars": 13073,
+    "delta_text": "13,073 stars this month",
+    "forks": 2038,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "language": "PowerShell",
+    "total_stars": 25689,
+    "delta_stars": 17376,
+    "delta_text": "17,376 stars this month",
+    "forks": 3475,
+    "url": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 18962,
+    "delta_stars": 4953,
+    "delta_text": "4,953 stars this month",
+    "forks": 4398,
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "language": "TypeScript",
+    "total_stars": 91449,
+    "delta_stars": 19831,
+    "delta_text": "19,831 stars this month",
+    "forks": 11350,
+    "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 12208,
+    "delta_stars": 7741,
+    "delta_text": "7,741 stars this month",
+    "forks": 1389,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 219263,
+    "delta_stars": 47580,
+    "delta_text": "47,580 stars this month",
+    "forks": 18877,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "total_stars": 22209,
+    "delta_stars": 13193,
+    "delta_text": "13,193 stars this month",
+    "forks": 2345,
+    "url": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+    "language": "TypeScript",
+    "total_stars": 46571,
+    "delta_stars": 26744,
+    "delta_text": "26,744 stars this month",
+    "forks": 3253,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 35946,
+    "delta_stars": 9896,
+    "delta_text": "9,896 stars this month",
+    "forks": 4530,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "total_stars": 30352,
+    "delta_stars": 10869,
+    "delta_text": "10,869 stars this month",
+    "forks": 2770,
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "name": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent",
+    "language": "TypeScript",
+    "total_stars": 4418,
+    "delta_stars": 3112,
+    "delta_text": "3,112 stars this month",
+    "forks": 618,
+    "url": "https://github.com/agegr/pi-web"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 25296,
+    "delta_stars": 18188,
+    "delta_text": "18,188 stars this month",
+    "forks": 1286,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "total_stars": 31336,
+    "delta_stars": 8681,
+    "delta_text": "8,681 stars this month",
+    "forks": 3326,
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "name": "different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "language": "TypeScript",
+    "total_stars": 22449,
+    "delta_stars": 5621,
+    "delta_text": "5,621 stars this month",
+    "forks": 2216,
+    "url": "https://github.com/different-ai/openwork"
+  },
+  {
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "total_stars": 13287,
+    "delta_stars": 1380,
+    "delta_text": "1,380 stars this month",
+    "forks": 1755,
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "HTML",
+    "total_stars": 13345,
+    "delta_stars": 8079,
+    "delta_text": "8,079 stars this month",
+    "forks": 975,
+    "url": "https://github.com/tt-a1i/archify"
+  }
+]
