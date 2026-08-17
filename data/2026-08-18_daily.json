@@ -1,0 +1,112 @@
+[
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "language": "Python",
+    "total_stars": 105942,
+    "delta_stars": 1275,
+    "delta_text": "1,275 stars today",
+    "forks": 16104,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "total_stars": 54112,
+    "delta_stars": 656,
+    "delta_text": "656 stars today",
+    "forks": 5793,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "name": "nautechsystems/nautilus_trader",
+    "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+    "language": "Rust",
+    "total_stars": 25894,
+    "delta_stars": 115,
+    "delta_text": "115 stars today",
+    "forks": 3372,
+    "url": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 2014,
+    "delta_stars": 207,
+    "delta_text": "207 stars today",
+    "forks": 192,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "total_stars": 28390,
+    "delta_stars": 156,
+    "delta_text": "156 stars today",
+    "forks": 3446,
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "language": "Rust",
+    "total_stars": 32234,
+    "delta_stars": 239,
+    "delta_text": "239 stars today",
+    "forks": 1998,
+    "url": "https://github.com/AlexsJones/llmfit"
+  },
+  {
+    "name": "santifer/career-ops",
+    "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+    "language": "JavaScript",
+    "total_stars": 64595,
+    "delta_stars": 147,
+    "delta_text": "147 stars today",
+    "forks": 12650,
+    "url": "https://github.com/santifer/career-ops"
+  },
+  {
+    "name": "jundot/omlx",
+    "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "language": "Python",
+    "total_stars": 18974,
+    "delta_stars": 96,
+    "delta_text": "96 stars today",
+    "forks": 1644,
+    "url": "https://github.com/jundot/omlx"
+  },
+  {
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "total_stars": 111129,
+    "delta_stars": 337,
+    "delta_text": "337 stars today",
+    "forks": 6574,
+    "url": "https://github.com/immich-app/immich"
+  },
+  {
+    "name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "language": "TypeScript",
+    "total_stars": 5557,
+    "delta_stars": 959,
+    "delta_text": "959 stars today",
+    "forks": 294,
+    "url": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "name": "agalwood/Motrix",
+    "description": "A full-featured download manager.",
+    "language": "TypeScript",
+    "total_stars": 53046,
+    "delta_stars": 295,
+    "delta_text": "295 stars today",
+    "forks": 4927,
+    "url": "https://github.com/agalwood/Motrix"
+  }
+]
