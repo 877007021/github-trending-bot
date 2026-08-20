@@ -1,0 +1,182 @@
+[
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 24275,
+    "delta_stars": 14397,
+    "delta_text": "14,397 stars this week",
+    "forks": 1470,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 31001,
+    "delta_stars": 1659,
+    "delta_text": "1,659 stars this week",
+    "forks": 2392,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 27047,
+    "delta_stars": 2208,
+    "delta_text": "2,208 stars this week",
+    "forks": 2768,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 8117,
+    "delta_stars": 3838,
+    "delta_text": "3,838 stars this week",
+    "forks": 520,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 9812,
+    "delta_stars": 4005,
+    "delta_text": "4,005 stars this week",
+    "forks": 1044,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+    "language": "Rust",
+    "total_stars": 1971,
+    "delta_stars": 1220,
+    "delta_text": "1,220 stars this week",
+    "forks": 178,
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 27903,
+    "delta_stars": 641,
+    "delta_text": "641 stars this week",
+    "forks": 2999,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "language": "Python",
+    "total_stars": 112892,
+    "delta_stars": 7380,
+    "delta_text": "7,380 stars this week",
+    "forks": 17109,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "total_stars": 467173,
+    "delta_stars": 10183,
+    "delta_text": "10,183 stars this week",
+    "forks": 51529,
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "total_stars": 13829,
+    "delta_stars": 1704,
+    "delta_text": "1,704 stars this week",
+    "forks": 1800,
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 11807,
+    "delta_stars": 1492,
+    "delta_text": "1,492 stars this week",
+    "forks": 321,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "lightningpixel/modly",
+    "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+    "language": "TypeScript",
+    "total_stars": 7031,
+    "delta_stars": 1797,
+    "delta_text": "1,797 stars this week",
+    "forks": 671,
+    "url": "https://github.com/lightningpixel/modly"
+  },
+  {
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "language": "Rust",
+    "total_stars": 3868,
+    "delta_stars": 2557,
+    "delta_text": "2,557 stars this week",
+    "forks": 369,
+    "url": "https://github.com/macro-inc/macro"
+  },
+  {
+    "name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "language": "Python",
+    "total_stars": 74094,
+    "delta_stars": 3338,
+    "delta_text": "3,338 stars this week",
+    "forks": 6695,
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 3575,
+    "delta_stars": 1717,
+    "delta_text": "1,717 stars this week",
+    "forks": 280,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "jundot/omlx",
+    "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "language": "Python",
+    "total_stars": 20102,
+    "delta_stars": 1102,
+    "delta_text": "1,102 stars this week",
+    "forks": 1709,
+    "url": "https://github.com/jundot/omlx"
+  },
+  {
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "language": "Rust",
+    "total_stars": 33270,
+    "delta_stars": 1545,
+    "delta_text": "1,545 stars this week",
+    "forks": 2061,
+    "url": "https://github.com/AlexsJones/llmfit"
+  },
+  {
+    "name": "CodebuffAI/freebuff",
+    "description": "The free coding agent",
+    "language": "TypeScript",
+    "total_stars": 10271,
+    "delta_stars": 1037,
+    "delta_text": "1,037 stars this week",
+    "forks": 1128,
+    "url": "https://github.com/CodebuffAI/freebuff"
+  }
+]

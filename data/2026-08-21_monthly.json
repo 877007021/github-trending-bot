@@ -1,0 +1,222 @@
+[
+  {
+    "name": "block/buzz",
+    "description": "A hive mind communication platform",
+    "language": "Rust",
+    "total_stars": 28898,
+    "delta_stars": 28450,
+    "delta_text": "28,450 stars this month",
+    "forks": 3633,
+    "url": "https://github.com/block/buzz"
+  },
+  {
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "language": "Swift",
+    "total_stars": 35703,
+    "delta_stars": 9639,
+    "delta_text": "9,639 stars this month",
+    "forks": 5671,
+    "url": "https://github.com/permissionlesstech/bitchat"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 22653,
+    "delta_stars": 20624,
+    "delta_text": "20,624 stars this month",
+    "forks": 1448,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "language": "JavaScript",
+    "total_stars": 12246,
+    "delta_stars": 11504,
+    "delta_text": "11,504 stars this month",
+    "forks": 643,
+    "url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "total_stars": 23475,
+    "delta_stars": 14200,
+    "delta_text": "14,200 stars this month",
+    "forks": 2166,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+    "language": "TypeScript",
+    "total_stars": 51963,
+    "delta_stars": 31584,
+    "delta_text": "31,584 stars this month",
+    "forks": 7089,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "language": "PowerShell",
+    "total_stars": 27015,
+    "delta_stars": 18446,
+    "delta_text": "18,446 stars this month",
+    "forks": 3684,
+    "url": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "name": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "language": "Python",
+    "total_stars": 40249,
+    "delta_stars": 31932,
+    "delta_text": "31,932 stars this month",
+    "forks": 4427,
+    "url": "https://github.com/bojieli/ai-agent-book"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 19769,
+    "delta_stars": 5456,
+    "delta_text": "5,456 stars this month",
+    "forks": 4629,
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "language": "Jupyter Notebook",
+    "total_stars": 65904,
+    "delta_stars": 13404,
+    "delta_text": "13,404 stars this month",
+    "forks": 12767,
+    "url": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "total_stars": 23409,
+    "delta_stars": 14356,
+    "delta_text": "14,356 stars this month",
+    "forks": 2473,
+    "url": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 226368,
+    "delta_stars": 46905,
+    "delta_text": "46,905 stars this month",
+    "forks": 19409,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "The most RAM efficient harness",
+    "language": "Rust",
+    "total_stars": 18106,
+    "delta_stars": 9437,
+    "delta_text": "9,437 stars this month",
+    "forks": 2032,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 27047,
+    "delta_stars": 2837,
+    "delta_text": "2,837 stars this month",
+    "forks": 2768,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "language": "TypeScript",
+    "total_stars": 94395,
+    "delta_stars": 21424,
+    "delta_text": "21,424 stars this month",
+    "forks": 11680,
+    "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "total_stars": 83483,
+    "delta_stars": 21531,
+    "delta_text": "21,531 stars this month",
+    "forks": 12449,
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 8117,
+    "delta_stars": 4522,
+    "delta_text": "4,522 stars this month",
+    "forks": 520,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "total_stars": 13829,
+    "delta_stars": 2001,
+    "delta_text": "2,001 stars this month",
+    "forks": 1800,
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 36651,
+    "delta_stars": 8834,
+    "delta_text": "8,834 stars this month",
+    "forks": 4611,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "language": "TypeScript",
+    "total_stars": 22805,
+    "delta_stars": 5910,
+    "delta_text": "5,910 stars this month",
+    "forks": 2259,
+    "url": "https://github.com/different-ai/openwork"
+  },
+  {
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "total_stars": 31925,
+    "delta_stars": 8268,
+    "delta_text": "8,268 stars this month",
+    "forks": 3381,
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 12869,
+    "delta_stars": 8208,
+    "delta_text": "8,208 stars this month",
+    "forks": 1469,
+    "url": "https://github.com/every-app/open-seo"
+  }
+]
