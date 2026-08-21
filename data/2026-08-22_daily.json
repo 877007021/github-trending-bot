@@ -1,0 +1,172 @@
+[
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 229402,
+    "delta_stars": 3368,
+    "delta_text": "3,368 stars today",
+    "forks": 19605,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "mahlernim/google-timeline-visualizer",
+    "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+    "language": "Kotlin",
+    "total_stars": 2206,
+    "delta_stars": 1040,
+    "delta_text": "1,040 stars today",
+    "forks": 252,
+    "url": "https://github.com/mahlernim/google-timeline-visualizer"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "language": "Python",
+    "total_stars": 113870,
+    "delta_stars": 1187,
+    "delta_text": "1,187 stars today",
+    "forks": 17280,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 12885,
+    "delta_stars": 1372,
+    "delta_text": "1,372 stars today",
+    "forks": 350,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "language": "Python",
+    "total_stars": 38278,
+    "delta_stars": 334,
+    "delta_text": "334 stars today",
+    "forks": 3232,
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "name": "microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "language": "Go",
+    "total_stars": 110371,
+    "delta_stars": 65,
+    "delta_text": "65 stars today",
+    "forks": 13741,
+    "url": "https://github.com/microsoft/TypeScript"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 275639,
+    "delta_stars": 789,
+    "delta_text": "789 stars today",
+    "forks": 24642,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "santifer/career-ops",
+    "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+    "language": "JavaScript",
+    "total_stars": 67424,
+    "delta_stars": 918,
+    "delta_text": "918 stars today",
+    "forks": 12867,
+    "url": "https://github.com/santifer/career-ops"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 4387,
+    "delta_stars": 391,
+    "delta_text": "391 stars today",
+    "forks": 366,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 28673,
+    "delta_stars": 905,
+    "delta_text": "905 stars today",
+    "forks": 3053,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 241774,
+    "delta_stars": 348,
+    "delta_text": "348 stars today",
+    "forks": 36655,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "TryGhost/Ghost",
+    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+    "language": "JavaScript",
+    "total_stars": 54870,
+    "delta_stars": 32,
+    "delta_text": "32 stars today",
+    "forks": 11903,
+    "url": "https://github.com/TryGhost/Ghost"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "language": "TypeScript",
+    "total_stars": 68633,
+    "delta_stars": 140,
+    "delta_text": "140 stars today",
+    "forks": 8242,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "language": "TypeScript",
+    "total_stars": 2001,
+    "delta_stars": 141,
+    "delta_text": "141 stars today",
+    "forks": 240,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "total_stars": 71763,
+    "delta_stars": 4,
+    "delta_text": "4 stars today",
+    "forks": 16236,
+    "url": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "name": "elder-plinius/OBLITERATUS",
+    "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+    "language": "Python",
+    "total_stars": 7767,
+    "delta_stars": 63,
+    "delta_text": "63 stars today",
+    "forks": 1432,
+    "url": "https://github.com/elder-plinius/OBLITERATUS"
+  },
+  {
+    "name": "microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "language": "C++",
+    "total_stars": 21429,
+    "delta_stars": 5,
+    "delta_text": "5 stars today",
+    "forks": 4148,
+    "url": "https://github.com/microsoft/onnxruntime"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "language": "TypeScript",
+    "total_stars": 6943,
+    "delta_stars": 3614,
+    "delta_text": "3,614 stars this week",
+    "forks": 401,
+    "url": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 24983,
+    "delta_stars": 11325,
+    "delta_text": "11,325 stars this week",
+    "forks": 1522,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 4387,
+    "delta_stars": 1273,
+    "delta_text": "1,273 stars this week",
+    "forks": 366,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 31646,
+    "delta_stars": 2444,
+    "delta_text": "2,444 stars this week",
+    "forks": 2424,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 27502,
+    "delta_stars": 2395,
+    "delta_text": "2,395 stars this week",
+    "forks": 2816,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 28673,
+    "delta_stars": 744,
+    "delta_text": "744 stars this week",
+    "forks": 3053,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "language": "Python",
+    "total_stars": 113871,
+    "delta_stars": 9712,
+    "delta_text": "9,712 stars this week",
+    "forks": 17280,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "total_stars": 467965,
+    "delta_stars": 11259,
+    "delta_text": "11,259 stars this week",
+    "forks": 51630,
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 10063,
+    "delta_stars": 3674,
+    "delta_text": "3,674 stars this week",
+    "forks": 1076,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 12885,
+    "delta_stars": 2674,
+    "delta_text": "2,674 stars this week",
+    "forks": 350,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 8331,
+    "delta_stars": 3409,
+    "delta_text": "3,409 stars this week",
+    "forks": 537,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+    "language": "Rust",
+    "total_stars": 2053,
+    "delta_stars": 932,
+    "delta_text": "932 stars this week",
+    "forks": 184,
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 3939,
+    "delta_stars": 1952,
+    "delta_text": "1,952 stars this week",
+    "forks": 297,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "language": "Rust",
+    "total_stars": 33444,
+    "delta_stars": 1842,
+    "delta_text": "1,842 stars this week",
+    "forks": 2078,
+    "url": "https://github.com/AlexsJones/llmfit"
+  },
+  {
+    "name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "language": "Python",
+    "total_stars": 74259,
+    "delta_stars": 3300,
+    "delta_text": "3,300 stars this week",
+    "forks": 6713,
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "name": "jundot/omlx",
+    "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "language": "Python",
+    "total_stars": 20218,
+    "delta_stars": 1388,
+    "delta_text": "1,388 stars this week",
+    "forks": 1716,
+    "url": "https://github.com/jundot/omlx"
+  }
+]
