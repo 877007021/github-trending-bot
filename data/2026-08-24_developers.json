@@ -1,0 +1,177 @@
+[
+  {
+    "username": "kunchenguid",
+    "display_name": "Kun Chen",
+    "popular_repo": "firstmate",
+    "url": "https://github.com/kunchenguid",
+    "repo_url": "https://github.com/kunchenguid/firstmate"
+  },
+  {
+    "username": "Astro-Han",
+    "display_name": "AstroHan",
+    "popular_repo": "karpathy-llm-wiki",
+    "url": "https://github.com/Astro-Han",
+    "repo_url": "https://github.com/Astro-Han/karpathy-llm-wiki"
+  },
+  {
+    "username": "EtienneLescot",
+    "display_name": "Etienne Lescot",
+    "popular_repo": "n8n-as-code",
+    "url": "https://github.com/EtienneLescot",
+    "repo_url": "https://github.com/EtienneLescot/n8n-as-code"
+  },
+  {
+    "username": "emilk",
+    "display_name": "Emil Ernerfeldt",
+    "popular_repo": "egui",
+    "url": "https://github.com/emilk",
+    "repo_url": "https://github.com/emilk/egui"
+  },
+  {
+    "username": "maziyarpanahi",
+    "display_name": "Maziyar Panahi",
+    "popular_repo": "openmed",
+    "url": "https://github.com/maziyarpanahi",
+    "repo_url": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "username": "henrygd",
+    "display_name": "hank",
+    "popular_repo": "beszel",
+    "url": "https://github.com/henrygd",
+    "repo_url": "https://github.com/henrygd/beszel"
+  },
+  {
+    "username": "colbymchenry",
+    "display_name": "Colby Mchenry",
+    "popular_repo": "codegraph",
+    "url": "https://github.com/colbymchenry",
+    "repo_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "username": "dreamhunter2333",
+    "display_name": "Dream Hunter",
+    "popular_repo": "cloudflare_temp_email",
+    "url": "https://github.com/dreamhunter2333",
+    "repo_url": "https://github.com/dreamhunter2333/cloudflare_temp_email"
+  },
+  {
+    "username": "jeremy",
+    "display_name": "Jeremy Daer",
+    "popular_repo": "",
+    "url": "https://github.com/jeremy",
+    "repo_url": ""
+  },
+  {
+    "username": "szTheory",
+    "display_name": "szTheory",
+    "popular_repo": "exifcleaner",
+    "url": "https://github.com/szTheory",
+    "repo_url": "https://github.com/szTheory/exifcleaner"
+  },
+  {
+    "username": "carlosflorencio",
+    "display_name": "Carlos Florêncio",
+    "popular_repo": "",
+    "url": "https://github.com/carlosflorencio",
+    "repo_url": ""
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "wenshao",
+    "display_name": "Shaojin Wen",
+    "popular_repo": "codeagents",
+    "url": "https://github.com/wenshao",
+    "repo_url": "https://github.com/wenshao/codeagents"
+  },
+  {
+    "username": "artokun",
+    "display_name": "Arthur R Longbottom",
+    "popular_repo": "comfyui-mcp",
+    "url": "https://github.com/artokun",
+    "repo_url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "Simon-He95",
+    "display_name": "Simon He",
+    "popular_repo": "markstream-vue",
+    "url": "https://github.com/Simon-He95",
+    "repo_url": "https://github.com/Simon-He95/markstream-vue"
+  },
+  {
+    "username": "cixzhang",
+    "display_name": "Cindy Zhang",
+    "popular_repo": "mdx-a2ui",
+    "url": "https://github.com/cixzhang",
+    "repo_url": "https://github.com/cixzhang/mdx-a2ui"
+  },
+  {
+    "username": "magnus919",
+    "display_name": "Magnus Hedemark",
+    "popular_repo": "hermes-profiles",
+    "url": "https://github.com/magnus919",
+    "repo_url": "https://github.com/magnus919/hermes-profiles"
+  },
+  {
+    "username": "lidge-jun",
+    "display_name": "JUN",
+    "popular_repo": "opencodex",
+    "url": "https://github.com/lidge-jun",
+    "repo_url": "https://github.com/lidge-jun/opencodex"
+  },
+  {
+    "username": "igorls",
+    "display_name": "Igor Lins e Silva",
+    "popular_repo": "context-builder",
+    "url": "https://github.com/igorls",
+    "repo_url": "https://github.com/igorls/context-builder"
+  },
+  {
+    "username": "tobi",
+    "display_name": "Tobias Lütke",
+    "popular_repo": "qmd",
+    "url": "https://github.com/tobi",
+    "repo_url": "https://github.com/tobi/qmd"
+  },
+  {
+    "username": "Planeshifter",
+    "display_name": "Philipp Burckhardt",
+    "popular_repo": "hackernews-ai-digest",
+    "url": "https://github.com/Planeshifter",
+    "repo_url": "https://github.com/Planeshifter/hackernews-ai-digest"
+  },
+  {
+    "username": "JustVugg",
+    "display_name": "Vincenzo Fornaro",
+    "popular_repo": "colibri",
+    "url": "https://github.com/JustVugg",
+    "repo_url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "username": "mitchellh",
+    "display_name": "Mitchell Hashimoto",
+    "popular_repo": "vouch",
+    "url": "https://github.com/mitchellh",
+    "repo_url": "https://github.com/mitchellh/vouch"
+  },
+  {
+    "username": "bdraco",
+    "display_name": "J. Nick Koston",
+    "popular_repo": "",
+    "url": "https://github.com/bdraco",
+    "repo_url": ""
+  }
+]

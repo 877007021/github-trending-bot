@@ -1,0 +1,122 @@
+[
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 28967,
+    "delta_stars": 2017,
+    "delta_text": "2,017 stars this week",
+    "forks": 3076,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "language": "Python",
+    "total_stars": 115273,
+    "delta_stars": 10953,
+    "delta_text": "10,953 stars this week",
+    "forks": 17512,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 29089,
+    "delta_stars": 3151,
+    "delta_text": "3,151 stars this week",
+    "forks": 2958,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 14891,
+    "delta_stars": 4993,
+    "delta_text": "4,993 stars this week",
+    "forks": 398,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "language": "TypeScript",
+    "total_stars": 7234,
+    "delta_stars": 3364,
+    "delta_text": "3,364 stars this week",
+    "forks": 419,
+    "url": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 32470,
+    "delta_stars": 3447,
+    "delta_text": "3,447 stars this week",
+    "forks": 2481,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "total_stars": 469188,
+    "delta_stars": 9381,
+    "delta_text": "9,381 stars this week",
+    "forks": 51756,
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "jundot/omlx",
+    "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "language": "Python",
+    "total_stars": 20447,
+    "delta_stars": 1597,
+    "delta_text": "1,597 stars this week",
+    "forks": 1731,
+    "url": "https://github.com/jundot/omlx"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 4234,
+    "delta_stars": 2575,
+    "delta_text": "2,575 stars this week",
+    "forks": 313,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 918,
+    "delta_stars": 341,
+    "delta_text": "341 stars this week",
+    "forks": 125,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 4818,
+    "delta_stars": 1693,
+    "delta_text": "1,693 stars this week",
+    "forks": 396,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "language": "TypeScript",
+    "total_stars": 2332,
+    "delta_stars": 810,
+    "delta_text": "810 stars this week",
+    "forks": 268,
+    "url": "https://github.com/apache/maka"
+  }
+]
