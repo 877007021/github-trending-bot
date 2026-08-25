@@ -1,0 +1,142 @@
+[
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 29148,
+    "delta_stars": 2285,
+    "delta_text": "2,285 stars this week",
+    "forks": 3106,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 16417,
+    "delta_stars": 7019,
+    "delta_text": "7,019 stars this week",
+    "forks": 451,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "language": "Python",
+    "total_stars": 116443,
+    "delta_stars": 10647,
+    "delta_text": "10,647 stars this week",
+    "forks": 17710,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 31204,
+    "delta_stars": 3934,
+    "delta_text": "3,934 stars this week",
+    "forks": 3174,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 1722,
+    "delta_stars": 877,
+    "delta_text": "877 stars this week",
+    "forks": 177,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "language": "TypeScript",
+    "total_stars": 3309,
+    "delta_stars": 1313,
+    "delta_text": "1,313 stars this week",
+    "forks": 328,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 33276,
+    "delta_stars": 4048,
+    "delta_text": "4,048 stars this week",
+    "forks": 2537,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "language": "JavaScript",
+    "total_stars": 17588,
+    "delta_stars": 4341,
+    "delta_text": "4,341 stars this week",
+    "forks": 1817,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "total_stars": 118072,
+    "delta_stars": 10571,
+    "delta_text": "10,571 stars this week",
+    "forks": 17995,
+    "url": "https://github.com/openai/codex"
+  },
+  {
+    "name": "jundot/omlx",
+    "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "language": "Python",
+    "total_stars": 20642,
+    "delta_stars": 1689,
+    "delta_text": "1,689 stars this week",
+    "forks": 1743,
+    "url": "https://github.com/jundot/omlx"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "total_stars": 470449,
+    "delta_stars": 7069,
+    "delta_text": "7,069 stars this week",
+    "forks": 51873,
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "Tencent/AI-Infra-Guard",
+    "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+    "language": "Python",
+    "total_stars": 5883,
+    "delta_stars": 1212,
+    "delta_text": "1,212 stars this week",
+    "forks": 541,
+    "url": "https://github.com/Tencent/AI-Infra-Guard"
+  },
+  {
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "language": "Python",
+    "total_stars": 39155,
+    "delta_stars": 1186,
+    "delta_text": "1,186 stars this week",
+    "forks": 3287,
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "name": "eneskirca/nodeterm",
+    "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
+    "language": "TypeScript",
+    "total_stars": 1260,
+    "delta_stars": 529,
+    "delta_text": "529 stars this week",
+    "forks": 126,
+    "url": "https://github.com/eneskirca/nodeterm"
+  }
+]

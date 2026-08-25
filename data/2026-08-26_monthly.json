@@ -1,0 +1,202 @@
+[
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "total_stars": 24434,
+    "delta_stars": 15093,
+    "delta_text": "15,093 stars this month",
+    "forks": 2253,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 31204,
+    "delta_stars": 5853,
+    "delta_text": "5,853 stars this month",
+    "forks": 3174,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "name": "block/buzz",
+    "description": "A hive mind communication platform",
+    "language": "Rust",
+    "total_stars": 30688,
+    "delta_stars": 21856,
+    "delta_text": "21,856 stars this month",
+    "forks": 3893,
+    "url": "https://github.com/block/buzz"
+  },
+  {
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "language": "PowerShell",
+    "total_stars": 29215,
+    "delta_stars": 19889,
+    "delta_text": "19,889 stars this month",
+    "forks": 3988,
+    "url": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 24265,
+    "delta_stars": 14346,
+    "delta_text": "14,346 stars this month",
+    "forks": 1546,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "total_stars": 25523,
+    "delta_stars": 15714,
+    "delta_text": "15,714 stars this month",
+    "forks": 2639,
+    "url": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  {
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "language": "Jupyter Notebook",
+    "total_stars": 66956,
+    "delta_stars": 14152,
+    "delta_text": "14,152 stars this month",
+    "forks": 12929,
+    "url": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 20495,
+    "delta_stars": 5873,
+    "delta_text": "5,873 stars this month",
+    "forks": 4851,
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 9167,
+    "delta_stars": 5654,
+    "delta_text": "5,654 stars this month",
+    "forks": 591,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 33277,
+    "delta_stars": 5784,
+    "delta_text": "5,784 stars this month",
+    "forks": 2538,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+    "language": "TypeScript",
+    "total_stars": 55167,
+    "delta_stars": 26484,
+    "delta_text": "26,484 stars this month",
+    "forks": 7573,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "language": "JavaScript",
+    "total_stars": 13501,
+    "delta_stars": 11039,
+    "delta_text": "11,039 stars this month",
+    "forks": 699,
+    "url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "name": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "language": "Python",
+    "total_stars": 42175,
+    "delta_stars": 23084,
+    "delta_text": "23,084 stars this month",
+    "forks": 4669,
+    "url": "https://github.com/bojieli/ai-agent-book"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 29148,
+    "delta_stars": 2539,
+    "delta_text": "2,539 stars this month",
+    "forks": 3106,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "language": "TypeScript",
+    "total_stars": 97219,
+    "delta_stars": 19957,
+    "delta_text": "19,957 stars this month",
+    "forks": 12016,
+    "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "total_stars": 14212,
+    "delta_stars": 2386,
+    "delta_text": "2,386 stars this month",
+    "forks": 1825,
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "language": "TypeScript",
+    "total_stars": 3309,
+    "delta_stars": 1904,
+    "delta_text": "1,904 stars this month",
+    "forks": 328,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "description": "The most RAM efficient harness",
+    "language": "Rust",
+    "total_stars": 18563,
+    "delta_stars": 7469,
+    "delta_text": "7,469 stars this month",
+    "forks": 2093,
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 16417,
+    "delta_stars": 8286,
+    "delta_text": "8,286 stars this month",
+    "forks": 451,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 236682,
+    "delta_stars": 50069,
+    "delta_text": "50,069 stars this month",
+    "forks": 20145,
+    "url": "https://github.com/mattpocock/skills"
+  }
+]

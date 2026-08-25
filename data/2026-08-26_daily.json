@@ -1,0 +1,152 @@
+[
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "language": "JavaScript",
+    "total_stars": 17588,
+    "delta_stars": 1698,
+    "delta_text": "1,698 stars today",
+    "forks": 1817,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 1721,
+    "delta_stars": 350,
+    "delta_text": "350 stars today",
+    "forks": 177,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "language": "TypeScript",
+    "total_stars": 3308,
+    "delta_stars": 538,
+    "delta_text": "538 stars today",
+    "forks": 328,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 100206,
+    "delta_stars": 191,
+    "delta_text": "191 stars today",
+    "forks": 19350,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "AgriciDaniel/claude-obsidian",
+    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+    "language": "Python",
+    "total_stars": 12685,
+    "delta_stars": 810,
+    "delta_text": "810 stars today",
+    "forks": 1380,
+    "url": "https://github.com/AgriciDaniel/claude-obsidian"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 48921,
+    "delta_stars": 572,
+    "delta_text": "572 stars today",
+    "forks": 8561,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+    "language": "Rust",
+    "total_stars": 37747,
+    "delta_stars": 541,
+    "delta_text": "541 stars today",
+    "forks": 3731,
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 31204,
+    "delta_stars": 1080,
+    "delta_text": "1,080 stars today",
+    "forks": 3174,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "language": "Python",
+    "total_stars": 134217,
+    "delta_stars": 161,
+    "delta_text": "161 stars today",
+    "forks": 19740,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 207169,
+    "delta_stars": 828,
+    "delta_text": "828 stars today",
+    "forks": 21140,
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "total_stars": 118072,
+    "delta_stars": 1183,
+    "delta_text": "1,183 stars today",
+    "forks": 17995,
+    "url": "https://github.com/openai/codex"
+  },
+  {
+    "name": "marin-community/marin",
+    "description": "Open-source framework for the research and development of foundation models.",
+    "language": "Python",
+    "total_stars": 2084,
+    "delta_stars": 277,
+    "delta_text": "277 stars today",
+    "forks": 191,
+    "url": "https://github.com/marin-community/marin"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 110953,
+    "delta_stars": 944,
+    "delta_text": "944 stars today",
+    "forks": 6097,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "total_stars": 34070,
+    "delta_stars": 47,
+    "delta_text": "47 stars today",
+    "forks": 3869,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "name": "asciimoo/hister",
+    "description": "Your own search engine",
+    "language": "Go",
+    "total_stars": 2753,
+    "delta_stars": 166,
+    "delta_text": "166 stars today",
+    "forks": 122,
+    "url": "https://github.com/asciimoo/hister"
+  }
+]
