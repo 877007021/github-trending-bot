@@ -1,0 +1,177 @@
+[
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "nvk",
+    "display_name": "nvk",
+    "popular_repo": "llm-wiki",
+    "url": "https://github.com/nvk",
+    "repo_url": "https://github.com/nvk/llm-wiki"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "1weiho",
+    "display_name": "Yiwei Ho",
+    "popular_repo": "open-slide",
+    "url": "https://github.com/1weiho",
+    "repo_url": "https://github.com/1weiho/open-slide"
+  },
+  {
+    "username": "huangruiteng",
+    "display_name": "huangruiteng",
+    "popular_repo": "loopx",
+    "url": "https://github.com/huangruiteng",
+    "repo_url": "https://github.com/huangruiteng/loopx"
+  },
+  {
+    "username": "yfedoseev",
+    "display_name": "Yury F.",
+    "popular_repo": "pdf_oxide",
+    "url": "https://github.com/yfedoseev",
+    "repo_url": "https://github.com/yfedoseev/pdf_oxide"
+  },
+  {
+    "username": "benvinegar",
+    "display_name": "Ben Vinegar",
+    "popular_repo": "termdraw",
+    "url": "https://github.com/benvinegar",
+    "repo_url": "https://github.com/benvinegar/termdraw"
+  },
+  {
+    "username": "abimaelmartell",
+    "display_name": "Abimael Martell",
+    "popular_repo": "system_monitor",
+    "url": "https://github.com/abimaelmartell",
+    "repo_url": "https://github.com/abimaelmartell/system_monitor"
+  },
+  {
+    "username": "HANCORE-linux",
+    "display_name": "HANCORE",
+    "popular_repo": "omarchy-plugin-marketplace",
+    "url": "https://github.com/HANCORE-linux",
+    "repo_url": "https://github.com/HANCORE-linux/omarchy-plugin-marketplace"
+  },
+  {
+    "username": "colbymchenry",
+    "display_name": "Colby Mchenry",
+    "popular_repo": "codegraph",
+    "url": "https://github.com/colbymchenry",
+    "repo_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "username": "mitchellh",
+    "display_name": "Mitchell Hashimoto",
+    "popular_repo": "libxev",
+    "url": "https://github.com/mitchellh",
+    "repo_url": "https://github.com/mitchellh/libxev"
+  },
+  {
+    "username": "am-will",
+    "display_name": "am.will",
+    "popular_repo": "gooey-pi",
+    "url": "https://github.com/am-will",
+    "repo_url": "https://github.com/am-will/gooey-pi"
+  },
+  {
+    "username": "emilk",
+    "display_name": "Emil Ernerfeldt",
+    "popular_repo": "egui",
+    "url": "https://github.com/emilk",
+    "repo_url": "https://github.com/emilk/egui"
+  },
+  {
+    "username": "chenhg5",
+    "display_name": "cg33",
+    "popular_repo": "cc-connect",
+    "url": "https://github.com/chenhg5",
+    "repo_url": "https://github.com/chenhg5/cc-connect"
+  },
+  {
+    "username": "justjavac",
+    "display_name": "迷渡",
+    "popular_repo": "free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac",
+    "repo_url": "https://github.com/justjavac/free-programming-books-zh_CN"
+  },
+  {
+    "username": "tt-a1i",
+    "display_name": "tt-a1i",
+    "popular_repo": "archify",
+    "url": "https://github.com/tt-a1i",
+    "repo_url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "skyzh",
+    "display_name": "Alex Chi Z",
+    "popular_repo": "tiny-llm",
+    "url": "https://github.com/skyzh",
+    "repo_url": "https://github.com/skyzh/tiny-llm"
+  },
+  {
+    "username": "ErickWendel",
+    "display_name": "Erick Wendel",
+    "popular_repo": "localstudio",
+    "url": "https://github.com/ErickWendel",
+    "repo_url": "https://github.com/ErickWendel/localstudio"
+  },
+  {
+    "username": "MaheshtheDev",
+    "display_name": "Mahesh Sanikommu",
+    "popular_repo": "hermes-agent",
+    "url": "https://github.com/MaheshtheDev",
+    "repo_url": "https://github.com/MaheshtheDev/hermes-agent"
+  },
+  {
+    "username": "danielhanchen",
+    "display_name": "Daniel Han",
+    "popular_repo": "",
+    "url": "https://github.com/danielhanchen",
+    "repo_url": ""
+  },
+  {
+    "username": "assafelovic",
+    "display_name": "Assaf Elovic",
+    "popular_repo": "gpt-researcher",
+    "url": "https://github.com/assafelovic",
+    "repo_url": "https://github.com/assafelovic/gpt-researcher"
+  },
+  {
+    "username": "mattsse",
+    "display_name": "Matthias Seitz",
+    "popular_repo": "chromiumoxide",
+    "url": "https://github.com/mattsse",
+    "repo_url": "https://github.com/mattsse/chromiumoxide"
+  },
+  {
+    "username": "thc1006",
+    "display_name": "秀吉",
+    "popular_repo": "k8s-device-plugin",
+    "url": "https://github.com/thc1006",
+    "repo_url": "https://github.com/thc1006/k8s-device-plugin"
+  }
+]
