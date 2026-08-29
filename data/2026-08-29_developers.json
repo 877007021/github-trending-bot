@@ -1,0 +1,177 @@
+[
+  {
+    "username": "tt-a1i",
+    "display_name": "tt-a1i",
+    "popular_repo": "archify",
+    "url": "https://github.com/tt-a1i",
+    "repo_url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "chenhg5",
+    "display_name": "cg33",
+    "popular_repo": "cc-connect",
+    "url": "https://github.com/chenhg5",
+    "repo_url": "https://github.com/chenhg5/cc-connect"
+  },
+  {
+    "username": "bradfitz",
+    "display_name": "Brad Fitzpatrick",
+    "popular_repo": "homelab",
+    "url": "https://github.com/bradfitz",
+    "repo_url": "https://github.com/bradfitz/homelab"
+  },
+  {
+    "username": "benvinegar",
+    "display_name": "Ben Vinegar",
+    "popular_repo": "termdraw",
+    "url": "https://github.com/benvinegar",
+    "repo_url": "https://github.com/benvinegar/termdraw"
+  },
+  {
+    "username": "wibus-wee",
+    "display_name": "Wibus Wu",
+    "popular_repo": "cradle-app",
+    "url": "https://github.com/wibus-wee",
+    "repo_url": "https://github.com/wibus-wee/cradle-app"
+  },
+  {
+    "username": "MervinPraison",
+    "display_name": "Mervin Praison",
+    "popular_repo": "PraisonAI",
+    "url": "https://github.com/MervinPraison",
+    "repo_url": "https://github.com/MervinPraison/PraisonAI"
+  },
+  {
+    "username": "1weiho",
+    "display_name": "Yiwei Ho",
+    "popular_repo": "open-slide",
+    "url": "https://github.com/1weiho",
+    "repo_url": "https://github.com/1weiho/open-slide"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "ErickWendel",
+    "display_name": "Erick Wendel",
+    "popular_repo": "localstudio",
+    "url": "https://github.com/ErickWendel",
+    "repo_url": "https://github.com/ErickWendel/localstudio"
+  },
+  {
+    "username": "poteto",
+    "display_name": "lauren",
+    "popular_repo": "hiring-without-whiteboards",
+    "url": "https://github.com/poteto",
+    "repo_url": "https://github.com/poteto/hiring-without-whiteboards"
+  },
+  {
+    "username": "hrydgard",
+    "display_name": "Henrik Rydgård",
+    "popular_repo": "ppsspp",
+    "url": "https://github.com/hrydgard",
+    "repo_url": "https://github.com/hrydgard/ppsspp"
+  },
+  {
+    "username": "awaseem",
+    "display_name": "Ali Waseem",
+    "popular_repo": "foqos",
+    "url": "https://github.com/awaseem",
+    "repo_url": "https://github.com/awaseem/foqos"
+  },
+  {
+    "username": "cmungall",
+    "display_name": "Chris Mungall",
+    "popular_repo": "sparqlprog",
+    "url": "https://github.com/cmungall",
+    "repo_url": "https://github.com/cmungall/sparqlprog"
+  },
+  {
+    "username": "danielhanchen",
+    "display_name": "Daniel Han",
+    "popular_repo": "",
+    "url": "https://github.com/danielhanchen",
+    "repo_url": ""
+  },
+  {
+    "username": "DeusData",
+    "display_name": "Martin Vogel",
+    "popular_repo": "codebase-memory-mcp",
+    "url": "https://github.com/DeusData",
+    "repo_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "saoudrizwan",
+    "display_name": "Saoud Rizwan",
+    "popular_repo": "models.dev",
+    "url": "https://github.com/saoudrizwan",
+    "repo_url": "https://github.com/saoudrizwan/models.dev"
+  },
+  {
+    "username": "comfyui-wiki",
+    "display_name": "Daxiong (Lin)",
+    "popular_repo": "ComfyUI-Workflow-JSON-Editor",
+    "url": "https://github.com/comfyui-wiki",
+    "repo_url": "https://github.com/comfyui-wiki/ComfyUI-Workflow-JSON-Editor"
+  },
+  {
+    "username": "1jehuang",
+    "display_name": "Jeremy Huang",
+    "popular_repo": "jcode",
+    "url": "https://github.com/1jehuang",
+    "repo_url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "username": "kunchenguid",
+    "display_name": "Kun Chen",
+    "popular_repo": "backpass",
+    "url": "https://github.com/kunchenguid",
+    "repo_url": "https://github.com/kunchenguid/backpass"
+  },
+  {
+    "username": "leecalcote",
+    "display_name": "Lee Calcote",
+    "popular_repo": "",
+    "url": "https://github.com/leecalcote",
+    "repo_url": ""
+  },
+  {
+    "username": "colbymchenry",
+    "display_name": "Colby Mchenry",
+    "popular_repo": "codegraph",
+    "url": "https://github.com/colbymchenry",
+    "repo_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "username": "hiyouga",
+    "display_name": "Yaowei Zheng",
+    "popular_repo": "LlamaFactory",
+    "url": "https://github.com/hiyouga",
+    "repo_url": "https://github.com/hiyouga/LlamaFactory"
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  }
+]

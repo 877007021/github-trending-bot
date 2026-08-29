@@ -1,0 +1,192 @@
+[
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 2607,
+    "delta_stars": 2207,
+    "delta_text": "2,207 stars this week",
+    "forks": 214,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "language": "JavaScript",
+    "total_stars": 24383,
+    "delta_stars": 12877,
+    "delta_text": "12,877 stars this week",
+    "forks": 2405,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 33695,
+    "delta_stars": 5942,
+    "delta_text": "5,942 stars this week",
+    "forks": 3483,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "total_stars": 119608,
+    "delta_stars": 9109,
+    "delta_text": "9,109 stars this week",
+    "forks": 18265,
+    "url": "https://github.com/openai/codex"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 27956,
+    "delta_stars": 11099,
+    "delta_text": "11,099 stars this week",
+    "forks": 1769,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 17438,
+    "delta_stars": 4825,
+    "delta_text": "4,825 stars this week",
+    "forks": 500,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "language": "TypeScript",
+    "total_stars": 3915,
+    "delta_stars": 1918,
+    "delta_text": "1,918 stars this week",
+    "forks": 364,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "tashfeenahmed/freellmapi",
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "language": "TypeScript",
+    "total_stars": 21687,
+    "delta_stars": 2162,
+    "delta_text": "2,162 stars this week",
+    "forks": 3069,
+    "url": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 29310,
+    "delta_stars": 875,
+    "delta_text": "875 stars this week",
+    "forks": 3120,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 5995,
+    "delta_stars": 1594,
+    "delta_text": "1,594 stars this week",
+    "forks": 478,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "total_stars": 37791,
+    "delta_stars": 4828,
+    "delta_text": "4,828 stars this week",
+    "forks": 12793,
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+    "language": "Rust",
+    "total_stars": 38744,
+    "delta_stars": 2353,
+    "delta_text": "2,353 stars this week",
+    "forks": 3804,
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "total_stars": 35083,
+    "delta_stars": 1281,
+    "delta_text": "1,281 stars this week",
+    "forks": 3938,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "name": "VoltAgent/awesome-agent-skills",
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+    "language": "",
+    "total_stars": 33088,
+    "delta_stars": 2372,
+    "delta_text": "2,372 stars this week",
+    "forks": 3489,
+    "url": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "language": "Python",
+    "total_stars": 39436,
+    "delta_stars": 1270,
+    "delta_text": "1,270 stars this week",
+    "forks": 3308,
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 50670,
+    "delta_stars": 3263,
+    "delta_text": "3,263 stars this week",
+    "forks": 8781,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+    "language": "Python",
+    "total_stars": 51216,
+    "delta_stars": 4769,
+    "delta_text": "4,769 stars this week",
+    "forks": 8249,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "chaitanyagiri/munder-difflin",
+    "description": "local multi-agent harness",
+    "language": "JavaScript",
+    "total_stars": 5234,
+    "delta_stars": 1853,
+    "delta_text": "1,853 stars this week",
+    "forks": 630,
+    "url": "https://github.com/chaitanyagiri/munder-difflin"
+  },
+  {
+    "name": "bookorbit/bookorbit",
+    "description": "BookOrbit: Your Reading Space",
+    "language": "TypeScript",
+    "total_stars": 3532,
+    "delta_stars": 806,
+    "delta_text": "806 stars this week",
+    "forks": 212,
+    "url": "https://github.com/bookorbit/bookorbit"
+  }
+]
