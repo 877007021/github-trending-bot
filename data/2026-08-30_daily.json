@@ -1,0 +1,192 @@
+[
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 31141,
+    "delta_stars": 3902,
+    "delta_text": "3,902 stars today",
+    "forks": 1939,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 12650,
+    "delta_stars": 1855,
+    "delta_text": "1,855 stars today",
+    "forks": 2503,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "total_stars": 37958,
+    "delta_stars": 1587,
+    "delta_text": "1,587 stars today",
+    "forks": 3575,
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "name": "tailscale/tailcat",
+    "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+    "language": "Go",
+    "total_stars": 3508,
+    "delta_stars": 789,
+    "delta_text": "789 stars today",
+    "forks": 104,
+    "url": "https://github.com/tailscale/tailcat"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 22271,
+    "delta_stars": 907,
+    "delta_text": "907 stars today",
+    "forks": 4313,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "language": "Python",
+    "total_stars": 28702,
+    "delta_stars": 150,
+    "delta_text": "150 stars today",
+    "forks": 3163,
+    "url": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "name": "bigskysoftware/htmx",
+    "description": "&lt;/&gt; htmx - high power tools for HTML",
+    "language": "JavaScript",
+    "total_stars": 49121,
+    "delta_stars": 32,
+    "delta_text": "32 stars today",
+    "forks": 1640,
+    "url": "https://github.com/bigskysoftware/htmx"
+  },
+  {
+    "name": "JetBrains/go-modern-guidelines",
+    "description": "Help AI coding agents write modern Go",
+    "language": "Go",
+    "total_stars": 2873,
+    "delta_stars": 303,
+    "delta_text": "303 stars today",
+    "forks": 81,
+    "url": "https://github.com/JetBrains/go-modern-guidelines"
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "language": "Python",
+    "total_stars": 73928,
+    "delta_stars": 73,
+    "delta_text": "73 stars today",
+    "forks": 8470,
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 54078,
+    "delta_stars": 806,
+    "delta_text": "806 stars today",
+    "forks": 6716,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 14656,
+    "delta_stars": 517,
+    "delta_text": "517 stars today",
+    "forks": 1756,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "language": "Python",
+    "total_stars": 4923,
+    "delta_stars": 35,
+    "delta_text": "35 stars today",
+    "forks": 741,
+    "url": "https://github.com/Osmantic/ODS"
+  },
+  {
+    "name": "abi/screenshot-to-code",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "language": "Python",
+    "total_stars": 76045,
+    "delta_stars": 550,
+    "delta_text": "550 stars today",
+    "forks": 9261,
+    "url": "https://github.com/abi/screenshot-to-code"
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "total_stars": 35416,
+    "delta_stars": 358,
+    "delta_text": "358 stars today",
+    "forks": 3958,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "name": "google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "total_stars": 39322,
+    "delta_stars": 128,
+    "delta_text": "128 stars today",
+    "forks": 10878,
+    "url": "https://github.com/google/googletest"
+  },
+  {
+    "name": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "language": "TypeScript",
+    "total_stars": 8804,
+    "delta_stars": 5,
+    "delta_text": "5 stars today",
+    "forks": 2756,
+    "url": "https://github.com/actions/checkout"
+  },
+  {
+    "name": "kaifcodec/user-scanner",
+    "description": "🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
+    "language": "Python",
+    "total_stars": 3565,
+    "delta_stars": 39,
+    "delta_text": "39 stars today",
+    "forks": 410,
+    "url": "https://github.com/kaifcodec/user-scanner"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 90719,
+    "delta_stars": 196,
+    "delta_text": "196 stars today",
+    "forks": 9710,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "workweave/router",
+    "description": "Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.",
+    "language": "Go",
+    "total_stars": 2732,
+    "delta_stars": 284,
+    "delta_text": "284 stars today",
+    "forks": 77,
+    "url": "https://github.com/workweave/router"
+  }
+]
