@@ -1,0 +1,222 @@
+[
+  {
+    "name": "omacom/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 35552,
+    "delta_stars": 11259,
+    "delta_text": "11,259 stars this month",
+    "forks": 3668,
+    "url": "https://github.com/omacom/omarchy"
+  },
+  {
+    "name": "firecrawl/pdf-inspector",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "language": "Rust",
+    "total_stars": 17013,
+    "delta_stars": 15341,
+    "delta_text": "15,341 stars this month",
+    "forks": 1182,
+    "url": "https://github.com/firecrawl/pdf-inspector"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "language": "JavaScript",
+    "total_stars": 25677,
+    "delta_stars": 16908,
+    "delta_text": "16,908 stars this month",
+    "forks": 2522,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "total_stars": 25279,
+    "delta_stars": 15913,
+    "delta_text": "15,913 stars this month",
+    "forks": 2358,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 2884,
+    "delta_stars": 2543,
+    "delta_text": "2,543 stars this month",
+    "forks": 236,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "language": "PowerShell",
+    "total_stars": 32034,
+    "delta_stars": 21984,
+    "delta_text": "21,984 stars this month",
+    "forks": 4306,
+    "url": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 9780,
+    "delta_stars": 6450,
+    "delta_text": "6,450 stars this month",
+    "forks": 630,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 34504,
+    "delta_stars": 6903,
+    "delta_text": "6,903 stars this month",
+    "forks": 2635,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 17905,
+    "delta_stars": 9946,
+    "delta_text": "9,946 stars this month",
+    "forks": 522,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "language": "TypeScript",
+    "total_stars": 4195,
+    "delta_stars": 3257,
+    "delta_text": "3,257 stars this month",
+    "forks": 388,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 34672,
+    "delta_stars": 25275,
+    "delta_text": "25,275 stars this month",
+    "forks": 2206,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 29373,
+    "delta_stars": 2825,
+    "delta_text": "2,825 stars this month",
+    "forks": 3125,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 21087,
+    "delta_stars": 5445,
+    "delta_text": "5,445 stars this month",
+    "forks": 5066,
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 25777,
+    "delta_stars": 11902,
+    "delta_text": "11,902 stars this month",
+    "forks": 1620,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "total_stars": 14468,
+    "delta_stars": 2652,
+    "delta_text": "2,652 stars this month",
+    "forks": 1849,
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "total_stars": 27323,
+    "delta_stars": 13879,
+    "delta_text": "13,879 stars this month",
+    "forks": 2831,
+    "url": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "total_stars": 473320,
+    "delta_stars": 20630,
+    "delta_text": "20,630 stars this month",
+    "forks": 52251,
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "unclebob/swarm-forge",
+    "description": "A simple tool for coordinating several AI agents.",
+    "language": "Clojure",
+    "total_stars": 3381,
+    "delta_stars": 1897,
+    "delta_text": "1,897 stars this month",
+    "forks": 332,
+    "url": "https://github.com/unclebob/swarm-forge"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 5244,
+    "delta_stars": 3902,
+    "delta_text": "3,902 stars this month",
+    "forks": 359,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+    "language": "TypeScript",
+    "total_stars": 58672,
+    "delta_stars": 24211,
+    "delta_text": "24,211 stars this month",
+    "forks": 8132,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "total_stars": 33184,
+    "delta_stars": 8974,
+    "delta_text": "8,974 stars this month",
+    "forks": 3486,
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "language": "TypeScript",
+    "total_stars": 99431,
+    "delta_stars": 18925,
+    "delta_text": "18,925 stars this month",
+    "forks": 12336,
+    "url": "https://github.com/earendil-works/pi"
+  }
+]
