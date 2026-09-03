@@ -1,0 +1,192 @@
+[
+  {
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "total_stars": 24260,
+    "delta_stars": 14,
+    "delta_text": "14 stars today",
+    "forks": 2985,
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 29793,
+    "delta_stars": 343,
+    "delta_text": "343 stars today",
+    "forks": 2864,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 121556,
+    "delta_stars": 1354,
+    "delta_text": "1,354 stars today",
+    "forks": 6572,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 14726,
+    "delta_stars": 832,
+    "delta_text": "832 stars today",
+    "forks": 2106,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "sngyai/Sequoia-X",
+    "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+    "language": "Python",
+    "total_stars": 6052,
+    "delta_stars": 63,
+    "delta_text": "63 stars today",
+    "forks": 1247,
+    "url": "https://github.com/sngyai/Sequoia-X"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 50634,
+    "delta_stars": 148,
+    "delta_text": "148 stars today",
+    "forks": 3553,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 240126,
+    "delta_stars": 533,
+    "delta_text": "533 stars today",
+    "forks": 49134,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "superlinked/sie",
+    "description": "Open-source inference server and production cluster for all the models your agent needs.",
+    "language": "Python",
+    "total_stars": 3061,
+    "delta_stars": 60,
+    "delta_text": "60 stars today",
+    "forks": 299,
+    "url": "https://github.com/superlinked/sie"
+  },
+  {
+    "name": "pacifio/atlas",
+    "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "language": "Rust",
+    "total_stars": 2885,
+    "delta_stars": 888,
+    "delta_text": "888 stars today",
+    "forks": 189,
+    "url": "https://github.com/pacifio/atlas"
+  },
+  {
+    "name": "zyronon/TypeWords",
+    "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+    "language": "Vue",
+    "total_stars": 9307,
+    "delta_stars": 21,
+    "delta_text": "21 stars today",
+    "forks": 1130,
+    "url": "https://github.com/zyronon/TypeWords"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 45558,
+    "delta_stars": 799,
+    "delta_text": "799 stars today",
+    "forks": 3582,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 246345,
+    "delta_stars": 516,
+    "delta_text": "516 stars today",
+    "forks": 37150,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "total_stars": 71936,
+    "delta_stars": 18,
+    "delta_text": "18 stars today",
+    "forks": 16271,
+    "url": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "name": "vercel-labs/portless",
+    "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+    "language": "TypeScript",
+    "total_stars": 11765,
+    "delta_stars": 73,
+    "delta_text": "73 stars today",
+    "forks": 383,
+    "url": "https://github.com/vercel-labs/portless"
+  },
+  {
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "total_stars": 40397,
+    "delta_stars": 374,
+    "delta_text": "374 stars today",
+    "forks": 3493,
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "Go",
+    "total_stars": 102636,
+    "delta_stars": 238,
+    "delta_text": "238 stars today",
+    "forks": 5970,
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 245234,
+    "delta_stars": 1166,
+    "delta_text": "1,166 stars today",
+    "forks": 20851,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "language": "TypeScript",
+    "total_stars": 31985,
+    "delta_stars": 775,
+    "delta_text": "775 stars today",
+    "forks": 8997,
+    "url": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "name": "firecrawl/pdf-inspector",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "language": "Rust",
+    "total_stars": 18510,
+    "delta_stars": 586,
+    "delta_text": "586 stars today",
+    "forks": 1245,
+    "url": "https://github.com/firecrawl/pdf-inspector"
+  }
+]
