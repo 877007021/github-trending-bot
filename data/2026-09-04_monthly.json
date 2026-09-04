@@ -1,0 +1,202 @@
+[
+  {
+    "name": "omacom/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 37717,
+    "delta_stars": 13597,
+    "delta_text": "13,597 stars this month",
+    "forks": 3975,
+    "url": "https://github.com/omacom/omarchy"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 11864,
+    "delta_stars": 10058,
+    "delta_text": "10,058 stars this month",
+    "forks": 1335,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 6777,
+    "delta_stars": 4258,
+    "delta_text": "4,258 stars this month",
+    "forks": 556,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "cloudflare/cloudflare-os",
+    "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+    "language": "TypeScript",
+    "total_stars": 9570,
+    "delta_stars": 9562,
+    "delta_text": "9,562 stars this month",
+    "forks": 1124,
+    "url": "https://github.com/cloudflare/cloudflare-os"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 45818,
+    "delta_stars": 36689,
+    "delta_text": "36,689 stars this month",
+    "forks": 2937,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 3351,
+    "delta_stars": 3067,
+    "delta_text": "3,067 stars this month",
+    "forks": 256,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 18845,
+    "delta_stars": 10662,
+    "delta_text": "10,662 stars this month",
+    "forks": 570,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 35361,
+    "delta_stars": 7659,
+    "delta_text": "7,659 stars this month",
+    "forks": 2708,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "language": "JavaScript",
+    "total_stars": 27741,
+    "delta_stars": 19065,
+    "delta_text": "19,065 stars this month",
+    "forks": 2682,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "total_stars": 4943,
+    "delta_stars": 2456,
+    "delta_text": "2,456 stars this month",
+    "forks": 653,
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "name": "xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "language": "Rust",
+    "total_stars": 32584,
+    "delta_stars": 5828,
+    "delta_text": "5,828 stars this month",
+    "forks": 5357,
+    "url": "https://github.com/xai-org/x-algorithm"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 31063,
+    "delta_stars": 10599,
+    "delta_text": "10,599 stars this month",
+    "forks": 5131,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 10189,
+    "delta_stars": 6855,
+    "delta_text": "6,855 stars this month",
+    "forks": 654,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "language": "TypeScript",
+    "total_stars": 4650,
+    "delta_stars": 3545,
+    "delta_text": "3,545 stars this month",
+    "forks": 436,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "total_stars": 25848,
+    "delta_stars": 14291,
+    "delta_text": "14,291 stars this month",
+    "forks": 2411,
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "name": "youssofal/MTPLX",
+    "description": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
+    "language": "Python",
+    "total_stars": 2007,
+    "delta_stars": 870,
+    "delta_text": "870 stars this month",
+    "forks": 148,
+    "url": "https://github.com/youssofal/MTPLX"
+  },
+  {
+    "name": "cloudflare/computer",
+    "description": "Give your agent a computer 👾",
+    "language": "TypeScript",
+    "total_stars": 8978,
+    "delta_stars": 8938,
+    "delta_text": "8,938 stars this month",
+    "forks": 502,
+    "url": "https://github.com/cloudflare/computer"
+  },
+  {
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "total_stars": 19399,
+    "delta_stars": 4004,
+    "delta_text": "4,004 stars this month",
+    "forks": 1560,
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 29520,
+    "delta_stars": 2953,
+    "delta_text": "2,953 stars this month",
+    "forks": 3144,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "huangruiteng/loopx",
+    "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
+    "language": "Python",
+    "total_stars": 5556,
+    "delta_stars": 4713,
+    "delta_text": "4,713 stars this month",
+    "forks": 495,
+    "url": "https://github.com/huangruiteng/loopx"
+  }
+]
