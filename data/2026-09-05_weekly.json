@@ -1,0 +1,202 @@
+[
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 48082,
+    "delta_stars": 21896,
+    "delta_text": "21,896 stars this week",
+    "forks": 3102,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 31509,
+    "delta_stars": 10274,
+    "delta_text": "10,274 stars this week",
+    "forks": 5183,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 17511,
+    "delta_stars": 7314,
+    "delta_text": "7,314 stars this week",
+    "forks": 3530,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "language": "TypeScript",
+    "total_stars": 32571,
+    "delta_stars": 1679,
+    "delta_text": "1,679 stars this week",
+    "forks": 9046,
+    "url": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 31050,
+    "delta_stars": 2653,
+    "delta_text": "2,653 stars this week",
+    "forks": 2957,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "language": "Python",
+    "total_stars": 58537,
+    "delta_stars": 3390,
+    "delta_text": "3,390 stars this week",
+    "forks": 7606,
+    "url": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "total_stars": 42640,
+    "delta_stars": 6898,
+    "delta_text": "6,898 stars this week",
+    "forks": 3900,
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "total_stars": 10503,
+    "delta_stars": 1982,
+    "delta_text": "1,982 stars this week",
+    "forks": 1353,
+    "url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "total_stars": 25469,
+    "delta_stars": 1671,
+    "delta_text": "1,671 stars this week",
+    "forks": 3035,
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 17024,
+    "delta_stars": 2950,
+    "delta_text": "2,950 stars this week",
+    "forks": 2118,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "language": "Python",
+    "total_stars": 30456,
+    "delta_stars": 2065,
+    "delta_text": "2,065 stars this week",
+    "forks": 3369,
+    "url": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "name": "colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference",
+    "language": "TypeScript",
+    "total_stars": 43836,
+    "delta_stars": 297,
+    "delta_text": "297 stars this week",
+    "forks": 2175,
+    "url": "https://github.com/colinhacks/zod"
+  },
+  {
+    "name": "handsomestWei/patent-disclosure-skill",
+    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+    "language": "Python",
+    "total_stars": 7372,
+    "delta_stars": 1975,
+    "delta_text": "1,975 stars this week",
+    "forks": 815,
+    "url": "https://github.com/handsomestWei/patent-disclosure-skill"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 17976,
+    "delta_stars": 5150,
+    "delta_text": "5,150 stars this week",
+    "forks": 2357,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "language": "",
+    "total_stars": 94154,
+    "delta_stars": 1198,
+    "delta_text": "1,198 stars this week",
+    "forks": 15649,
+    "url": "https://github.com/punkpeye/awesome-mcp-servers"
+  },
+  {
+    "name": "abi/screenshot-to-code",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "language": "Python",
+    "total_stars": 77689,
+    "delta_stars": 2372,
+    "delta_text": "2,372 stars this week",
+    "forks": 9455,
+    "url": "https://github.com/abi/screenshot-to-code"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 50936,
+    "delta_stars": 1067,
+    "delta_text": "1,067 stars this week",
+    "forks": 3572,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "majd/ipatool",
+    "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+    "language": "Go",
+    "total_stars": 10869,
+    "delta_stars": 903,
+    "delta_text": "903 stars this week",
+    "forks": 909,
+    "url": "https://github.com/majd/ipatool"
+  },
+  {
+    "name": "MakazhanAlpamys/Soup",
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "language": "Python",
+    "total_stars": 5291,
+    "delta_stars": 1808,
+    "delta_text": "1,808 stars this week",
+    "forks": 790,
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "name": "OpenWhispr/openwhispr",
+    "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+    "language": "JavaScript",
+    "total_stars": 6765,
+    "delta_stars": 794,
+    "delta_text": "794 stars this week",
+    "forks": 902,
+    "url": "https://github.com/OpenWhispr/openwhispr"
+  }
+]

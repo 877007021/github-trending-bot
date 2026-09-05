@@ -1,0 +1,172 @@
+[
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 250386,
+    "delta_stars": 2758,
+    "delta_text": "2,758 stars today",
+    "forks": 21160,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 126000,
+    "delta_stars": 1679,
+    "delta_text": "1,679 stars today",
+    "forks": 6764,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "total_stars": 25469,
+    "delta_stars": 688,
+    "delta_text": "688 stars today",
+    "forks": 3035,
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 248510,
+    "delta_stars": 1135,
+    "delta_text": "1,135 stars today",
+    "forks": 37458,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 174125,
+    "delta_stars": 511,
+    "delta_text": "511 stars today",
+    "forks": 20640,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "total_stars": 42706,
+    "delta_stars": 1130,
+    "delta_text": "1,130 stars today",
+    "forks": 3607,
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 241489,
+    "delta_stars": 720,
+    "delta_text": "720 stars today",
+    "forks": 49561,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "Go",
+    "total_stars": 103570,
+    "delta_stars": 501,
+    "delta_text": "501 stars today",
+    "forks": 6007,
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "name": "magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "language": "TypeScript",
+    "total_stars": 2473,
+    "delta_stars": 391,
+    "delta_text": "391 stars today",
+    "forks": 179,
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "name": "bikini/exploitarium",
+    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "language": "Python",
+    "total_stars": 4508,
+    "delta_stars": 74,
+    "delta_text": "74 stars today",
+    "forks": 1241,
+    "url": "https://github.com/bikini/exploitarium"
+  },
+  {
+    "name": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "language": "Kotlin",
+    "total_stars": 52768,
+    "delta_stars": 730,
+    "delta_text": "730 stars today",
+    "forks": 8523,
+    "url": "https://github.com/bannedbook/fanqiang"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 17976,
+    "delta_stars": 1345,
+    "delta_text": "1,345 stars today",
+    "forks": 2357,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 31050,
+    "delta_stars": 342,
+    "delta_text": "342 stars today",
+    "forks": 2957,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "radixark/miles",
+    "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+    "language": "Python",
+    "total_stars": 2551,
+    "delta_stars": 64,
+    "delta_text": "64 stars today",
+    "forks": 445,
+    "url": "https://github.com/radixark/miles"
+  },
+  {
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "total_stars": 204127,
+    "delta_stars": 345,
+    "delta_text": "345 stars today",
+    "forks": 26633,
+    "url": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "name": "clshortfuse/renodx",
+    "description": "Renovation Engine for DirectX Games",
+    "language": "HLSL",
+    "total_stars": 3525,
+    "delta_stars": 261,
+    "delta_text": "261 stars today",
+    "forks": 138,
+    "url": "https://github.com/clshortfuse/renodx"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 30921,
+    "delta_stars": 437,
+    "delta_text": "437 stars today",
+    "forks": 1983,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  }
+]
