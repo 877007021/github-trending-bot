@@ -1,0 +1,222 @@
+[
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 31688,
+    "delta_stars": 28654,
+    "delta_text": "28,654 stars this month",
+    "forks": 2041,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "omacom/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 38312,
+    "delta_stars": 14222,
+    "delta_text": "14,222 stars this month",
+    "forks": 4094,
+    "url": "https://github.com/omacom/omarchy"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 12094,
+    "delta_stars": 10251,
+    "delta_text": "10,251 stars this month",
+    "forks": 1362,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 6926,
+    "delta_stars": 4411,
+    "delta_text": "4,411 stars this month",
+    "forks": 580,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 49425,
+    "delta_stars": 40038,
+    "delta_text": "40,038 stars this month",
+    "forks": 3207,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 3471,
+    "delta_stars": 3187,
+    "delta_text": "3,187 stars this month",
+    "forks": 266,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "total_stars": 19962,
+    "delta_stars": 20036,
+    "delta_text": "20,036 stars this month",
+    "forks": 2181,
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 19536,
+    "delta_stars": 11323,
+    "delta_text": "11,323 stars this month",
+    "forks": 593,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 35667,
+    "delta_stars": 7811,
+    "delta_text": "7,811 stars this month",
+    "forks": 2720,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "language": "JavaScript",
+    "total_stars": 28165,
+    "delta_stars": 19395,
+    "delta_text": "19,395 stars this month",
+    "forks": 2709,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "language": "Rust",
+    "total_stars": 32721,
+    "delta_stars": 5935,
+    "delta_text": "5,935 stars this month",
+    "forks": 5363,
+    "url": "https://github.com/xai-org/x-algorithm"
+  },
+  {
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "total_stars": 4998,
+    "delta_stars": 2486,
+    "delta_text": "2,486 stars this month",
+    "forks": 659,
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 31934,
+    "delta_stars": 11420,
+    "delta_text": "11,420 stars this month",
+    "forks": 5238,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "youssofal/MTPLX",
+    "description": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
+    "language": "Python",
+    "total_stars": 2086,
+    "delta_stars": 953,
+    "delta_text": "953 stars this month",
+    "forks": 155,
+    "url": "https://github.com/youssofal/MTPLX"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 10348,
+    "delta_stars": 7001,
+    "delta_text": "7,001 stars this month",
+    "forks": 664,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "vorssaint/vorssaint-utils",
+    "description": "Free and open-source macOS menu bar toolkit.",
+    "language": "Swift",
+    "total_stars": 15489,
+    "delta_stars": 11072,
+    "delta_text": "11,072 stars this month",
+    "forks": 554,
+    "url": "https://github.com/vorssaint/vorssaint-utils"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 29562,
+    "delta_stars": 2995,
+    "delta_text": "2,995 stars this month",
+    "forks": 3153,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+    "language": "TypeScript",
+    "total_stars": 4778,
+    "delta_stars": 3614,
+    "delta_text": "3,614 stars this month",
+    "forks": 453,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "total_stars": 93185,
+    "delta_stars": 4108,
+    "delta_text": "4,108 stars this month",
+    "forks": 7659,
+    "url": "https://github.com/3b1b/manim"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 18978,
+    "delta_stars": 9208,
+    "delta_text": "9,208 stars this month",
+    "forks": 2434,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "total_stars": 475894,
+    "delta_stars": 22282,
+    "delta_text": "22,282 stars this month",
+    "forks": 52569,
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "abi/screenshot-to-code",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "language": "Python",
+    "total_stars": 77903,
+    "delta_stars": 4131,
+    "delta_text": "4,131 stars this month",
+    "forks": 9474,
+    "url": "https://github.com/abi/screenshot-to-code"
+  }
+]
