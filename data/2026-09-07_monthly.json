@@ -1,0 +1,222 @@
+[
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 32361,
+    "delta_stars": 29194,
+    "delta_text": "29,194 stars this month",
+    "forks": 2078,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "omacom/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 38611,
+    "delta_stars": 14497,
+    "delta_text": "14,497 stars this month",
+    "forks": 4155,
+    "url": "https://github.com/omacom/omarchy"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 12177,
+    "delta_stars": 10145,
+    "delta_text": "10,145 stars this month",
+    "forks": 1373,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 50792,
+    "delta_stars": 41018,
+    "delta_text": "41,018 stars this month",
+    "forks": 3309,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 3527,
+    "delta_stars": 3243,
+    "delta_text": "3,243 stars this month",
+    "forks": 271,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 19733,
+    "delta_stars": 11494,
+    "delta_text": "11,494 stars this month",
+    "forks": 601,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 35788,
+    "delta_stars": 7895,
+    "delta_text": "7,895 stars this month",
+    "forks": 2728,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "total_stars": 20053,
+    "delta_stars": 17024,
+    "delta_text": "17,024 stars this month",
+    "forks": 2191,
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "name": "xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "language": "Rust",
+    "total_stars": 32789,
+    "delta_stars": 5983,
+    "delta_text": "5,983 stars this month",
+    "forks": 5365,
+    "url": "https://github.com/xai-org/x-algorithm"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "language": "JavaScript",
+    "total_stars": 28308,
+    "delta_stars": 19087,
+    "delta_text": "19,087 stars this month",
+    "forks": 2714,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 32411,
+    "delta_stars": 11874,
+    "delta_text": "11,874 stars this month",
+    "forks": 5297,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "total_stars": 5034,
+    "delta_stars": 2504,
+    "delta_text": "2,504 stars this month",
+    "forks": 661,
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 10417,
+    "delta_stars": 7069,
+    "delta_text": "7,069 stars this month",
+    "forks": 672,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "name": "vorssaint/vorssaint-utils",
+    "description": "Free and open-source macOS menu bar toolkit.",
+    "language": "Swift",
+    "total_stars": 16083,
+    "delta_stars": 11159,
+    "delta_text": "11,159 stars this month",
+    "forks": 563,
+    "url": "https://github.com/vorssaint/vorssaint-utils"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 29578,
+    "delta_stars": 3000,
+    "delta_text": "3,000 stars this month",
+    "forks": 3156,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+    "language": "TypeScript",
+    "total_stars": 4838,
+    "delta_stars": 3647,
+    "delta_text": "3,647 stars this month",
+    "forks": 461,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "total_stars": 93287,
+    "delta_stars": 4206,
+    "delta_text": "4,206 stars this month",
+    "forks": 7660,
+    "url": "https://github.com/3b1b/manim"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 5885,
+    "delta_stars": 4490,
+    "delta_text": "4,490 stars this month",
+    "forks": 417,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 19844,
+    "delta_stars": 9973,
+    "delta_text": "9,973 stars this month",
+    "forks": 2511,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "total_stars": 476499,
+    "delta_stars": 22696,
+    "delta_text": "22,696 stars this month",
+    "forks": 52612,
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "total_stars": 10965,
+    "delta_stars": 3335,
+    "delta_text": "3,335 stars this month",
+    "forks": 1398,
+    "url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "total_stars": 14667,
+    "delta_stars": 2754,
+    "delta_text": "2,754 stars this month",
+    "forks": 1871,
+    "url": "https://github.com/megadose/holehe"
+  }
+]
