@@ -1,0 +1,192 @@
+[
+  {
+    "name": "magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "language": "TypeScript",
+    "total_stars": 4044,
+    "delta_stars": 2430,
+    "delta_text": "2,430 stars this week",
+    "forks": 291,
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 52945,
+    "delta_stars": 14946,
+    "delta_text": "14,946 stars this week",
+    "forks": 3461,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "language": "TypeScript",
+    "total_stars": 32942,
+    "delta_stars": 2040,
+    "delta_text": "2,040 stars this week",
+    "forks": 9066,
+    "url": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 33070,
+    "delta_stars": 6934,
+    "delta_text": "6,934 stars this week",
+    "forks": 5370,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 31843,
+    "delta_stars": 3506,
+    "delta_text": "3,506 stars this week",
+    "forks": 3039,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "language": "Python",
+    "total_stars": 59514,
+    "delta_stars": 3633,
+    "delta_text": "3,633 stars this week",
+    "forks": 7718,
+    "url": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "name": "pollen-robotics/microduck_rl",
+    "description": "RL training environments for Microduck (mjlab)",
+    "language": "Python",
+    "total_stars": 1903,
+    "delta_stars": 828,
+    "delta_text": "828 stars this week",
+    "forks": 375,
+    "url": "https://github.com/pollen-robotics/microduck_rl"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 20633,
+    "delta_stars": 7916,
+    "delta_text": "7,916 stars this week",
+    "forks": 2573,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "total_stars": 25653,
+    "delta_stars": 1909,
+    "delta_text": "1,909 stars this week",
+    "forks": 3045,
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 252855,
+    "delta_stars": 7735,
+    "delta_text": "7,735 stars this week",
+    "forks": 37932,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 130991,
+    "delta_stars": 12834,
+    "delta_text": "12,834 stars this week",
+    "forks": 7016,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "handsomestWei/patent-disclosure-skill",
+    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+    "language": "Python",
+    "total_stars": 8431,
+    "delta_stars": 2227,
+    "delta_text": "2,227 stars this week",
+    "forks": 884,
+    "url": "https://github.com/handsomestWei/patent-disclosure-skill"
+  },
+  {
+    "name": "zubair-trabzada/geo-seo-claude",
+    "description": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community",
+    "language": "Python",
+    "total_stars": 10404,
+    "delta_stars": 428,
+    "delta_text": "428 stars this week",
+    "forks": 1580,
+    "url": "https://github.com/zubair-trabzada/geo-seo-claude"
+  },
+  {
+    "name": "advaitpaliwal/feynman",
+    "description": "The open source AI research agent.",
+    "language": "TypeScript",
+    "total_stars": 9042,
+    "delta_stars": 292,
+    "delta_text": "292 stars this week",
+    "forks": 1042,
+    "url": "https://github.com/advaitpaliwal/feynman"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 46817,
+    "delta_stars": 2406,
+    "delta_text": "2,406 stars this week",
+    "forks": 3661,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference",
+    "language": "TypeScript",
+    "total_stars": 43889,
+    "delta_stars": 175,
+    "delta_text": "175 stars this week",
+    "forks": 2180,
+    "url": "https://github.com/colinhacks/zod"
+  },
+  {
+    "name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]",
+    "language": "Python",
+    "total_stars": 9374,
+    "delta_stars": 235,
+    "delta_text": "235 stars this week",
+    "forks": 1185,
+    "url": "https://github.com/roboflow/rf-detr"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 17721,
+    "delta_stars": 2137,
+    "delta_text": "2,137 stars this week",
+    "forks": 2234,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "tailscale/tailcat",
+    "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+    "language": "Go",
+    "total_stars": 6715,
+    "delta_stars": 2091,
+    "delta_text": "2,091 stars this week",
+    "forks": 263,
+    "url": "https://github.com/tailscale/tailcat"
+  }
+]
