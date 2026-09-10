@@ -1,0 +1,202 @@
+[
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 133415,
+    "delta_stars": 12431,
+    "delta_text": "12,431 stars this week",
+    "forks": 7141,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 255179,
+    "delta_stars": 9146,
+    "delta_text": "9,146 stars this week",
+    "forks": 38226,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "total_stars": 25704,
+    "delta_stars": 1847,
+    "delta_text": "1,847 stars this week",
+    "forks": 3055,
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 56088,
+    "delta_stars": 12541,
+    "delta_text": "12,541 stars this week",
+    "forks": 3660,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 257871,
+    "delta_stars": 13143,
+    "delta_text": "13,143 stars this week",
+    "forks": 21722,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "total_stars": 45985,
+    "delta_stars": 5925,
+    "delta_text": "5,925 stars this week",
+    "forks": 3770,
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 243861,
+    "delta_stars": 4114,
+    "delta_text": "4,114 stars this week",
+    "forks": 50342,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 51475,
+    "delta_stars": 962,
+    "delta_text": "962 stars this week",
+    "forks": 3615,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 48403,
+    "delta_stars": 4643,
+    "delta_text": "4,643 stars this week",
+    "forks": 4435,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 34623,
+    "delta_stars": 6581,
+    "delta_text": "6,581 stars this week",
+    "forks": 2028,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 21750,
+    "delta_stars": 1331,
+    "delta_text": "1,331 stars this week",
+    "forks": 1565,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "total_stars": 26774,
+    "delta_stars": 1423,
+    "delta_text": "1,423 stars this week",
+    "forks": 1795,
+    "url": "https://github.com/openai/skills"
+  },
+  {
+    "name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "language": "JavaScript",
+    "total_stars": 49245,
+    "delta_stars": 2638,
+    "delta_text": "2,638 stars this week",
+    "forks": 7521,
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 6196,
+    "delta_stars": 753,
+    "delta_text": "753 stars this week",
+    "forks": 826,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 34375,
+    "delta_stars": 3948,
+    "delta_text": "3,948 stars this week",
+    "forks": 5519,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "total_stars": 47273,
+    "delta_stars": 1862,
+    "delta_text": "1,862 stars this week",
+    "forks": 3696,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 18115,
+    "delta_stars": 1788,
+    "delta_text": "1,788 stars this week",
+    "forks": 2284,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "language": "TypeScript",
+    "total_stars": 71814,
+    "delta_stars": 1618,
+    "delta_text": "1,618 stars this week",
+    "forks": 8500,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "language": "LLVM",
+    "total_stars": 40381,
+    "delta_stars": 330,
+    "delta_text": "330 stars this week",
+    "forks": 18599,
+    "url": "https://github.com/llvm/llvm-project"
+  },
+  {
+    "name": "petergyang/no-ai-slop",
+    "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+    "language": "Python",
+    "total_stars": 7848,
+    "delta_stars": 1056,
+    "delta_text": "1,056 stars this week",
+    "forks": 588,
+    "url": "https://github.com/petergyang/no-ai-slop"
+  }
+]

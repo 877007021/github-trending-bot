@@ -1,0 +1,177 @@
+[
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "magnus919",
+    "display_name": "Magnus Hedemark",
+    "popular_repo": "hermes-profiles",
+    "url": "https://github.com/magnus919",
+    "repo_url": "https://github.com/magnus919/hermes-profiles"
+  },
+  {
+    "username": "ahmadrosid",
+    "display_name": "ahmadrosid",
+    "popular_repo": "nakama",
+    "url": "https://github.com/ahmadrosid",
+    "repo_url": "https://github.com/ahmadrosid/nakama"
+  },
+  {
+    "username": "colbymchenry",
+    "display_name": "Colby Mchenry",
+    "popular_repo": "codegraph",
+    "url": "https://github.com/colbymchenry",
+    "repo_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "username": "Soju06",
+    "display_name": "Soju06",
+    "popular_repo": "codex-lb",
+    "url": "https://github.com/Soju06",
+    "repo_url": "https://github.com/Soju06/codex-lb"
+  },
+  {
+    "username": "TimeToBuildBob",
+    "display_name": "Bob",
+    "popular_repo": "gptme",
+    "url": "https://github.com/TimeToBuildBob",
+    "repo_url": "https://github.com/TimeToBuildBob/gptme"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "rakazo",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/rakazo"
+  },
+  {
+    "username": "cathrynlavery",
+    "display_name": "Cathryn Lavery",
+    "popular_repo": "diagram-design",
+    "url": "https://github.com/cathrynlavery",
+    "repo_url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "username": "binaricat",
+    "display_name": "陈大猫",
+    "popular_repo": "Netcatty",
+    "url": "https://github.com/binaricat",
+    "repo_url": "https://github.com/binaricat/Netcatty"
+  },
+  {
+    "username": "Git-on-my-level",
+    "display_name": "David Zhang",
+    "popular_repo": "self-improving-agent-ecosystem",
+    "url": "https://github.com/Git-on-my-level",
+    "repo_url": "https://github.com/Git-on-my-level/self-improving-agent-ecosystem"
+  },
+  {
+    "username": "maziyarpanahi",
+    "display_name": "Maziyar Panahi",
+    "popular_repo": "openmed",
+    "url": "https://github.com/maziyarpanahi",
+    "repo_url": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "username": "gtsteffaniak",
+    "display_name": "Graham Steffaniak",
+    "popular_repo": "filebrowser",
+    "url": "https://github.com/gtsteffaniak",
+    "repo_url": "https://github.com/gtsteffaniak/filebrowser"
+  },
+  {
+    "username": "abue-ammar",
+    "display_name": "Abue Ammar",
+    "popular_repo": "tinycast",
+    "url": "https://github.com/abue-ammar",
+    "repo_url": "https://github.com/abue-ammar/tinycast"
+  },
+  {
+    "username": "yairm210",
+    "display_name": "Yair Morgenstern",
+    "popular_repo": "Unciv",
+    "url": "https://github.com/yairm210",
+    "repo_url": "https://github.com/yairm210/Unciv"
+  },
+  {
+    "username": "comfyanonymous",
+    "display_name": "comfyanonymous",
+    "popular_repo": "ComfyUI_examples",
+    "url": "https://github.com/comfyanonymous",
+    "repo_url": "https://github.com/comfyanonymous/ComfyUI_examples"
+  },
+  {
+    "username": "1weiho",
+    "display_name": "Yiwei Ho",
+    "popular_repo": "open-slide",
+    "url": "https://github.com/1weiho",
+    "repo_url": "https://github.com/1weiho/open-slide"
+  },
+  {
+    "username": "ilyhalight",
+    "display_name": "Toil",
+    "popular_repo": "voice-over-translation",
+    "url": "https://github.com/ilyhalight",
+    "repo_url": "https://github.com/ilyhalight/voice-over-translation"
+  },
+  {
+    "username": "JonnyBurger",
+    "display_name": "Jonny Burger",
+    "popular_repo": "zurichjs-scenes",
+    "url": "https://github.com/JonnyBurger",
+    "repo_url": "https://github.com/JonnyBurger/zurichjs-scenes"
+  },
+  {
+    "username": "amir1376",
+    "display_name": "AmirHossein Abdolmotallebi",
+    "popular_repo": "ab-download-manager",
+    "url": "https://github.com/amir1376",
+    "repo_url": "https://github.com/amir1376/ab-download-manager"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "ruflo",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "username": "Huxpro",
+    "display_name": "Xuan Huang (黄玄)",
+    "popular_repo": "vue-lynx",
+    "url": "https://github.com/Huxpro",
+    "repo_url": "https://github.com/Huxpro/vue-lynx"
+  },
+  {
+    "username": "seveibar",
+    "display_name": "Severin Ibarluzea",
+    "popular_repo": "yaml-directory-loader",
+    "url": "https://github.com/seveibar",
+    "repo_url": "https://github.com/seveibar/yaml-directory-loader"
+  },
+  {
+    "username": "arsenm",
+    "display_name": "Matt Arsenault",
+    "popular_repo": "",
+    "url": "https://github.com/arsenm",
+    "repo_url": ""
+  },
+  {
+    "username": "kane50613",
+    "display_name": "Kane Wang",
+    "popular_repo": "takumi",
+    "url": "https://github.com/kane50613",
+    "repo_url": "https://github.com/kane50613/takumi"
+  },
+  {
+    "username": "itsthisjustin",
+    "display_name": "Justin Mitchell",
+    "popular_repo": "sd-plugins",
+    "url": "https://github.com/itsthisjustin",
+    "repo_url": "https://github.com/itsthisjustin/sd-plugins"
+  }
+]
