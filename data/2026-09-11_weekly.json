@@ -1,0 +1,222 @@
+[
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 255899,
+    "delta_stars": 9257,
+    "delta_text": "9,257 stars this week",
+    "forks": 38303,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 38305,
+    "delta_stars": 10215,
+    "delta_text": "10,215 stars this week",
+    "forks": 2202,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 134718,
+    "delta_stars": 11638,
+    "delta_text": "11,638 stars this week",
+    "forks": 7214,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 57401,
+    "delta_stars": 11958,
+    "delta_text": "11,958 stars this week",
+    "forks": 3750,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "total_stars": 25720,
+    "delta_stars": 920,
+    "delta_text": "920 stars this week",
+    "forks": 3058,
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 258862,
+    "delta_stars": 12356,
+    "delta_text": "12,356 stars this week",
+    "forks": 21808,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 6384,
+    "delta_stars": 1018,
+    "delta_text": "1,018 stars this week",
+    "forks": 842,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "total_stars": 46477,
+    "delta_stars": 5224,
+    "delta_text": "5,224 stars this week",
+    "forks": 3803,
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 22009,
+    "delta_stars": 1619,
+    "delta_text": "1,619 stars this week",
+    "forks": 1584,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "total_stars": 26860,
+    "delta_stars": 1490,
+    "delta_text": "1,490 stars this week",
+    "forks": 1801,
+    "url": "https://github.com/openai/skills"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 48761,
+    "delta_stars": 4896,
+    "delta_text": "4,896 stars this week",
+    "forks": 4462,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 51580,
+    "delta_stars": 791,
+    "delta_text": "791 stars this week",
+    "forks": 3622,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "total_stars": 244219,
+    "delta_stars": 3769,
+    "delta_text": "3,769 stars this week",
+    "forks": 50527,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "language": "JavaScript",
+    "total_stars": 49446,
+    "delta_stars": 2711,
+    "delta_text": "2,711 stars this week",
+    "forks": 7535,
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 37752,
+    "delta_stars": 7329,
+    "delta_text": "7,329 stars this week",
+    "forks": 2394,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 182442,
+    "delta_stars": 4579,
+    "delta_text": "4,579 stars this week",
+    "forks": 13413,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "language": "TypeScript",
+    "total_stars": 71990,
+    "delta_stars": 1694,
+    "delta_text": "1,694 stars this week",
+    "forks": 8514,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 35305,
+    "delta_stars": 4174,
+    "delta_text": "4,174 stars this week",
+    "forks": 5631,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 175664,
+    "delta_stars": 2234,
+    "delta_text": "2,234 stars this week",
+    "forks": 20786,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 24289,
+    "delta_stars": 6051,
+    "delta_text": "6,051 stars this week",
+    "forks": 5044,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 18284,
+    "delta_stars": 1679,
+    "delta_text": "1,679 stars this week",
+    "forks": 2313,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "total_stars": 206477,
+    "delta_stars": 3139,
+    "delta_text": "3,139 stars this week",
+    "forks": 26996,
+    "url": "https://github.com/anomalyco/opencode"
+  }
+]

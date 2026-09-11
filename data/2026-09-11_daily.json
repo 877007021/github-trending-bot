@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 38305,
+    "delta_stars": 3882,
+    "delta_text": "3,882 stars today",
+    "forks": 2202,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 24289,
+    "delta_stars": 1762,
+    "delta_text": "1,762 stars today",
+    "forks": 5044,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 284698,
+    "delta_stars": 732,
+    "delta_text": "732 stars today",
+    "forks": 25467,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "alsk1992/CloddsBot",
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "language": "TypeScript",
+    "total_stars": 1645,
+    "delta_stars": 277,
+    "delta_text": "277 stars today",
+    "forks": 256,
+    "url": "https://github.com/alsk1992/CloddsBot"
+  },
+  {
+    "name": "Tencent/teamai-cli",
+    "description": "Make Every Team AI Native",
+    "language": "TypeScript",
+    "total_stars": 3787,
+    "delta_stars": 841,
+    "delta_text": "841 stars today",
+    "forks": 246,
+    "url": "https://github.com/Tencent/teamai-cli"
+  },
+  {
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "language": "Rust",
+    "total_stars": 35732,
+    "delta_stars": 258,
+    "delta_text": "258 stars today",
+    "forks": 2266,
+    "url": "https://github.com/AlexsJones/llmfit"
+  },
+  {
+    "name": "liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "language": "",
+    "total_stars": 18777,
+    "delta_stars": 900,
+    "delta_text": "900 stars today",
+    "forks": 3484,
+    "url": "https://github.com/liquidslr/system-design-notes"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 37752,
+    "delta_stars": 1294,
+    "delta_text": "1,294 stars today",
+    "forks": 2394,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "language": "JavaScript",
+    "total_stars": 30839,
+    "delta_stars": 962,
+    "delta_text": "962 stars today",
+    "forks": 2988,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "armory3d/armorpaint",
+    "description": "Graphics Creation Tools",
+    "language": "C",
+    "total_stars": 4418,
+    "delta_stars": 72,
+    "delta_text": "72 stars today",
+    "forks": 521,
+    "url": "https://github.com/armory3d/armorpaint"
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+    "language": "TypeScript",
+    "total_stars": 64237,
+    "delta_stars": 626,
+    "delta_text": "626 stars today",
+    "forks": 8996,
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "language": "C",
+    "total_stars": 27460,
+    "delta_stars": 98,
+    "delta_text": "98 stars today",
+    "forks": 3010,
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 35304,
+    "delta_stars": 837,
+    "delta_text": "837 stars today",
+    "forks": 5631,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "language": "TypeScript",
+    "total_stars": 18102,
+    "delta_stars": 142,
+    "delta_text": "142 stars today",
+    "forks": 2099,
+    "url": "https://github.com/nashsu/llm_wiki"
+  },
+  {
+    "name": "vercel-labs/skills",
+    "description": "The open agent skills tool - npx skills",
+    "language": "TypeScript",
+    "total_stars": 31141,
+    "delta_stars": 122,
+    "delta_text": "122 stars today",
+    "forks": 2660,
+    "url": "https://github.com/vercel-labs/skills"
+  },
+  {
+    "name": "vastsa/PI-Desktop",
+    "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "language": "TypeScript",
+    "total_stars": 2295,
+    "delta_stars": 624,
+    "delta_text": "624 stars today",
+    "forks": 193,
+    "url": "https://github.com/vastsa/PI-Desktop"
+  }
+]
