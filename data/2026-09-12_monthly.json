@@ -1,0 +1,232 @@
+[
+  {
+    "name": "omacom/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 40346,
+    "delta_stars": 16125,
+    "delta_text": "16,125 stars this month",
+    "forks": 4446,
+    "url": "https://github.com/omacom/omarchy"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 58574,
+    "delta_stars": 47287,
+    "delta_text": "47,287 stars this month",
+    "forks": 3819,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 3807,
+    "delta_stars": 3515,
+    "delta_text": "3,515 stars this month",
+    "forks": 284,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "language": "TypeScript",
+    "total_stars": 8379,
+    "delta_stars": 8277,
+    "delta_text": "8,277 stars this month",
+    "forks": 521,
+    "url": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 7463,
+    "delta_stars": 4892,
+    "delta_text": "4,892 stars this month",
+    "forks": 652,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 38481,
+    "delta_stars": 32734,
+    "delta_text": "32,734 stars this month",
+    "forks": 2438,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 20698,
+    "delta_stars": 12372,
+    "delta_text": "12,372 stars this month",
+    "forks": 662,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 36705,
+    "delta_stars": 8596,
+    "delta_text": "8,596 stars this month",
+    "forks": 2810,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "language": "JavaScript",
+    "total_stars": 31346,
+    "delta_stars": 21657,
+    "delta_text": "21,657 stars this month",
+    "forks": 3034,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 35899,
+    "delta_stars": 15320,
+    "delta_text": "15,320 stars this month",
+    "forks": 5700,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "language": "Rust",
+    "total_stars": 33140,
+    "delta_stars": 6300,
+    "delta_text": "6,300 stars this month",
+    "forks": 5384,
+    "url": "https://github.com/xai-org/x-algorithm"
+  },
+  {
+    "name": "vorssaint/vorssaint-utils",
+    "description": "Free and open-source macOS menu bar toolkit.",
+    "language": "Swift",
+    "total_stars": 18357,
+    "delta_stars": 13312,
+    "delta_text": "13,312 stars this month",
+    "forks": 650,
+    "url": "https://github.com/vorssaint/vorssaint-utils"
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "total_stars": 12698,
+    "delta_stars": 8132,
+    "delta_text": "8,132 stars this month",
+    "forks": 1420,
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 29693,
+    "delta_stars": 3088,
+    "delta_text": "3,088 stars this month",
+    "forks": 3167,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 22594,
+    "delta_stars": 12736,
+    "delta_text": "12,736 stars this month",
+    "forks": 2775,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 6557,
+    "delta_stars": 5121,
+    "delta_text": "5,121 stars this month",
+    "forks": 449,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+    "language": "Python",
+    "total_stars": 2896,
+    "delta_stars": 2657,
+    "delta_text": "2,657 stars this month",
+    "forks": 261,
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 41836,
+    "delta_stars": 20983,
+    "delta_text": "20,983 stars this month",
+    "forks": 2367,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "total_stars": 11630,
+    "delta_stars": 4005,
+    "delta_text": "4,005 stars this month",
+    "forks": 1473,
+    "url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "language": "Rust",
+    "total_stars": 36089,
+    "delta_stars": 4799,
+    "delta_text": "4,799 stars this month",
+    "forks": 2283,
+    "url": "https://github.com/AlexsJones/llmfit"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "total_stars": 479031,
+    "delta_stars": 24522,
+    "delta_text": "24,522 stars this month",
+    "forks": 52855,
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+    "language": "TypeScript",
+    "total_stars": 5246,
+    "delta_stars": 3974,
+    "delta_text": "3,974 stars this month",
+    "forks": 487,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "total_stars": 10849,
+    "delta_stars": 7243,
+    "delta_text": "7,243 stars this month",
+    "forks": 694,
+    "url": "https://github.com/cactus-compute/needle"
+  }
+]
