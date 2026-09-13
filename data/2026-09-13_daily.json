@@ -1,0 +1,162 @@
+[
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 29902,
+    "delta_stars": 2265,
+    "delta_text": "2,265 stars today",
+    "forks": 6020,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "language": "TypeScript",
+    "total_stars": 1802,
+    "delta_stars": 504,
+    "delta_text": "504 stars today",
+    "forks": 552,
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+    "language": "JavaScript",
+    "total_stars": 65403,
+    "delta_stars": 217,
+    "delta_text": "217 stars today",
+    "forks": 10738,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "nab138/iloader",
+    "description": "User friendly sideloader",
+    "language": "TypeScript",
+    "total_stars": 3079,
+    "delta_stars": 209,
+    "delta_text": "209 stars today",
+    "forks": 211,
+    "url": "https://github.com/nab138/iloader"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "total_stars": 33209,
+    "delta_stars": 65,
+    "delta_text": "65 stars today",
+    "forks": 2540,
+    "url": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "name": "jihe520/MathModelAgent",
+    "description": "🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "language": "Python",
+    "total_stars": 5128,
+    "delta_stars": 262,
+    "delta_text": "262 stars today",
+    "forks": 401,
+    "url": "https://github.com/jihe520/MathModelAgent"
+  },
+  {
+    "name": "Sonarr/Sonarr",
+    "description": "Smart PVR for newsgroup and bittorrent users.",
+    "language": "C#",
+    "total_stars": 15922,
+    "delta_stars": 227,
+    "delta_text": "227 stars today",
+    "forks": 1953,
+    "url": "https://github.com/Sonarr/Sonarr"
+  },
+  {
+    "name": "alsk1992/CloddsBot",
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "language": "TypeScript",
+    "total_stars": 2500,
+    "delta_stars": 376,
+    "delta_text": "376 stars today",
+    "forks": 310,
+    "url": "https://github.com/alsk1992/CloddsBot"
+  },
+  {
+    "name": "yuliskov/SmartTube",
+    "description": "Browse media content with your own rules on Android TV",
+    "language": "Java",
+    "total_stars": 33213,
+    "delta_stars": 136,
+    "delta_text": "136 stars today",
+    "forks": 2014,
+    "url": "https://github.com/yuliskov/SmartTube"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "language": "Python",
+    "total_stars": 137626,
+    "delta_stars": 230,
+    "delta_text": "230 stars today",
+    "forks": 20234,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "name": "p1neappleXpress/OpenFlux",
+    "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+    "language": "Go",
+    "total_stars": 1402,
+    "delta_stars": 355,
+    "delta_text": "355 stars today",
+    "forks": 103,
+    "url": "https://github.com/p1neappleXpress/OpenFlux"
+  },
+  {
+    "name": "armory3d/armorpaint",
+    "description": "Graphics Creation Tools",
+    "language": "C",
+    "total_stars": 4912,
+    "delta_stars": 237,
+    "delta_text": "237 stars today",
+    "forks": 547,
+    "url": "https://github.com/armory3d/armorpaint"
+  },
+  {
+    "name": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "language": "Python",
+    "total_stars": 3593,
+    "delta_stars": 113,
+    "delta_text": "113 stars today",
+    "forks": 552,
+    "url": "https://github.com/SnailSploit/Claude-Red"
+  },
+  {
+    "name": "multimodal-art-projection/YuE",
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "language": "Python",
+    "total_stars": 7285,
+    "delta_stars": 210,
+    "delta_text": "210 stars today",
+    "forks": 822,
+    "url": "https://github.com/multimodal-art-projection/YuE"
+  },
+  {
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "total_stars": 7233,
+    "delta_stars": 54,
+    "delta_text": "54 stars today",
+    "forks": 256,
+    "url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "name": "vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "language": "Go",
+    "total_stars": 23451,
+    "delta_stars": 189,
+    "delta_text": "189 stars today",
+    "forks": 3059,
+    "url": "https://github.com/vxcontrol/pentagi"
+  }
+]
