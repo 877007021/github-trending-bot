@@ -1,0 +1,177 @@
+[
+  {
+    "username": "jtenniswood",
+    "display_name": "James Tenniswood",
+    "popular_repo": "espcontrol",
+    "url": "https://github.com/jtenniswood",
+    "repo_url": "https://github.com/jtenniswood/espcontrol"
+  },
+  {
+    "username": "abrignoni",
+    "display_name": "Brigs",
+    "popular_repo": "iLEAPP",
+    "url": "https://github.com/abrignoni",
+    "repo_url": "https://github.com/abrignoni/iLEAPP"
+  },
+  {
+    "username": "Shubhamsaboo",
+    "display_name": "Shubham Saboo",
+    "popular_repo": "awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo",
+    "repo_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "username": "jtydhr88",
+    "display_name": "Terry Jia",
+    "popular_repo": "screenwriting-skills",
+    "url": "https://github.com/jtydhr88",
+    "repo_url": "https://github.com/jtydhr88/screenwriting-skills"
+  },
+  {
+    "username": "abue-ammar",
+    "display_name": "Abue Ammar",
+    "popular_repo": "tinycast",
+    "url": "https://github.com/abue-ammar",
+    "repo_url": "https://github.com/abue-ammar/tinycast"
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "narumiruna",
+    "display_name": "なるみ",
+    "popular_repo": "pi-extensions",
+    "url": "https://github.com/narumiruna",
+    "repo_url": "https://github.com/narumiruna/pi-extensions"
+  },
+  {
+    "username": "A-EDev",
+    "display_name": "AE",
+    "popular_repo": "Flow",
+    "url": "https://github.com/A-EDev",
+    "repo_url": "https://github.com/A-EDev/Flow"
+  },
+  {
+    "username": "JustVugg",
+    "display_name": "Vincenzo Fornaro",
+    "popular_repo": "colibri",
+    "url": "https://github.com/JustVugg",
+    "repo_url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "username": "ColeMurray",
+    "display_name": "Cole Murray",
+    "popular_repo": "background-agents",
+    "url": "https://github.com/ColeMurray",
+    "repo_url": "https://github.com/ColeMurray/background-agents"
+  },
+  {
+    "username": "Scottcjn",
+    "display_name": "AutoJanitor",
+    "popular_repo": "Rustchain",
+    "url": "https://github.com/Scottcjn",
+    "repo_url": "https://github.com/Scottcjn/Rustchain"
+  },
+  {
+    "username": "hiyouga",
+    "display_name": "Yaowei Zheng",
+    "popular_repo": "LlamaFactory",
+    "url": "https://github.com/hiyouga",
+    "repo_url": "https://github.com/hiyouga/LlamaFactory"
+  },
+  {
+    "username": "nicoburns",
+    "display_name": "Nico Burns",
+    "popular_repo": "wuff",
+    "url": "https://github.com/nicoburns",
+    "repo_url": "https://github.com/nicoburns/wuff"
+  },
+  {
+    "username": "enjoy-digital",
+    "display_name": "enjoy-digital",
+    "popular_repo": "litex",
+    "url": "https://github.com/enjoy-digital",
+    "repo_url": "https://github.com/enjoy-digital/litex"
+  },
+  {
+    "username": "christian-byrne",
+    "display_name": "Christian Byrne",
+    "popular_repo": "audio-separation-nodes-comfyui",
+    "url": "https://github.com/christian-byrne",
+    "repo_url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui"
+  },
+  {
+    "username": "ORESoftware",
+    "display_name": "Alexander Mills",
+    "popular_repo": "",
+    "url": "https://github.com/ORESoftware",
+    "repo_url": ""
+  },
+  {
+    "username": "biodranik",
+    "display_name": "Alexander Borsuk",
+    "popular_repo": "",
+    "url": "https://github.com/biodranik",
+    "repo_url": ""
+  },
+  {
+    "username": "jeremymcs",
+    "display_name": "Jeremy McSpadden",
+    "popular_repo": "",
+    "url": "https://github.com/jeremymcs",
+    "repo_url": ""
+  },
+  {
+    "username": "tshemsedinov",
+    "display_name": "Timur Shemsedinov",
+    "popular_repo": "reslop",
+    "url": "https://github.com/tshemsedinov",
+    "repo_url": "https://github.com/tshemsedinov/reslop"
+  },
+  {
+    "username": "LalitMaganti",
+    "display_name": "Lalit Maganti",
+    "popular_repo": "buildprof",
+    "url": "https://github.com/LalitMaganti",
+    "repo_url": "https://github.com/LalitMaganti/buildprof"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "Astro-Han",
+    "display_name": "AstroHan",
+    "popular_repo": "karpathy-llm-wiki",
+    "url": "https://github.com/Astro-Han",
+    "repo_url": "https://github.com/Astro-Han/karpathy-llm-wiki"
+  },
+  {
+    "username": "i386",
+    "display_name": "James Dumay",
+    "popular_repo": "",
+    "url": "https://github.com/i386",
+    "repo_url": ""
+  },
+  {
+    "username": "fzyzcjy",
+    "display_name": "fzyzcjy",
+    "popular_repo": "flutter_rust_bridge",
+    "url": "https://github.com/fzyzcjy",
+    "repo_url": "https://github.com/fzyzcjy/flutter_rust_bridge"
+  },
+  {
+    "username": "krille-chan",
+    "display_name": "Krille-chan",
+    "popular_repo": "fluffychat",
+    "url": "https://github.com/krille-chan",
+    "repo_url": "https://github.com/krille-chan/fluffychat"
+  }
+]

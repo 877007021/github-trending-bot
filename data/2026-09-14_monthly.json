@@ -1,0 +1,172 @@
+[
+  {
+    "name": "omacom/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 40852,
+    "delta_stars": 16489,
+    "delta_text": "16,489 stars this month",
+    "forks": 4581,
+    "url": "https://github.com/omacom/omarchy"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 60758,
+    "delta_stars": 48808,
+    "delta_text": "48,808 stars this month",
+    "forks": 3994,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 3939,
+    "delta_stars": 3635,
+    "delta_text": "3,635 stars this month",
+    "forks": 289,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 20943,
+    "delta_stars": 12557,
+    "delta_text": "12,557 stars this month",
+    "forks": 674,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 7621,
+    "delta_stars": 4967,
+    "delta_text": "4,967 stars this month",
+    "forks": 673,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 37029,
+    "delta_stars": 8745,
+    "delta_text": "8,745 stars this month",
+    "forks": 2843,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 39203,
+    "delta_stars": 26213,
+    "delta_text": "26,213 stars this month",
+    "forks": 2488,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "language": "JavaScript",
+    "total_stars": 31653,
+    "delta_stars": 21897,
+    "delta_text": "21,897 stars this month",
+    "forks": 3061,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 36473,
+    "delta_stars": 15888,
+    "delta_text": "15,888 stars this month",
+    "forks": 5781,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 44326,
+    "delta_stars": 24025,
+    "delta_text": "24,025 stars this month",
+    "forks": 2545,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "vorssaint/vorssaint-utils",
+    "description": "Free and open-source macOS menu bar toolkit.",
+    "language": "Swift",
+    "total_stars": 18763,
+    "delta_stars": 13520,
+    "delta_text": "13,520 stars this month",
+    "forks": 673,
+    "url": "https://github.com/vorssaint/vorssaint-utils"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 29729,
+    "delta_stars": 3049,
+    "delta_text": "3,049 stars this month",
+    "forks": 3169,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 6693,
+    "delta_stars": 5269,
+    "delta_text": "5,269 stars this month",
+    "forks": 453,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "total_stars": 11843,
+    "delta_stars": 4221,
+    "delta_text": "4,221 stars this month",
+    "forks": 1491,
+    "url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 26825,
+    "delta_stars": 15895,
+    "delta_text": "15,895 stars this month",
+    "forks": 3310,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+    "language": "TypeScript",
+    "total_stars": 5346,
+    "delta_stars": 4056,
+    "delta_text": "4,056 stars this month",
+    "forks": 497,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "language": "TypeScript",
+    "total_stars": 8449,
+    "delta_stars": 7887,
+    "delta_text": "7,887 stars this month",
+    "forks": 528,
+    "url": "https://github.com/cordiverse/cordis"
+  }
+]
