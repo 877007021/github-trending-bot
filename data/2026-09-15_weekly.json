@@ -1,0 +1,232 @@
+[
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 45448,
+    "delta_stars": 17658,
+    "delta_text": "17,658 stars this week",
+    "forks": 2636,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 33593,
+    "delta_stars": 14403,
+    "delta_text": "14,403 stars this week",
+    "forks": 6706,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 258403,
+    "delta_stars": 6085,
+    "delta_text": "6,085 stars this week",
+    "forks": 38651,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 6707,
+    "delta_stars": 1233,
+    "delta_text": "1,233 stars this week",
+    "forks": 878,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 138435,
+    "delta_stars": 7722,
+    "delta_text": "7,722 stars this week",
+    "forks": 7435,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 22861,
+    "delta_stars": 2241,
+    "delta_text": "2,241 stars this week",
+    "forks": 1653,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 50040,
+    "delta_stars": 5052,
+    "delta_text": "5,052 stars this week",
+    "forks": 4569,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 62269,
+    "delta_stars": 9868,
+    "delta_text": "9,868 stars this week",
+    "forks": 4116,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "total_stars": 27194,
+    "delta_stars": 1350,
+    "delta_text": "1,350 stars this week",
+    "forks": 1814,
+    "url": "https://github.com/openai/skills"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 184008,
+    "delta_stars": 4604,
+    "delta_text": "4,604 stars this week",
+    "forks": 13545,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 286700,
+    "delta_stars": 4124,
+    "delta_text": "4,124 stars this week",
+    "forks": 25646,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "total_stars": 48146,
+    "delta_stars": 3201,
+    "delta_text": "3,201 stars this week",
+    "forks": 3924,
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "total_stars": 7663,
+    "delta_stars": 761,
+    "delta_text": "761 stars this week",
+    "forks": 273,
+    "url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 36835,
+    "delta_stars": 3950,
+    "delta_text": "3,950 stars this week",
+    "forks": 5819,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 39809,
+    "delta_stars": 6604,
+    "delta_text": "6,604 stars this week",
+    "forks": 2528,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 51960,
+    "delta_stars": 702,
+    "delta_text": "702 stars this week",
+    "forks": 3648,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 23242,
+    "delta_stars": 1460,
+    "delta_text": "1,460 stars this week",
+    "forks": 3304,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "language": "JavaScript",
+    "total_stars": 50252,
+    "delta_stars": 2344,
+    "delta_text": "2,344 stars this week",
+    "forks": 7609,
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "name": "earthtojake/text-to-cad",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "language": "Python",
+    "total_stars": 15780,
+    "delta_stars": 1194,
+    "delta_text": "1,194 stars this week",
+    "forks": 1630,
+    "url": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "name": "petergyang/no-ai-slop",
+    "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+    "language": "Python",
+    "total_stars": 9539,
+    "delta_stars": 1946,
+    "delta_text": "1,946 stars this week",
+    "forks": 688,
+    "url": "https://github.com/petergyang/no-ai-slop"
+  },
+  {
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "language": "Python",
+    "total_stars": 136808,
+    "delta_stars": 2952,
+    "delta_text": "2,952 stars this week",
+    "forks": 12271,
+    "url": "https://github.com/github/spec-kit"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 25770,
+    "delta_stars": 2709,
+    "delta_text": "2,709 stars this week",
+    "forks": 1864,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "kunchenguid/firstmate",
+    "description": "Talk to one agent. Ship with a crew.",
+    "language": "Shell",
+    "total_stars": 5954,
+    "delta_stars": 978,
+    "delta_text": "978 stars this week",
+    "forks": 1824,
+    "url": "https://github.com/kunchenguid/firstmate"
+  }
+]
