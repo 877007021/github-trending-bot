@@ -1,0 +1,222 @@
+[
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 46269,
+    "delta_stars": 17880,
+    "delta_text": "17,880 stars this week",
+    "forks": 2687,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 34853,
+    "delta_stars": 15193,
+    "delta_text": "15,193 stars this week",
+    "forks": 6964,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 6788,
+    "delta_stars": 1206,
+    "delta_text": "1,206 stars this week",
+    "forks": 888,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 259331,
+    "delta_stars": 5398,
+    "delta_text": "5,398 stars this week",
+    "forks": 38795,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 23079,
+    "delta_stars": 1832,
+    "delta_text": "1,832 stars this week",
+    "forks": 1666,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 28615,
+    "delta_stars": 5169,
+    "delta_text": "5,169 stars this week",
+    "forks": 2049,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 139397,
+    "delta_stars": 7499,
+    "delta_text": "7,499 stars this week",
+    "forks": 7489,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 287169,
+    "delta_stars": 4170,
+    "delta_text": "4,170 stars this week",
+    "forks": 25683,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "total_stars": 7815,
+    "delta_stars": 871,
+    "delta_text": "871 stars this week",
+    "forks": 272,
+    "url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 50402,
+    "delta_stars": 3002,
+    "delta_text": "3,002 stars this week",
+    "forks": 4599,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 184411,
+    "delta_stars": 3046,
+    "delta_text": "3,046 stars this week",
+    "forks": 13589,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "total_stars": 48568,
+    "delta_stars": 3248,
+    "delta_text": "3,248 stars this week",
+    "forks": 3946,
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "total_stars": 27281,
+    "delta_stars": 985,
+    "delta_text": "985 stars this week",
+    "forks": 1823,
+    "url": "https://github.com/openai/skills"
+  },
+  {
+    "name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "language": "C",
+    "total_stars": 33855,
+    "delta_stars": 6095,
+    "delta_text": "6,095 stars this week",
+    "forks": 3546,
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 63598,
+    "delta_stars": 9077,
+    "delta_text": "9,077 stars this week",
+    "forks": 4217,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 106692,
+    "delta_stars": 3364,
+    "delta_text": "3,364 stars this week",
+    "forks": 20391,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 37119,
+    "delta_stars": 3698,
+    "delta_text": "3,698 stars this week",
+    "forks": 5856,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 24215,
+    "delta_stars": 1892,
+    "delta_text": "1,892 stars this week",
+    "forks": 3383,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "petergyang/no-ai-slop",
+    "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+    "language": "Python",
+    "total_stars": 9874,
+    "delta_stars": 2160,
+    "delta_text": "2,160 stars this week",
+    "forks": 698,
+    "url": "https://github.com/petergyang/no-ai-slop"
+  },
+  {
+    "name": "earthtojake/text-to-cad",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "language": "Python",
+    "total_stars": 15903,
+    "delta_stars": 1141,
+    "delta_text": "1,141 stars this week",
+    "forks": 1651,
+    "url": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "language": "JavaScript",
+    "total_stars": 28910,
+    "delta_stars": 986,
+    "delta_text": "986 stars this week",
+    "forks": 5308,
+    "url": "https://github.com/decolua/9router"
+  },
+  {
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "language": "Python",
+    "total_stars": 137057,
+    "delta_stars": 3018,
+    "delta_text": "3,018 stars this week",
+    "forks": 12277,
+    "url": "https://github.com/github/spec-kit"
+  }
+]
