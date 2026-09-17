@@ -1,0 +1,212 @@
+[
+  {
+    "name": "omacom/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 41536,
+    "delta_stars": 16707,
+    "delta_text": "16,707 stars this month",
+    "forks": 4716,
+    "url": "https://github.com/omacom/omarchy"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 64873,
+    "delta_stars": 51755,
+    "delta_text": "51,755 stars this month",
+    "forks": 4307,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 4154,
+    "delta_stars": 3853,
+    "delta_text": "3,853 stars this month",
+    "forks": 303,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 8081,
+    "delta_stars": 5021,
+    "delta_text": "5,021 stars this month",
+    "forks": 720,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 21344,
+    "delta_stars": 12927,
+    "delta_text": "12,927 stars this month",
+    "forks": 688,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 37403,
+    "delta_stars": 16773,
+    "delta_text": "16,773 stars this month",
+    "forks": 5888,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "language": "JavaScript",
+    "total_stars": 32260,
+    "delta_stars": 22206,
+    "delta_text": "22,206 stars this month",
+    "forks": 3105,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 46902,
+    "delta_stars": 25944,
+    "delta_text": "25,944 stars this month",
+    "forks": 2730,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 40518,
+    "delta_stars": 21458,
+    "delta_text": "21,458 stars this month",
+    "forks": 2583,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "vorssaint/vorssaint-utils",
+    "description": "Free and open-source macOS menu bar toolkit.",
+    "language": "Swift",
+    "total_stars": 19476,
+    "delta_stars": 14080,
+    "delta_text": "14,080 stars this month",
+    "forks": 702,
+    "url": "https://github.com/vorssaint/vorssaint-utils"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 32039,
+    "delta_stars": 21946,
+    "delta_text": "21,946 stars this month",
+    "forks": 3795,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "chaitanyagiri/munder-difflin",
+    "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
+    "language": "TypeScript",
+    "total_stars": 7433,
+    "delta_stars": 6210,
+    "delta_text": "6,210 stars this month",
+    "forks": 968,
+    "url": "https://github.com/chaitanyagiri/munder-difflin"
+  },
+  {
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "total_stars": 13347,
+    "delta_stars": 5577,
+    "delta_text": "5,577 stars this month",
+    "forks": 1587,
+    "url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)",
+    "language": "Mojo",
+    "total_stars": 29784,
+    "delta_stars": 3075,
+    "delta_text": "3,075 stars this month",
+    "forks": 3173,
+    "url": "https://github.com/modular/modular"
+  },
+  {
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+    "language": "TypeScript",
+    "total_stars": 5511,
+    "delta_stars": 4197,
+    "delta_text": "4,197 stars this month",
+    "forks": 510,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "total_stars": 37774,
+    "delta_stars": 9270,
+    "delta_text": "9,270 stars this month",
+    "forks": 2919,
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 32865,
+    "delta_stars": 5249,
+    "delta_text": "5,249 stars this month",
+    "forks": 3165,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 7018,
+    "delta_stars": 5445,
+    "delta_text": "5,445 stars this month",
+    "forks": 469,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "tashfeenahmed/freellmapi",
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "language": "TypeScript",
+    "total_stars": 26688,
+    "delta_stars": 8153,
+    "delta_text": "8,153 stars this month",
+    "forks": 3643,
+    "url": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "name": "tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "language": "TypeScript",
+    "total_stars": 6379,
+    "delta_stars": 1336,
+    "delta_text": "1,336 stars this month",
+    "forks": 526,
+    "url": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "language": "Python",
+    "total_stars": 61345,
+    "delta_stars": 6769,
+    "delta_text": "6,769 stars this month",
+    "forks": 7976,
+    "url": "https://github.com/jingyaogong/minimind"
+  }
+]
