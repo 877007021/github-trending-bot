@@ -1,0 +1,170 @@
+[
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "zhukunpenglinyutong",
+    "display_name": "朱昆鹏",
+    "popular_repo": "jetbrains-cc-gui",
+    "url": "https://github.com/zhukunpenglinyutong",
+    "repo_url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
+  },
+  {
+    "username": "bradygaster",
+    "display_name": "Brady Gaster",
+    "popular_repo": "squad",
+    "url": "https://github.com/bradygaster",
+    "repo_url": "https://github.com/bradygaster/squad"
+  },
+  {
+    "username": "Cyan4973",
+    "display_name": "Yann Collet",
+    "popular_repo": "xxHash",
+    "url": "https://github.com/Cyan4973",
+    "repo_url": "https://github.com/Cyan4973/xxHash"
+  },
+  {
+    "username": "callumalpass",
+    "display_name": "callumalpass",
+    "popular_repo": "tasknotes",
+    "url": "https://github.com/callumalpass",
+    "repo_url": "https://github.com/callumalpass/tasknotes"
+  },
+  {
+    "username": "OutThisLife",
+    "display_name": "brooklyn!",
+    "popular_repo": "brooklyn-skills",
+    "url": "https://github.com/OutThisLife",
+    "repo_url": "https://github.com/OutThisLife/brooklyn-skills"
+  },
+  {
+    "username": "stackia",
+    "display_name": "Stackie Jia",
+    "popular_repo": "rtp2httpd",
+    "url": "https://github.com/stackia",
+    "repo_url": "https://github.com/stackia/rtp2httpd"
+  },
+  {
+    "username": "emilk",
+    "display_name": "Emil Ernerfeldt",
+    "popular_repo": "egui",
+    "url": "https://github.com/emilk",
+    "repo_url": "https://github.com/emilk/egui"
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "tt-a1i",
+    "display_name": "tt-a1i",
+    "popular_repo": "archify",
+    "url": "https://github.com/tt-a1i",
+    "repo_url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "username": "DeusData",
+    "display_name": "Martin Vogel",
+    "popular_repo": "codebase-memory-mcp",
+    "url": "https://github.com/DeusData",
+    "repo_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "username": "ovr",
+    "display_name": "Dmitry Patsura",
+    "popular_repo": "StaticScript",
+    "url": "https://github.com/ovr",
+    "repo_url": "https://github.com/ovr/StaticScript"
+  },
+  {
+    "username": "yetone",
+    "display_name": "yetone",
+    "popular_repo": "cumora",
+    "url": "https://github.com/yetone",
+    "repo_url": "https://github.com/yetone/cumora"
+  },
+  {
+    "username": "LalitMaganti",
+    "display_name": "Lalit Maganti",
+    "popular_repo": "buildprof",
+    "url": "https://github.com/LalitMaganti",
+    "repo_url": "https://github.com/LalitMaganti/buildprof"
+  },
+  {
+    "username": "philipwalton",
+    "display_name": "Philip Walton",
+    "popular_repo": "modern-web-types",
+    "url": "https://github.com/philipwalton",
+    "repo_url": "https://github.com/philipwalton/modern-web-types"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "gnanam1990",
+    "display_name": "KRATOS",
+    "popular_repo": "base-mcp-paygate",
+    "url": "https://github.com/gnanam1990",
+    "repo_url": "https://github.com/gnanam1990/base-mcp-paygate"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "ducha-aiki",
+    "display_name": "Dmytro Mishkin",
+    "popular_repo": "mods",
+    "url": "https://github.com/ducha-aiki",
+    "repo_url": "https://github.com/ducha-aiki/mods"
+  },
+  {
+    "username": "kunickiaj",
+    "display_name": "Adam Kunicki",
+    "popular_repo": "codemem",
+    "url": "https://github.com/kunickiaj",
+    "repo_url": "https://github.com/kunickiaj/codemem"
+  },
+  {
+    "username": "lidge-jun",
+    "display_name": "JUN",
+    "popular_repo": "opencodex",
+    "url": "https://github.com/lidge-jun",
+    "repo_url": "https://github.com/lidge-jun/opencodex"
+  },
+  {
+    "username": "hnyls2002",
+    "display_name": "Liangsheng Yin",
+    "popular_repo": "RISC-V-simulator",
+    "url": "https://github.com/hnyls2002",
+    "repo_url": "https://github.com/hnyls2002/RISC-V-simulator"
+  },
+  {
+    "username": "BBuf",
+    "display_name": "Xiaoyu Zhang",
+    "popular_repo": "AI-Infra-Auto-Driven-SKILLS",
+    "url": "https://github.com/BBuf",
+    "repo_url": "https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS"
+  },
+  {
+    "username": "chrox",
+    "display_name": "Huang Xin",
+    "popular_repo": "",
+    "url": "https://github.com/chrox",
+    "repo_url": ""
+  }
+]
