@@ -1,0 +1,212 @@
+[
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 36681,
+    "delta_stars": 14144,
+    "delta_text": "14,144 stars this week",
+    "forks": 2613,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 48047,
+    "delta_stars": 7869,
+    "delta_text": "7,869 stars this week",
+    "forks": 2798,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 37842,
+    "delta_stars": 11683,
+    "delta_text": "11,683 stars this week",
+    "forks": 7625,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 262075,
+    "delta_stars": 5877,
+    "delta_text": "5,877 stars this week",
+    "forks": 39215,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 26982,
+    "delta_stars": 4703,
+    "delta_text": "4,703 stars this week",
+    "forks": 3633,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "total_stars": 146301,
+    "delta_stars": 1620,
+    "delta_text": "1,620 stars this week",
+    "forks": 23795,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 23541,
+    "delta_stars": 1398,
+    "delta_text": "1,398 stars this week",
+    "forks": 1695,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 96409,
+    "delta_stars": 3051,
+    "delta_text": "3,051 stars this week",
+    "forks": 10194,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "total_stars": 8020,
+    "delta_stars": 1104,
+    "delta_text": "1,104 stars this week",
+    "forks": 274,
+    "url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 24887,
+    "delta_stars": 776,
+    "delta_text": "776 stars this week",
+    "forks": 2972,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 6974,
+    "delta_stars": 542,
+    "delta_text": "542 stars this week",
+    "forks": 902,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "total_stars": 49946,
+    "delta_stars": 3118,
+    "delta_text": "3,118 stars this week",
+    "forks": 4031,
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "name": "kunchenguid/firstmate",
+    "description": "Talk to one agent. Ship with a crew.",
+    "language": "Shell",
+    "total_stars": 6557,
+    "delta_stars": 990,
+    "delta_text": "990 stars this week",
+    "forks": 1998,
+    "url": "https://github.com/kunchenguid/firstmate"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 185424,
+    "delta_stars": 2841,
+    "delta_text": "2,841 stars this week",
+    "forks": 13649,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "total_stars": 90739,
+    "delta_stars": 357,
+    "delta_text": "357 stars this week",
+    "forks": 38701,
+    "url": "https://github.com/home-assistant/core"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "total_stars": 71959,
+    "delta_stars": 5272,
+    "delta_text": "5,272 stars this week",
+    "forks": 4704,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 51387,
+    "delta_stars": 2401,
+    "delta_text": "2,401 stars this week",
+    "forks": 4679,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 83127,
+    "delta_stars": 3766,
+    "delta_text": "3,766 stars this week",
+    "forks": 7283,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 288559,
+    "delta_stars": 3573,
+    "delta_text": "3,573 stars this week",
+    "forks": 25806,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "petergyang/no-ai-slop",
+    "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+    "language": "Python",
+    "total_stars": 10566,
+    "delta_stars": 2189,
+    "delta_text": "2,189 stars this week",
+    "forks": 728,
+    "url": "https://github.com/petergyang/no-ai-slop"
+  },
+  {
+    "name": "danny-avila/LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "language": "TypeScript",
+    "total_stars": 44333,
+    "delta_stars": 1528,
+    "delta_text": "1,528 stars this week",
+    "forks": 9110,
+    "url": "https://github.com/danny-avila/LibreChat"
+  }
+]

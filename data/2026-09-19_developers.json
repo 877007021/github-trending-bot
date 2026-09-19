@@ -1,0 +1,177 @@
+[
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "plannotator",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "username": "MervinPraison",
+    "display_name": "Mervin Praison",
+    "popular_repo": "PraisonAI",
+    "url": "https://github.com/MervinPraison",
+    "repo_url": "https://github.com/MervinPraison/PraisonAI"
+  },
+  {
+    "username": "Cyan4973",
+    "display_name": "Yann Collet",
+    "popular_repo": "xxHash",
+    "url": "https://github.com/Cyan4973",
+    "repo_url": "https://github.com/Cyan4973/xxHash"
+  },
+  {
+    "username": "bradygaster",
+    "display_name": "Brady Gaster",
+    "popular_repo": "squad",
+    "url": "https://github.com/bradygaster",
+    "repo_url": "https://github.com/bradygaster/squad"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "rakazo",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/rakazo"
+  },
+  {
+    "username": "chrox",
+    "display_name": "Huang Xin",
+    "popular_repo": "",
+    "url": "https://github.com/chrox",
+    "repo_url": ""
+  },
+  {
+    "username": "DouweM",
+    "display_name": "Douwe Maan",
+    "popular_repo": "",
+    "url": "https://github.com/DouweM",
+    "repo_url": ""
+  },
+  {
+    "username": "zhukunpenglinyutong",
+    "display_name": "朱昆鹏",
+    "popular_repo": "jetbrains-cc-gui",
+    "url": "https://github.com/zhukunpenglinyutong",
+    "repo_url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
+  },
+  {
+    "username": "t8y2",
+    "display_name": "t8y2",
+    "popular_repo": "dbx",
+    "url": "https://github.com/t8y2",
+    "repo_url": "https://github.com/t8y2/dbx"
+  },
+  {
+    "username": "federicodeponte",
+    "display_name": "federicodeponte",
+    "popular_repo": "opendraft",
+    "url": "https://github.com/federicodeponte",
+    "repo_url": "https://github.com/federicodeponte/opendraft"
+  },
+  {
+    "username": "poteto",
+    "display_name": "lauren",
+    "popular_repo": "hiring-without-whiteboards",
+    "url": "https://github.com/poteto",
+    "repo_url": "https://github.com/poteto/hiring-without-whiteboards"
+  },
+  {
+    "username": "cagnulein",
+    "display_name": "Roberto Viola",
+    "popular_repo": "qdomyos-zwift",
+    "url": "https://github.com/cagnulein",
+    "repo_url": "https://github.com/cagnulein/qdomyos-zwift"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "cixzhang",
+    "display_name": "Cindy Zhang",
+    "popular_repo": "",
+    "url": "https://github.com/cixzhang",
+    "repo_url": ""
+  },
+  {
+    "username": "chaitanyagiri",
+    "display_name": "Chaitanya Giri",
+    "popular_repo": "munder-difflin",
+    "url": "https://github.com/chaitanyagiri",
+    "repo_url": "https://github.com/chaitanyagiri/munder-difflin"
+  },
+  {
+    "username": "yetone",
+    "display_name": "yetone",
+    "popular_repo": "cumora",
+    "url": "https://github.com/yetone",
+    "repo_url": "https://github.com/yetone/cumora"
+  },
+  {
+    "username": "Astro-Han",
+    "display_name": "AstroHan",
+    "popular_repo": "karpathy-llm-wiki",
+    "url": "https://github.com/Astro-Han",
+    "repo_url": "https://github.com/Astro-Han/karpathy-llm-wiki"
+  },
+  {
+    "username": "auscaster",
+    "display_name": "Kam  ☄️",
+    "popular_repo": "frantic-board",
+    "url": "https://github.com/auscaster",
+    "repo_url": "https://github.com/auscaster/frantic-board"
+  },
+  {
+    "username": "oschwartz10612",
+    "display_name": "Owen Schwartz",
+    "popular_repo": "poppler-windows",
+    "url": "https://github.com/oschwartz10612",
+    "repo_url": "https://github.com/oschwartz10612/poppler-windows"
+  },
+  {
+    "username": "kixelated",
+    "display_name": "Luke Curley",
+    "popular_repo": "",
+    "url": "https://github.com/kixelated",
+    "repo_url": ""
+  },
+  {
+    "username": "lidge-jun",
+    "display_name": "JUN",
+    "popular_repo": "opencodex",
+    "url": "https://github.com/lidge-jun",
+    "repo_url": "https://github.com/lidge-jun/opencodex"
+  },
+  {
+    "username": "TimeToBuildBob",
+    "display_name": "Bob",
+    "popular_repo": "stats",
+    "url": "https://github.com/TimeToBuildBob",
+    "repo_url": "https://github.com/TimeToBuildBob/stats"
+  },
+  {
+    "username": "colbymchenry",
+    "display_name": "Colby Mchenry",
+    "popular_repo": "codegraph",
+    "url": "https://github.com/colbymchenry",
+    "repo_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "username": "clubanderson",
+    "display_name": "Andy Anderson",
+    "popular_repo": "",
+    "url": "https://github.com/clubanderson",
+    "repo_url": ""
+  }
+]
