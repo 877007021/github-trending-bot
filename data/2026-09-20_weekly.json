@@ -1,0 +1,212 @@
+[
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 37556,
+    "delta_stars": 15028,
+    "delta_text": "15,028 stars this week",
+    "forks": 2684,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "total_stars": 146708,
+    "delta_stars": 1999,
+    "delta_text": "1,999 stars this week",
+    "forks": 23928,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 262958,
+    "delta_stars": 6265,
+    "delta_text": "6,265 stars this week",
+    "forks": 39345,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 27427,
+    "delta_stars": 4867,
+    "delta_text": "4,867 stars this week",
+    "forks": 3693,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 38627,
+    "delta_stars": 10207,
+    "delta_text": "10,207 stars this week",
+    "forks": 7800,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 97035,
+    "delta_stars": 3445,
+    "delta_text": "3,445 stars this week",
+    "forks": 10240,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 25126,
+    "delta_stars": 1034,
+    "delta_text": "1,034 stars this week",
+    "forks": 2994,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 48693,
+    "delta_stars": 5589,
+    "delta_text": "5,589 stars this week",
+    "forks": 2831,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 23666,
+    "delta_stars": 1359,
+    "delta_text": "1,359 stars this week",
+    "forks": 1707,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "total_stars": 8116,
+    "delta_stars": 1141,
+    "delta_text": "1,141 stars this week",
+    "forks": 280,
+    "url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "total_stars": 50253,
+    "delta_stars": 3024,
+    "delta_text": "3,024 stars this week",
+    "forks": 4055,
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "name": "home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "total_stars": 90822,
+    "delta_stars": 417,
+    "delta_text": "417 stars this week",
+    "forks": 38709,
+    "url": "https://github.com/home-assistant/core"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "total_stars": 185659,
+    "delta_stars": 2767,
+    "delta_text": "2,767 stars this week",
+    "forks": 13673,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "name": "kunchenguid/firstmate",
+    "description": "Talk to one agent. Ship with a crew.",
+    "language": "Shell",
+    "total_stars": 6733,
+    "delta_stars": 1073,
+    "delta_text": "1,073 stars this week",
+    "forks": 2032,
+    "url": "https://github.com/kunchenguid/firstmate"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 83459,
+    "delta_stars": 3914,
+    "delta_text": "3,914 stars this week",
+    "forks": 7314,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 51651,
+    "delta_stars": 2498,
+    "delta_text": "2,498 stars this week",
+    "forks": 4706,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "total_stars": 72619,
+    "delta_stars": 5404,
+    "delta_text": "5,404 stars this week",
+    "forks": 4752,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "total_stars": 7034,
+    "delta_stars": 522,
+    "delta_text": "522 stars this week",
+    "forks": 910,
+    "url": "https://github.com/openai/plugins"
+  },
+  {
+    "name": "danny-avila/LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "language": "TypeScript",
+    "total_stars": 44403,
+    "delta_stars": 1573,
+    "delta_text": "1,573 stars this week",
+    "forks": 9119,
+    "url": "https://github.com/danny-avila/LibreChat"
+  },
+  {
+    "name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "total_stars": 110330,
+    "delta_stars": 1389,
+    "delta_text": "1,389 stars this week",
+    "forks": 14396,
+    "url": "https://github.com/supabase/supabase"
+  },
+  {
+    "name": "huggingface/transformers",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "language": "Python",
+    "total_stars": 166391,
+    "delta_stars": 1290,
+    "delta_text": "1,290 stars this week",
+    "forks": 34630,
+    "url": "https://github.com/huggingface/transformers"
+  }
+]
