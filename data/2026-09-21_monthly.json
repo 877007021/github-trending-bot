@@ -1,0 +1,202 @@
+[
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 68268,
+    "delta_stars": 53904,
+    "delta_text": "53,904 stars this month",
+    "forks": 4564,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 38195,
+    "delta_stars": 17511,
+    "delta_text": "17,511 stars this month",
+    "forks": 5990,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "total_stars": 4310,
+    "delta_stars": 4010,
+    "delta_text": "4,010 stars this month",
+    "forks": 311,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "name": "omacom/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 42373,
+    "delta_stars": 15720,
+    "delta_text": "15,720 stars this month",
+    "forks": 4880,
+    "url": "https://github.com/omacom/omarchy"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "language": "JavaScript",
+    "total_stars": 32998,
+    "delta_stars": 22015,
+    "delta_text": "22,015 stars this month",
+    "forks": 3180,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 8235,
+    "delta_stars": 4521,
+    "delta_text": "4,521 stars this month",
+    "forks": 758,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 33551,
+    "delta_stars": 22901,
+    "delta_text": "22,901 stars this month",
+    "forks": 3966,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 18026,
+    "delta_stars": 14879,
+    "delta_text": "14,879 stars this month",
+    "forks": 999,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "vorssaint/vorssaint-utils",
+    "description": "Free and open-source macOS menu bar toolkit.",
+    "language": "Swift",
+    "total_stars": 20246,
+    "delta_stars": 14605,
+    "delta_text": "14,605 stars this month",
+    "forks": 739,
+    "url": "https://github.com/vorssaint/vorssaint-utils"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 49240,
+    "delta_stars": 26844,
+    "delta_text": "26,844 stars this month",
+    "forks": 2853,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 38391,
+    "delta_stars": 17582,
+    "delta_text": "17,582 stars this month",
+    "forks": 2738,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "total_stars": 14087,
+    "delta_stars": 6211,
+    "delta_text": "6,211 stars this month",
+    "forks": 1663,
+    "url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "total_stars": 21750,
+    "delta_stars": 10567,
+    "delta_text": "10,567 stars this month",
+    "forks": 710,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "language": "TypeScript",
+    "total_stars": 6548,
+    "delta_stars": 1604,
+    "delta_text": "1,604 stars this month",
+    "forks": 537,
+    "url": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 33334,
+    "delta_stars": 5364,
+    "delta_text": "5,364 stars this month",
+    "forks": 3218,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 41583,
+    "delta_stars": 17716,
+    "delta_text": "17,716 stars this month",
+    "forks": 2668,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "language": "Python",
+    "total_stars": 61843,
+    "delta_stars": 7126,
+    "delta_text": "7,126 stars this month",
+    "forks": 8049,
+    "url": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 27997,
+    "delta_stars": 7936,
+    "delta_text": "7,936 stars this month",
+    "forks": 3761,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "language": "TypeScript",
+    "total_stars": 6050,
+    "delta_stars": 4797,
+    "delta_text": "4,797 stars this month",
+    "forks": 431,
+    "url": "https://github.com/Tencent/BrowserSkill"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 19721,
+    "delta_stars": 6976,
+    "delta_text": "6,976 stars this month",
+    "forks": 2536,
+    "url": "https://github.com/every-app/open-seo"
+  }
+]
