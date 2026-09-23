@@ -1,0 +1,82 @@
+[
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 36348,
+    "delta_stars": 438,
+    "delta_text": "438 stars today",
+    "forks": 5316,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "language": "Go",
+    "total_stars": 2983,
+    "delta_stars": 245,
+    "delta_text": "245 stars today",
+    "forks": 386,
+    "url": "https://github.com/agent-substrate/substrate"
+  },
+  {
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "language": "TypeScript",
+    "total_stars": 15421,
+    "delta_stars": 255,
+    "delta_text": "255 stars today",
+    "forks": 1373,
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 31135,
+    "delta_stars": 64,
+    "delta_text": "64 stars today",
+    "forks": 3541,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "language": "Go",
+    "total_stars": 7629,
+    "delta_stars": 2305,
+    "delta_text": "2,305 stars today",
+    "forks": 355,
+    "url": "https://github.com/google/ax"
+  },
+  {
+    "name": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "language": "Python",
+    "total_stars": 14119,
+    "delta_stars": 441,
+    "delta_text": "441 stars today",
+    "forks": 1359,
+    "url": "https://github.com/mvt-project/mvt"
+  },
+  {
+    "name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "language": "Python",
+    "total_stars": 2228,
+    "delta_stars": 230,
+    "delta_text": "230 stars today",
+    "forks": 218,
+    "url": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "total_stars": 25852,
+    "delta_stars": 191,
+    "delta_text": "191 stars today",
+    "forks": 3119,
+    "url": "https://github.com/browser-use/video-use"
+  }
+]

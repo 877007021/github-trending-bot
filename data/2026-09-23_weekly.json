@@ -1,0 +1,202 @@
+[
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 39737,
+    "delta_stars": 12590,
+    "delta_text": "12,590 stars this week",
+    "forks": 2853,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "total_stars": 147660,
+    "delta_stars": 2754,
+    "delta_text": "2,754 stars this week",
+    "forks": 24135,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 28965,
+    "delta_stars": 5303,
+    "delta_text": "5,303 stars this week",
+    "forks": 3905,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 265464,
+    "delta_stars": 6904,
+    "delta_text": "6,904 stars this week",
+    "forks": 39663,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 25434,
+    "delta_stars": 1403,
+    "delta_text": "1,403 stars this week",
+    "forks": 3018,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 98469,
+    "delta_stars": 4224,
+    "delta_text": "4,224 stars this week",
+    "forks": 10343,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "language": "C",
+    "total_stars": 37149,
+    "delta_stars": 4036,
+    "delta_text": "4,036 stars this week",
+    "forks": 4012,
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "total_stars": 4639,
+    "delta_stars": 2148,
+    "delta_text": "2,148 stars this week",
+    "forks": 534,
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 36348,
+    "delta_stars": 1238,
+    "delta_text": "1,238 stars this week",
+    "forks": 5316,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "total_stars": 75657,
+    "delta_stars": 6205,
+    "delta_text": "6,205 stars this week",
+    "forks": 4956,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "danny-avila/LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "language": "TypeScript",
+    "total_stars": 44689,
+    "delta_stars": 1262,
+    "delta_text": "1,262 stars this week",
+    "forks": 9174,
+    "url": "https://github.com/danny-avila/LibreChat"
+  },
+  {
+    "name": "home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "total_stars": 91068,
+    "delta_stars": 538,
+    "delta_text": "538 stars this week",
+    "forks": 38735,
+    "url": "https://github.com/home-assistant/core"
+  },
+  {
+    "name": "cline/cline",
+    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "language": "TypeScript",
+    "total_stars": 69084,
+    "delta_stars": 1188,
+    "delta_text": "1,188 stars this week",
+    "forks": 7487,
+    "url": "https://github.com/cline/cline"
+  },
+  {
+    "name": "cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "total_stars": 12496,
+    "delta_stars": 661,
+    "delta_text": "661 stars this week",
+    "forks": 1142,
+    "url": "https://github.com/cloudflare/quiche"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 84830,
+    "delta_stars": 2985,
+    "delta_text": "2,985 stars this week",
+    "forks": 7447,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "total_stars": 110637,
+    "delta_stars": 1508,
+    "delta_text": "1,508 stars this week",
+    "forks": 14517,
+    "url": "https://github.com/supabase/supabase"
+  },
+  {
+    "name": "cilium/cilium",
+    "description": "eBPF-based Networking, Security, and Observability",
+    "language": "Go",
+    "total_stars": 25461,
+    "delta_stars": 431,
+    "delta_text": "431 stars this week",
+    "forks": 4089,
+    "url": "https://github.com/cilium/cilium"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 20201,
+    "delta_stars": 15381,
+    "delta_text": "15,381 stars this week",
+    "forks": 1146,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "language": "TypeScript",
+    "total_stars": 18382,
+    "delta_stars": 4009,
+    "delta_text": "4,009 stars this week",
+    "forks": 2254,
+    "url": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "name": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "language": "TypeScript",
+    "total_stars": 6644,
+    "delta_stars": 4553,
+    "delta_text": "4,553 stars this week",
+    "forks": 488,
+    "url": "https://github.com/Tencent/BrowserSkill"
+  }
+]
