@@ -1,0 +1,172 @@
+[
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 36946,
+    "delta_stars": 664,
+    "delta_text": "664 stars today",
+    "forks": 5377,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "language": "Go",
+    "total_stars": 9075,
+    "delta_stars": 1543,
+    "delta_text": "1,543 stars today",
+    "forks": 436,
+    "url": "https://github.com/google/ax"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 31503,
+    "delta_stars": 389,
+    "delta_text": "389 stars today",
+    "forks": 3580,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "language": "TypeScript",
+    "total_stars": 6548,
+    "delta_stars": 87,
+    "delta_text": "87 stars today",
+    "forks": 587,
+    "url": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 290687,
+    "delta_stars": 474,
+    "delta_text": "474 stars today",
+    "forks": 26012,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "language": "TypeScript",
+    "total_stars": 16334,
+    "delta_stars": 1142,
+    "delta_text": "1,142 stars today",
+    "forks": 1435,
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "language": "TypeScript",
+    "total_stars": 18833,
+    "delta_stars": 344,
+    "delta_text": "344 stars today",
+    "forks": 2286,
+    "url": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "name": "agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "language": "Go",
+    "total_stars": 3501,
+    "delta_stars": 558,
+    "delta_text": "558 stars today",
+    "forks": 413,
+    "url": "https://github.com/agent-substrate/substrate"
+  },
+  {
+    "name": "strands-agents/harness-sdk",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
+    "language": "Python",
+    "total_stars": 7846,
+    "delta_stars": 115,
+    "delta_text": "115 stars today",
+    "forks": 1201,
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 49931,
+    "delta_stars": 57,
+    "delta_text": "57 stars today",
+    "forks": 4601,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "language": "Python",
+    "total_stars": 2718,
+    "delta_stars": 506,
+    "delta_text": "506 stars today",
+    "forks": 242,
+    "url": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 70345,
+    "delta_stars": 304,
+    "delta_text": "304 stars today",
+    "forks": 4271,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "language": "Python",
+    "total_stars": 14483,
+    "delta_stars": 543,
+    "delta_text": "543 stars today",
+    "forks": 1383,
+    "url": "https://github.com/mvt-project/mvt"
+  },
+  {
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "total_stars": 44569,
+    "delta_stars": 190,
+    "delta_text": "190 stars today",
+    "forks": 3638,
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "name": "harry7557558/spirula-studio",
+    "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+    "language": "C++",
+    "total_stars": 741,
+    "delta_stars": 69,
+    "delta_text": "69 stars today",
+    "forks": 56,
+    "url": "https://github.com/harry7557558/spirula-studio"
+  },
+  {
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "total_stars": 26495,
+    "delta_stars": 746,
+    "delta_text": "746 stars today",
+    "forks": 3166,
+    "url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "name": "TNT-Likely/PanWatch",
+    "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+    "language": "Python",
+    "total_stars": 1508,
+    "delta_stars": 95,
+    "delta_text": "95 stars today",
+    "forks": 298,
+    "url": "https://github.com/TNT-Likely/PanWatch"
+  }
+]

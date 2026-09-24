@@ -1,0 +1,212 @@
+[
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 41912,
+    "delta_stars": 41118,
+    "delta_text": "41,118 stars this month",
+    "forks": 8530,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 70618,
+    "delta_stars": 55857,
+    "delta_text": "55,857 stars this month",
+    "forks": 4748,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 20917,
+    "delta_stars": 17893,
+    "delta_text": "17,893 stars this month",
+    "forks": 1198,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 38793,
+    "delta_stars": 18072,
+    "delta_text": "18,072 stars this month",
+    "forks": 6065,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 40204,
+    "delta_stars": 19196,
+    "delta_text": "19,196 stars this month",
+    "forks": 2887,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 34900,
+    "delta_stars": 23623,
+    "delta_text": "23,623 stars this month",
+    "forks": 4121,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 50697,
+    "delta_stars": 27477,
+    "delta_text": "27,477 stars this month",
+    "forks": 2927,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 8499,
+    "delta_stars": 3900,
+    "delta_text": "3,900 stars this month",
+    "forks": 795,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "zedeus/nitter",
+    "description": "Alternative Twitter front-end",
+    "language": "Nim",
+    "total_stars": 14482,
+    "delta_stars": 1046,
+    "delta_text": "1,046 stars this month",
+    "forks": 1366,
+    "url": "https://github.com/zedeus/nitter"
+  },
+  {
+    "name": "magnitudedev/magnitude",
+    "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+    "language": "TypeScript",
+    "total_stars": 4947,
+    "delta_stars": 3430,
+    "delta_text": "3,430 stars this month",
+    "forks": 374,
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "total_stars": 14310,
+    "delta_stars": 6370,
+    "delta_text": "6,370 stars this month",
+    "forks": 1688,
+    "url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "language": "JavaScript",
+    "total_stars": 33397,
+    "delta_stars": 21457,
+    "delta_text": "21,457 stars this month",
+    "forks": 3216,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "name": "tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "language": "TypeScript",
+    "total_stars": 6716,
+    "delta_stars": 1759,
+    "delta_text": "1,759 stars this month",
+    "forks": 551,
+    "url": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "name": "omacom/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "language": "Shell",
+    "total_stars": 42879,
+    "delta_stars": 14577,
+    "delta_text": "14,577 stars this month",
+    "forks": 4966,
+    "url": "https://github.com/omacom/omarchy"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 29353,
+    "delta_stars": 9078,
+    "delta_text": "9,078 stars this month",
+    "forks": 3950,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 33580,
+    "delta_stars": 5563,
+    "delta_text": "5,563 stars this month",
+    "forks": 3242,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "language": "Python",
+    "total_stars": 62338,
+    "delta_stars": 7561,
+    "delta_text": "7,561 stars this month",
+    "forks": 8106,
+    "url": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "name": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "language": "TypeScript",
+    "total_stars": 6928,
+    "delta_stars": 5647,
+    "delta_text": "5,647 stars this month",
+    "forks": 501,
+    "url": "https://github.com/Tencent/BrowserSkill"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 20560,
+    "delta_stars": 7313,
+    "delta_text": "7,313 stars this month",
+    "forks": 2635,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "total_stars": 46347,
+    "delta_stars": 12304,
+    "delta_text": "12,304 stars this month",
+    "forks": 4195,
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "name": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "language": "TypeScript",
+    "total_stars": 3613,
+    "delta_stars": 3113,
+    "delta_text": "3,113 stars this month",
+    "forks": 900,
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  }
+]

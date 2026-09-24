@@ -1,0 +1,177 @@
+[
+  {
+    "username": "henrygd",
+    "display_name": "hank",
+    "popular_repo": "beszel",
+    "url": "https://github.com/henrygd",
+    "repo_url": "https://github.com/henrygd/beszel"
+  },
+  {
+    "username": "0xAX",
+    "display_name": "Alex Kuleshov",
+    "popular_repo": "linux-insides",
+    "url": "https://github.com/0xAX",
+    "repo_url": "https://github.com/0xAX/linux-insides"
+  },
+  {
+    "username": "Scottcjn",
+    "display_name": "AutoJanitor",
+    "popular_repo": "Rustchain",
+    "url": "https://github.com/Scottcjn",
+    "repo_url": "https://github.com/Scottcjn/Rustchain"
+  },
+  {
+    "username": "maziyarpanahi",
+    "display_name": "Maziyar Panahi",
+    "popular_repo": "openmed",
+    "url": "https://github.com/maziyarpanahi",
+    "repo_url": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "username": "zts212653",
+    "display_name": "Lysander Su",
+    "popular_repo": "clowder-ai",
+    "url": "https://github.com/zts212653",
+    "repo_url": "https://github.com/zts212653/clowder-ai"
+  },
+  {
+    "username": "skyzh",
+    "display_name": "Alex Chi Z",
+    "popular_repo": "tiny-llm",
+    "url": "https://github.com/skyzh",
+    "repo_url": "https://github.com/skyzh/tiny-llm"
+  },
+  {
+    "username": "isair",
+    "display_name": "Baris Sencan",
+    "popular_repo": "jarvis",
+    "url": "https://github.com/isair",
+    "repo_url": "https://github.com/isair/jarvis"
+  },
+  {
+    "username": "ahmadrosid",
+    "display_name": "ahmadrosid",
+    "popular_repo": "nakama",
+    "url": "https://github.com/ahmadrosid",
+    "repo_url": "https://github.com/ahmadrosid/nakama"
+  },
+  {
+    "username": "mdrxy",
+    "display_name": "Mason Daugherty",
+    "popular_repo": "",
+    "url": "https://github.com/mdrxy",
+    "repo_url": ""
+  },
+  {
+    "username": "ImChong",
+    "display_name": "Chong Liu",
+    "popular_repo": "Robotics_Notebooks",
+    "url": "https://github.com/ImChong",
+    "repo_url": "https://github.com/ImChong/Robotics_Notebooks"
+  },
+  {
+    "username": "Ikalus1988",
+    "display_name": "Ikalus1988",
+    "popular_repo": "MisakaNet",
+    "url": "https://github.com/Ikalus1988",
+    "repo_url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "username": "kane50613",
+    "display_name": "Kane Wang",
+    "popular_repo": "takumi",
+    "url": "https://github.com/kane50613",
+    "repo_url": "https://github.com/kane50613/takumi"
+  },
+  {
+    "username": "xiaolai",
+    "display_name": "xiaolai",
+    "popular_repo": "the-craft-of-selfteaching",
+    "url": "https://github.com/xiaolai",
+    "repo_url": "https://github.com/xiaolai/the-craft-of-selfteaching"
+  },
+  {
+    "username": "squidfunk",
+    "display_name": "Martin Donath",
+    "popular_repo": "mkdocs-material",
+    "url": "https://github.com/squidfunk",
+    "repo_url": "https://github.com/squidfunk/mkdocs-material"
+  },
+  {
+    "username": "myhloli",
+    "display_name": "Xiaomeng Zhao",
+    "popular_repo": "DocVortex",
+    "url": "https://github.com/myhloli",
+    "repo_url": "https://github.com/myhloli/DocVortex"
+  },
+  {
+    "username": "looplj",
+    "display_name": "Loop",
+    "popular_repo": "axonhub",
+    "url": "https://github.com/looplj",
+    "repo_url": "https://github.com/looplj/axonhub"
+  },
+  {
+    "username": "DeusData",
+    "display_name": "Martin Vogel",
+    "popular_repo": "codebase-memory-mcp",
+    "url": "https://github.com/DeusData",
+    "repo_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "username": "logan-markewich",
+    "display_name": "Logan",
+    "popular_repo": "jeff",
+    "url": "https://github.com/logan-markewich",
+    "repo_url": "https://github.com/logan-markewich/jeff"
+  },
+  {
+    "username": "jjyaoao",
+    "display_name": "Sizhou Chen",
+    "popular_repo": "HelloAgents",
+    "url": "https://github.com/jjyaoao",
+    "repo_url": "https://github.com/jjyaoao/HelloAgents"
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "t8y2",
+    "display_name": "t8y2",
+    "popular_repo": "dbx",
+    "url": "https://github.com/t8y2",
+    "repo_url": "https://github.com/t8y2/dbx"
+  },
+  {
+    "username": "ja7ad",
+    "display_name": "Javad Rajabzadeh",
+    "popular_repo": "hydra",
+    "url": "https://github.com/ja7ad",
+    "repo_url": "https://github.com/ja7ad/hydra"
+  },
+  {
+    "username": "mokevnin",
+    "display_name": "Kirill Mokevnin",
+    "popular_repo": "agentic-coding-design-patterns",
+    "url": "https://github.com/mokevnin",
+    "repo_url": "https://github.com/mokevnin/agentic-coding-design-patterns"
+  },
+  {
+    "username": "dkhamsing",
+    "display_name": "dkhamsing",
+    "popular_repo": "open-source-ios-apps",
+    "url": "https://github.com/dkhamsing",
+    "repo_url": "https://github.com/dkhamsing/open-source-ios-apps"
+  },
+  {
+    "username": "raullenchai",
+    "display_name": "Raullen Chai",
+    "popular_repo": "Rapid-MLX",
+    "url": "https://github.com/raullenchai",
+    "repo_url": "https://github.com/raullenchai/Rapid-MLX"
+  }
+]
