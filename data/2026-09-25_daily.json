@@ -1,0 +1,142 @@
+[
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 56571,
+    "delta_stars": 347,
+    "delta_text": "347 stars today",
+    "forks": 9932,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 27792,
+    "delta_stars": 1668,
+    "delta_text": "1,668 stars today",
+    "forks": 2682,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "language": "TypeScript",
+    "total_stars": 17693,
+    "delta_stars": 1082,
+    "delta_text": "1,082 stars today",
+    "forks": 1530,
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "name": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "language": "Go",
+    "total_stars": 10467,
+    "delta_stars": 1373,
+    "delta_text": "1,373 stars today",
+    "forks": 506,
+    "url": "https://github.com/google/ax"
+  },
+  {
+    "name": "NVIDIA/Model-Optimizer",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "language": "Python",
+    "total_stars": 4082,
+    "delta_stars": 44,
+    "delta_text": "44 stars today",
+    "forks": 628,
+    "url": "https://github.com/NVIDIA/Model-Optimizer"
+  },
+  {
+    "name": "FxEmbed/FxEmbed",
+    "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+    "language": "TypeScript",
+    "total_stars": 5368,
+    "delta_stars": 182,
+    "delta_text": "182 stars today",
+    "forks": 250,
+    "url": "https://github.com/FxEmbed/FxEmbed"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 37357,
+    "delta_stars": 509,
+    "delta_text": "509 stars today",
+    "forks": 5418,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 50336,
+    "delta_stars": 413,
+    "delta_text": "413 stars today",
+    "forks": 4615,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "language": "Python",
+    "total_stars": 14732,
+    "delta_stars": 272,
+    "delta_text": "272 stars today",
+    "forks": 1392,
+    "url": "https://github.com/mvt-project/mvt"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 291233,
+    "delta_stars": 611,
+    "delta_text": "611 stars today",
+    "forks": 26055,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "strands-agents/harness-sdk",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
+    "language": "Python",
+    "total_stars": 8261,
+    "delta_stars": 455,
+    "delta_text": "455 stars today",
+    "forks": 1236,
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "name": "julyx10/lap",
+    "description": "An offline-first photo manager for large local libraries",
+    "language": "Vue",
+    "total_stars": 2877,
+    "delta_stars": 122,
+    "delta_text": "122 stars today",
+    "forks": 171,
+    "url": "https://github.com/julyx10/lap"
+  },
+  {
+    "name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "language": "Python",
+    "total_stars": 3166,
+    "delta_stars": 468,
+    "delta_text": "468 stars today",
+    "forks": 262,
+    "url": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "name": "leejet/stable-diffusion.cpp",
+    "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+    "language": "C++",
+    "total_stars": 7248,
+    "delta_stars": 36,
+    "delta_text": "36 stars today",
+    "forks": 811,
+    "url": "https://github.com/leejet/stable-diffusion.cpp"
+  }
+]
