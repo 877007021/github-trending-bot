@@ -1,0 +1,212 @@
+[
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 21661,
+    "delta_stars": 9547,
+    "delta_text": "9,547 stars this week",
+    "forks": 1246,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 37562,
+    "delta_stars": 2623,
+    "delta_text": "2,623 stars this week",
+    "forks": 5433,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "total_stars": 148107,
+    "delta_stars": 2102,
+    "delta_text": "2,102 stars this week",
+    "forks": 24599,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 41346,
+    "delta_stars": 5030,
+    "delta_text": "5,030 stars this week",
+    "forks": 2972,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 267516,
+    "delta_stars": 6037,
+    "delta_text": "6,037 stars this week",
+    "forks": 39960,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 30087,
+    "delta_stars": 3189,
+    "delta_text": "3,189 stars this week",
+    "forks": 4037,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 99087,
+    "delta_stars": 2911,
+    "delta_text": "2,911 stars this week",
+    "forks": 10404,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "total_stars": 78332,
+    "delta_stars": 6537,
+    "delta_text": "6,537 stars this week",
+    "forks": 5122,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 29817,
+    "delta_stars": 4869,
+    "delta_text": "4,869 stars this week",
+    "forks": 3149,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 25627,
+    "delta_stars": 889,
+    "delta_text": "889 stars this week",
+    "forks": 3032,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 31832,
+    "delta_stars": 1041,
+    "delta_text": "1,041 stars this week",
+    "forks": 3619,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 84989,
+    "delta_stars": 2616,
+    "delta_text": "2,616 stars this week",
+    "forks": 15236,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "total_stars": 103327,
+    "delta_stars": 255,
+    "delta_text": "255 stars this week",
+    "forks": 30455,
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "total_stars": 4965,
+    "delta_stars": 1149,
+    "delta_text": "1,149 stars this week",
+    "forks": 586,
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "name": "cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "total_stars": 12611,
+    "delta_stars": 769,
+    "delta_text": "769 stars this week",
+    "forks": 1148,
+    "url": "https://github.com/cloudflare/quiche"
+  },
+  {
+    "name": "Fission-AI/OpenSpec",
+    "description": "Spec-driven development (SDD) for AI coding assistants.",
+    "language": "TypeScript",
+    "total_stars": 70371,
+    "delta_stars": 1282,
+    "delta_text": "1,282 stars this week",
+    "forks": 4819,
+    "url": "https://github.com/Fission-AI/OpenSpec"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 50543,
+    "delta_stars": 972,
+    "delta_text": "972 stars this week",
+    "forks": 4628,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "language": "Python",
+    "total_stars": 3391,
+    "delta_stars": 1687,
+    "delta_text": "1,687 stars this week",
+    "forks": 278,
+    "url": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "name": "cline/cline",
+    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "language": "TypeScript",
+    "total_stars": 69329,
+    "delta_stars": 676,
+    "delta_text": "676 stars this week",
+    "forks": 7518,
+    "url": "https://github.com/cline/cline"
+  },
+  {
+    "name": "odoo/odoo",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "language": "Python",
+    "total_stars": 54653,
+    "delta_stars": 183,
+    "delta_text": "183 stars this week",
+    "forks": 33838,
+    "url": "https://github.com/odoo/odoo"
+  },
+  {
+    "name": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "language": "Python",
+    "total_stars": 51002,
+    "delta_stars": 2485,
+    "delta_text": "2,485 stars this week",
+    "forks": 5720,
+    "url": "https://github.com/bojieli/ai-agent-book"
+  }
+]

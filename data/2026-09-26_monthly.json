@@ -1,0 +1,222 @@
+[
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 43090,
+    "delta_stars": 40403,
+    "delta_text": "40,403 stars this month",
+    "forks": 8756,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 21661,
+    "delta_stars": 18769,
+    "delta_text": "18,769 stars this month",
+    "forks": 1246,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 71747,
+    "delta_stars": 56232,
+    "delta_text": "56,232 stars this month",
+    "forks": 4828,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 39046,
+    "delta_stars": 18282,
+    "delta_text": "18,282 stars this month",
+    "forks": 6080,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 41346,
+    "delta_stars": 20100,
+    "delta_text": "20,100 stars this month",
+    "forks": 2973,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "language": "Python",
+    "total_stars": 3391,
+    "delta_stars": 2725,
+    "delta_text": "2,725 stars this month",
+    "forks": 278,
+    "url": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 35514,
+    "delta_stars": 24027,
+    "delta_text": "24,027 stars this month",
+    "forks": 4171,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 51213,
+    "delta_stars": 27288,
+    "delta_text": "27,288 stars this month",
+    "forks": 2952,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "magnitudedev/magnitude",
+    "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+    "language": "TypeScript",
+    "total_stars": 5109,
+    "delta_stars": 3598,
+    "delta_text": "3,598 stars this month",
+    "forks": 374,
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "total_stars": 14426,
+    "delta_stars": 6398,
+    "delta_text": "6,398 stars this month",
+    "forks": 1696,
+    "url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "name": "tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "language": "TypeScript",
+    "total_stars": 6819,
+    "delta_stars": 1866,
+    "delta_text": "1,866 stars this month",
+    "forks": 551,
+    "url": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 8646,
+    "delta_stars": 3701,
+    "delta_text": "3,701 stars this month",
+    "forks": 810,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 21088,
+    "delta_stars": 7714,
+    "delta_text": "7,714 stars this month",
+    "forks": 2701,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 30087,
+    "delta_stars": 9591,
+    "delta_text": "9,591 stars this month",
+    "forks": 4037,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 33708,
+    "delta_stars": 5561,
+    "delta_text": "5,561 stars this month",
+    "forks": 3248,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 37562,
+    "delta_stars": 3088,
+    "delta_text": "3,088 stars this month",
+    "forks": 5433,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "language": "Python",
+    "total_stars": 62577,
+    "delta_stars": 7756,
+    "delta_text": "7,756 stars this month",
+    "forks": 8133,
+    "url": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "name": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "language": "TypeScript",
+    "total_stars": 7250,
+    "delta_stars": 5954,
+    "delta_text": "5,954 stars this month",
+    "forks": 520,
+    "url": "https://github.com/Tencent/BrowserSkill"
+  },
+  {
+    "name": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "language": "TypeScript",
+    "total_stars": 3878,
+    "delta_stars": 3286,
+    "delta_text": "3,286 stars this month",
+    "forks": 958,
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 146002,
+    "delta_stars": 36118,
+    "delta_text": "36,118 stars this month",
+    "forks": 7831,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "ever-co/ever-gauzy",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "language": "TypeScript",
+    "total_stars": 8005,
+    "delta_stars": 3850,
+    "delta_text": "3,850 stars this month",
+    "forks": 1182,
+    "url": "https://github.com/ever-co/ever-gauzy"
+  },
+  {
+    "name": "abue-ammar/tinycast",
+    "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "language": "Swift",
+    "total_stars": 7475,
+    "delta_stars": 5678,
+    "delta_text": "5,678 stars this month",
+    "forks": 367,
+    "url": "https://github.com/abue-ammar/tinycast"
+  }
+]
