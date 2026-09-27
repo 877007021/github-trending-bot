@@ -1,0 +1,232 @@
+[
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 43573,
+    "delta_stars": 38582,
+    "delta_text": "38,582 stars this month",
+    "forks": 8861,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 22028,
+    "delta_stars": 19124,
+    "delta_text": "19,124 stars this month",
+    "forks": 1276,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 72292,
+    "delta_stars": 55722,
+    "delta_text": "55,722 stars this month",
+    "forks": 4877,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 39153,
+    "delta_stars": 18374,
+    "delta_text": "18,374 stars this month",
+    "forks": 6087,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 41627,
+    "delta_stars": 20421,
+    "delta_text": "20,421 stars this month",
+    "forks": 2992,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "language": "Python",
+    "total_stars": 3501,
+    "delta_stars": 2846,
+    "delta_text": "2,846 stars this month",
+    "forks": 286,
+    "url": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 36967,
+    "delta_stars": 24241,
+    "delta_text": "24,241 stars this month",
+    "forks": 4358,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "magnitudedev/magnitude",
+    "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+    "language": "TypeScript",
+    "total_stars": 5178,
+    "delta_stars": 3675,
+    "delta_text": "3,675 stars this month",
+    "forks": 376,
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 51394,
+    "delta_stars": 27092,
+    "delta_text": "27,092 stars this month",
+    "forks": 2965,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "language": "TypeScript",
+    "total_stars": 6863,
+    "delta_stars": 1907,
+    "delta_text": "1,907 stars this month",
+    "forks": 553,
+    "url": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 37704,
+    "delta_stars": 3205,
+    "delta_text": "3,205 stars this month",
+    "forks": 5446,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 30351,
+    "delta_stars": 9808,
+    "delta_text": "9,808 stars this month",
+    "forks": 4068,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "total_stars": 14482,
+    "delta_stars": 6463,
+    "delta_text": "6,463 stars this month",
+    "forks": 1699,
+    "url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 33792,
+    "delta_stars": 5607,
+    "delta_text": "5,607 stars this month",
+    "forks": 3251,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 21249,
+    "delta_stars": 7749,
+    "delta_text": "7,749 stars this month",
+    "forks": 2724,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 8734,
+    "delta_stars": 3601,
+    "delta_text": "3,601 stars this month",
+    "forks": 817,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "language": "TypeScript",
+    "total_stars": 7374,
+    "delta_stars": 6030,
+    "delta_text": "6,030 stars this month",
+    "forks": 529,
+    "url": "https://github.com/Tencent/BrowserSkill"
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "language": "Python",
+    "total_stars": 62669,
+    "delta_stars": 7813,
+    "delta_text": "7,813 stars this month",
+    "forks": 8144,
+    "url": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 146513,
+    "delta_stars": 35097,
+    "delta_text": "35,097 stars this month",
+    "forks": 7875,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "language": "TypeScript",
+    "total_stars": 4030,
+    "delta_stars": 3489,
+    "delta_text": "3,489 stars this month",
+    "forks": 986,
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "name": "abue-ammar/tinycast",
+    "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "language": "Swift",
+    "total_stars": 7552,
+    "delta_stars": 5704,
+    "delta_text": "5,704 stars this month",
+    "forks": 376,
+    "url": "https://github.com/abue-ammar/tinycast"
+  },
+  {
+    "name": "MakazhanAlpamys/Soup",
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "language": "Python",
+    "total_stars": 7305,
+    "delta_stars": 4232,
+    "delta_text": "4,232 stars this month",
+    "forks": 1166,
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "name": "ever-co/ever-gauzy",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "language": "TypeScript",
+    "total_stars": 8085,
+    "delta_stars": 3946,
+    "delta_text": "3,946 stars this month",
+    "forks": 1191,
+    "url": "https://github.com/ever-co/ever-gauzy"
+  }
+]

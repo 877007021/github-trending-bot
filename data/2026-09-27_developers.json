@@ -1,0 +1,170 @@
+[
+  {
+    "username": "tobi",
+    "display_name": "Tobias Lütke",
+    "popular_repo": "disktree",
+    "url": "https://github.com/tobi",
+    "repo_url": "https://github.com/tobi/disktree"
+  },
+  {
+    "username": "bdraco",
+    "display_name": "J. Nick Koston",
+    "popular_repo": "",
+    "url": "https://github.com/bdraco",
+    "repo_url": ""
+  },
+  {
+    "username": "rynfar",
+    "display_name": "Trevor Walker",
+    "popular_repo": "meridian",
+    "url": "https://github.com/rynfar",
+    "repo_url": "https://github.com/rynfar/meridian"
+  },
+  {
+    "username": "dalathegreat",
+    "display_name": "Daniel Öster",
+    "popular_repo": "Battery-Emulator",
+    "url": "https://github.com/dalathegreat",
+    "repo_url": "https://github.com/dalathegreat/Battery-Emulator"
+  },
+  {
+    "username": "MakazhanAlpamys",
+    "display_name": "Alpamys Makazhan",
+    "popular_repo": "Soup",
+    "url": "https://github.com/MakazhanAlpamys",
+    "repo_url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "jankeesvw",
+    "display_name": "Jankees van Woezik",
+    "popular_repo": "omarchy-meeting-recorder",
+    "url": "https://github.com/jankeesvw",
+    "repo_url": "https://github.com/jankeesvw/omarchy-meeting-recorder"
+  },
+  {
+    "username": "mpfaffenberger",
+    "display_name": "Mike Pfaffenberger",
+    "popular_repo": "code_puppy",
+    "url": "https://github.com/mpfaffenberger",
+    "repo_url": "https://github.com/mpfaffenberger/code_puppy"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "rakazo",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/rakazo"
+  },
+  {
+    "username": "shahednasser",
+    "display_name": "Shahed Nasser",
+    "popular_repo": "",
+    "url": "https://github.com/shahednasser",
+    "repo_url": ""
+  },
+  {
+    "username": "maziyarpanahi",
+    "display_name": "Maziyar Panahi",
+    "popular_repo": "openmed",
+    "url": "https://github.com/maziyarpanahi",
+    "repo_url": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "username": "danielhanchen",
+    "display_name": "Daniel Han",
+    "popular_repo": "llama.cpp",
+    "url": "https://github.com/danielhanchen",
+    "repo_url": "https://github.com/danielhanchen/llama.cpp"
+  },
+  {
+    "username": "rubenfiszel",
+    "display_name": "Ruben Fiszel",
+    "popular_repo": "",
+    "url": "https://github.com/rubenfiszel",
+    "repo_url": ""
+  },
+  {
+    "username": "ekmett",
+    "display_name": "Edward Kmett",
+    "popular_repo": "thc",
+    "url": "https://github.com/ekmett",
+    "repo_url": "https://github.com/ekmett/thc"
+  },
+  {
+    "username": "slavakurilyak",
+    "display_name": "Slava Kurilyak",
+    "popular_repo": "awesome-ai-agents",
+    "url": "https://github.com/slavakurilyak",
+    "repo_url": "https://github.com/slavakurilyak/awesome-ai-agents"
+  },
+  {
+    "username": "dgtlmoon",
+    "display_name": "dgtlmoon",
+    "popular_repo": "changedetection.io",
+    "url": "https://github.com/dgtlmoon",
+    "repo_url": "https://github.com/dgtlmoon/changedetection.io"
+  },
+  {
+    "username": "harry0703",
+    "display_name": "Harry",
+    "popular_repo": "MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703",
+    "repo_url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "username": "StefanMaron",
+    "display_name": "Stefan Maroń",
+    "popular_repo": "bc-code-atlas",
+    "url": "https://github.com/StefanMaron",
+    "repo_url": "https://github.com/StefanMaron/bc-code-atlas"
+  },
+  {
+    "username": "weblate",
+    "display_name": "Weblate (bot)",
+    "popular_repo": "myna",
+    "url": "https://github.com/weblate",
+    "repo_url": "https://github.com/weblate/myna"
+  },
+  {
+    "username": "winsznx",
+    "display_name": "Tim",
+    "popular_repo": "routedock",
+    "url": "https://github.com/winsznx",
+    "repo_url": "https://github.com/winsznx/routedock"
+  },
+  {
+    "username": "ovr",
+    "display_name": "Dmitry Patsura",
+    "popular_repo": "",
+    "url": "https://github.com/ovr",
+    "repo_url": ""
+  },
+  {
+    "username": "chenxiaolong",
+    "display_name": "Andrew Gunnerson",
+    "popular_repo": "BasicSync",
+    "url": "https://github.com/chenxiaolong",
+    "repo_url": "https://github.com/chenxiaolong/BasicSync"
+  },
+  {
+    "username": "sandy081",
+    "display_name": "Sandeep Somavarapu",
+    "popular_repo": "",
+    "url": "https://github.com/sandy081",
+    "repo_url": ""
+  },
+  {
+    "username": "zackees",
+    "display_name": "Zachary Vorhies",
+    "popular_repo": "mimalloc-pprof",
+    "url": "https://github.com/zackees",
+    "repo_url": "https://github.com/zackees/mimalloc-pprof"
+  }
+]
