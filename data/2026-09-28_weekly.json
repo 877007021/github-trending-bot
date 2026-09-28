@@ -1,0 +1,182 @@
+[
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 37865,
+    "delta_stars": 2606,
+    "delta_text": "2,606 stars this week",
+    "forks": 5464,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 89970,
+    "delta_stars": 7364,
+    "delta_text": "7,364 stars this week",
+    "forks": 15672,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 37375,
+    "delta_stars": 11089,
+    "delta_text": "11,089 stars this week",
+    "forks": 4842,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 22349,
+    "delta_stars": 4805,
+    "delta_text": "4,805 stars this week",
+    "forks": 1298,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 30619,
+    "delta_stars": 2705,
+    "delta_text": "2,705 stars this week",
+    "forks": 4099,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 31991,
+    "delta_stars": 1154,
+    "delta_text": "1,154 stars this week",
+    "forks": 3643,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "total_stars": 79634,
+    "delta_stars": 6227,
+    "delta_text": "6,227 stars this week",
+    "forks": 5211,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "total_stars": 142803,
+    "delta_stars": 496,
+    "delta_text": "496 stars this week",
+    "forks": 33308,
+    "url": "https://github.com/vercel/next.js"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 50756,
+    "delta_stars": 1105,
+    "delta_text": "1,105 stars this week",
+    "forks": 4639,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "total_stars": 103424,
+    "delta_stars": 320,
+    "delta_text": "320 stars this week",
+    "forks": 30769,
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "total_stars": 148352,
+    "delta_stars": 1493,
+    "delta_text": "1,493 stars this week",
+    "forks": 24868,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 268437,
+    "delta_stars": 5175,
+    "delta_text": "5,175 stars this week",
+    "forks": 40104,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 59326,
+    "delta_stars": 3850,
+    "delta_text": "3,850 stars this week",
+    "forks": 10240,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 41942,
+    "delta_stars": 3727,
+    "delta_text": "3,727 stars this week",
+    "forks": 3010,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "total_stars": 12662,
+    "delta_stars": 521,
+    "delta_text": "521 stars this week",
+    "forks": 1151,
+    "url": "https://github.com/cloudflare/quiche"
+  },
+  {
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "total_stars": 5282,
+    "delta_stars": 869,
+    "delta_text": "869 stars this week",
+    "forks": 642,
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 25759,
+    "delta_stars": 478,
+    "delta_text": "478 stars this week",
+    "forks": 3038,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "FxEmbed/FxEmbed",
+    "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+    "language": "TypeScript",
+    "total_stars": 5504,
+    "delta_stars": 432,
+    "delta_text": "432 stars this week",
+    "forks": 261,
+    "url": "https://github.com/FxEmbed/FxEmbed"
+  }
+]

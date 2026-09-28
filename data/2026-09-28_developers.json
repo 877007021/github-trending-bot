@@ -1,0 +1,170 @@
+[
+  {
+    "username": "teng-lin",
+    "display_name": "Teng Lin",
+    "popular_repo": "notebooklm-py",
+    "url": "https://github.com/teng-lin",
+    "repo_url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "username": "zackees",
+    "display_name": "Zachary Vorhies",
+    "popular_repo": "mimalloc-pprof",
+    "url": "https://github.com/zackees",
+    "repo_url": "https://github.com/zackees/mimalloc-pprof"
+  },
+  {
+    "username": "unxed",
+    "display_name": "unxed",
+    "popular_repo": "f4",
+    "url": "https://github.com/unxed",
+    "repo_url": "https://github.com/unxed/f4"
+  },
+  {
+    "username": "bdraco",
+    "display_name": "J. Nick Koston",
+    "popular_repo": "",
+    "url": "https://github.com/bdraco",
+    "repo_url": ""
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "tobi",
+    "display_name": "Tobias Lütke",
+    "popular_repo": "disktree",
+    "url": "https://github.com/tobi",
+    "repo_url": "https://github.com/tobi/disktree"
+  },
+  {
+    "username": "abrignoni",
+    "display_name": "Brigs",
+    "popular_repo": "iLEAPP",
+    "url": "https://github.com/abrignoni",
+    "repo_url": "https://github.com/abrignoni/iLEAPP"
+  },
+  {
+    "username": "fzyzcjy",
+    "display_name": "fzyzcjy",
+    "popular_repo": "flutter_rust_bridge",
+    "url": "https://github.com/fzyzcjy",
+    "repo_url": "https://github.com/fzyzcjy/flutter_rust_bridge"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "jankeesvw",
+    "display_name": "Jankees van Woezik",
+    "popular_repo": "omarchy-meeting-recorder",
+    "url": "https://github.com/jankeesvw",
+    "repo_url": "https://github.com/jankeesvw/omarchy-meeting-recorder"
+  },
+  {
+    "username": "weblate",
+    "display_name": "Weblate (bot)",
+    "popular_repo": "traefik-manager",
+    "url": "https://github.com/weblate",
+    "repo_url": "https://github.com/weblate/traefik-manager"
+  },
+  {
+    "username": "nicoburns",
+    "display_name": "Nico Burns",
+    "popular_repo": "blessed-rs",
+    "url": "https://github.com/nicoburns",
+    "repo_url": "https://github.com/nicoburns/blessed-rs"
+  },
+  {
+    "username": "Obiajulu-gif",
+    "display_name": "Okoye Emmanuel Obiajulu",
+    "popular_repo": "",
+    "url": "https://github.com/Obiajulu-gif",
+    "repo_url": ""
+  },
+  {
+    "username": "dgtlmoon",
+    "display_name": "dgtlmoon",
+    "popular_repo": "changedetection.io",
+    "url": "https://github.com/dgtlmoon",
+    "repo_url": "https://github.com/dgtlmoon/changedetection.io"
+  },
+  {
+    "username": "dhh",
+    "display_name": "David Heinemeier Hansson",
+    "popular_repo": "omarchy-giants-theme",
+    "url": "https://github.com/dhh",
+    "repo_url": "https://github.com/dhh/omarchy-giants-theme"
+  },
+  {
+    "username": "dalathegreat",
+    "display_name": "Daniel Öster",
+    "popular_repo": "Battery-Emulator",
+    "url": "https://github.com/dalathegreat",
+    "repo_url": "https://github.com/dalathegreat/Battery-Emulator"
+  },
+  {
+    "username": "StefanMaron",
+    "display_name": "Stefan Maroń",
+    "popular_repo": "BusinessCentral.AL.Runner",
+    "url": "https://github.com/StefanMaron",
+    "repo_url": "https://github.com/StefanMaron/BusinessCentral.AL.Runner"
+  },
+  {
+    "username": "danielhanchen",
+    "display_name": "Daniel Han",
+    "popular_repo": "llama.cpp",
+    "url": "https://github.com/danielhanchen",
+    "repo_url": "https://github.com/danielhanchen/llama.cpp"
+  },
+  {
+    "username": "slavakurilyak",
+    "display_name": "Slava Kurilyak",
+    "popular_repo": "awesome-ai-agents",
+    "url": "https://github.com/slavakurilyak",
+    "repo_url": "https://github.com/slavakurilyak/awesome-ai-agents"
+  },
+  {
+    "username": "Scottcjn",
+    "display_name": "AutoJanitor",
+    "popular_repo": "Rustchain",
+    "url": "https://github.com/Scottcjn",
+    "repo_url": "https://github.com/Scottcjn/Rustchain"
+  },
+  {
+    "username": "tfausak",
+    "display_name": "Taylor Fausak",
+    "popular_repo": "pawl",
+    "url": "https://github.com/tfausak",
+    "repo_url": "https://github.com/tfausak/pawl"
+  },
+  {
+    "username": "andymac4182",
+    "display_name": "Andrew McClenaghan",
+    "popular_repo": "mount-rs",
+    "url": "https://github.com/andymac4182",
+    "repo_url": "https://github.com/andymac4182/mount-rs"
+  },
+  {
+    "username": "MakazhanAlpamys",
+    "display_name": "Alpamys Makazhan",
+    "popular_repo": "Soup",
+    "url": "https://github.com/MakazhanAlpamys",
+    "repo_url": "https://github.com/MakazhanAlpamys/Soup"
+  }
+]
