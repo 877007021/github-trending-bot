@@ -1,0 +1,182 @@
+[
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 38085,
+    "delta_stars": 2381,
+    "delta_text": "2,381 stars this week",
+    "forks": 5486,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 92977,
+    "delta_stars": 10518,
+    "delta_text": "10,518 stars this week",
+    "forks": 15909,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 41134,
+    "delta_stars": 15537,
+    "delta_text": "15,537 stars this week",
+    "forks": 5550,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 22783,
+    "delta_stars": 3962,
+    "delta_text": "3,962 stars this week",
+    "forks": 1326,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 32086,
+    "delta_stars": 1200,
+    "delta_text": "1,200 stars this week",
+    "forks": 3654,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 30983,
+    "delta_stars": 2509,
+    "delta_text": "2,509 stars this week",
+    "forks": 4139,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "total_stars": 142860,
+    "delta_stars": 544,
+    "delta_text": "544 stars this week",
+    "forks": 33389,
+    "url": "https://github.com/vercel/next.js"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "total_stars": 80809,
+    "delta_stars": 6151,
+    "delta_text": "6,151 stars this week",
+    "forks": 5261,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 50902,
+    "delta_stars": 1227,
+    "delta_text": "1,227 stars this week",
+    "forks": 4647,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "total_stars": 103474,
+    "delta_stars": 340,
+    "delta_text": "340 stars this week",
+    "forks": 30868,
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 44387,
+    "delta_stars": 7972,
+    "delta_text": "7,972 stars this week",
+    "forks": 5114,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 60459,
+    "delta_stars": 5004,
+    "delta_text": "5,004 stars this week",
+    "forks": 10409,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "HTML",
+    "total_stars": 26877,
+    "delta_stars": 1293,
+    "delta_text": "1,293 stars this week",
+    "forks": 1870,
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 8573,
+    "delta_stars": 1110,
+    "delta_text": "1,110 stars this week",
+    "forks": 581,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "FxEmbed/FxEmbed",
+    "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+    "language": "TypeScript",
+    "total_stars": 5555,
+    "delta_stars": 465,
+    "delta_text": "465 stars this week",
+    "forks": 264,
+    "url": "https://github.com/FxEmbed/FxEmbed"
+  },
+  {
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "total_stars": 5555,
+    "delta_stars": 970,
+    "delta_text": "970 stars this week",
+    "forks": 684,
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "name": "cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "total_stars": 12693,
+    "delta_stars": 522,
+    "delta_text": "522 stars this week",
+    "forks": 1153,
+    "url": "https://github.com/cloudflare/quiche"
+  },
+  {
+    "name": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "total_stars": 78062,
+    "delta_stars": 97,
+    "delta_text": "97 stars this week",
+    "forks": 26094,
+    "url": "https://github.com/elastic/elasticsearch"
+  }
+]

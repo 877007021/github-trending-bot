@@ -1,0 +1,192 @@
+[
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 22783,
+    "delta_stars": 19771,
+    "delta_text": "19,771 stars this month",
+    "forks": 1326,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 44625,
+    "delta_stars": 34455,
+    "delta_text": "34,455 stars this month",
+    "forks": 9097,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "miuuyy/codex-chatgpt-web",
+    "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
+    "language": "TypeScript",
+    "total_stars": 12571,
+    "delta_stars": 10909,
+    "delta_text": "10,909 stars this month",
+    "forks": 995,
+    "url": "https://github.com/miuuyy/codex-chatgpt-web"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 42323,
+    "delta_stars": 20955,
+    "delta_text": "20,955 stars this month",
+    "forks": 3039,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 73607,
+    "delta_stars": 48030,
+    "delta_text": "48,030 stars this month",
+    "forks": 4970,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "language": "Python",
+    "total_stars": 3750,
+    "delta_stars": 3001,
+    "delta_text": "3,001 stars this month",
+    "forks": 307,
+    "url": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 44388,
+    "delta_stars": 30611,
+    "delta_text": "30,611 stars this month",
+    "forks": 5114,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "magnitudedev/magnitude",
+    "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+    "language": "Rust",
+    "total_stars": 5406,
+    "delta_stars": 3856,
+    "delta_text": "3,856 stars this month",
+    "forks": 385,
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 38085,
+    "delta_stars": 3538,
+    "delta_text": "3,538 stars this month",
+    "forks": 5486,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "total_stars": 39420,
+    "delta_stars": 18422,
+    "delta_text": "18,422 stars this month",
+    "forks": 6125,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "language": "TypeScript",
+    "total_stars": 6989,
+    "delta_stars": 2012,
+    "delta_text": "2,012 stars this month",
+    "forks": 558,
+    "url": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "name": "pollen-robotics/microduck_rl",
+    "description": "RL training environments for Microduck (mjlab)",
+    "language": "Python",
+    "total_stars": 2325,
+    "delta_stars": 2019,
+    "delta_text": "2,019 stars this month",
+    "forks": 501,
+    "url": "https://github.com/pollen-robotics/microduck_rl"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 30983,
+    "delta_stars": 10271,
+    "delta_text": "10,271 stars this month",
+    "forks": 4139,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 51918,
+    "delta_stars": 26854,
+    "delta_text": "26,854 stars this month",
+    "forks": 2989,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 8904,
+    "delta_stars": 3216,
+    "delta_text": "3,216 stars this month",
+    "forks": 838,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "total_stars": 33944,
+    "delta_stars": 5752,
+    "delta_text": "5,752 stars this month",
+    "forks": 3266,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "name": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "language": "TypeScript",
+    "total_stars": 7776,
+    "delta_stars": 6292,
+    "delta_text": "6,292 stars this month",
+    "forks": 552,
+    "url": "https://github.com/Tencent/BrowserSkill"
+  },
+  {
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "total_stars": 21595,
+    "delta_stars": 7653,
+    "delta_text": "7,653 stars this month",
+    "forks": 2769,
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 147593,
+    "delta_stars": 33174,
+    "delta_text": "33,174 stars this month",
+    "forks": 7929,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  }
+]

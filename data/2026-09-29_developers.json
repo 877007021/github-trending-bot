@@ -1,0 +1,177 @@
+[
+  {
+    "username": "teng-lin",
+    "display_name": "Teng Lin",
+    "popular_repo": "notebooklm-py",
+    "url": "https://github.com/teng-lin",
+    "repo_url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "username": "dhh",
+    "display_name": "David Heinemeier Hansson",
+    "popular_repo": "omarchy-giants-theme",
+    "url": "https://github.com/dhh",
+    "repo_url": "https://github.com/dhh/omarchy-giants-theme"
+  },
+  {
+    "username": "agoodkind",
+    "display_name": "Alex Goodkind",
+    "popular_repo": "macos-smc-fan",
+    "url": "https://github.com/agoodkind",
+    "repo_url": "https://github.com/agoodkind/macos-smc-fan"
+  },
+  {
+    "username": "bdraco",
+    "display_name": "J. Nick Koston",
+    "popular_repo": "",
+    "url": "https://github.com/bdraco",
+    "repo_url": ""
+  },
+  {
+    "username": "MakazhanAlpamys",
+    "display_name": "Alpamys Makazhan",
+    "popular_repo": "Soup",
+    "url": "https://github.com/MakazhanAlpamys",
+    "repo_url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "username": "abrignoni",
+    "display_name": "Brigs",
+    "popular_repo": "iLEAPP",
+    "url": "https://github.com/abrignoni",
+    "repo_url": "https://github.com/abrignoni/iLEAPP"
+  },
+  {
+    "username": "StefanMaron",
+    "display_name": "Stefan Maroń",
+    "popular_repo": "bc-code-atlas",
+    "url": "https://github.com/StefanMaron",
+    "repo_url": "https://github.com/StefanMaron/bc-code-atlas"
+  },
+  {
+    "username": "unxed",
+    "display_name": "unxed",
+    "popular_repo": "f4",
+    "url": "https://github.com/unxed",
+    "repo_url": "https://github.com/unxed/f4"
+  },
+  {
+    "username": "slavakurilyak",
+    "display_name": "Slava Kurilyak",
+    "popular_repo": "awesome-ai-agents",
+    "url": "https://github.com/slavakurilyak",
+    "repo_url": "https://github.com/slavakurilyak/awesome-ai-agents"
+  },
+  {
+    "username": "zackees",
+    "display_name": "Zachary Vorhies",
+    "popular_repo": "mimalloc-pprof",
+    "url": "https://github.com/zackees",
+    "repo_url": "https://github.com/zackees/mimalloc-pprof"
+  },
+  {
+    "username": "dalathegreat",
+    "display_name": "Daniel Öster",
+    "popular_repo": "Battery-Emulator",
+    "url": "https://github.com/dalathegreat",
+    "repo_url": "https://github.com/dalathegreat/Battery-Emulator"
+  },
+  {
+    "username": "raullenchai",
+    "display_name": "Raullen Chai",
+    "popular_repo": "Rapid-MLX",
+    "url": "https://github.com/raullenchai",
+    "repo_url": "https://github.com/raullenchai/Rapid-MLX"
+  },
+  {
+    "username": "PerryLink",
+    "display_name": "PerryLink",
+    "popular_repo": "jevcore",
+    "url": "https://github.com/PerryLink",
+    "repo_url": "https://github.com/PerryLink/jevcore"
+  },
+  {
+    "username": "RizRiyz",
+    "display_name": "Riz",
+    "popular_repo": "luvus",
+    "url": "https://github.com/RizRiyz",
+    "repo_url": "https://github.com/RizRiyz/luvus"
+  },
+  {
+    "username": "schancel",
+    "display_name": "Shammah Chancellor",
+    "popular_repo": "",
+    "url": "https://github.com/schancel",
+    "repo_url": ""
+  },
+  {
+    "username": "weblate",
+    "display_name": "Weblate (bot)",
+    "popular_repo": "myna",
+    "url": "https://github.com/weblate",
+    "repo_url": "https://github.com/weblate/myna"
+  },
+  {
+    "username": "nicoburns",
+    "display_name": "Nico Burns",
+    "popular_repo": "blessed-rs",
+    "url": "https://github.com/nicoburns",
+    "repo_url": "https://github.com/nicoburns/blessed-rs"
+  },
+  {
+    "username": "prasadtalasila",
+    "display_name": "Prasad Talasila",
+    "popular_repo": "",
+    "url": "https://github.com/prasadtalasila",
+    "repo_url": ""
+  },
+  {
+    "username": "iandees",
+    "display_name": "Ian Dees",
+    "popular_repo": "planet-notes-dump",
+    "url": "https://github.com/iandees",
+    "repo_url": "https://github.com/iandees/planet-notes-dump"
+  },
+  {
+    "username": "bucanero",
+    "display_name": "Damián Parrino",
+    "popular_repo": "apollo-ps4",
+    "url": "https://github.com/bucanero",
+    "repo_url": "https://github.com/bucanero/apollo-ps4"
+  },
+  {
+    "username": "noonghunna",
+    "display_name": "noonghunna",
+    "popular_repo": "club-3090",
+    "url": "https://github.com/noonghunna",
+    "repo_url": "https://github.com/noonghunna/club-3090"
+  },
+  {
+    "username": "innocarpe",
+    "display_name": "Wooseong Kim",
+    "popular_repo": "dontsleep",
+    "url": "https://github.com/innocarpe",
+    "repo_url": "https://github.com/innocarpe/dontsleep"
+  },
+  {
+    "username": "tobi",
+    "display_name": "Tobias Lütke",
+    "popular_repo": "disktree",
+    "url": "https://github.com/tobi",
+    "repo_url": "https://github.com/tobi/disktree"
+  },
+  {
+    "username": "sandy081",
+    "display_name": "Sandeep Somavarapu",
+    "popular_repo": "",
+    "url": "https://github.com/sandy081",
+    "repo_url": ""
+  },
+  {
+    "username": "Chemaclass",
+    "display_name": "Jose M. Valera Reales",
+    "popular_repo": "agnostic-ai",
+    "url": "https://github.com/Chemaclass",
+    "repo_url": "https://github.com/Chemaclass/agnostic-ai"
+  }
+]
