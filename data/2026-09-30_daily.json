@@ -1,0 +1,142 @@
+[
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 48251,
+    "delta_stars": 4758,
+    "delta_text": "4,758 stars today",
+    "forks": 5408,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "total_stars": 10663,
+    "delta_stars": 990,
+    "delta_text": "990 stars today",
+    "forks": 1425,
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 42905,
+    "delta_stars": 2575,
+    "delta_text": "2,575 stars today",
+    "forks": 5777,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 94508,
+    "delta_stars": 2458,
+    "delta_text": "2,458 stars today",
+    "forks": 16053,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "t8y2/dbx",
+    "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+    "language": "Rust",
+    "total_stars": 22097,
+    "delta_stars": 232,
+    "delta_text": "232 stars today",
+    "forks": 2091,
+    "url": "https://github.com/t8y2/dbx"
+  },
+  {
+    "name": "mvschwarz/openrig",
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "language": "TypeScript",
+    "total_stars": 2463,
+    "delta_stars": 737,
+    "delta_text": "737 stars today",
+    "forks": 177,
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "name": "oblien/openship",
+    "description": "Self-hosted deployment platform",
+    "language": "TypeScript",
+    "total_stars": 13860,
+    "delta_stars": 437,
+    "delta_text": "437 stars today",
+    "forks": 1239,
+    "url": "https://github.com/oblien/openship"
+  },
+  {
+    "name": "averygan/reclip",
+    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "language": "HTML",
+    "total_stars": 10159,
+    "delta_stars": 113,
+    "delta_text": "113 stars today",
+    "forks": 1539,
+    "url": "https://github.com/averygan/reclip"
+  },
+  {
+    "name": "cs341-illinois/coursebook",
+    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "language": "TeX",
+    "total_stars": 3121,
+    "delta_stars": 572,
+    "delta_text": "572 stars today",
+    "forks": 276,
+    "url": "https://github.com/cs341-illinois/coursebook"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 61454,
+    "delta_stars": 786,
+    "delta_text": "786 stars today",
+    "forks": 10536,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "language": "Python",
+    "total_stars": 37419,
+    "delta_stars": 835,
+    "delta_text": "835 stars today",
+    "forks": 3264,
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "name": "willfaust/Madeira",
+    "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+    "language": "C",
+    "total_stars": 1101,
+    "delta_stars": 81,
+    "delta_text": "81 stars today",
+    "forks": 188,
+    "url": "https://github.com/willfaust/Madeira"
+  },
+  {
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "language": "TypeScript",
+    "total_stars": 21883,
+    "delta_stars": 696,
+    "delta_text": "696 stars today",
+    "forks": 1849,
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "name": "rakyll/hey",
+    "description": "HTTP load generator, ApacheBench (ab) replacement",
+    "language": "Go",
+    "total_stars": 20488,
+    "delta_stars": 34,
+    "delta_text": "34 stars today",
+    "forks": 1312,
+    "url": "https://github.com/rakyll/hey"
+  }
+]
