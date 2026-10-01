@@ -1,0 +1,177 @@
+[
+  {
+    "username": "mvschwarz",
+    "display_name": "Mike Schwarz",
+    "popular_repo": "openrig",
+    "url": "https://github.com/mvschwarz",
+    "repo_url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "username": "probonopd",
+    "display_name": "probonopd",
+    "popular_repo": "irdb",
+    "url": "https://github.com/probonopd",
+    "repo_url": "https://github.com/probonopd/irdb"
+  },
+  {
+    "username": "agoodkind",
+    "display_name": "Alex Goodkind",
+    "popular_repo": "macos-smc-fan",
+    "url": "https://github.com/agoodkind",
+    "repo_url": "https://github.com/agoodkind/macos-smc-fan"
+  },
+  {
+    "username": "neubig",
+    "display_name": "Graham Neubig",
+    "popular_repo": "lowresource-nlp-bootcamp-2020",
+    "url": "https://github.com/neubig",
+    "repo_url": "https://github.com/neubig/lowresource-nlp-bootcamp-2020"
+  },
+  {
+    "username": "assafelovic",
+    "display_name": "Assaf Elovic",
+    "popular_repo": "gpt-researcher",
+    "url": "https://github.com/assafelovic",
+    "repo_url": "https://github.com/assafelovic/gpt-researcher"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "yetone",
+    "display_name": "yetone",
+    "popular_repo": "magpie",
+    "url": "https://github.com/yetone",
+    "repo_url": "https://github.com/yetone/magpie"
+  },
+  {
+    "username": "penso",
+    "display_name": "Fabien Penso",
+    "popular_repo": "herdr-gpui",
+    "url": "https://github.com/penso",
+    "repo_url": "https://github.com/penso/herdr-gpui"
+  },
+  {
+    "username": "esengine",
+    "display_name": "YHH",
+    "popular_repo": "DeepSeek-Reasonix",
+    "url": "https://github.com/esengine",
+    "repo_url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "username": "mpfaffenberger",
+    "display_name": "Mike Pfaffenberger",
+    "popular_repo": "code_puppy",
+    "url": "https://github.com/mpfaffenberger",
+    "repo_url": "https://github.com/mpfaffenberger/code_puppy"
+  },
+  {
+    "username": "teng-lin",
+    "display_name": "Teng Lin",
+    "popular_repo": "notebooklm-py",
+    "url": "https://github.com/teng-lin",
+    "repo_url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "username": "dalathegreat",
+    "display_name": "Daniel Öster",
+    "popular_repo": "Battery-Emulator",
+    "url": "https://github.com/dalathegreat",
+    "repo_url": "https://github.com/dalathegreat/Battery-Emulator"
+  },
+  {
+    "username": "Th0rgal",
+    "display_name": "Thomas Marchand",
+    "popular_repo": "open_oura",
+    "url": "https://github.com/Th0rgal",
+    "repo_url": "https://github.com/Th0rgal/open_oura"
+  },
+  {
+    "username": "DouweM",
+    "display_name": "Douwe Maan",
+    "popular_repo": "",
+    "url": "https://github.com/DouweM",
+    "repo_url": ""
+  },
+  {
+    "username": "domenkozar",
+    "display_name": "Domen Kožar",
+    "popular_repo": "agentaps",
+    "url": "https://github.com/domenkozar",
+    "repo_url": "https://github.com/domenkozar/agentaps"
+  },
+  {
+    "username": "slavakurilyak",
+    "display_name": "Slava Kurilyak",
+    "popular_repo": "awesome-ai-agents",
+    "url": "https://github.com/slavakurilyak",
+    "repo_url": "https://github.com/slavakurilyak/awesome-ai-agents"
+  },
+  {
+    "username": "MervinPraison",
+    "display_name": "Mervin Praison",
+    "popular_repo": "PraisonAI",
+    "url": "https://github.com/MervinPraison",
+    "repo_url": "https://github.com/MervinPraison/PraisonAI"
+  },
+  {
+    "username": "MakazhanAlpamys",
+    "display_name": "Alpamys Makazhan",
+    "popular_repo": "Soup",
+    "url": "https://github.com/MakazhanAlpamys",
+    "repo_url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "username": "unxed",
+    "display_name": "unxed",
+    "popular_repo": "f4",
+    "url": "https://github.com/unxed",
+    "repo_url": "https://github.com/unxed/f4"
+  },
+  {
+    "username": "abrignoni",
+    "display_name": "Brigs",
+    "popular_repo": "iLEAPP",
+    "url": "https://github.com/abrignoni",
+    "repo_url": "https://github.com/abrignoni/iLEAPP"
+  },
+  {
+    "username": "zhuzilin",
+    "display_name": "Zilin Zhu",
+    "popular_repo": "straw",
+    "url": "https://github.com/zhuzilin",
+    "repo_url": "https://github.com/zhuzilin/straw"
+  },
+  {
+    "username": "yairm210",
+    "display_name": "Yair Morgenstern",
+    "popular_repo": "Unciv",
+    "url": "https://github.com/yairm210",
+    "repo_url": "https://github.com/yairm210/Unciv"
+  },
+  {
+    "username": "jakevdp",
+    "display_name": "Jake Vanderplas",
+    "popular_repo": "PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp",
+    "repo_url": "https://github.com/jakevdp/PythonDataScienceHandbook"
+  },
+  {
+    "username": "mattsse",
+    "display_name": "Matthias Seitz",
+    "popular_repo": "chromiumoxide",
+    "url": "https://github.com/mattsse",
+    "repo_url": "https://github.com/mattsse/chromiumoxide"
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  }
+]

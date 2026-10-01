@@ -1,0 +1,182 @@
+[
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 95345,
+    "delta_stars": 13855,
+    "delta_text": "13,855 stars this week",
+    "forks": 16182,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 43946,
+    "delta_stars": 18389,
+    "delta_text": "18,389 stars this week",
+    "forks": 5840,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 38372,
+    "delta_stars": 1637,
+    "delta_text": "1,637 stars this week",
+    "forks": 5521,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 50495,
+    "delta_stars": 15186,
+    "delta_text": "15,186 stars this week",
+    "forks": 5604,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 62148,
+    "delta_stars": 6485,
+    "delta_text": "6,485 stars this week",
+    "forks": 10624,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "total_stars": 142951,
+    "delta_stars": 595,
+    "delta_text": "595 stars this week",
+    "forks": 33551,
+    "url": "https://github.com/vercel/next.js"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 51131,
+    "delta_stars": 1371,
+    "delta_text": "1,371 stars this week",
+    "forks": 4662,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 32241,
+    "delta_stars": 914,
+    "delta_text": "914 stars this week",
+    "forks": 3662,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "total_stars": 103571,
+    "delta_stars": 398,
+    "delta_text": "398 stars this week",
+    "forks": 31021,
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 73045,
+    "delta_stars": 2775,
+    "delta_text": "2,775 stars this week",
+    "forks": 4411,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "total_stars": 6101,
+    "delta_stars": 1301,
+    "delta_text": "1,301 stars this week",
+    "forks": 769,
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "total_stars": 82409,
+    "delta_stars": 5987,
+    "delta_text": "5,987 stars this week",
+    "forks": 5355,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "total_stars": 78163,
+    "delta_stars": 199,
+    "delta_text": "199 stars this week",
+    "forks": 26095,
+    "url": "https://github.com/elastic/elasticsearch"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 31517,
+    "delta_stars": 2227,
+    "delta_text": "2,227 stars this week",
+    "forks": 4207,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "FxEmbed/FxEmbed",
+    "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+    "language": "TypeScript",
+    "total_stars": 5608,
+    "delta_stars": 520,
+    "delta_text": "520 stars this week",
+    "forks": 266,
+    "url": "https://github.com/FxEmbed/FxEmbed"
+  },
+  {
+    "name": "alirezarezvani/claude-skills",
+    "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "language": "Python",
+    "total_stars": 27059,
+    "delta_stars": 711,
+    "delta_text": "711 stars this week",
+    "forks": 3825,
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "language": "TypeScript",
+    "total_stars": 22180,
+    "delta_stars": 6091,
+    "delta_text": "6,091 stars this week",
+    "forks": 1869,
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "name": "anthropics/claude-code-action",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 9285,
+    "delta_stars": 329,
+    "delta_text": "329 stars this week",
+    "forks": 2180,
+    "url": "https://github.com/anthropics/claude-code-action"
+  }
+]
