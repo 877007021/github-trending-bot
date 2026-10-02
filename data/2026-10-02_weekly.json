@@ -1,0 +1,182 @@
+[
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 95867,
+    "delta_stars": 14335,
+    "delta_text": "14,335 stars this week",
+    "forks": 16252,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 44338,
+    "delta_stars": 17403,
+    "delta_text": "17,403 stars this week",
+    "forks": 5857,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 51419,
+    "delta_stars": 16114,
+    "delta_text": "16,114 stars this week",
+    "forks": 5724,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 62464,
+    "delta_stars": 6469,
+    "delta_text": "6,469 stars this week",
+    "forks": 10686,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 38476,
+    "delta_stars": 1270,
+    "delta_text": "1,270 stars this week",
+    "forks": 5535,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "total_stars": 142992,
+    "delta_stars": 624,
+    "delta_text": "624 stars this week",
+    "forks": 33559,
+    "url": "https://github.com/vercel/next.js"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 73707,
+    "delta_stars": 2704,
+    "delta_text": "2,704 stars this week",
+    "forks": 4439,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 51252,
+    "delta_stars": 1055,
+    "delta_text": "1,055 stars this week",
+    "forks": 4672,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "alirezarezvani/claude-skills",
+    "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "language": "Python",
+    "total_stars": 27191,
+    "delta_stars": 743,
+    "delta_text": "743 stars this week",
+    "forks": 3839,
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "total_stars": 32278,
+    "delta_stars": 601,
+    "delta_text": "601 stars this week",
+    "forks": 3667,
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "total_stars": 6254,
+    "delta_stars": 1360,
+    "delta_text": "1,360 stars this week",
+    "forks": 785,
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "name": "agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "language": "Go",
+    "total_stars": 4117,
+    "delta_stars": 365,
+    "delta_text": "365 stars this week",
+    "forks": 490,
+    "url": "https://github.com/agent-substrate/substrate"
+  },
+  {
+    "name": "tile-ai/tilelang",
+    "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+    "language": "Python",
+    "total_stars": 8121,
+    "delta_stars": 481,
+    "delta_text": "481 stars this week",
+    "forks": 818,
+    "url": "https://github.com/tile-ai/tilelang"
+  },
+  {
+    "name": "anthropics/claude-code-action",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 9336,
+    "delta_stars": 376,
+    "delta_text": "376 stars this week",
+    "forks": 2184,
+    "url": "https://github.com/anthropics/claude-code-action"
+  },
+  {
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "language": "TypeScript",
+    "total_stars": 22254,
+    "delta_stars": 5267,
+    "delta_text": "5,267 stars this week",
+    "forks": 1869,
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "name": "FxEmbed/FxEmbed",
+    "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+    "language": "TypeScript",
+    "total_stars": 5631,
+    "delta_stars": 369,
+    "delta_text": "369 stars this week",
+    "forks": 269,
+    "url": "https://github.com/FxEmbed/FxEmbed"
+  },
+  {
+    "name": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "total_stars": 179222,
+    "delta_stars": 147,
+    "delta_text": "147 stars this week",
+    "forks": 32738,
+    "url": "https://github.com/flutter/flutter"
+  },
+  {
+    "name": "androoAGI/starnet",
+    "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+    "language": "JavaScript",
+    "total_stars": 901,
+    "delta_stars": 592,
+    "delta_text": "592 stars this week",
+    "forks": 149,
+    "url": "https://github.com/androoAGI/starnet"
+  }
+]
