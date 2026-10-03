@@ -1,0 +1,172 @@
+[
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 96321,
+    "delta_stars": 12825,
+    "delta_text": "12,825 stars this week",
+    "forks": 16311,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 44719,
+    "delta_stars": 16183,
+    "delta_text": "16,183 stars this week",
+    "forks": 5871,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 51924,
+    "delta_stars": 16475,
+    "delta_text": "16,475 stars this week",
+    "forks": 5780,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 62707,
+    "delta_stars": 5600,
+    "delta_text": "5,600 stars this week",
+    "forks": 10718,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "total_stars": 179256,
+    "delta_stars": 228,
+    "delta_text": "228 stars this week",
+    "forks": 32855,
+    "url": "https://github.com/flutter/flutter"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 74344,
+    "delta_stars": 3124,
+    "delta_text": "3,124 stars this week",
+    "forks": 4482,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "total_stars": 143005,
+    "delta_stars": 658,
+    "delta_text": "658 stars this week",
+    "forks": 33701,
+    "url": "https://github.com/vercel/next.js"
+  },
+  {
+    "name": "alirezarezvani/claude-skills",
+    "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "language": "Python",
+    "total_stars": 27323,
+    "delta_stars": 832,
+    "delta_text": "832 stars this week",
+    "forks": 3852,
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 55917,
+    "delta_stars": 2661,
+    "delta_text": "2,661 stars this week",
+    "forks": 5037,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "total_stars": 6399,
+    "delta_stars": 1425,
+    "delta_text": "1,425 stars this week",
+    "forks": 789,
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "name": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "language": "Go",
+    "total_stars": 12913,
+    "delta_stars": 1783,
+    "delta_text": "1,783 stars this week",
+    "forks": 639,
+    "url": "https://github.com/google/ax"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 38550,
+    "delta_stars": 1073,
+    "delta_text": "1,073 stars this week",
+    "forks": 5536,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "tile-ai/tilelang",
+    "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+    "language": "Python",
+    "total_stars": 8247,
+    "delta_stars": 732,
+    "delta_text": "732 stars this week",
+    "forks": 829,
+    "url": "https://github.com/tile-ai/tilelang"
+  },
+  {
+    "name": "anthropics/claude-code-action",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 9377,
+    "delta_stars": 417,
+    "delta_text": "417 stars this week",
+    "forks": 2184,
+    "url": "https://github.com/anthropics/claude-code-action"
+  },
+  {
+    "name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "total_stars": 103628,
+    "delta_stars": 369,
+    "delta_text": "369 stars this week",
+    "forks": 31167,
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "language": "Python",
+    "total_stars": 128100,
+    "delta_stars": 2533,
+    "delta_text": "2,533 stars this week",
+    "forks": 20037,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "name": "pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "language": "TypeScript",
+    "total_stars": 3518,
+    "delta_stars": 1415,
+    "delta_text": "1,415 stars this week",
+    "forks": 310,
+    "url": "https://github.com/pablostanley/yoinks"
+  }
+]

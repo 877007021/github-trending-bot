@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 88686,
+    "delta_stars": 696,
+    "delta_text": "696 stars today",
+    "forks": 7807,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+    "language": "Go",
+    "total_stars": 109111,
+    "delta_stars": 209,
+    "delta_text": "209 stars today",
+    "forks": 6316,
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 294482,
+    "delta_stars": 556,
+    "delta_text": "556 stars today",
+    "forks": 26320,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 151852,
+    "delta_stars": 1435,
+    "delta_text": "1,435 stars today",
+    "forks": 8143,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "total_stars": 74344,
+    "delta_stars": 722,
+    "delta_text": "722 stars today",
+    "forks": 4482,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 274732,
+    "delta_stars": 955,
+    "delta_text": "955 stars today",
+    "forks": 23062,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "total_stars": 14443,
+    "delta_stars": 594,
+    "delta_text": "594 stars today",
+    "forks": 1660,
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "language": "JavaScript",
+    "total_stars": 52424,
+    "delta_stars": 140,
+    "delta_text": "140 stars today",
+    "forks": 7879,
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 55916,
+    "delta_stars": 580,
+    "delta_text": "580 stars today",
+    "forks": 5037,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 25048,
+    "delta_stars": 282,
+    "delta_text": "282 stars today",
+    "forks": 1799,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "total_stars": 20758,
+    "delta_stars": 39,
+    "delta_text": "39 stars today",
+    "forks": 1723,
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "name": "getsentry/sentry",
+    "description": "Developer-first error tracking and performance monitoring",
+    "language": "Python",
+    "total_stars": 45038,
+    "delta_stars": 16,
+    "delta_text": "16 stars today",
+    "forks": 4892,
+    "url": "https://github.com/getsentry/sentry"
+  },
+  {
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "C",
+    "total_stars": 72970,
+    "delta_stars": 98,
+    "delta_text": "98 stars today",
+    "forks": 4683,
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 9504,
+    "delta_stars": 163,
+    "delta_text": "163 stars today",
+    "forks": 897,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "mvschwarz/openrig",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "language": "TypeScript",
+    "total_stars": 4331,
+    "delta_stars": 683,
+    "delta_text": "683 stars today",
+    "forks": 296,
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "name": "Effect-TS/effect",
+    "description": "Build production-ready applications in TypeScript",
+    "language": "TypeScript",
+    "total_stars": 16558,
+    "delta_stars": 80,
+    "delta_text": "80 stars today",
+    "forks": 803,
+    "url": "https://github.com/Effect-TS/effect"
+  },
+  {
+    "name": "pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "language": "TypeScript",
+    "total_stars": 3518,
+    "delta_stars": 623,
+    "delta_text": "623 stars today",
+    "forks": 310,
+    "url": "https://github.com/pablostanley/yoinks"
+  }
+]

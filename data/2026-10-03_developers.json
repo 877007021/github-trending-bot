@@ -1,0 +1,177 @@
+[
+  {
+    "username": "mvschwarz",
+    "display_name": "Mike Schwarz",
+    "popular_repo": "openrig",
+    "url": "https://github.com/mvschwarz",
+    "repo_url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "username": "kentcdodds",
+    "display_name": "Kent C. Dodds",
+    "popular_repo": "kody",
+    "url": "https://github.com/kentcdodds",
+    "repo_url": "https://github.com/kentcdodds/kody"
+  },
+  {
+    "username": "yairm210",
+    "display_name": "Yair Morgenstern",
+    "popular_repo": "Unciv",
+    "url": "https://github.com/yairm210",
+    "repo_url": "https://github.com/yairm210/Unciv"
+  },
+  {
+    "username": "yeongseon",
+    "display_name": "Yeongseon Choe",
+    "popular_repo": "",
+    "url": "https://github.com/yeongseon",
+    "repo_url": ""
+  },
+  {
+    "username": "hiyouga",
+    "display_name": "Yaowei Zheng",
+    "popular_repo": "LlamaFactory",
+    "url": "https://github.com/hiyouga",
+    "repo_url": "https://github.com/hiyouga/LlamaFactory"
+  },
+  {
+    "username": "colbymchenry",
+    "display_name": "Colby Mchenry",
+    "popular_repo": "codegraph",
+    "url": "https://github.com/colbymchenry",
+    "repo_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "cathrynlavery",
+    "display_name": "Cathryn Lavery",
+    "popular_repo": "diagram-design",
+    "url": "https://github.com/cathrynlavery",
+    "repo_url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "username": "mattsse",
+    "display_name": "Matthias Seitz",
+    "popular_repo": "chromiumoxide",
+    "url": "https://github.com/mattsse",
+    "repo_url": "https://github.com/mattsse/chromiumoxide"
+  },
+  {
+    "username": "sdcb",
+    "display_name": "ZHOU Jie",
+    "popular_repo": "SimdPaddleOCR",
+    "url": "https://github.com/sdcb",
+    "repo_url": "https://github.com/sdcb/SimdPaddleOCR"
+  },
+  {
+    "username": "MervinPraison",
+    "display_name": "Mervin Praison",
+    "popular_repo": "PraisonAI",
+    "url": "https://github.com/MervinPraison",
+    "repo_url": "https://github.com/MervinPraison/PraisonAI"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "cliffhall",
+    "display_name": "Cliff Hall",
+    "popular_repo": "",
+    "url": "https://github.com/cliffhall",
+    "repo_url": ""
+  },
+  {
+    "username": "esengine",
+    "display_name": "YHH",
+    "popular_repo": "DeepSeek-Reasonix",
+    "url": "https://github.com/esengine",
+    "repo_url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "gkjohnson",
+    "display_name": "Garrett Johnson",
+    "popular_repo": "three-gpu-pathtracer",
+    "url": "https://github.com/gkjohnson",
+    "repo_url": "https://github.com/gkjohnson/three-gpu-pathtracer"
+  },
+  {
+    "username": "JustVugg",
+    "display_name": "Vincenzo Fornaro",
+    "popular_repo": "colibri",
+    "url": "https://github.com/JustVugg",
+    "repo_url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "username": "A-EDev",
+    "display_name": "AE",
+    "popular_repo": "Flow",
+    "url": "https://github.com/A-EDev",
+    "repo_url": "https://github.com/A-EDev/Flow"
+  },
+  {
+    "username": "Cyan4973",
+    "display_name": "Yann Collet",
+    "popular_repo": "xxHash",
+    "url": "https://github.com/Cyan4973",
+    "repo_url": "https://github.com/Cyan4973/xxHash"
+  },
+  {
+    "username": "chaitanyagiri",
+    "display_name": "Chaitanya Giri",
+    "popular_repo": "munder-difflin",
+    "url": "https://github.com/chaitanyagiri",
+    "repo_url": "https://github.com/chaitanyagiri/munder-difflin"
+  },
+  {
+    "username": "jakevdp",
+    "display_name": "Jake Vanderplas",
+    "popular_repo": "PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp",
+    "repo_url": "https://github.com/jakevdp/PythonDataScienceHandbook"
+  },
+  {
+    "username": "SaladDay",
+    "display_name": "SaladDay",
+    "popular_repo": "cc-switch-cli",
+    "url": "https://github.com/SaladDay",
+    "repo_url": "https://github.com/SaladDay/cc-switch-cli"
+  },
+  {
+    "username": "kunchenguid",
+    "display_name": "Kun Chen",
+    "popular_repo": "firstmate",
+    "url": "https://github.com/kunchenguid",
+    "repo_url": "https://github.com/kunchenguid/firstmate"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "madeye",
+    "display_name": "Max Lv",
+    "popular_repo": "ServerBox",
+    "url": "https://github.com/madeye",
+    "repo_url": "https://github.com/madeye/ServerBox"
+  }
+]
