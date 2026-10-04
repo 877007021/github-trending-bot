@@ -1,0 +1,232 @@
+[
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 47070,
+    "delta_stars": 30444,
+    "delta_text": "30,444 stars this month",
+    "forks": 9609,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 43531,
+    "delta_stars": 21959,
+    "delta_text": "21,959 stars this month",
+    "forks": 3140,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 272302,
+    "delta_stars": 26724,
+    "delta_text": "26,724 stars this month",
+    "forks": 40658,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "total_stars": 53193,
+    "delta_stars": 26497,
+    "delta_text": "26,497 stars this month",
+    "forks": 3065,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 31909,
+    "delta_stars": 10856,
+    "delta_text": "10,856 stars this month",
+    "forks": 4255,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 25260,
+    "delta_stars": 4978,
+    "delta_text": "4,978 stars this month",
+    "forks": 1807,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 38650,
+    "delta_stars": 4082,
+    "delta_text": "4,082 stars this month",
+    "forks": 5550,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 96769,
+    "delta_stars": 17030,
+    "delta_text": "17,030 stars this month",
+    "forks": 16386,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "total_stars": 76784,
+    "delta_stars": 31939,
+    "delta_text": "31,939 stars this month",
+    "forks": 5182,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 45132,
+    "delta_stars": 23065,
+    "delta_text": "23,065 stars this month",
+    "forks": 5897,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 56326,
+    "delta_stars": 12634,
+    "delta_text": "12,634 stars this month",
+    "forks": 5061,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "total_stars": 149239,
+    "delta_stars": 5841,
+    "delta_text": "5,841 stars this month",
+    "forks": 25381,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "language": "Go",
+    "total_stars": 4215,
+    "delta_stars": 2460,
+    "delta_text": "2,460 stars this month",
+    "forks": 499,
+    "url": "https://github.com/agent-substrate/substrate"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "total_stars": 153505,
+    "delta_stars": 30546,
+    "delta_text": "30,546 stars this month",
+    "forks": 8242,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "total_stars": 6607,
+    "delta_stars": 5183,
+    "delta_text": "5,183 stars this month",
+    "forks": 813,
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "name": "humanlayer/skills",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 4885,
+    "delta_stars": 3934,
+    "delta_text": "3,934 stars this month",
+    "forks": 157,
+    "url": "https://github.com/humanlayer/skills"
+  },
+  {
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "total_stars": 14684,
+    "delta_stars": 6209,
+    "delta_text": "6,209 stars this month",
+    "forks": 1681,
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "Rust",
+    "total_stars": 27943,
+    "delta_stars": 5879,
+    "delta_text": "5,879 stars this month",
+    "forks": 1975,
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 9665,
+    "delta_stars": 3087,
+    "delta_text": "3,087 stars this month",
+    "forks": 916,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 26041,
+    "delta_stars": 2272,
+    "delta_text": "2,272 stars this month",
+    "forks": 3054,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "total_stars": 8742,
+    "delta_stars": 1999,
+    "delta_text": "1,999 stars this month",
+    "forks": 315,
+    "url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "name": "tashfeenahmed/freellmapi",
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "language": "TypeScript",
+    "total_stars": 30406,
+    "delta_stars": 6502,
+    "delta_text": "6,502 stars this month",
+    "forks": 4262,
+    "url": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+    "language": "Python",
+    "total_stars": 19282,
+    "delta_stars": 3460,
+    "delta_text": "3,460 stars this month",
+    "forks": 1685,
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  }
+]

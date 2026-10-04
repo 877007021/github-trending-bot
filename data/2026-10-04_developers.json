@@ -1,0 +1,177 @@
+[
+  {
+    "username": "mvschwarz",
+    "display_name": "Mike Schwarz",
+    "popular_repo": "openrig",
+    "url": "https://github.com/mvschwarz",
+    "repo_url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "username": "JustVugg",
+    "display_name": "Vincenzo Fornaro",
+    "popular_repo": "colibri",
+    "url": "https://github.com/JustVugg",
+    "repo_url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "username": "colbymchenry",
+    "display_name": "Colby Mchenry",
+    "popular_repo": "codegraph",
+    "url": "https://github.com/colbymchenry",
+    "repo_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "username": "cathrynlavery",
+    "display_name": "Cathryn Lavery",
+    "popular_repo": "diagram-design",
+    "url": "https://github.com/cathrynlavery",
+    "repo_url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "username": "kentcdodds",
+    "display_name": "Kent C. Dodds",
+    "popular_repo": "kody",
+    "url": "https://github.com/kentcdodds",
+    "repo_url": "https://github.com/kentcdodds/kody"
+  },
+  {
+    "username": "maurodesouza",
+    "display_name": "Mauro de Souza",
+    "popular_repo": "profile-readme-generator",
+    "url": "https://github.com/maurodesouza",
+    "repo_url": "https://github.com/maurodesouza/profile-readme-generator"
+  },
+  {
+    "username": "madeye",
+    "display_name": "Max Lv",
+    "popular_repo": "ServerBox",
+    "url": "https://github.com/madeye",
+    "repo_url": "https://github.com/madeye/ServerBox"
+  },
+  {
+    "username": "hrydgard",
+    "display_name": "Henrik Rydgård",
+    "popular_repo": "ppsspp",
+    "url": "https://github.com/hrydgard",
+    "repo_url": "https://github.com/hrydgard/ppsspp"
+  },
+  {
+    "username": "kim-em",
+    "display_name": "Kim Morrison",
+    "popular_repo": "lean-zip",
+    "url": "https://github.com/kim-em",
+    "repo_url": "https://github.com/kim-em/lean-zip"
+  },
+  {
+    "username": "SaladDay",
+    "display_name": "SaladDay",
+    "popular_repo": "cc-switch-cli",
+    "url": "https://github.com/SaladDay",
+    "repo_url": "https://github.com/SaladDay/cc-switch-cli"
+  },
+  {
+    "username": "raullenchai",
+    "display_name": "Raullen Chai",
+    "popular_repo": "Rapid-MLX",
+    "url": "https://github.com/raullenchai",
+    "repo_url": "https://github.com/raullenchai/Rapid-MLX"
+  },
+  {
+    "username": "akshaydeo",
+    "display_name": "Akshay Deo",
+    "popular_repo": "",
+    "url": "https://github.com/akshaydeo",
+    "repo_url": ""
+  },
+  {
+    "username": "doitsujin",
+    "display_name": "Philip Rebohle",
+    "popular_repo": "dxvk",
+    "url": "https://github.com/doitsujin",
+    "repo_url": "https://github.com/doitsujin/dxvk"
+  },
+  {
+    "username": "amir20",
+    "display_name": "Amir Raminfar",
+    "popular_repo": "dozzle",
+    "url": "https://github.com/amir20",
+    "repo_url": "https://github.com/amir20/dozzle"
+  },
+  {
+    "username": "krille-chan",
+    "display_name": "Krille-chan",
+    "popular_repo": "fluffychat",
+    "url": "https://github.com/krille-chan",
+    "repo_url": "https://github.com/krille-chan/fluffychat"
+  },
+  {
+    "username": "ColeMurray",
+    "display_name": "Cole Murray",
+    "popular_repo": "background-agents",
+    "url": "https://github.com/ColeMurray",
+    "repo_url": "https://github.com/ColeMurray/background-agents"
+  },
+  {
+    "username": "agoodkind",
+    "display_name": "Alex Goodkind",
+    "popular_repo": "mwan",
+    "url": "https://github.com/agoodkind",
+    "repo_url": "https://github.com/agoodkind/mwan"
+  },
+  {
+    "username": "metux",
+    "display_name": "Enrico Weigelt",
+    "popular_repo": "",
+    "url": "https://github.com/metux",
+    "repo_url": ""
+  },
+  {
+    "username": "jtenniswood",
+    "display_name": "James Tenniswood",
+    "popular_repo": "espcontrol",
+    "url": "https://github.com/jtenniswood",
+    "repo_url": "https://github.com/jtenniswood/espcontrol"
+  },
+  {
+    "username": "atqamz",
+    "display_name": "Atqa Munzir",
+    "popular_repo": "hand",
+    "url": "https://github.com/atqamz",
+    "repo_url": "https://github.com/atqamz/hand"
+  },
+  {
+    "username": "dajiaohuang",
+    "display_name": "Wu Shuwen",
+    "popular_repo": "awesome-generative-ai-apps",
+    "url": "https://github.com/dajiaohuang",
+    "repo_url": "https://github.com/dajiaohuang/awesome-generative-ai-apps"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "MervinPraison",
+    "display_name": "Mervin Praison",
+    "popular_repo": "PraisonAI",
+    "url": "https://github.com/MervinPraison",
+    "repo_url": "https://github.com/MervinPraison/PraisonAI"
+  },
+  {
+    "username": "oschwartz10612",
+    "display_name": "Owen Schwartz",
+    "popular_repo": "poppler-windows",
+    "url": "https://github.com/oschwartz10612",
+    "repo_url": "https://github.com/oschwartz10612/poppler-windows"
+  }
+]
