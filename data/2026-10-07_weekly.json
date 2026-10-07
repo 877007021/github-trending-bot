@@ -1,0 +1,122 @@
+[
+  {
+    "name": "mvschwarz/openrig",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "language": "TypeScript",
+    "total_stars": 5528,
+    "delta_stars": 3327,
+    "delta_text": "3,327 stars this week",
+    "forks": 403,
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 57982,
+    "delta_stars": 3614,
+    "delta_text": "3,614 stars this week",
+    "forks": 5167,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 10119,
+    "delta_stars": 1106,
+    "delta_text": "1,106 stars this week",
+    "forks": 959,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "total_stars": 15151,
+    "delta_stars": 5228,
+    "delta_text": "5,228 stars this week",
+    "forks": 1716,
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "language": "Python",
+    "total_stars": 38805,
+    "delta_stars": 2079,
+    "delta_text": "2,079 stars this week",
+    "forks": 3359,
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "total_stars": 97207,
+    "delta_stars": 2104,
+    "delta_text": "2,104 stars this week",
+    "forks": 8564,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "language": "TypeScript",
+    "total_stars": 4883,
+    "delta_stars": 2947,
+    "delta_text": "2,947 stars this week",
+    "forks": 424,
+    "url": "https://github.com/pablostanley/yoinks"
+  },
+  {
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "language": "Python",
+    "total_stars": 17231,
+    "delta_stars": 2017,
+    "delta_text": "2,017 stars this week",
+    "forks": 2348,
+    "url": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "name": "DuarteSantos8/openGym",
+    "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "language": "JavaScript",
+    "total_stars": 5758,
+    "delta_stars": 3318,
+    "delta_text": "3,318 stars this week",
+    "forks": 786,
+    "url": "https://github.com/DuarteSantos8/openGym"
+  },
+  {
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "total_stars": 6661,
+    "delta_stars": 3073,
+    "delta_text": "3,073 stars this week",
+    "forks": 497,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 92656,
+    "delta_stars": 6454,
+    "delta_text": "6,454 stars this week",
+    "forks": 8128,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "byoungd/up",
+    "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
+    "language": "JavaScript",
+    "total_stars": 67524,
+    "delta_stars": 2154,
+    "delta_text": "2,154 stars this week",
+    "forks": 6703,
+    "url": "https://github.com/byoungd/up"
+  }
+]
