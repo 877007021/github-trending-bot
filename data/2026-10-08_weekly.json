@@ -1,0 +1,122 @@
+[
+  {
+    "name": "mvschwarz/openrig",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "language": "TypeScript",
+    "total_stars": 5812,
+    "delta_stars": 2912,
+    "delta_text": "2,912 stars this week",
+    "forks": 429,
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "total_stars": 10844,
+    "delta_stars": 6075,
+    "delta_text": "6,075 stars this week",
+    "forks": 824,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 58601,
+    "delta_stars": 3908,
+    "delta_text": "3,908 stars this week",
+    "forks": 5215,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 10267,
+    "delta_stars": 1109,
+    "delta_text": "1,109 stars this week",
+    "forks": 974,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "total_stars": 15320,
+    "delta_stars": 3690,
+    "delta_text": "3,690 stars this week",
+    "forks": 1728,
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 93337,
+    "delta_stars": 6912,
+    "delta_text": "6,912 stars this week",
+    "forks": 8173,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "total_stars": 97778,
+    "delta_stars": 2607,
+    "delta_text": "2,607 stars this week",
+    "forks": 8607,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "language": "TypeScript",
+    "total_stars": 5129,
+    "delta_stars": 2732,
+    "delta_text": "2,732 stars this week",
+    "forks": 447,
+    "url": "https://github.com/pablostanley/yoinks"
+  },
+  {
+    "name": "DuarteSantos8/openGym",
+    "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "language": "JavaScript",
+    "total_stars": 7029,
+    "delta_stars": 4906,
+    "delta_text": "4,906 stars this week",
+    "forks": 918,
+    "url": "https://github.com/DuarteSantos8/openGym"
+  },
+  {
+    "name": "tile-ai/tilelang",
+    "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+    "language": "Python",
+    "total_stars": 8481,
+    "delta_stars": 639,
+    "delta_text": "639 stars this week",
+    "forks": 856,
+    "url": "https://github.com/tile-ai/tilelang"
+  },
+  {
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "language": "Python",
+    "total_stars": 17409,
+    "delta_stars": 1534,
+    "delta_text": "1,534 stars this week",
+    "forks": 2357,
+    "url": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "name": "Friedrich-M/UniMate",
+    "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+    "language": "Python",
+    "total_stars": 1582,
+    "delta_stars": 716,
+    "delta_text": "716 stars this week",
+    "forks": 152,
+    "url": "https://github.com/Friedrich-M/UniMate"
+  }
+]
