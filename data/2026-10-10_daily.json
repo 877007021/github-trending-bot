@@ -1,0 +1,112 @@
+[
+  {
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "total_stars": 47936,
+    "delta_stars": 14927,
+    "delta_text": "14,927 stars today",
+    "forks": 7909,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "total_stars": 22590,
+    "delta_stars": 5868,
+    "delta_text": "5,868 stars today",
+    "forks": 1846,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 282814,
+    "delta_stars": 1687,
+    "delta_text": "1,687 stars today",
+    "forks": 23696,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 47950,
+    "delta_stars": 1739,
+    "delta_text": "1,739 stars today",
+    "forks": 3037,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 45292,
+    "delta_stars": 326,
+    "delta_text": "326 stars today",
+    "forks": 3267,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 28300,
+    "delta_stars": 709,
+    "delta_text": "709 stars today",
+    "forks": 3250,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "BerriAI/litellm",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+    "language": "Python",
+    "total_stars": 60694,
+    "delta_stars": 95,
+    "delta_text": "95 stars today",
+    "forks": 12192,
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 104027,
+    "delta_stars": 436,
+    "delta_text": "436 stars today",
+    "forks": 10867,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "total_stars": 11662,
+    "delta_stars": 3752,
+    "delta_text": "3,752 stars today",
+    "forks": 1761,
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "name": "Robbyant/lingbot-map",
+    "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+    "language": "Python",
+    "total_stars": 17732,
+    "delta_stars": 110,
+    "delta_text": "110 stars today",
+    "forks": 1953,
+    "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "name": "twostraws/SwiftUI-Agent-Skill",
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "language": "",
+    "total_stars": 5469,
+    "delta_stars": 65,
+    "delta_text": "65 stars today",
+    "forks": 196,
+    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+  }
+]

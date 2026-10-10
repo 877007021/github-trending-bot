@@ -1,0 +1,177 @@
+[
+  {
+    "username": "poteto",
+    "display_name": "lauren",
+    "popular_repo": "hiring-without-whiteboards",
+    "url": "https://github.com/poteto",
+    "repo_url": "https://github.com/poteto/hiring-without-whiteboards"
+  },
+  {
+    "username": "emilk",
+    "display_name": "Emil Ernerfeldt",
+    "popular_repo": "egui",
+    "url": "https://github.com/emilk",
+    "repo_url": "https://github.com/emilk/egui"
+  },
+  {
+    "username": "yetone",
+    "display_name": "yetone",
+    "popular_repo": "magpie",
+    "url": "https://github.com/yetone",
+    "repo_url": "https://github.com/yetone/magpie"
+  },
+  {
+    "username": "wcandillon",
+    "display_name": "William Candillon",
+    "popular_repo": "react-native-skia",
+    "url": "https://github.com/wcandillon",
+    "repo_url": "https://github.com/wcandillon/react-native-skia"
+  },
+  {
+    "username": "backnotprop",
+    "display_name": "Michael Ramos",
+    "popular_repo": "pstack",
+    "url": "https://github.com/backnotprop",
+    "repo_url": "https://github.com/backnotprop/pstack"
+  },
+  {
+    "username": "tt-a1i",
+    "display_name": "tt-a1i",
+    "popular_repo": "archify",
+    "url": "https://github.com/tt-a1i",
+    "repo_url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "abrignoni",
+    "display_name": "Brigs",
+    "popular_repo": "ALEAPP",
+    "url": "https://github.com/abrignoni",
+    "repo_url": "https://github.com/abrignoni/ALEAPP"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "SaladDay",
+    "display_name": "SaladDay",
+    "popular_repo": "cc-switch-cli",
+    "url": "https://github.com/SaladDay",
+    "repo_url": "https://github.com/SaladDay/cc-switch-cli"
+  },
+  {
+    "username": "omercnet",
+    "display_name": "Omer Cohen",
+    "popular_repo": "awesome-paseo-plugins",
+    "url": "https://github.com/omercnet",
+    "repo_url": "https://github.com/omercnet/awesome-paseo-plugins"
+  },
+  {
+    "username": "nicoburns",
+    "display_name": "Nico Burns",
+    "popular_repo": "blessed-rs",
+    "url": "https://github.com/nicoburns",
+    "repo_url": "https://github.com/nicoburns/blessed-rs"
+  },
+  {
+    "username": "momo5502",
+    "display_name": "Maurice Heumann",
+    "popular_repo": "sogen",
+    "url": "https://github.com/momo5502",
+    "repo_url": "https://github.com/momo5502/sogen"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "rakazo",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/rakazo"
+  },
+  {
+    "username": "ZhuLinsen",
+    "display_name": "zhulinsen",
+    "popular_repo": "daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen",
+    "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "username": "colbymchenry",
+    "display_name": "Colby Mchenry",
+    "popular_repo": "codegraph",
+    "url": "https://github.com/colbymchenry",
+    "repo_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "username": "jddunn",
+    "display_name": "Johnny Dunn",
+    "popular_repo": "",
+    "url": "https://github.com/jddunn",
+    "repo_url": ""
+  },
+  {
+    "username": "BBuf",
+    "display_name": "Xiaoyu Zhang",
+    "popular_repo": "AI-Infra-Auto-Driven-SKILLS",
+    "url": "https://github.com/BBuf",
+    "repo_url": "https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS"
+  },
+  {
+    "username": "tmchow",
+    "display_name": "Trevin Chow",
+    "popular_repo": "illo-skill",
+    "url": "https://github.com/tmchow",
+    "repo_url": "https://github.com/tmchow/illo-skill"
+  },
+  {
+    "username": "ctate",
+    "display_name": "Chris Tate",
+    "popular_repo": "3d-model-generator",
+    "url": "https://github.com/ctate",
+    "repo_url": "https://github.com/ctate/3d-model-generator"
+  },
+  {
+    "username": "Astro-Han",
+    "display_name": "AstroHan",
+    "popular_repo": "karpathy-llm-wiki",
+    "url": "https://github.com/Astro-Han",
+    "repo_url": "https://github.com/Astro-Han/karpathy-llm-wiki"
+  },
+  {
+    "username": "DeusData",
+    "display_name": "Martin Vogel",
+    "popular_repo": "codebase-memory-mcp",
+    "url": "https://github.com/DeusData",
+    "repo_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "username": "ryansolid",
+    "display_name": "Ryan Carniato",
+    "popular_repo": "",
+    "url": "https://github.com/ryansolid",
+    "repo_url": ""
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "danielhanchen",
+    "display_name": "Daniel Han",
+    "popular_repo": "llama.cpp",
+    "url": "https://github.com/danielhanchen",
+    "repo_url": "https://github.com/danielhanchen/llama.cpp"
+  }
+]
