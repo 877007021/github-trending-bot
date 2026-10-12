@@ -1,0 +1,222 @@
+[
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 46216,
+    "delta_stars": 24146,
+    "delta_text": "24,146 stars this month",
+    "forks": 3352,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 58854,
+    "delta_stars": 36012,
+    "delta_text": "36,012 stars this month",
+    "forks": 6606,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 39405,
+    "delta_stars": 4698,
+    "delta_text": "4,698 stars this month",
+    "forks": 5584,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 100408,
+    "delta_stars": 19987,
+    "delta_text": "19,987 stars this month",
+    "forks": 16912,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 48457,
+    "delta_stars": 25187,
+    "delta_text": "25,187 stars this month",
+    "forks": 6005,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 277278,
+    "delta_stars": 22438,
+    "delta_text": "22,438 stars this month",
+    "forks": 41356,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 29136,
+    "delta_stars": 5173,
+    "delta_text": "5,173 stars this month",
+    "forks": 3305,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "total_stars": 150244,
+    "delta_stars": 6290,
+    "delta_text": "6,290 stars this month",
+    "forks": 26259,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 33248,
+    "delta_stars": 11116,
+    "delta_text": "11,116 stars this month",
+    "forks": 4424,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 61027,
+    "delta_stars": 11993,
+    "delta_text": "11,993 stars this month",
+    "forks": 5455,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "total_stars": 8695,
+    "delta_stars": 7118,
+    "delta_text": "7,118 stars this month",
+    "forks": 1061,
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "name": "agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "language": "Go",
+    "total_stars": 4873,
+    "delta_stars": 3014,
+    "delta_text": "3,014 stars this month",
+    "forks": 550,
+    "url": "https://github.com/agent-substrate/substrate"
+  },
+  {
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "total_stars": 15856,
+    "delta_stars": 7318,
+    "delta_text": "7,318 stars this month",
+    "forks": 1766,
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "language": "C",
+    "total_stars": 41269,
+    "delta_stars": 13726,
+    "delta_text": "13,726 stars this month",
+    "forks": 4546,
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "Rust",
+    "total_stars": 29399,
+    "delta_stars": 6994,
+    "delta_text": "6,994 stars this month",
+    "forks": 2088,
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 105071,
+    "delta_stars": 11891,
+    "delta_text": "11,891 stars this month",
+    "forks": 10973,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "tashfeenahmed/freellmapi",
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "language": "TypeScript",
+    "total_stars": 33364,
+    "delta_stars": 7925,
+    "delta_text": "7,925 stars this month",
+    "forks": 4607,
+    "url": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 26701,
+    "delta_stars": 4584,
+    "delta_text": "4,584 stars this month",
+    "forks": 1918,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 10910,
+    "delta_stars": 3610,
+    "delta_text": "3,610 stars this month",
+    "forks": 1053,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 51794,
+    "delta_stars": 25143,
+    "delta_text": "25,143 stars this month",
+    "forks": 10395,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "total_stars": 83524,
+    "delta_stars": 8451,
+    "delta_text": "8,451 stars this month",
+    "forks": 9297,
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "total_stars": 96060,
+    "delta_stars": 16862,
+    "delta_text": "16,862 stars this month",
+    "forks": 8413,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  }
+]
