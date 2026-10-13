@@ -1,0 +1,112 @@
+[
+  {
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "total_stars": 33079,
+    "delta_stars": 27263,
+    "delta_text": "27,263 stars this week",
+    "forks": 2864,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "name": "tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.",
+    "language": "TypeScript",
+    "total_stars": 9641,
+    "delta_stars": 5582,
+    "delta_text": "5,582 stars this week",
+    "forks": 459,
+    "url": "https://github.com/tester-army/e2e"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 288150,
+    "delta_stars": 11139,
+    "delta_text": "11,139 stars this week",
+    "forks": 24193,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 61912,
+    "delta_stars": 4482,
+    "delta_text": "4,482 stars this week",
+    "forks": 5544,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "total_stars": 100136,
+    "delta_stars": 3762,
+    "delta_text": "3,762 stars this week",
+    "forks": 8783,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "total_stars": 179991,
+    "delta_stars": 806,
+    "delta_text": "806 stars this week",
+    "forks": 33843,
+    "url": "https://github.com/flutter/flutter"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 11091,
+    "delta_stars": 1144,
+    "delta_text": "1,144 stars this week",
+    "forks": 1079,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "language": "Python",
+    "total_stars": 19693,
+    "delta_stars": 2441,
+    "delta_text": "2,441 stars this week",
+    "forks": 1938,
+    "url": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "name": "mvschwarz/openrig",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "language": "TypeScript",
+    "total_stars": 7280,
+    "delta_stars": 2056,
+    "delta_text": "2,056 stars this week",
+    "forks": 551,
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "total_stars": 165197,
+    "delta_stars": 130471,
+    "delta_text": "130,471 stars this week",
+    "forks": 39018,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "name": "DuarteSantos8/openGym",
+    "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "language": "JavaScript",
+    "total_stars": 10589,
+    "delta_stars": 6621,
+    "delta_text": "6,621 stars this week",
+    "forks": 1286,
+    "url": "https://github.com/DuarteSantos8/openGym"
+  }
+]

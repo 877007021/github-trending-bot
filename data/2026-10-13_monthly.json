@@ -1,0 +1,222 @@
+[
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 46607,
+    "delta_stars": 24317,
+    "delta_text": "24,317 stars this month",
+    "forks": 3386,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 60622,
+    "delta_stars": 37110,
+    "delta_text": "37,110 stars this month",
+    "forks": 6799,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "total_stars": 101036,
+    "delta_stars": 20601,
+    "delta_text": "20,601 stars this month",
+    "forks": 16980,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "total_stars": 39573,
+    "delta_stars": 4838,
+    "delta_text": "4,838 stars this month",
+    "forks": 5590,
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "total_stars": 48896,
+    "delta_stars": 25557,
+    "delta_text": "25,557 stars this month",
+    "forks": 6013,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "total_stars": 277987,
+    "delta_stars": 22583,
+    "delta_text": "22,583 stars this month",
+    "forks": 41440,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 29370,
+    "delta_stars": 5365,
+    "delta_text": "5,365 stars this month",
+    "forks": 3330,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "total_stars": 150465,
+    "delta_stars": 6422,
+    "delta_text": "6,422 stars this month",
+    "forks": 26313,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "total_stars": 33574,
+    "delta_stars": 11159,
+    "delta_text": "11,159 stars this month",
+    "forks": 4473,
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "total_stars": 8946,
+    "delta_stars": 7333,
+    "delta_text": "7,333 stars this month",
+    "forks": 1098,
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 61912,
+    "delta_stars": 12662,
+    "delta_text": "12,662 stars this month",
+    "forks": 5544,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "language": "Go",
+    "total_stars": 4976,
+    "delta_stars": 3104,
+    "delta_text": "3,104 stars this month",
+    "forks": 557,
+    "url": "https://github.com/agent-substrate/substrate"
+  },
+  {
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "total_stars": 15997,
+    "delta_stars": 7457,
+    "delta_text": "7,457 stars this month",
+    "forks": 1773,
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "language": "C",
+    "total_stars": 41553,
+    "delta_stars": 13470,
+    "delta_text": "13,470 stars this month",
+    "forks": 4584,
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "name": "tashfeenahmed/freellmapi",
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "language": "TypeScript",
+    "total_stars": 34171,
+    "delta_stars": 8213,
+    "delta_text": "8,213 stars this month",
+    "forks": 4678,
+    "url": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 105715,
+    "delta_stars": 12396,
+    "delta_text": "12,396 stars this month",
+    "forks": 11024,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "Rust",
+    "total_stars": 29529,
+    "delta_stars": 7084,
+    "delta_text": "7,084 stars this month",
+    "forks": 2104,
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 27405,
+    "delta_stars": 4706,
+    "delta_text": "4,706 stars this month",
+    "forks": 1952,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 11092,
+    "delta_stars": 3707,
+    "delta_text": "3,707 stars this month",
+    "forks": 1079,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "total_stars": 85375,
+    "delta_stars": 9722,
+    "delta_text": "9,722 stars this month",
+    "forks": 9474,
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 53880,
+    "delta_stars": 24627,
+    "delta_text": "24,627 stars this month",
+    "forks": 10630,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "total_stars": 68168,
+    "delta_stars": 13880,
+    "delta_text": "13,880 stars this month",
+    "forks": 11937,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  }
+]

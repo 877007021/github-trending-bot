@@ -1,0 +1,92 @@
+[
+  {
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "total_stars": 165180,
+    "delta_stars": 45327,
+    "delta_text": "45,327 stars today",
+    "forks": 39014,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "total_stars": 53879,
+    "delta_stars": 1895,
+    "delta_text": "1,895 stars today",
+    "forks": 10630,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 27405,
+    "delta_stars": 246,
+    "delta_text": "246 stars today",
+    "forks": 1952,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "total_stars": 22502,
+    "delta_stars": 4095,
+    "delta_text": "4,095 stars today",
+    "forks": 3619,
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "name": "open-webui/open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "language": "Python",
+    "total_stars": 155154,
+    "delta_stars": 157,
+    "delta_text": "157 stars today",
+    "forks": 22653,
+    "url": "https://github.com/open-webui/open-webui"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 52836,
+    "delta_stars": 2081,
+    "delta_text": "2,081 stars today",
+    "forks": 3341,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "total_stars": 37633,
+    "delta_stars": 879,
+    "delta_text": "879 stars today",
+    "forks": 3879,
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "C++",
+    "total_stars": 40953,
+    "delta_stars": 97,
+    "delta_text": "97 stars today",
+    "forks": 3815,
+    "url": "https://github.com/microsoft/BitNet"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "language": "Python",
+    "total_stars": 59290,
+    "delta_stars": 626,
+    "delta_text": "626 stars today",
+    "forks": 9336,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  }
+]
