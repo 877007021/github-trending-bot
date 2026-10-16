@@ -1,0 +1,177 @@
+[
+  {
+    "username": "richiemcilroy",
+    "display_name": "Richie McIlroy",
+    "popular_repo": "Tov",
+    "url": "https://github.com/richiemcilroy",
+    "repo_url": "https://github.com/richiemcilroy/Tov"
+  },
+  {
+    "username": "100yenadmin",
+    "display_name": "EVA",
+    "popular_repo": "fish-audio-hermes",
+    "url": "https://github.com/100yenadmin",
+    "repo_url": "https://github.com/100yenadmin/fish-audio-hermes"
+  },
+  {
+    "username": "teng-lin",
+    "display_name": "Teng Lin",
+    "popular_repo": "notebooklm-py",
+    "url": "https://github.com/teng-lin",
+    "repo_url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "username": "MakazhanAlpamys",
+    "display_name": "Alpamys Makazhan",
+    "popular_repo": "Soup",
+    "url": "https://github.com/MakazhanAlpamys",
+    "repo_url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "username": "unxed",
+    "display_name": "unxed",
+    "popular_repo": "dn",
+    "url": "https://github.com/unxed",
+    "repo_url": "https://github.com/unxed/dn"
+  },
+  {
+    "username": "frankbria",
+    "display_name": "Frank Bria",
+    "popular_repo": "ralph-claude-code",
+    "url": "https://github.com/frankbria",
+    "repo_url": "https://github.com/frankbria/ralph-claude-code"
+  },
+  {
+    "username": "poteto",
+    "display_name": "lauren",
+    "popular_repo": "hiring-without-whiteboards",
+    "url": "https://github.com/poteto",
+    "repo_url": "https://github.com/poteto/hiring-without-whiteboards"
+  },
+  {
+    "username": "N0zoM1z0",
+    "display_name": "Ysopwnable",
+    "popular_repo": "dx-ball",
+    "url": "https://github.com/N0zoM1z0",
+    "repo_url": "https://github.com/N0zoM1z0/dx-ball"
+  },
+  {
+    "username": "penso",
+    "display_name": "Fabien Penso",
+    "popular_repo": "herdr-gpui",
+    "url": "https://github.com/penso",
+    "repo_url": "https://github.com/penso/herdr-gpui"
+  },
+  {
+    "username": "zhaochenyang20",
+    "display_name": "赵晨阳",
+    "popular_repo": "Awesome-ML-SYS-Tutorial",
+    "url": "https://github.com/zhaochenyang20",
+    "repo_url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial"
+  },
+  {
+    "username": "gmegidish",
+    "display_name": "Gil Megidish",
+    "popular_repo": "alleycat-disassembly",
+    "url": "https://github.com/gmegidish",
+    "repo_url": "https://github.com/gmegidish/alleycat-disassembly"
+  },
+  {
+    "username": "mpfaffenberger",
+    "display_name": "Mike Pfaffenberger",
+    "popular_repo": "code_puppy",
+    "url": "https://github.com/mpfaffenberger",
+    "repo_url": "https://github.com/mpfaffenberger/code_puppy"
+  },
+  {
+    "username": "agalwood",
+    "display_name": "Dr_rOot",
+    "popular_repo": "Motrix",
+    "url": "https://github.com/agalwood",
+    "repo_url": "https://github.com/agalwood/Motrix"
+  },
+  {
+    "username": "noonghunna",
+    "display_name": "noonghunna",
+    "popular_repo": "club-3090",
+    "url": "https://github.com/noonghunna",
+    "repo_url": "https://github.com/noonghunna/club-3090"
+  },
+  {
+    "username": "esengine",
+    "display_name": "YHH",
+    "popular_repo": "DeepSeek-Reasonix",
+    "url": "https://github.com/esengine",
+    "repo_url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "username": "jjyaoao",
+    "display_name": "Sizhou Chen",
+    "popular_repo": "HelloAgents",
+    "url": "https://github.com/jjyaoao",
+    "repo_url": "https://github.com/jjyaoao/HelloAgents"
+  },
+  {
+    "username": "ImChong",
+    "display_name": "Chong Liu",
+    "popular_repo": "Robotics_Notebooks",
+    "url": "https://github.com/ImChong",
+    "repo_url": "https://github.com/ImChong/Robotics_Notebooks"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "hiyouga",
+    "display_name": "Yaowei Zheng",
+    "popular_repo": "LlamaFactory",
+    "url": "https://github.com/hiyouga",
+    "repo_url": "https://github.com/hiyouga/LlamaFactory"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "TimeToBuildBob",
+    "display_name": "Bob",
+    "popular_repo": "",
+    "url": "https://github.com/TimeToBuildBob",
+    "repo_url": ""
+  },
+  {
+    "username": "yetone",
+    "display_name": "yetone",
+    "popular_repo": "magpie",
+    "url": "https://github.com/yetone",
+    "repo_url": "https://github.com/yetone/magpie"
+  },
+  {
+    "username": "nwparker",
+    "display_name": "Neil",
+    "popular_repo": "orca",
+    "url": "https://github.com/nwparker",
+    "repo_url": "https://github.com/nwparker/orca"
+  },
+  {
+    "username": "timoncool",
+    "display_name": "Ilya (Nerual Dreming) Timonin",
+    "popular_repo": "YuE2-Studio",
+    "url": "https://github.com/timoncool",
+    "repo_url": "https://github.com/timoncool/YuE2-Studio"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "total_stars": 270439,
+    "delta_stars": 239477,
+    "delta_text": "239,477 stars this week",
+    "forks": 67865,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "total_stars": 38690,
+    "delta_stars": 25174,
+    "delta_text": "25,174 stars this week",
+    "forks": 3442,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 292859,
+    "delta_stars": 12147,
+    "delta_text": "12,147 stars this week",
+    "forks": 24550,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 64569,
+    "delta_stars": 5318,
+    "delta_text": "5,318 stars this week",
+    "forks": 5801,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 55922,
+    "delta_stars": 10237,
+    "delta_text": "10,237 stars this week",
+    "forks": 3534,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "total_stars": 88763,
+    "delta_stars": 6614,
+    "delta_text": "6,614 stars this week",
+    "forks": 9903,
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "name": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+    "language": "TypeScript",
+    "total_stars": 1381,
+    "delta_stars": 659,
+    "delta_text": "659 stars this week",
+    "forks": 116,
+    "url": "https://github.com/ranxianglei/billion-context"
+  },
+  {
+    "name": "earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "language": "Python",
+    "total_stars": 20713,
+    "delta_stars": 2244,
+    "delta_text": "2,244 stars this week",
+    "forks": 2050,
+    "url": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "name": "twostraws/SwiftUI-Agent-Skill",
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "language": "",
+    "total_stars": 6096,
+    "delta_stars": 900,
+    "delta_text": "900 stars this week",
+    "forks": 221,
+    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+  },
+  {
+    "name": "DuarteSantos8/openGym",
+    "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "language": "JavaScript",
+    "total_stars": 12353,
+    "delta_stars": 4471,
+    "delta_text": "4,471 stars this week",
+    "forks": 1514,
+    "url": "https://github.com/DuarteSantos8/openGym"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 11643,
+    "delta_stars": 1214,
+    "delta_text": "1,214 stars this week",
+    "forks": 1136,
+    "url": "https://github.com/cursor/plugins"
+  }
+]
