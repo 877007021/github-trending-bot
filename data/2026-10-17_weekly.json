@@ -1,0 +1,112 @@
+[
+  {
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "total_stars": 291357,
+    "delta_stars": 248962,
+    "delta_text": "248,962 stars this week",
+    "forks": 73327,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "total_stars": 30642,
+    "delta_stars": 20267,
+    "delta_text": "20,267 stars this week",
+    "forks": 4866,
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "total_stars": 39937,
+    "delta_stars": 20518,
+    "delta_text": "20,518 stars this week",
+    "forks": 3572,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 56450,
+    "delta_stars": 9024,
+    "delta_text": "9,024 stars this week",
+    "forks": 3579,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 65326,
+    "delta_stars": 5601,
+    "delta_text": "5,601 stars this week",
+    "forks": 5884,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 294104,
+    "delta_stars": 11937,
+    "delta_text": "11,937 stars this week",
+    "forks": 24655,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "total_stars": 89641,
+    "delta_stars": 7510,
+    "delta_text": "7,510 stars this week",
+    "forks": 10020,
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 30239,
+    "delta_stars": 4207,
+    "delta_text": "4,207 stars this week",
+    "forks": 2127,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+    "language": "TypeScript",
+    "total_stars": 1547,
+    "delta_stars": 779,
+    "delta_text": "779 stars this week",
+    "forks": 122,
+    "url": "https://github.com/ranxianglei/billion-context"
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "total_stars": 40582,
+    "delta_stars": 2328,
+    "delta_text": "2,328 stars this week",
+    "forks": 4401,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "name": "earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "language": "Python",
+    "total_stars": 20991,
+    "delta_stars": 2286,
+    "delta_text": "2,286 stars this week",
+    "forks": 2073,
+    "url": "https://github.com/earthtojake/text-to-cad"
+  }
+]
