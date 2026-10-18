@@ -1,0 +1,102 @@
+[
+  {
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "total_stars": 307776,
+    "delta_stars": 239923,
+    "delta_text": "239,923 stars this week",
+    "forks": 77871,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "total_stars": 31780,
+    "delta_stars": 18479,
+    "delta_text": "18,479 stars this week",
+    "forks": 5033,
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "total_stars": 41749,
+    "delta_stars": 16250,
+    "delta_text": "16,250 stars this week",
+    "forks": 3762,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 57019,
+    "delta_stars": 8382,
+    "delta_text": "8,382 stars this week",
+    "forks": 3626,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "total_stars": 41759,
+    "delta_stars": 3581,
+    "delta_text": "3,581 stars this week",
+    "forks": 4464,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 66004,
+    "delta_stars": 5639,
+    "delta_text": "5,639 stars this week",
+    "forks": 5958,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 30519,
+    "delta_stars": 4438,
+    "delta_text": "4,438 stars this week",
+    "forks": 2212,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "total_stars": 90268,
+    "delta_stars": 7608,
+    "delta_text": "7,608 stars this week",
+    "forks": 10104,
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 295109,
+    "delta_stars": 11272,
+    "delta_text": "11,272 stars this week",
+    "forks": 24755,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+    "language": "TypeScript",
+    "total_stars": 1719,
+    "delta_stars": 888,
+    "delta_text": "888 stars this week",
+    "forks": 137,
+    "url": "https://github.com/ranxianglei/billion-context"
+  }
+]
