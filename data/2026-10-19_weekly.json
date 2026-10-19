@@ -1,0 +1,102 @@
+[
+  {
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "total_stars": 322379,
+    "delta_stars": 229268,
+    "delta_text": "229,268 stars this week",
+    "forks": 81682,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "total_stars": 32741,
+    "delta_stars": 16379,
+    "delta_text": "16,379 stars this week",
+    "forks": 5188,
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "total_stars": 43222,
+    "delta_stars": 14224,
+    "delta_text": "14,224 stars this week",
+    "forks": 3922,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "total_stars": 42696,
+    "delta_stars": 4774,
+    "delta_text": "4,774 stars this week",
+    "forks": 4534,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 30759,
+    "delta_stars": 4138,
+    "delta_text": "4,138 stars this week",
+    "forks": 2277,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 57697,
+    "delta_stars": 7901,
+    "delta_text": "7,901 stars this week",
+    "forks": 3693,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "total_stars": 90911,
+    "delta_stars": 7602,
+    "delta_text": "7,602 stars this week",
+    "forks": 10180,
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 66743,
+    "delta_stars": 5883,
+    "delta_text": "5,883 stars this week",
+    "forks": 6054,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 12747,
+    "delta_stars": 1717,
+    "delta_text": "1,717 stars this week",
+    "forks": 1255,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "total_stars": 53203,
+    "delta_stars": 5742,
+    "delta_text": "5,742 stars this week",
+    "forks": 17381,
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  }
+]
