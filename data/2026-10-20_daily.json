@@ -1,0 +1,122 @@
+[
+  {
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "total_stars": 57387,
+    "delta_stars": 3856,
+    "delta_text": "3,856 stars today",
+    "forks": 18217,
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "total_stars": 217855,
+    "delta_stars": 1311,
+    "delta_text": "1,311 stars today",
+    "forks": 29114,
+    "url": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 11378,
+    "delta_stars": 666,
+    "delta_text": "666 stars today",
+    "forks": 810,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "language": "Python",
+    "total_stars": 139761,
+    "delta_stars": 1011,
+    "delta_text": "1,011 stars today",
+    "forks": 16585,
+    "url": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "language": "TypeScript",
+    "total_stars": 77212,
+    "delta_stars": 564,
+    "delta_text": "564 stars today",
+    "forks": 9105,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "total_stars": 98329,
+    "delta_stars": 1590,
+    "delta_text": "1,590 stars today",
+    "forks": 6271,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "name": "headroomlabs-ai/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "total_stars": 76267,
+    "delta_stars": 310,
+    "delta_text": "310 stars today",
+    "forks": 5923,
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "name": "withmarbleapp/os-taxonomy",
+    "description": "",
+    "language": "JavaScript",
+    "total_stars": 6151,
+    "delta_stars": 284,
+    "delta_text": "284 stars today",
+    "forks": 1004,
+    "url": "https://github.com/withmarbleapp/os-taxonomy"
+  },
+  {
+    "name": "Kruk2/jasna",
+    "description": "Video restoration tool",
+    "language": "Python",
+    "total_stars": 2912,
+    "delta_stars": 498,
+    "delta_text": "498 stars today",
+    "forks": 211,
+    "url": "https://github.com/Kruk2/jasna"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 55261,
+    "delta_stars": 606,
+    "delta_text": "606 stars today",
+    "forks": 4986,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "total_stars": 152671,
+    "delta_stars": 167,
+    "delta_text": "167 stars today",
+    "forks": 27143,
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "total_stars": 41695,
+    "delta_stars": 363,
+    "delta_text": "363 stars today",
+    "forks": 6929,
+    "url": "https://github.com/shiyu-coder/Kronos"
+  }
+]

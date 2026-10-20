@@ -1,0 +1,177 @@
+[
+  {
+    "username": "mvschwarz",
+    "display_name": "Mike Schwarz",
+    "popular_repo": "openrig",
+    "url": "https://github.com/mvschwarz",
+    "repo_url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "username": "koala73",
+    "display_name": "Elie Habib",
+    "popular_repo": "worldmonitor",
+    "url": "https://github.com/koala73",
+    "repo_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "username": "jonathanong",
+    "display_name": "jongleberry",
+    "popular_repo": "",
+    "url": "https://github.com/jonathanong",
+    "repo_url": ""
+  },
+  {
+    "username": "narumiruna",
+    "display_name": "なるみ",
+    "popular_repo": "pi-extensions",
+    "url": "https://github.com/narumiruna",
+    "repo_url": "https://github.com/narumiruna/pi-extensions"
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "DeusData",
+    "display_name": "Martin Vogel",
+    "popular_repo": "codebase-memory-mcp",
+    "url": "https://github.com/DeusData",
+    "repo_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "username": "melgarafael",
+    "display_name": "Rafael Melgaço",
+    "popular_repo": "DeskcommCRM",
+    "url": "https://github.com/melgarafael",
+    "repo_url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "username": "raullenchai",
+    "display_name": "Raullen Chai",
+    "popular_repo": "esp32-thinks",
+    "url": "https://github.com/raullenchai",
+    "repo_url": "https://github.com/raullenchai/esp32-thinks"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "rakazo",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/rakazo"
+  },
+  {
+    "username": "hrydgard",
+    "display_name": "Henrik Rydgård",
+    "popular_repo": "ppsspp",
+    "url": "https://github.com/hrydgard",
+    "repo_url": "https://github.com/hrydgard/ppsspp"
+  },
+  {
+    "username": "timoncool",
+    "display_name": "Ilya (Nerual Dreming) Timonin",
+    "popular_repo": "YuE2-Studio",
+    "url": "https://github.com/timoncool",
+    "repo_url": "https://github.com/timoncool/YuE2-Studio"
+  },
+  {
+    "username": "Git-on-my-level",
+    "display_name": "David Zhang",
+    "popular_repo": "self-improving-agent-ecosystem",
+    "url": "https://github.com/Git-on-my-level",
+    "repo_url": "https://github.com/Git-on-my-level/self-improving-agent-ecosystem"
+  },
+  {
+    "username": "shiaho777",
+    "display_name": "shiaho",
+    "popular_repo": "web-to-app",
+    "url": "https://github.com/shiaho777",
+    "repo_url": "https://github.com/shiaho777/web-to-app"
+  },
+  {
+    "username": "rynfar",
+    "display_name": "Trevor Walker",
+    "popular_repo": "meridian",
+    "url": "https://github.com/rynfar",
+    "repo_url": "https://github.com/rynfar/meridian"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "klauspost",
+    "display_name": "Klaus Post",
+    "popular_repo": "compress",
+    "url": "https://github.com/klauspost",
+    "repo_url": "https://github.com/klauspost/compress"
+  },
+  {
+    "username": "tt-a1i",
+    "display_name": "tt-a1i",
+    "popular_repo": "archify",
+    "url": "https://github.com/tt-a1i",
+    "repo_url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "username": "Anionex",
+    "display_name": "anionex",
+    "popular_repo": "banana-slides",
+    "url": "https://github.com/Anionex",
+    "repo_url": "https://github.com/Anionex/banana-slides"
+  },
+  {
+    "username": "mattsse",
+    "display_name": "Matthias Seitz",
+    "popular_repo": "chromiumoxide",
+    "url": "https://github.com/mattsse",
+    "repo_url": "https://github.com/mattsse/chromiumoxide"
+  },
+  {
+    "username": "teng-lin",
+    "display_name": "Teng Lin",
+    "popular_repo": "notebooklm-py",
+    "url": "https://github.com/teng-lin",
+    "repo_url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "username": "joshka",
+    "display_name": "Josh McKinney",
+    "popular_repo": "ratatui-diff",
+    "url": "https://github.com/joshka",
+    "repo_url": "https://github.com/joshka/ratatui-diff"
+  },
+  {
+    "username": "JustVugg",
+    "display_name": "Vincenzo Fornaro",
+    "popular_repo": "colibri",
+    "url": "https://github.com/JustVugg",
+    "repo_url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "username": "ctate",
+    "display_name": "Chris Tate",
+    "popular_repo": "3d-model-generator",
+    "url": "https://github.com/ctate",
+    "repo_url": "https://github.com/ctate/3d-model-generator"
+  },
+  {
+    "username": "marcusquinn",
+    "display_name": "Marcus Quinn",
+    "popular_repo": "aidevops",
+    "url": "https://github.com/marcusquinn",
+    "repo_url": "https://github.com/marcusquinn/aidevops"
+  },
+  {
+    "username": "qkaiser",
+    "display_name": "Quentin Kaiser",
+    "popular_repo": "broadcom-wps",
+    "url": "https://github.com/qkaiser",
+    "repo_url": "https://github.com/qkaiser/broadcom-wps"
+  }
+]
