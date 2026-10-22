@@ -1,0 +1,162 @@
+[
+  {
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "total_stars": 357992,
+    "delta_stars": 129417,
+    "delta_text": "129,417 stars this week",
+    "forks": 89843,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "total_stars": 43649,
+    "delta_stars": 5703,
+    "delta_text": "5,703 stars this week",
+    "forks": 4602,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "total_stars": 53586,
+    "delta_stars": 4719,
+    "delta_text": "4,719 stars this week",
+    "forks": 4729,
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "language": "TypeScript",
+    "total_stars": 78221,
+    "delta_stars": 3590,
+    "delta_text": "3,590 stars this week",
+    "forks": 9203,
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "name": "android/skills",
+    "description": "",
+    "language": "Kotlin",
+    "total_stars": 9149,
+    "delta_stars": 1332,
+    "delta_text": "1,332 stars this week",
+    "forks": 591,
+    "url": "https://github.com/android/skills"
+  },
+  {
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "total_stars": 92651,
+    "delta_stars": 5769,
+    "delta_text": "5,769 stars this week",
+    "forks": 10382,
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 80461,
+    "delta_stars": 15125,
+    "delta_text": "15,125 stars this week",
+    "forks": 8880,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "total_stars": 31661,
+    "delta_stars": 2968,
+    "delta_text": "2,968 stars this week",
+    "forks": 2181,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 69231,
+    "delta_stars": 5740,
+    "delta_text": "5,740 stars this week",
+    "forks": 6267,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 13405,
+    "delta_stars": 2049,
+    "delta_text": "2,049 stars this week",
+    "forks": 1332,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 55941,
+    "delta_stars": 3681,
+    "delta_text": "3,681 stars this week",
+    "forks": 5045,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "total_stars": 12345,
+    "delta_stars": 2833,
+    "delta_text": "2,833 stars this week",
+    "forks": 873,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "total_stars": 219697,
+    "delta_stars": 6545,
+    "delta_text": "6,545 stars this week",
+    "forks": 29331,
+    "url": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "name": "wshobson/agents",
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+    "language": "Python",
+    "total_stars": 41481,
+    "delta_stars": 785,
+    "delta_text": "785 stars this week",
+    "forks": 4405,
+    "url": "https://github.com/wshobson/agents"
+  },
+  {
+    "name": "earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "language": "Python",
+    "total_stars": 22296,
+    "delta_stars": 2000,
+    "delta_text": "2,000 stars this week",
+    "forks": 2183,
+    "url": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "name": "stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "total_stars": 101306,
+    "delta_stars": 8705,
+    "delta_text": "8,705 stars this week",
+    "forks": 6406,
+    "url": "https://github.com/stablyai/orca"
+  }
+]
