@@ -1,0 +1,82 @@
+[
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 42180,
+    "delta_stars": 2716,
+    "delta_text": "2,716 stars today",
+    "forks": 2635,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "php/php-src",
+    "description": "The PHP Interpreter",
+    "language": "C",
+    "total_stars": 41570,
+    "delta_stars": 716,
+    "delta_text": "716 stars today",
+    "forks": 8361,
+    "url": "https://github.com/php/php-src"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 32235,
+    "delta_stars": 635,
+    "delta_text": "635 stars today",
+    "forks": 3574,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "total_stars": 18816,
+    "delta_stars": 1119,
+    "delta_text": "1,119 stars today",
+    "forks": 1886,
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "name": "Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "language": "TypeScript",
+    "total_stars": 6875,
+    "delta_stars": 546,
+    "delta_text": "546 stars today",
+    "forks": 1410,
+    "url": "https://github.com/Renhuai123/ziwei-doushu"
+  },
+  {
+    "name": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "language": "Python",
+    "total_stars": 8508,
+    "delta_stars": 226,
+    "delta_text": "226 stars today",
+    "forks": 1103,
+    "url": "https://github.com/SnailSploit/Claude-Red"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "total_stars": 40271,
+    "delta_stars": 150,
+    "delta_text": "150 stars today",
+    "forks": 4579,
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "name": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "total_stars": 122877,
+    "delta_stars": 66,
+    "delta_text": "66 stars today",
+    "forks": 39832,
+    "url": "https://github.com/nodejs/node"
+  }
+]
