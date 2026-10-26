@@ -1,0 +1,112 @@
+[
+  {
+    "name": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "language": "TypeScript",
+    "total_stars": 4880,
+    "delta_stars": 675,
+    "delta_text": "675 stars today",
+    "forks": 666,
+    "url": "https://github.com/makecindy/cindy"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 33789,
+    "delta_stars": 1317,
+    "delta_text": "1,317 stars today",
+    "forks": 1767,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 86843,
+    "delta_stars": 1592,
+    "delta_text": "1,592 stars today",
+    "forks": 9613,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "Rust",
+    "total_stars": 87711,
+    "delta_stars": 1092,
+    "delta_text": "1,092 stars today",
+    "forks": 5243,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "pollen-robotics/microduck",
+    "description": "A Tiny biped duck robot 🦆",
+    "language": "Rust",
+    "total_stars": 11651,
+    "delta_stars": 647,
+    "delta_text": "647 stars today",
+    "forks": 1483,
+    "url": "https://github.com/pollen-robotics/microduck"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "total_stars": 114624,
+    "delta_stars": 381,
+    "delta_text": "381 stars today",
+    "forks": 22128,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "name": "Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "language": "TypeScript",
+    "total_stars": 7565,
+    "delta_stars": 199,
+    "delta_text": "199 stars today",
+    "forks": 1548,
+    "url": "https://github.com/Renhuai123/ziwei-doushu"
+  },
+  {
+    "name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "total_stars": 1749,
+    "delta_stars": 51,
+    "delta_text": "51 stars today",
+    "forks": 102,
+    "url": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "name": "coollabsio/coolify",
+    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+    "language": "PHP",
+    "total_stars": 64391,
+    "delta_stars": 152,
+    "delta_text": "152 stars today",
+    "forks": 5785,
+    "url": "https://github.com/coollabsio/coolify"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 46921,
+    "delta_stars": 2878,
+    "delta_text": "2,878 stars today",
+    "forks": 2908,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+    "language": "Python",
+    "total_stars": 20884,
+    "delta_stars": 197,
+    "delta_text": "197 stars today",
+    "forks": 2956,
+    "url": "https://github.com/AgriciDaniel/claude-seo"
+  }
+]
