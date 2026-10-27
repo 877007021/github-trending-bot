@@ -1,0 +1,177 @@
+[
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "gakonst",
+    "display_name": "Georgios Konstantopoulos",
+    "popular_repo": "nanocode",
+    "url": "https://github.com/gakonst",
+    "repo_url": "https://github.com/gakonst/nanocode"
+  },
+  {
+    "username": "jarrodwatts",
+    "display_name": "Jarrod Watts",
+    "popular_repo": "claude-hud",
+    "url": "https://github.com/jarrodwatts",
+    "repo_url": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "username": "evereq",
+    "display_name": "Ruslan Konviser",
+    "popular_repo": "",
+    "url": "https://github.com/evereq",
+    "repo_url": ""
+  },
+  {
+    "username": "mokevnin",
+    "display_name": "Kirill Mokevnin",
+    "popular_repo": "dev-quality-gates",
+    "url": "https://github.com/mokevnin",
+    "repo_url": "https://github.com/mokevnin/dev-quality-gates"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "zackees",
+    "display_name": "Zachary Vorhies",
+    "popular_repo": "transcribe-anything",
+    "url": "https://github.com/zackees",
+    "repo_url": "https://github.com/zackees/transcribe-anything"
+  },
+  {
+    "username": "Gathin23",
+    "display_name": "Gathin",
+    "popular_repo": "cleanyourtv",
+    "url": "https://github.com/Gathin23",
+    "repo_url": "https://github.com/Gathin23/cleanyourtv"
+  },
+  {
+    "username": "krille-chan",
+    "display_name": "Krille-chan",
+    "popular_repo": "fluffychat",
+    "url": "https://github.com/krille-chan",
+    "repo_url": "https://github.com/krille-chan/fluffychat"
+  },
+  {
+    "username": "richiemcilroy",
+    "display_name": "Richie McIlroy",
+    "popular_repo": "Tov",
+    "url": "https://github.com/richiemcilroy",
+    "repo_url": "https://github.com/richiemcilroy/Tov"
+  },
+  {
+    "username": "dashhuang",
+    "display_name": "Dash",
+    "popular_repo": "cindy",
+    "url": "https://github.com/dashhuang",
+    "repo_url": "https://github.com/dashhuang/cindy"
+  },
+  {
+    "username": "ahmadrosid",
+    "display_name": "ahmadrosid",
+    "popular_repo": "nakama",
+    "url": "https://github.com/ahmadrosid",
+    "repo_url": "https://github.com/ahmadrosid/nakama"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "lalalune",
+    "display_name": "Shaw",
+    "popular_repo": "pumpfun-source",
+    "url": "https://github.com/lalalune",
+    "repo_url": "https://github.com/lalalune/pumpfun-source"
+  },
+  {
+    "username": "tiensonqin",
+    "display_name": "Tienson Qin",
+    "popular_repo": "pi-logseq",
+    "url": "https://github.com/tiensonqin",
+    "repo_url": "https://github.com/tiensonqin/pi-logseq"
+  },
+  {
+    "username": "crynta",
+    "display_name": "Crynta",
+    "popular_repo": "terax-ai",
+    "url": "https://github.com/crynta",
+    "repo_url": "https://github.com/crynta/terax-ai"
+  },
+  {
+    "username": "DaniPopes",
+    "display_name": "DaniPopes",
+    "popular_repo": "",
+    "url": "https://github.com/DaniPopes",
+    "repo_url": ""
+  },
+  {
+    "username": "ColeMurray",
+    "display_name": "Cole Murray",
+    "popular_repo": "background-agents",
+    "url": "https://github.com/ColeMurray",
+    "repo_url": "https://github.com/ColeMurray/background-agents"
+  },
+  {
+    "username": "ayangweb",
+    "display_name": "ayangweb",
+    "popular_repo": "BongoCat",
+    "url": "https://github.com/ayangweb",
+    "repo_url": "https://github.com/ayangweb/BongoCat"
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "cixzhang",
+    "display_name": "Cindy Zhang",
+    "popular_repo": "",
+    "url": "https://github.com/cixzhang",
+    "repo_url": ""
+  },
+  {
+    "username": "esengine",
+    "display_name": "YHH",
+    "popular_repo": "DeepSeek-Reasonix",
+    "url": "https://github.com/esengine",
+    "repo_url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "username": "Soulter",
+    "display_name": "Soulter",
+    "popular_repo": "astrbot_plugin_bilibili",
+    "url": "https://github.com/Soulter",
+    "repo_url": "https://github.com/Soulter/astrbot_plugin_bilibili"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "XiangpengHao",
+    "display_name": "Xiangpeng Hao",
+    "popular_repo": "bbtree",
+    "url": "https://github.com/XiangpengHao",
+    "repo_url": "https://github.com/XiangpengHao/bbtree"
+  }
+]
