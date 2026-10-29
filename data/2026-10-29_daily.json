@@ -1,0 +1,142 @@
+[
+  {
+    "name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "total_stars": 5142,
+    "delta_stars": 1068,
+    "delta_text": "1,068 stars today",
+    "forks": 267,
+    "url": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "name": "elayadesign/ai-design-skills",
+    "description": "",
+    "language": "",
+    "total_stars": 11215,
+    "delta_stars": 2139,
+    "delta_text": "2,139 stars today",
+    "forks": 807,
+    "url": "https://github.com/elayadesign/ai-design-skills"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 307508,
+    "delta_stars": 1095,
+    "delta_text": "1,095 stars today",
+    "forks": 27351,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 48132,
+    "delta_stars": 2371,
+    "delta_text": "2,371 stars today",
+    "forks": 5968,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "language": "Rust",
+    "total_stars": 5454,
+    "delta_stars": 117,
+    "delta_text": "117 stars today",
+    "forks": 520,
+    "url": "https://github.com/macro-inc/macro"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 40811,
+    "delta_stars": 2110,
+    "delta_text": "2,110 stars today",
+    "forks": 2116,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "total_stars": 92844,
+    "delta_stars": 1472,
+    "delta_text": "1,472 stars today",
+    "forks": 5484,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "language": "TypeScript",
+    "total_stars": 8149,
+    "delta_stars": 728,
+    "delta_text": "728 stars today",
+    "forks": 954,
+    "url": "https://github.com/makecindy/cindy"
+  },
+  {
+    "name": "nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "language": "TypeScript",
+    "total_stars": 3301,
+    "delta_stars": 1054,
+    "delta_text": "1,054 stars today",
+    "forks": 317,
+    "url": "https://github.com/nightly-labs/openbot"
+  },
+  {
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "LIST OF ALL MY JAILBREAKS",
+    "language": "",
+    "total_stars": 7214,
+    "delta_stars": 1477,
+    "delta_text": "1,477 stars today",
+    "forks": 1039,
+    "url": "https://github.com/togg53192-cmd/jailbreaks"
+  },
+  {
+    "name": "hmjz100/LinkSwift",
+    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+    "language": "JavaScript",
+    "total_stars": 34933,
+    "delta_stars": 1616,
+    "delta_text": "1,616 stars today",
+    "forks": 2480,
+    "url": "https://github.com/hmjz100/LinkSwift"
+  },
+  {
+    "name": "expo/skills",
+    "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "language": "Shell",
+    "total_stars": 3611,
+    "delta_stars": 90,
+    "delta_text": "90 stars today",
+    "forks": 229,
+    "url": "https://github.com/expo/skills"
+  },
+  {
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "total_stars": 101104,
+    "delta_stars": 557,
+    "delta_text": "557 stars today",
+    "forks": 13163,
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "name": "xiaolai/the-craft-of-selfteaching",
+    "description": "One has no future if one couldn't teach themself.",
+    "language": "Jupyter Notebook",
+    "total_stars": 18549,
+    "delta_stars": 148,
+    "delta_text": "148 stars today",
+    "forks": 17891,
+    "url": "https://github.com/xiaolai/the-craft-of-selfteaching"
+  }
+]
