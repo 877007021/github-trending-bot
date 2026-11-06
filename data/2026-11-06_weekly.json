@@ -1,0 +1,162 @@
+[
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "total_stars": 113608,
+    "delta_stars": 9318,
+    "delta_text": "9,318 stars this week",
+    "forks": 9853,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 48862,
+    "delta_stars": 6994,
+    "delta_text": "6,994 stars this week",
+    "forks": 2589,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 48477,
+    "delta_stars": 16235,
+    "delta_text": "16,235 stars this week",
+    "forks": 9636,
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 187801,
+    "delta_stars": 3072,
+    "delta_text": "3,072 stars this week",
+    "forks": 22154,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 55523,
+    "delta_stars": 6229,
+    "delta_text": "6,229 stars this week",
+    "forks": 6807,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "total_stars": 11570,
+    "delta_stars": 1802,
+    "delta_text": "1,802 stars this week",
+    "forks": 440,
+    "url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "total_stars": 13571,
+    "delta_stars": 5580,
+    "delta_text": "5,580 stars this week",
+    "forks": 1880,
+    "url": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 313075,
+    "delta_stars": 5131,
+    "delta_text": "5,131 stars this week",
+    "forks": 27855,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "total_stars": 104039,
+    "delta_stars": 9303,
+    "delta_text": "9,303 stars this week",
+    "forks": 6163,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "total_stars": 40375,
+    "delta_stars": 1371,
+    "delta_text": "1,371 stars this week",
+    "forks": 2169,
+    "url": "https://github.com/hyprwm/Hyprland"
+  },
+  {
+    "name": "jakubkrehel/skills",
+    "description": "A collection of agent skills that help you build great interfaces.",
+    "language": "Markdown",
+    "total_stars": 11055,
+    "delta_stars": 1840,
+    "delta_text": "1,840 stars this week",
+    "forks": 426,
+    "url": "https://github.com/jakubkrehel/skills"
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "total_stars": 77246,
+    "delta_stars": 4132,
+    "delta_text": "4,132 stars this week",
+    "forks": 10261,
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "total_stars": 229916,
+    "delta_stars": 3713,
+    "delta_text": "3,713 stars this week",
+    "forks": 22885,
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "name": "ghostty-org/ghostty",
+    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+    "language": "Zig",
+    "total_stars": 63660,
+    "delta_stars": 726,
+    "delta_text": "726 stars this week",
+    "forks": 3831,
+    "url": "https://github.com/ghostty-org/ghostty"
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+    "language": "JavaScript",
+    "total_stars": 110741,
+    "delta_stars": 5426,
+    "delta_text": "5,426 stars this week",
+    "forks": 7438,
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "name": "The-PR-Agent/pr-agent",
+    "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+    "language": "Python",
+    "total_stars": 15115,
+    "delta_stars": 1355,
+    "delta_text": "1,355 stars this week",
+    "forks": 2114,
+    "url": "https://github.com/The-PR-Agent/pr-agent"
+  }
+]
