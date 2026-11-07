@@ -1,0 +1,177 @@
+[
+  {
+    "username": "mattsse",
+    "display_name": "Matthias Seitz",
+    "popular_repo": "chromiumoxide",
+    "url": "https://github.com/mattsse",
+    "repo_url": "https://github.com/mattsse/chromiumoxide"
+  },
+  {
+    "username": "pl4nty",
+    "display_name": "Tom Plant",
+    "popular_repo": "winget-extras",
+    "url": "https://github.com/pl4nty",
+    "repo_url": "https://github.com/pl4nty/winget-extras"
+  },
+  {
+    "username": "jeong-sik",
+    "display_name": "Jeong-Sik Yun",
+    "popular_repo": "figma-mcp",
+    "url": "https://github.com/jeong-sik",
+    "repo_url": "https://github.com/jeong-sik/figma-mcp"
+  },
+  {
+    "username": "Gaurav-Gosain",
+    "display_name": "Gaurav Gosain",
+    "popular_repo": "tuios",
+    "url": "https://github.com/Gaurav-Gosain",
+    "repo_url": "https://github.com/Gaurav-Gosain/tuios"
+  },
+  {
+    "username": "maleadt",
+    "display_name": "Tim Besard",
+    "popular_repo": "juliacon21-gpu_workshop",
+    "url": "https://github.com/maleadt",
+    "repo_url": "https://github.com/maleadt/juliacon21-gpu_workshop"
+  },
+  {
+    "username": "mattabate",
+    "display_name": "Matt Abate",
+    "popular_repo": "life-distributable",
+    "url": "https://github.com/mattabate",
+    "repo_url": "https://github.com/mattabate/life-distributable"
+  },
+  {
+    "username": "dhh",
+    "display_name": "David Heinemeier Hansson",
+    "popular_repo": "omarchy-giants-theme",
+    "url": "https://github.com/dhh",
+    "repo_url": "https://github.com/dhh/omarchy-giants-theme"
+  },
+  {
+    "username": "kunchenguid",
+    "display_name": "Kun Chen",
+    "popular_repo": "runner-up",
+    "url": "https://github.com/kunchenguid",
+    "repo_url": "https://github.com/kunchenguid/runner-up"
+  },
+  {
+    "username": "abue-ammar",
+    "display_name": "Abue Ammar",
+    "popular_repo": "tinycast",
+    "url": "https://github.com/abue-ammar",
+    "repo_url": "https://github.com/abue-ammar/tinycast"
+  },
+  {
+    "username": "rubenfiszel",
+    "display_name": "Ruben Fiszel",
+    "popular_repo": "",
+    "url": "https://github.com/rubenfiszel",
+    "repo_url": ""
+  },
+  {
+    "username": "garrytan",
+    "display_name": "Garry Tan",
+    "popular_repo": "gstack",
+    "url": "https://github.com/garrytan",
+    "repo_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "username": "kim-em",
+    "display_name": "Kim Morrison",
+    "popular_repo": "lean-zip",
+    "url": "https://github.com/kim-em",
+    "repo_url": "https://github.com/kim-em/lean-zip"
+  },
+  {
+    "username": "andrewnakas",
+    "display_name": "Andrew Nakas",
+    "popular_repo": "gtav-recomp",
+    "url": "https://github.com/andrewnakas",
+    "repo_url": "https://github.com/andrewnakas/gtav-recomp"
+  },
+  {
+    "username": "code-yeongyu",
+    "display_name": "YeonGyu-Kim",
+    "popular_repo": "oh-my-openagent",
+    "url": "https://github.com/code-yeongyu",
+    "repo_url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "username": "ranxianglei",
+    "display_name": "ranxianglei",
+    "popular_repo": "billion-context",
+    "url": "https://github.com/ranxianglei",
+    "repo_url": "https://github.com/ranxianglei/billion-context"
+  },
+  {
+    "username": "cristianoc",
+    "display_name": "Cristiano Calcagno",
+    "popular_repo": "TScert",
+    "url": "https://github.com/cristianoc",
+    "repo_url": "https://github.com/cristianoc/TScert"
+  },
+  {
+    "username": "bwplotka",
+    "display_name": "Bartlomiej Plotka",
+    "popular_repo": "benchfmt.rs",
+    "url": "https://github.com/bwplotka",
+    "repo_url": "https://github.com/bwplotka/benchfmt.rs"
+  },
+  {
+    "username": "wangzitian0",
+    "display_name": "wangzitian0",
+    "popular_repo": "",
+    "url": "https://github.com/wangzitian0",
+    "repo_url": ""
+  },
+  {
+    "username": "RobinMalfait",
+    "display_name": "Robin Malfait",
+    "popular_repo": "simple-invoice",
+    "url": "https://github.com/RobinMalfait",
+    "repo_url": "https://github.com/RobinMalfait/simple-invoice"
+  },
+  {
+    "username": "mitchellh",
+    "display_name": "Mitchell Hashimoto",
+    "popular_repo": "vouch",
+    "url": "https://github.com/mitchellh",
+    "repo_url": "https://github.com/mitchellh/vouch"
+  },
+  {
+    "username": "MilosPaunovic",
+    "display_name": "Miloš Paunović",
+    "popular_repo": "",
+    "url": "https://github.com/MilosPaunovic",
+    "repo_url": ""
+  },
+  {
+    "username": "coleam00",
+    "display_name": "Cole Medin",
+    "popular_repo": "Archon",
+    "url": "https://github.com/coleam00",
+    "repo_url": "https://github.com/coleam00/Archon"
+  },
+  {
+    "username": "doobidoo",
+    "display_name": "Henry Krupp",
+    "popular_repo": "mcp-memory-service",
+    "url": "https://github.com/doobidoo",
+    "repo_url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "username": "zzet",
+    "display_name": "Andrew Kumanyaev",
+    "popular_repo": "gortex",
+    "url": "https://github.com/zzet",
+    "repo_url": "https://github.com/zzet/gortex"
+  },
+  {
+    "username": "flanakin",
+    "display_name": "Michael Flanakin",
+    "popular_repo": "",
+    "url": "https://github.com/flanakin",
+    "repo_url": ""
+  }
+]

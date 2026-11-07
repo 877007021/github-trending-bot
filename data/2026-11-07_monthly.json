@@ -1,0 +1,132 @@
+[
+  {
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "total_stars": 438242,
+    "delta_stars": 431436,
+    "delta_text": "431,436 stars this month",
+    "forks": 108580,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "total_stars": 39277,
+    "delta_stars": 36600,
+    "delta_text": "36,600 stars this month",
+    "forks": 6193,
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "total_stars": 51818,
+    "delta_stars": 46561,
+    "delta_text": "46,561 stars this month",
+    "forks": 4931,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 49669,
+    "delta_stars": 19792,
+    "delta_text": "19,792 stars this month",
+    "forks": 2633,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 64156,
+    "delta_stars": 38004,
+    "delta_text": "38,004 stars this month",
+    "forks": 4161,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 102976,
+    "delta_stars": 49078,
+    "delta_text": "49,078 stars this month",
+    "forks": 11427,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 80150,
+    "delta_stars": 22718,
+    "delta_text": "22,718 stars this month",
+    "forks": 7394,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 49899,
+    "delta_stars": 23406,
+    "delta_text": "23,406 stars this month",
+    "forks": 9753,
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "total_stars": 114056,
+    "delta_stars": 17612,
+    "delta_text": "17,612 stars this month",
+    "forks": 9892,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "total_stars": 98402,
+    "delta_stars": 17642,
+    "delta_text": "17,642 stars this month",
+    "forks": 11139,
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "total_stars": 104865,
+    "delta_stars": 27610,
+    "delta_text": "27,610 stars this month",
+    "forks": 6232,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "language": "Python",
+    "total_stars": 55980,
+    "delta_stars": 15214,
+    "delta_text": "15,214 stars this month",
+    "forks": 6847,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "total_stars": 35012,
+    "delta_stars": 8836,
+    "delta_text": "8,836 stars this month",
+    "forks": 3854,
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  }
+]
