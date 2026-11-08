@@ -1,0 +1,152 @@
+[
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 46877,
+    "delta_stars": 190,
+    "delta_text": "190 stars today",
+    "forks": 3211,
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 65805,
+    "delta_stars": 2085,
+    "delta_text": "2,085 stars today",
+    "forks": 4274,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "total_stars": 23441,
+    "delta_stars": 443,
+    "delta_text": "443 stars today",
+    "forks": 1958,
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 317764,
+    "delta_stars": 1100,
+    "delta_text": "1,100 stars today",
+    "forks": 26583,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 188832,
+    "delta_stars": 390,
+    "delta_text": "390 stars today",
+    "forks": 22258,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 14585,
+    "delta_stars": 96,
+    "delta_text": "96 stars today",
+    "forks": 1193,
+    "url": "https://github.com/meta/astryx"
+  },
+  {
+    "name": "prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.",
+    "language": "Go",
+    "total_stars": 67452,
+    "delta_stars": 322,
+    "delta_text": "322 stars today",
+    "forks": 11005,
+    "url": "https://github.com/prometheus/prometheus"
+  },
+  {
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "total_stars": 100596,
+    "delta_stars": 1766,
+    "delta_text": "1,766 stars today",
+    "forks": 11883,
+    "url": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "total_stars": 17060,
+    "delta_stars": 1955,
+    "delta_text": "1,955 stars today",
+    "forks": 2415,
+    "url": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "name": "astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter, written in Rust.",
+    "language": "Rust",
+    "total_stars": 50987,
+    "delta_stars": 350,
+    "delta_text": "350 stars today",
+    "forks": 2633,
+    "url": "https://github.com/astral-sh/ruff"
+  },
+  {
+    "name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "TypeScript",
+    "total_stars": 98496,
+    "delta_stars": 122,
+    "delta_text": "122 stars today",
+    "forks": 7109,
+    "url": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  {
+    "name": "mbillow/localthings",
+    "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+    "language": "Python",
+    "total_stars": 1071,
+    "delta_stars": 186,
+    "delta_text": "186 stars today",
+    "forks": 112,
+    "url": "https://github.com/mbillow/localthings"
+  },
+  {
+    "name": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "total_stars": 94300,
+    "delta_stars": 1114,
+    "delta_text": "1,114 stars today",
+    "forks": 11557,
+    "url": "https://github.com/zed-industries/zed"
+  },
+  {
+    "name": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+    "language": "TypeScript",
+    "total_stars": 4642,
+    "delta_stars": 191,
+    "delta_text": "191 stars today",
+    "forks": 370,
+    "url": "https://github.com/ranxianglei/billion-context"
+  },
+  {
+    "name": "dsx-ai-factory/nvke",
+    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+    "language": "Go",
+    "total_stars": 571,
+    "delta_stars": 123,
+    "delta_text": "123 stars today",
+    "forks": 90,
+    "url": "https://github.com/dsx-ai-factory/nvke"
+  }
+]

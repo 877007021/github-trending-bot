@@ -1,0 +1,102 @@
+[
+  {
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "total_stars": 441192,
+    "delta_stars": 429845,
+    "delta_text": "429,845 stars this month",
+    "forks": 109159,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "total_stars": 50319,
+    "delta_stars": 20523,
+    "delta_text": "20,523 stars this month",
+    "forks": 2669,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "total_stars": 39574,
+    "delta_stars": 35633,
+    "delta_text": "35,633 stars this month",
+    "forks": 6220,
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 65805,
+    "delta_stars": 39571,
+    "delta_text": "39,571 stars this month",
+    "forks": 4274,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "total_stars": 52078,
+    "delta_stars": 43690,
+    "delta_text": "43,690 stars this month",
+    "forks": 4957,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "language": "Python",
+    "total_stars": 103941,
+    "delta_stars": 49671,
+    "delta_text": "49,671 stars this month",
+    "forks": 11549,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "total_stars": 80611,
+    "delta_stars": 22531,
+    "delta_text": "22,531 stars this month",
+    "forks": 7435,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 51341,
+    "delta_stars": 24785,
+    "delta_text": "24,785 stars this month",
+    "forks": 9888,
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "total_stars": 114519,
+    "delta_stars": 17493,
+    "delta_text": "17,493 stars this month",
+    "forks": 9930,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "total_stars": 105581,
+    "delta_stars": 27680,
+    "delta_text": "27,680 stars this month",
+    "forks": 6275,
+    "url": "https://github.com/pbakaus/impeccable"
+  }
+]
