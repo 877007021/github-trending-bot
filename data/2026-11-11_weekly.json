@@ -1,0 +1,142 @@
+[
+  {
+    "name": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "language": "Python",
+    "total_stars": 11487,
+    "delta_stars": 9621,
+    "delta_text": "9,621 stars this week",
+    "forks": 944,
+    "url": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+    "name": "vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 21452,
+    "delta_stars": 9502,
+    "delta_text": "9,502 stars this week",
+    "forks": 1597,
+    "url": "https://github.com/vercel-labs/agent-desktop"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 192408,
+    "delta_stars": 5014,
+    "delta_text": "5,014 stars this week",
+    "forks": 22652,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "total_stars": 20705,
+    "delta_stars": 8951,
+    "delta_text": "8,951 stars this week",
+    "forks": 2871,
+    "url": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "total_stars": 12406,
+    "delta_stars": 2093,
+    "delta_text": "2,093 stars this week",
+    "forks": 488,
+    "url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 49287,
+    "delta_stars": 3606,
+    "delta_text": "3,606 stars this week",
+    "forks": 3452,
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+    "language": "Shell",
+    "total_stars": 38099,
+    "delta_stars": 3730,
+    "delta_text": "3,730 stars this week",
+    "forks": 4971,
+    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 321010,
+    "delta_stars": 9872,
+    "delta_text": "9,872 stars this week",
+    "forks": 26913,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 69413,
+    "delta_stars": 10967,
+    "delta_text": "10,967 stars this week",
+    "forks": 4587,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "The-PR-Agent/pr-agent",
+    "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+    "language": "Python",
+    "total_stars": 15887,
+    "delta_stars": 1591,
+    "delta_text": "1,591 stars this week",
+    "forks": 2170,
+    "url": "https://github.com/The-PR-Agent/pr-agent"
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "total_stars": 115866,
+    "delta_stars": 4473,
+    "delta_text": "4,473 stars this week",
+    "forks": 10051,
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "language": "Python",
+    "total_stars": 101190,
+    "delta_stars": 7291,
+    "delta_text": "7,291 stars this week",
+    "forks": 10561,
+    "url": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "name": "anomalyco/hex",
+    "description": "Local voice dictation for mac, windows and linux",
+    "language": "Rust",
+    "total_stars": 6220,
+    "delta_stars": 1839,
+    "delta_text": "1,839 stars this week",
+    "forks": 377,
+    "url": "https://github.com/anomalyco/hex"
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 55853,
+    "delta_stars": 11979,
+    "delta_text": "11,979 stars this week",
+    "forks": 10359,
+    "url": "https://github.com/pingdotgg/t3code"
+  }
+]

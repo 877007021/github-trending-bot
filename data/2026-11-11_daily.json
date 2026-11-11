@@ -1,0 +1,122 @@
+[
+  {
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 23084,
+    "delta_stars": 3108,
+    "delta_text": "3,108 stars today",
+    "forks": 1831,
+    "url": "https://github.com/meta/astryx"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 192407,
+    "delta_stars": 1679,
+    "delta_text": "1,679 stars today",
+    "forks": 22651,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 115233,
+    "delta_stars": 465,
+    "delta_text": "465 stars today",
+    "forks": 12100,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "total_stars": 20535,
+    "delta_stars": 531,
+    "delta_text": "531 stars today",
+    "forks": 3471,
+    "url": "https://github.com/anthropics/claude-quickstarts"
+  },
+  {
+    "name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "total_stars": 17411,
+    "delta_stars": 456,
+    "delta_text": "456 stars today",
+    "forks": 2148,
+    "url": "https://github.com/google-deepmind/mujoco"
+  },
+  {
+    "name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "total_stars": 12053,
+    "delta_stars": 159,
+    "delta_text": "159 stars today",
+    "forks": 896,
+    "url": "https://github.com/we-promise/sure"
+  },
+  {
+    "name": "homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "language": "Python",
+    "total_stars": 6718,
+    "delta_stars": 790,
+    "delta_text": "790 stars today",
+    "forks": 432,
+    "url": "https://github.com/homeassistant-ai/ha-mcp"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 49286,
+    "delta_stars": 780,
+    "delta_text": "780 stars today",
+    "forks": 3452,
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "total_stars": 109100,
+    "delta_stars": 2393,
+    "delta_text": "2,393 stars today",
+    "forks": 12671,
+    "url": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "name": "tokio-rs/topcoat",
+    "description": "A batteries-included framework for building web apps",
+    "language": "Rust",
+    "total_stars": 6872,
+    "delta_stars": 192,
+    "delta_text": "192 stars today",
+    "forks": 303,
+    "url": "https://github.com/tokio-rs/topcoat"
+  },
+  {
+    "name": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+    "language": "TypeScript",
+    "total_stars": 6371,
+    "delta_stars": 375,
+    "delta_text": "375 stars today",
+    "forks": 533,
+    "url": "https://github.com/ranxianglei/billion-context"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 321010,
+    "delta_stars": 1225,
+    "delta_text": "1,225 stars today",
+    "forks": 26913,
+    "url": "https://github.com/mattpocock/skills"
+  }
+]
