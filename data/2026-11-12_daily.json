@@ -1,0 +1,102 @@
+[
+  {
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 25248,
+    "delta_stars": 2776,
+    "delta_text": "2,776 stars today",
+    "forks": 1967,
+    "url": "https://github.com/meta/astryx"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 70460,
+    "delta_stars": 278,
+    "delta_text": "278 stars today",
+    "forks": 56918,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "",
+    "language": "TypeScript",
+    "total_stars": 1887,
+    "delta_stars": 159,
+    "delta_text": "159 stars today",
+    "forks": 147,
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "name": "shadcn/improve",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "language": "",
+    "total_stars": 11030,
+    "delta_stars": 361,
+    "delta_text": "361 stars today",
+    "forks": 448,
+    "url": "https://github.com/shadcn/improve"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 116053,
+    "delta_stars": 787,
+    "delta_text": "787 stars today",
+    "forks": 12170,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 49964,
+    "delta_stars": 708,
+    "delta_text": "708 stars today",
+    "forks": 3492,
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "total_stars": 13072,
+    "delta_stars": 1078,
+    "delta_text": "1,078 stars today",
+    "forks": 962,
+    "url": "https://github.com/we-promise/sure"
+  },
+  {
+    "name": "homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "language": "Python",
+    "total_stars": 7450,
+    "delta_stars": 645,
+    "delta_text": "645 stars today",
+    "forks": 455,
+    "url": "https://github.com/homeassistant-ai/ha-mcp"
+  },
+  {
+    "name": "openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "language": "TypeScript",
+    "total_stars": 11839,
+    "delta_stars": 52,
+    "delta_text": "52 stars today",
+    "forks": 945,
+    "url": "https://github.com/openai/codex-security"
+  },
+  {
+    "name": "TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "total_stars": 67088,
+    "delta_stars": 51,
+    "delta_text": "51 stars today",
+    "forks": 21514,
+    "url": "https://github.com/TheAlgorithms/Java"
+  }
+]
