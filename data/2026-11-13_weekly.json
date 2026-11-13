@@ -1,0 +1,112 @@
+[
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 193741,
+    "delta_stars": 6055,
+    "delta_text": "6,055 stars this week",
+    "forks": 22797,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "total_stars": 21776,
+    "delta_stars": 9104,
+    "delta_text": "9,104 stars this week",
+    "forks": 3030,
+    "url": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 50369,
+    "delta_stars": 4601,
+    "delta_text": "4,601 stars this week",
+    "forks": 3506,
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "name": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "language": "Python",
+    "total_stars": 12285,
+    "delta_stars": 5802,
+    "delta_text": "5,802 stars this week",
+    "forks": 1014,
+    "url": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 71282,
+    "delta_stars": 10700,
+    "delta_text": "10,700 stars this week",
+    "forks": 4741,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 22801,
+    "delta_stars": 6414,
+    "delta_text": "6,414 stars this week",
+    "forks": 1688,
+    "url": "https://github.com/vercel-labs/agent-desktop"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 323094,
+    "delta_stars": 8731,
+    "delta_text": "8,731 stars this week",
+    "forks": 27105,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "total_stars": 94864,
+    "delta_stars": 2339,
+    "delta_text": "2,339 stars this week",
+    "forks": 11671,
+    "url": "https://github.com/zed-industries/zed"
+  },
+  {
+    "name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "total_stars": 17780,
+    "delta_stars": 1671,
+    "delta_text": "1,671 stars this week",
+    "forks": 2180,
+    "url": "https://github.com/google-deepmind/mujoco"
+  },
+  {
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "total_stars": 24084,
+    "delta_stars": 1933,
+    "delta_text": "1,933 stars this week",
+    "forks": 2005,
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "language": "Python",
+    "total_stars": 102208,
+    "delta_stars": 4743,
+    "delta_text": "4,743 stars this week",
+    "forks": 10639,
+    "url": "https://github.com/D4Vinci/Scrapling"
+  }
+]

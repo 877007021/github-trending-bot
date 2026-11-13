@@ -1,0 +1,177 @@
+[
+  {
+    "username": "lidge-jun",
+    "display_name": "JUN",
+    "popular_repo": "opencodex",
+    "url": "https://github.com/lidge-jun",
+    "repo_url": "https://github.com/lidge-jun/opencodex"
+  },
+  {
+    "username": "deepcoldy",
+    "display_name": "DeepCold",
+    "popular_repo": "botmux",
+    "url": "https://github.com/deepcoldy",
+    "repo_url": "https://github.com/deepcoldy/botmux"
+  },
+  {
+    "username": "dhh",
+    "display_name": "David Heinemeier Hansson",
+    "popular_repo": "PKGBUILDs",
+    "url": "https://github.com/dhh",
+    "repo_url": "https://github.com/dhh/PKGBUILDs"
+  },
+  {
+    "username": "karanb192",
+    "display_name": "Karan Bansal",
+    "popular_repo": "awesome-claude-code-mods",
+    "url": "https://github.com/karanb192",
+    "repo_url": "https://github.com/karanb192/awesome-claude-code-mods"
+  },
+  {
+    "username": "runkids",
+    "display_name": "Willie",
+    "popular_repo": "skillshare",
+    "url": "https://github.com/runkids",
+    "repo_url": "https://github.com/runkids/skillshare"
+  },
+  {
+    "username": "hiyouga",
+    "display_name": "Yaowei Zheng",
+    "popular_repo": "LlamaFactory",
+    "url": "https://github.com/hiyouga",
+    "repo_url": "https://github.com/hiyouga/LlamaFactory"
+  },
+  {
+    "username": "paulirish",
+    "display_name": "Paul Irish",
+    "popular_repo": "chrome-capture",
+    "url": "https://github.com/paulirish",
+    "repo_url": "https://github.com/paulirish/chrome-capture"
+  },
+  {
+    "username": "ZhuLinsen",
+    "display_name": "zhulinsen",
+    "popular_repo": "daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen",
+    "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "username": "ruvnet",
+    "display_name": "rUv",
+    "popular_repo": "RuView",
+    "url": "https://github.com/ruvnet",
+    "repo_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "username": "morluto",
+    "display_name": "morluto",
+    "popular_repo": "rea",
+    "url": "https://github.com/morluto",
+    "repo_url": "https://github.com/morluto/rea"
+  },
+  {
+    "username": "dashhuang",
+    "display_name": "Dash",
+    "popular_repo": "openclaw-chat-history-import",
+    "url": "https://github.com/dashhuang",
+    "repo_url": "https://github.com/dashhuang/openclaw-chat-history-import"
+  },
+  {
+    "username": "zhukunpenglinyutong",
+    "display_name": "朱昆鹏",
+    "popular_repo": "jetbrains-cc-gui",
+    "url": "https://github.com/zhukunpenglinyutong",
+    "repo_url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
+  },
+  {
+    "username": "gmkurtzer",
+    "display_name": "Gregory M. Kurtzer",
+    "popular_repo": "ginux",
+    "url": "https://github.com/gmkurtzer",
+    "repo_url": "https://github.com/gmkurtzer/ginux"
+  },
+  {
+    "username": "hrydgard",
+    "display_name": "Henrik Rydgård",
+    "popular_repo": "ppsspp",
+    "url": "https://github.com/hrydgard",
+    "repo_url": "https://github.com/hrydgard/ppsspp"
+  },
+  {
+    "username": "derekross",
+    "display_name": "Derek Ross",
+    "popular_repo": "omarchy-mobile",
+    "url": "https://github.com/derekross",
+    "repo_url": "https://github.com/derekross/omarchy-mobile"
+  },
+  {
+    "username": "aandrew-me",
+    "display_name": "Andrew",
+    "popular_repo": "ytDownloader",
+    "url": "https://github.com/aandrew-me",
+    "repo_url": "https://github.com/aandrew-me/ytDownloader"
+  },
+  {
+    "username": "joakimeriksson",
+    "display_name": "Joakim Eriksson",
+    "popular_repo": "fm1-emu",
+    "url": "https://github.com/joakimeriksson",
+    "repo_url": "https://github.com/joakimeriksson/fm1-emu"
+  },
+  {
+    "username": "obviyus",
+    "display_name": "Ayaan Zaidi",
+    "popular_repo": "",
+    "url": "https://github.com/obviyus",
+    "repo_url": ""
+  },
+  {
+    "username": "cliffhall",
+    "display_name": "Cliff Hall",
+    "popular_repo": "",
+    "url": "https://github.com/cliffhall",
+    "repo_url": ""
+  },
+  {
+    "username": "tmchow",
+    "display_name": "Trevin Chow",
+    "popular_repo": "illo-skill",
+    "url": "https://github.com/tmchow",
+    "repo_url": "https://github.com/tmchow/illo-skill"
+  },
+  {
+    "username": "aashish254",
+    "display_name": "Aashish Mahato",
+    "popular_repo": "ai-image-detection",
+    "url": "https://github.com/aashish254",
+    "repo_url": "https://github.com/aashish254/ai-image-detection"
+  },
+  {
+    "username": "Cyan4973",
+    "display_name": "Yann Collet",
+    "popular_repo": "xxHash",
+    "url": "https://github.com/Cyan4973",
+    "repo_url": "https://github.com/Cyan4973/xxHash"
+  },
+  {
+    "username": "elie222",
+    "display_name": "Elie Steinbock",
+    "popular_repo": "rakazo",
+    "url": "https://github.com/elie222",
+    "repo_url": "https://github.com/elie222/rakazo"
+  },
+  {
+    "username": "vshulcz",
+    "display_name": "Vlad Shulcz",
+    "popular_repo": "deja-vu",
+    "url": "https://github.com/vshulcz",
+    "repo_url": "https://github.com/vshulcz/deja-vu"
+  },
+  {
+    "username": "SamuelSchlesinger",
+    "display_name": "Samuel Schlesinger",
+    "popular_repo": "lean.vim",
+    "url": "https://github.com/SamuelSchlesinger",
+    "repo_url": "https://github.com/SamuelSchlesinger/lean.vim"
+  }
+]

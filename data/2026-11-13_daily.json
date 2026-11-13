@@ -1,0 +1,132 @@
+[
+  {
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices",
+    "language": "TypeScript",
+    "total_stars": 3262,
+    "delta_stars": 739,
+    "delta_text": "739 stars today",
+    "forks": 208,
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "name": "openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "language": "TypeScript",
+    "total_stars": 12532,
+    "delta_stars": 643,
+    "delta_text": "643 stars today",
+    "forks": 980,
+    "url": "https://github.com/openai/codex-security"
+  },
+  {
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "language": "Shell",
+    "total_stars": 96031,
+    "delta_stars": 63,
+    "delta_text": "63 stars today",
+    "forks": 10760,
+    "url": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "name": "pookjw/HermesEnabler",
+    "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+    "language": "Objective-C",
+    "total_stars": 1584,
+    "delta_stars": 218,
+    "delta_text": "218 stars today",
+    "forks": 142,
+    "url": "https://github.com/pookjw/HermesEnabler"
+  },
+  {
+    "name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "total_stars": 14018,
+    "delta_stars": 967,
+    "delta_text": "967 stars today",
+    "forks": 1052,
+    "url": "https://github.com/we-promise/sure"
+  },
+  {
+    "name": "QwenLM/qwen-code",
+    "description": "An open-source AI coding agent that lives in your terminal.",
+    "language": "TypeScript",
+    "total_stars": 29879,
+    "delta_stars": 151,
+    "delta_text": "151 stars today",
+    "forks": 3402,
+    "url": "https://github.com/QwenLM/qwen-code"
+  },
+  {
+    "name": "ashhart/TensorFold",
+    "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+    "language": "Zig",
+    "total_stars": 1972,
+    "delta_stars": 54,
+    "delta_text": "54 stars today",
+    "forks": 394,
+    "url": "https://github.com/ashhart/TensorFold"
+  },
+  {
+    "name": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "total_stars": 123617,
+    "delta_stars": 62,
+    "delta_text": "62 stars today",
+    "forks": 38057,
+    "url": "https://github.com/nodejs/node"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 116753,
+    "delta_stars": 816,
+    "delta_text": "816 stars today",
+    "forks": 12212,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 26702,
+    "delta_stars": 1830,
+    "delta_text": "1,830 stars today",
+    "forks": 2070,
+    "url": "https://github.com/meta/astryx"
+  },
+  {
+    "name": "CopilotKit/OpenBot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "language": "TypeScript",
+    "total_stars": 11695,
+    "delta_stars": 298,
+    "delta_text": "298 stars today",
+    "forks": 1447,
+    "url": "https://github.com/CopilotKit/OpenBot"
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "language": "Python",
+    "total_stars": 69409,
+    "delta_stars": 415,
+    "delta_text": "415 stars today",
+    "forks": 10771,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "name": "ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++",
+    "language": "C++",
+    "total_stars": 134622,
+    "delta_stars": 176,
+    "delta_text": "176 stars today",
+    "forks": 25513,
+    "url": "https://github.com/ggml-org/llama.cpp"
+  }
+]
