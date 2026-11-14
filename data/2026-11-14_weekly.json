@@ -1,0 +1,152 @@
+[
+  {
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "total_stars": 111206,
+    "delta_stars": 13364,
+    "delta_text": "13,364 stars this week",
+    "forks": 12870,
+    "url": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 194171,
+    "delta_stars": 6169,
+    "delta_text": "6,169 stars this week",
+    "forks": 22835,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "total_stars": 22232,
+    "delta_stars": 7763,
+    "delta_text": "7,763 stars this week",
+    "forks": 3085,
+    "url": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 50764,
+    "delta_stars": 4360,
+    "delta_text": "4,360 stars this week",
+    "forks": 3529,
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "name": "google/elephant-goldfish-model",
+    "description": "Open-source plugin for designing and reviewing software with agents",
+    "language": "Python",
+    "total_stars": 18663,
+    "delta_stars": 5560,
+    "delta_text": "5,560 stars this week",
+    "forks": 1392,
+    "url": "https://github.com/google/elephant-goldfish-model"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 71694,
+    "delta_stars": 3778,
+    "delta_text": "3,778 stars this week",
+    "forks": 57317,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "language": "Python",
+    "total_stars": 12583,
+    "delta_stars": 4108,
+    "delta_text": "4,108 stars this week",
+    "forks": 1033,
+    "url": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+    "name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "total_stars": 17880,
+    "delta_stars": 1764,
+    "delta_text": "1,764 stars this week",
+    "forks": 2188,
+    "url": "https://github.com/google-deepmind/mujoco"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "total_stars": 323879,
+    "delta_stars": 7599,
+    "delta_text": "7,599 stars this week",
+    "forks": 27182,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 117183,
+    "delta_stars": 3502,
+    "delta_text": "3,502 stars this week",
+    "forks": 12255,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "total_stars": 71979,
+    "delta_stars": 8829,
+    "delta_text": "8,829 stars this week",
+    "forks": 4794,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "name": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "total_stars": 94972,
+    "delta_stars": 2117,
+    "delta_text": "2,117 stars this week",
+    "forks": 11696,
+    "url": "https://github.com/zed-industries/zed"
+  },
+  {
+    "name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "total_stars": 20879,
+    "delta_stars": 1731,
+    "delta_text": "1,731 stars this week",
+    "forks": 3491,
+    "url": "https://github.com/anthropics/claude-quickstarts"
+  },
+  {
+    "name": "vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 23340,
+    "delta_stars": 5408,
+    "delta_text": "5,408 stars this week",
+    "forks": 1727,
+    "url": "https://github.com/vercel-labs/agent-desktop"
+  },
+  {
+    "name": "lobehub/lobehub",
+    "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+    "language": "TypeScript",
+    "total_stars": 85414,
+    "delta_stars": 1126,
+    "delta_text": "1,126 stars this week",
+    "forks": 16299,
+    "url": "https://github.com/lobehub/lobehub"
+  }
+]
