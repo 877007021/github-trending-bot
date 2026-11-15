@@ -1,0 +1,112 @@
+[
+  {
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 28198,
+    "delta_stars": 13660,
+    "delta_text": "13,660 stars this week",
+    "forks": 2194,
+    "url": "https://github.com/meta/astryx"
+  },
+  {
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "total_stars": 111826,
+    "delta_stars": 12401,
+    "delta_text": "12,401 stars this week",
+    "forks": 12940,
+    "url": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 194657,
+    "delta_stars": 6220,
+    "delta_text": "6,220 stars this week",
+    "forks": 22903,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 51238,
+    "delta_stars": 4601,
+    "delta_text": "4,601 stars this week",
+    "forks": 3578,
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "name": "google/elephant-goldfish-model",
+    "description": "Open-source plugin for designing and reviewing software with agents",
+    "language": "Python",
+    "total_stars": 19232,
+    "delta_stars": 5539,
+    "delta_text": "5,539 stars this week",
+    "forks": 1426,
+    "url": "https://github.com/google/elephant-goldfish-model"
+  },
+  {
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "total_stars": 22806,
+    "delta_stars": 6413,
+    "delta_text": "6,413 stars this week",
+    "forks": 3173,
+    "url": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 72274,
+    "delta_stars": 4526,
+    "delta_text": "4,526 stars this week",
+    "forks": 57486,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "total_stars": 17987,
+    "delta_stars": 1859,
+    "delta_text": "1,859 stars this week",
+    "forks": 2204,
+    "url": "https://github.com/google-deepmind/mujoco"
+  },
+  {
+    "name": "backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "total_stars": 11188,
+    "delta_stars": 818,
+    "delta_text": "818 stars this week",
+    "forks": 928,
+    "url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "total_stars": 117603,
+    "delta_stars": 3670,
+    "delta_text": "3,670 stars this week",
+    "forks": 12300,
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "total_stars": 20991,
+    "delta_stars": 1794,
+    "delta_text": "1,794 stars this week",
+    "forks": 3497,
+    "url": "https://github.com/anthropics/claude-quickstarts"
+  }
+]
