@@ -1,0 +1,122 @@
+[
+  {
+    "name": "dream-num/univer",
+    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "language": "TypeScript",
+    "total_stars": 26255,
+    "delta_stars": 988,
+    "delta_text": "988 stars today",
+    "forks": 2367,
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "name": "ag-ui-protocol/ag-ui",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "language": "TypeScript",
+    "total_stars": 17970,
+    "delta_stars": 355,
+    "delta_text": "355 stars today",
+    "forks": 1823,
+    "url": "https://github.com/ag-ui-protocol/ag-ui"
+  },
+  {
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "total_stars": 9357,
+    "delta_stars": 247,
+    "delta_text": "247 stars today",
+    "forks": 1130,
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "name": "backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "total_stars": 11917,
+    "delta_stars": 866,
+    "delta_text": "866 stars today",
+    "forks": 1087,
+    "url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 57038,
+    "delta_stars": 717,
+    "delta_text": "717 stars today",
+    "forks": 4813,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 52195,
+    "delta_stars": 691,
+    "delta_text": "691 stars today",
+    "forks": 4121,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "Tencent/LoopForge",
+    "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+    "language": "Go",
+    "total_stars": 1618,
+    "delta_stars": 423,
+    "delta_text": "423 stars today",
+    "forks": 282,
+    "url": "https://github.com/Tencent/LoopForge"
+  },
+  {
+    "name": "ggml-org/ggml",
+    "description": "Tensor library for machine learning",
+    "language": "C++",
+    "total_stars": 15940,
+    "delta_stars": 43,
+    "delta_text": "43 stars today",
+    "forks": 2020,
+    "url": "https://github.com/ggml-org/ggml"
+  },
+  {
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "language": "Python",
+    "total_stars": 6531,
+    "delta_stars": 98,
+    "delta_text": "98 stars today",
+    "forks": 978,
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices",
+    "language": "TypeScript",
+    "total_stars": 7276,
+    "delta_stars": 1219,
+    "delta_text": "1,219 stars today",
+    "forks": 606,
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "name": "tradermonty/claude-trading-skills",
+    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "language": "Python",
+    "total_stars": 5629,
+    "delta_stars": 706,
+    "delta_text": "706 stars today",
+    "forks": 1177,
+    "url": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  {
+    "name": "NVIDIA/SkillEvaluator",
+    "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+    "language": "Python",
+    "total_stars": 1772,
+    "delta_stars": 122,
+    "delta_text": "122 stars today",
+    "forks": 234,
+    "url": "https://github.com/NVIDIA/SkillEvaluator"
+  }
+]
