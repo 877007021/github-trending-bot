@@ -1,0 +1,152 @@
+[
+  {
+    "name": "ag-ui-protocol/ag-ui",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "language": "TypeScript",
+    "total_stars": 19300,
+    "delta_stars": 791,
+    "delta_text": "791 stars today",
+    "forks": 1986,
+    "url": "https://github.com/ag-ui-protocol/ag-ui"
+  },
+  {
+    "name": "backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "total_stars": 12705,
+    "delta_stars": 696,
+    "delta_text": "696 stars today",
+    "forks": 1249,
+    "url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "name": "dream-num/univer",
+    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "language": "TypeScript",
+    "total_stars": 27947,
+    "delta_stars": 1828,
+    "delta_text": "1,828 stars today",
+    "forks": 2544,
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "name": "tradermonty/claude-trading-skills",
+    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "language": "Python",
+    "total_stars": 6474,
+    "delta_stars": 837,
+    "delta_text": "837 stars today",
+    "forks": 1355,
+    "url": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  {
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "language": "Python",
+    "total_stars": 7627,
+    "delta_stars": 1094,
+    "delta_text": "1,094 stars today",
+    "forks": 1180,
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "name": "getarcaneapp/arcane",
+    "description": "Modern Docker Management, Designed for Everyone",
+    "language": "Go",
+    "total_stars": 8865,
+    "delta_stars": 46,
+    "delta_text": "46 stars today",
+    "forks": 430,
+    "url": "https://github.com/getarcaneapp/arcane"
+  },
+  {
+    "name": "DeanChensj/jiangshan-map",
+    "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes",
+    "language": "JavaScript",
+    "total_stars": 7106,
+    "delta_stars": 288,
+    "delta_text": "288 stars today",
+    "forks": 837,
+    "url": "https://github.com/DeanChensj/jiangshan-map"
+  },
+  {
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "total_stars": 9804,
+    "delta_stars": 529,
+    "delta_text": "529 stars today",
+    "forks": 1254,
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 68283,
+    "delta_stars": 135,
+    "delta_text": "135 stars today",
+    "forks": 6056,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "NVIDIA/SkillEvaluator",
+    "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+    "language": "Python",
+    "total_stars": 2891,
+    "delta_stars": 873,
+    "delta_text": "873 stars today",
+    "forks": 388,
+    "url": "https://github.com/NVIDIA/SkillEvaluator"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 53098,
+    "delta_stars": 951,
+    "delta_text": "951 stars today",
+    "forks": 4325,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "google-research/paper-orchestra",
+    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+    "language": "Python",
+    "total_stars": 1726,
+    "delta_stars": 313,
+    "delta_text": "313 stars today",
+    "forks": 269,
+    "url": "https://github.com/google-research/paper-orchestra"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 57785,
+    "delta_stars": 841,
+    "delta_text": "841 stars today",
+    "forks": 4856,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "sveltejs/svelte",
+    "description": "web development for the rest of us",
+    "language": "JavaScript",
+    "total_stars": 89063,
+    "delta_stars": 115,
+    "delta_text": "115 stars today",
+    "forks": 6113,
+    "url": "https://github.com/sveltejs/svelte"
+  },
+  {
+    "name": "kajisho5/ffmpeg-skill",
+    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+    "language": "Python",
+    "total_stars": 7052,
+    "delta_stars": 367,
+    "delta_text": "367 stars today",
+    "forks": 626,
+    "url": "https://github.com/kajisho5/ffmpeg-skill"
+  }
+]
