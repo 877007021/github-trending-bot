@@ -1,0 +1,152 @@
+[
+  {
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices",
+    "language": "TypeScript",
+    "total_stars": 8886,
+    "delta_stars": 7257,
+    "delta_text": "7,257 stars this week",
+    "forks": 741,
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "name": "backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "total_stars": 13490,
+    "delta_stars": 3290,
+    "delta_text": "3,290 stars this week",
+    "forks": 1357,
+    "url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "total_stars": 30633,
+    "delta_stars": 6250,
+    "delta_text": "6,250 stars this week",
+    "forks": 2400,
+    "url": "https://github.com/meta/astryx"
+  },
+  {
+    "name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "total_stars": 16527,
+    "delta_stars": 3866,
+    "delta_text": "3,866 stars this week",
+    "forks": 1449,
+    "url": "https://github.com/we-promise/sure"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "language": "Go",
+    "total_stars": 54209,
+    "delta_stars": 4383,
+    "delta_text": "4,383 stars this week",
+    "forks": 4486,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "total_stars": 10454,
+    "delta_stars": 1567,
+    "delta_text": "1,567 stars this week",
+    "forks": 1370,
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "name": "tradermonty/claude-trading-skills",
+    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "language": "Python",
+    "total_stars": 7100,
+    "delta_stars": 3242,
+    "delta_text": "3,242 stars this week",
+    "forks": 1439,
+    "url": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "total_stars": 58244,
+    "delta_stars": 3143,
+    "delta_text": "3,143 stars this week",
+    "forks": 4878,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "total_stars": 197282,
+    "delta_stars": 4381,
+    "delta_text": "4,381 stars this week",
+    "forks": 23106,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "total_stars": 73392,
+    "delta_stars": 3566,
+    "delta_text": "3,566 stars this week",
+    "forks": 57910,
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 70157,
+    "delta_stars": 2423,
+    "delta_text": "2,423 stars this week",
+    "forks": 6252,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "ag-ui-protocol/ag-ui",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "language": "TypeScript",
+    "total_stars": 20474,
+    "delta_stars": 3221,
+    "delta_text": "3,221 stars this week",
+    "forks": 2106,
+    "url": "https://github.com/ag-ui-protocol/ag-ui"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "total_stars": 52679,
+    "delta_stars": 2987,
+    "delta_text": "2,987 stars this week",
+    "forks": 3687,
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "name": "openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "language": "TypeScript",
+    "total_stars": 14131,
+    "delta_stars": 2630,
+    "delta_text": "2,630 stars this week",
+    "forks": 1103,
+    "url": "https://github.com/openai/codex-security"
+  },
+  {
+    "name": "dream-num/univer",
+    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "language": "TypeScript",
+    "total_stars": 29919,
+    "delta_stars": 6840,
+    "delta_text": "6,840 stars this week",
+    "forks": 2707,
+    "url": "https://github.com/dream-num/univer"
+  }
+]
