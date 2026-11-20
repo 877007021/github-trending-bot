@@ -1,0 +1,177 @@
+[
+  {
+    "username": "colbymchenry",
+    "display_name": "Colby Mchenry",
+    "popular_repo": "codegraph",
+    "url": "https://github.com/colbymchenry",
+    "repo_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "username": "firsttris",
+    "display_name": "Tristan Teufel",
+    "popular_repo": "haben",
+    "url": "https://github.com/firsttris",
+    "repo_url": "https://github.com/firsttris/haben"
+  },
+  {
+    "username": "mattzcarey",
+    "display_name": "Matt",
+    "popular_repo": "everystate",
+    "url": "https://github.com/mattzcarey",
+    "repo_url": "https://github.com/mattzcarey/everystate"
+  },
+  {
+    "username": "abrignoni",
+    "display_name": "Brigs",
+    "popular_repo": "iLEAPP",
+    "url": "https://github.com/abrignoni",
+    "repo_url": "https://github.com/abrignoni/iLEAPP"
+  },
+  {
+    "username": "SaladDay",
+    "display_name": "SaladDay",
+    "popular_repo": "cc-switch-cli",
+    "url": "https://github.com/SaladDay",
+    "repo_url": "https://github.com/SaladDay/cc-switch-cli"
+  },
+  {
+    "username": "amir20",
+    "display_name": "Amir Raminfar",
+    "popular_repo": "dozzle",
+    "url": "https://github.com/amir20",
+    "repo_url": "https://github.com/amir20/dozzle"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "esengine",
+    "display_name": "YHH",
+    "popular_repo": "estella",
+    "url": "https://github.com/esengine",
+    "repo_url": "https://github.com/esengine/estella"
+  },
+  {
+    "username": "ryansolid",
+    "display_name": "Ryan Carniato",
+    "popular_repo": "",
+    "url": "https://github.com/ryansolid",
+    "repo_url": ""
+  },
+  {
+    "username": "max-sixty",
+    "display_name": "Maximilian Roos",
+    "popular_repo": "worktrunk",
+    "url": "https://github.com/max-sixty",
+    "repo_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "username": "trieloff",
+    "display_name": "Lars Trieloff",
+    "popular_repo": "",
+    "url": "https://github.com/trieloff",
+    "repo_url": ""
+  },
+  {
+    "username": "christian-byrne",
+    "display_name": "Christian Byrne",
+    "popular_repo": "audio-separation-nodes-comfyui",
+    "url": "https://github.com/christian-byrne",
+    "repo_url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui"
+  },
+  {
+    "username": "maleadt",
+    "display_name": "Tim Besard",
+    "popular_repo": "IRStructurizer.jl",
+    "url": "https://github.com/maleadt",
+    "repo_url": "https://github.com/maleadt/IRStructurizer.jl"
+  },
+  {
+    "username": "boykopovar",
+    "display_name": "boykopovar",
+    "popular_repo": "AnyPS5",
+    "url": "https://github.com/boykopovar",
+    "repo_url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "username": "ccch1mneyyy",
+    "display_name": "Chimney",
+    "popular_repo": "dsh-Go",
+    "url": "https://github.com/ccch1mneyyy",
+    "repo_url": "https://github.com/ccch1mneyyy/dsh-Go"
+  },
+  {
+    "username": "chrox",
+    "display_name": "Huang Xin",
+    "popular_repo": "",
+    "url": "https://github.com/chrox",
+    "repo_url": ""
+  },
+  {
+    "username": "tiensonqin",
+    "display_name": "Tienson Qin",
+    "popular_repo": "",
+    "url": "https://github.com/tiensonqin",
+    "repo_url": ""
+  },
+  {
+    "username": "Gaurav-Gosain",
+    "display_name": "Gaurav Gosain",
+    "popular_repo": "tuios",
+    "url": "https://github.com/Gaurav-Gosain",
+    "repo_url": "https://github.com/Gaurav-Gosain/tuios"
+  },
+  {
+    "username": "mdrxy",
+    "display_name": "Mason Daugherty",
+    "popular_repo": "great-radio-sites",
+    "url": "https://github.com/mdrxy",
+    "repo_url": "https://github.com/mdrxy/great-radio-sites"
+  },
+  {
+    "username": "kalil0321",
+    "display_name": "kalil0321",
+    "popular_repo": "reverse-api-engineer",
+    "url": "https://github.com/kalil0321",
+    "repo_url": "https://github.com/kalil0321/reverse-api-engineer"
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "MakazhanAlpamys",
+    "display_name": "Alpamys Makazhan",
+    "popular_repo": "Soup",
+    "url": "https://github.com/MakazhanAlpamys",
+    "repo_url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "username": "tobi",
+    "display_name": "Tobias Lütke",
+    "popular_repo": "qmd",
+    "url": "https://github.com/tobi",
+    "repo_url": "https://github.com/tobi/qmd"
+  },
+  {
+    "username": "cliffhall",
+    "display_name": "Cliff Hall",
+    "popular_repo": "",
+    "url": "https://github.com/cliffhall",
+    "repo_url": ""
+  },
+  {
+    "username": "DaleSeo",
+    "display_name": "Dale Seo",
+    "popular_repo": "korean-skills",
+    "url": "https://github.com/DaleSeo",
+    "repo_url": "https://github.com/DaleSeo/korean-skills"
+  }
+]
