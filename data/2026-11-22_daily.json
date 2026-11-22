@@ -1,0 +1,162 @@
+[
+  {
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "language": "Python",
+    "total_stars": 16188,
+    "delta_stars": 1803,
+    "delta_text": "1,803 stars today",
+    "forks": 1841,
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "language": "Shell",
+    "total_stars": 323790,
+    "delta_stars": 883,
+    "delta_text": "883 stars today",
+    "forks": 28720,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "total_stars": 62125,
+    "delta_stars": 769,
+    "delta_text": "769 stars today",
+    "forks": 5634,
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+    "language": "Python",
+    "total_stars": 68195,
+    "delta_stars": 488,
+    "delta_text": "488 stars today",
+    "forks": 8917,
+    "url": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "total_stars": 18130,
+    "delta_stars": 260,
+    "delta_text": "260 stars today",
+    "forks": 1980,
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "name": "firecrawl/firecrawl",
+    "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "language": "TypeScript",
+    "total_stars": 206280,
+    "delta_stars": 1006,
+    "delta_text": "1,006 stars today",
+    "forks": 10784,
+    "url": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "name": "nginx/nginx",
+    "description": "The official NGINX Open Source repository.",
+    "language": "C",
+    "total_stars": 32745,
+    "delta_stars": 189,
+    "delta_text": "189 stars today",
+    "forks": 8374,
+    "url": "https://github.com/nginx/nginx"
+  },
+  {
+    "name": "openvinotoolkit/openvino",
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "language": "C++",
+    "total_stars": 11948,
+    "delta_stars": 200,
+    "delta_text": "200 stars today",
+    "forks": 3652,
+    "url": "https://github.com/openvinotoolkit/openvino"
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "total_stars": 69836,
+    "delta_stars": 583,
+    "delta_text": "583 stars today",
+    "forks": 4686,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "total_stars": 72053,
+    "delta_stars": 560,
+    "delta_text": "560 stars today",
+    "forks": 6379,
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "total_stars": 11481,
+    "delta_stars": 326,
+    "delta_text": "326 stars today",
+    "forks": 1443,
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "name": "mjmirza/app-store-compliance",
+    "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+    "language": "Shell",
+    "total_stars": 3453,
+    "delta_stars": 720,
+    "delta_text": "720 stars today",
+    "forks": 214,
+    "url": "https://github.com/mjmirza/app-store-compliance"
+  },
+  {
+    "name": "Tracer-Cloud/opensre",
+    "description": "The open-source agent for CI/CD reliability.",
+    "language": "Python",
+    "total_stars": 14017,
+    "delta_stars": 450,
+    "delta_text": "450 stars today",
+    "forks": 1943,
+    "url": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "name": "toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "language": "TypeScript",
+    "total_stars": 76342,
+    "delta_stars": 574,
+    "delta_text": "574 stars today",
+    "forks": 5596,
+    "url": "https://github.com/toeverything/AFFiNE"
+  },
+  {
+    "name": "XiaoYouChR/Ghost-Downloader-3",
+    "description": "The only downloader you need. 下载器的集大成者。",
+    "language": "Python",
+    "total_stars": 14507,
+    "delta_stars": 779,
+    "delta_text": "779 stars today",
+    "forks": 876,
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+  },
+  {
+    "name": "zhouxiaoka/autoclip",
+    "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
+    "language": "Python",
+    "total_stars": 12912,
+    "delta_stars": 683,
+    "delta_text": "683 stars today",
+    "forks": 2077,
+    "url": "https://github.com/zhouxiaoka/autoclip"
+  }
+]
