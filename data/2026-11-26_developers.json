@@ -1,0 +1,177 @@
+[
+  {
+    "username": "1337isnot1337",
+    "display_name": "Cinna Davis",
+    "popular_repo": "DOPPLERGEIST",
+    "url": "https://github.com/1337isnot1337",
+    "repo_url": "https://github.com/1337isnot1337/DOPPLERGEIST"
+  },
+  {
+    "username": "lalalune",
+    "display_name": "Shaw",
+    "popular_repo": "vibestack",
+    "url": "https://github.com/lalalune",
+    "repo_url": "https://github.com/lalalune/vibestack"
+  },
+  {
+    "username": "ahmadrosid",
+    "display_name": "ahmadrosid",
+    "popular_repo": "nakama",
+    "url": "https://github.com/ahmadrosid",
+    "repo_url": "https://github.com/ahmadrosid/nakama"
+  },
+  {
+    "username": "mattsse",
+    "display_name": "Matthias Seitz",
+    "popular_repo": "chromiumoxide",
+    "url": "https://github.com/mattsse",
+    "repo_url": "https://github.com/mattsse/chromiumoxide"
+  },
+  {
+    "username": "yairm210",
+    "display_name": "Yair Morgenstern",
+    "popular_repo": "Unciv",
+    "url": "https://github.com/yairm210",
+    "repo_url": "https://github.com/yairm210/Unciv"
+  },
+  {
+    "username": "tt-a1i",
+    "display_name": "tt-a1i",
+    "popular_repo": "archify",
+    "url": "https://github.com/tt-a1i",
+    "repo_url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "username": "wey-gu",
+    "display_name": "Wey Gu",
+    "popular_repo": "ducter",
+    "url": "https://github.com/wey-gu",
+    "repo_url": "https://github.com/wey-gu/ducter"
+  },
+  {
+    "username": "Wei-Shaw",
+    "display_name": "Wesley Liddick",
+    "popular_repo": "sub2api",
+    "url": "https://github.com/Wei-Shaw",
+    "repo_url": "https://github.com/Wei-Shaw/sub2api"
+  },
+  {
+    "username": "magnus919",
+    "display_name": "Magnus Hedemark",
+    "popular_repo": "agent-skills",
+    "url": "https://github.com/magnus919",
+    "repo_url": "https://github.com/magnus919/agent-skills"
+  },
+  {
+    "username": "mvanhorn",
+    "display_name": "Matt Van Horn",
+    "popular_repo": "last30days-skill",
+    "url": "https://github.com/mvanhorn",
+    "repo_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "username": "pbakaus",
+    "display_name": "Paul Bakaus",
+    "popular_repo": "impeccable",
+    "url": "https://github.com/pbakaus",
+    "repo_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "username": "ccch1mneyyy",
+    "display_name": "Chimney",
+    "popular_repo": "dsh-Go",
+    "url": "https://github.com/ccch1mneyyy",
+    "repo_url": "https://github.com/ccch1mneyyy/dsh-Go"
+  },
+  {
+    "username": "mogery",
+    "display_name": "Gergő Móricz",
+    "popular_repo": "",
+    "url": "https://github.com/mogery",
+    "repo_url": ""
+  },
+  {
+    "username": "hnyls2002",
+    "display_name": "Liangsheng Yin",
+    "popular_repo": "",
+    "url": "https://github.com/hnyls2002",
+    "repo_url": ""
+  },
+  {
+    "username": "alirezarezvani",
+    "display_name": "Alireza Rezvani",
+    "popular_repo": "claude-skills",
+    "url": "https://github.com/alirezarezvani",
+    "repo_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "username": "bdraco",
+    "display_name": "J. Nick Koston",
+    "popular_repo": "discovery30303",
+    "url": "https://github.com/bdraco",
+    "repo_url": "https://github.com/bdraco/discovery30303"
+  },
+  {
+    "username": "777genius",
+    "display_name": "Илия",
+    "popular_repo": "agent-teams-ai",
+    "url": "https://github.com/777genius",
+    "repo_url": "https://github.com/777genius/agent-teams-ai"
+  },
+  {
+    "username": "leonardomso",
+    "display_name": "Leonardo Maldonado",
+    "popular_repo": "rust-skills",
+    "url": "https://github.com/leonardomso",
+    "repo_url": "https://github.com/leonardomso/rust-skills"
+  },
+  {
+    "username": "he-yufeng",
+    "display_name": "Yufeng He",
+    "popular_repo": "CoreCoder",
+    "url": "https://github.com/he-yufeng",
+    "repo_url": "https://github.com/he-yufeng/CoreCoder"
+  },
+  {
+    "username": "code-yeongyu",
+    "display_name": "YeonGyu-Kim",
+    "popular_repo": "oh-my-openagent",
+    "url": "https://github.com/code-yeongyu",
+    "repo_url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "username": "JonnyBurger",
+    "display_name": "Jonny Burger",
+    "popular_repo": "",
+    "url": "https://github.com/JonnyBurger",
+    "repo_url": ""
+  },
+  {
+    "username": "DeusData",
+    "display_name": "Martin Vogel",
+    "popular_repo": "codebase-memory-mcp",
+    "url": "https://github.com/DeusData",
+    "repo_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "username": "justrach",
+    "display_name": "Rach",
+    "popular_repo": "nanoui",
+    "url": "https://github.com/justrach",
+    "repo_url": "https://github.com/justrach/nanoui"
+  },
+  {
+    "username": "punkpeye",
+    "display_name": "Frank Fiegel",
+    "popular_repo": "awesome-mcp-servers",
+    "url": "https://github.com/punkpeye",
+    "repo_url": "https://github.com/punkpeye/awesome-mcp-servers"
+  },
+  {
+    "username": "RockChinQ",
+    "display_name": "🍪",
+    "popular_repo": "free-one-api",
+    "url": "https://github.com/RockChinQ",
+    "repo_url": "https://github.com/RockChinQ/free-one-api"
+  }
+]
